@@ -1,1 +1,0 @@
-“Sabbe dhammā anattā—All phenomena are not-self,”

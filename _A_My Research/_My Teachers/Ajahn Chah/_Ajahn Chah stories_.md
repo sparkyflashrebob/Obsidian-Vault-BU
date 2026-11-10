@@ -160,8 +160,69 @@ Ajahn Chah was renowned for his direct, humorous, earthy, and uncompromising ped
 > *"What did you come to see? Did you come to see a charismatic personality entertain your ego with witty words? Luang Por is giving you the highest, most uncompromising Dhamma talk of your life right now! Look at the body: aging, sickness, and decay (*Jara, Byadhi, Marana*). Look at impermanence (*Anicca*) and not-self (*Anattā*). The body is just four elements breaking down in nature. If you cannot learn from his silent presence in that wheelchair, ten thousand words will never teach you."*
 
 ---
+### 22. The Bell and the Drinking Glass (*Paññatti & The Relativity of Big and Small*)
+> During an evening discourse at the Insight Meditation Society in June 1979, Ajahn Chah pointed to a small brass bell sitting on the low table before him:
+> 
+> *"Is this bell big or small?"* he asked the assembly.
+> 
+> Nobody answered; without a frame of reference, it was impossible to define. Ajahn Chah then picked up a small water glass and placed it directly beside the bell.
+> *"Now is it big or small?"*
+> *"Big!"* replied the meditators.
+> 
+> Ajahn Chah smiled, took his large monk's alms bowl, and set it down next to the bell:
+> *"Now what is it?"*
+> *"Small!"* they answered.
+> 
+> Ajahn Chah set the bowl aside and tapped the bell:
+> *"Did the bell change? Did it swell up when I put the glass down, or shrink when I brought the alms bowl? The bell was just the bell. It is neither big nor small. It is our mind that creates 'big' and 'small' out of desire, comparison, and mental proliferation (*papañca*). When you see that things are just as they are (*sabhāva-dhamma*), the heart stops quarreling with reality."*
+
+### 23. Disturbing the Car (*Let Cars Be Cars, Let Planes Be Planes*)
+> At the IMS retreat center in rural Massachusetts, several students complained to Ajahn Chah that passing cars on the road outside and airplanes flying overhead were ruining their concentration and destroying their peace:
+> 
+> *"You say the car is disturbing you,"* Ajahn Chah laughed. *"Does the car know you are sitting here meditating? The car doesn't care about you at all! The automobile is just traveling down the road according to its mechanical conditions. An airplane is just flying through the sky.*
+> 
+> *It is not the car that is disturbing you—**you are the one who went out to disturb the car!** You threw your ear out the window, grabbed the sound, hauled it into your mind, and got furious with it. If you leave the sound alone, sound does its work and you do yours. Let cars be cars, let planes be planes, and let ourselves be ourselves."*
+
+### 24. Bailing the Water Drum (*The Steady Ladle of Purification*)
+> Ajahn Chah compared the work of mental purification to emptying a massive hundred-gallon oil drum filled with murky water:
+> 
+> *"Every morning when you sit and cultivate mindfulness, you take a small ladle, scoop out a cup of dirty water, and dump it on the ground. That is good. But if you get up from meditation, indulge in heedless speech, get angry, and chase sensual desires, you take a five-gallon bucket and dump it right back in!*
+> 
+> *If you bail out one cup today and pour two cups back in tomorrow, when will the drum ever be empty? Practice requires constant heedfulness (*appamāda*). We must not only bail out the unwholesome; we must stop pouring the dirty water of craving back into the heart."*
+
+### 25. The 3:30 AM Wake-Up Bell (*Working with Sloth & Torpor*)
+> *"When the morning bell rings at half past three, the body is warm and cozy under the blankets. The bell goes BANG! and the mind immediately whispers, 'Oh, I am so exhausted... just ten more minutes.' And you roll over and pull the blanket over your ears.*
+> 
+> *Right there is where the battle of practice takes place! If you wait until you feel eager, energized, and inspired to practice, you will only practice three days a year. Meditators must learn to move against the stream. When the bell sounds, get up immediately—no debate, no negotiation. Cut the cord of habit right at the root."*
+
+### 26. Walking vs. Speeding in a Car (*Khanti & The Patient Path*)
+> *"In the West, everyone wants results fast. If you want to go to town, you jump in an automobile and speed down the highway at sixty miles an hour. You want microwave enlightenment!*
+> 
+> *The Dhamma cannot be traveled by motorcar. The path of liberation is a footpath through the jungle. You must walk on your own two feet, step by step, enduring heat, rain, cold, and blisters. Patient endurance (*khanti*) is the supreme incinerator of defilements. If you have patience, you can walk across the entire continent."*
+
+---
+### 27. The Death of Doubt (*What It Truly Means to "Die Before Dying"*)
+> A student at IMS asked Ajahn Chah: *"From what you've said, it's best to die now and get it over with. How would you go about that?"*
+> 
+> Ajahn Chah smiled and replied:
+> *"When your questions and doubts (*vicikicchā*) are really gone, that is what I mean by dying. No more problems, no more difficulties when those have truly come to an end.
+> 
+> Most people look way past what is actually essential. We look thousands of miles outside ourselves. But when you look inward to see what your true nature is, you see that our true self is no-self (*anattā*). There is no permanent person or owner inside—just this empty, natural process of elements and feelings changing, arising, and passing away. When you see clearly that there isn't anything there to hold onto, that is what is called really dying. You don't have to wait until your body stops breathing; you can die right now!"*
+
+### 28. Training the Stubborn Horse (*Damma & Withholding the Sweet Grass*)
+> When students asked how to overcome chronic sluggishness, laziness, and dependency on external teachers, Ajahn Chah shared the ancient horse trainer's secret:
+> 
+> *"If you have an exceptionally wild, stubborn horse, you don't feed it sweet hay. If you pamper a stubborn horse, it will throw you into the brambles. You withhold the grass until it softens and learns to yield to the reins. When it straightens up, then you feed it.
+> 
+> Treat your own mind the exact same way. When the mind becomes lazy, rebellious, and stubborn, don't pamper it with excuses or indulge comfort-seeking. Withhold the 'grass' of distraction and sleep. You have to be willing to press yourself with firm, steady discipline (*damma*). Real spiritual power (*bala*) must come from within yourself—you cannot survive on borrowed energy."*
+
+---
 
 ## 📚 3. Vault & Book Cross-References
+
+* 🏛️ **Master Retrospective**: `[[Report - Ajahn Chah - Historic Teachings at Insight Meditation Society (June 16, 1979)|Master Dharma Talk Report: Historic IMS June 1979 Teachings ↗]]`
+* 📜 **The Collected Teachings Archive**: Complete 56-chapter Dharma Talk Reports available in `[[_Antigravity Spiritual Reports]]` covering all three parts (Ch 1 to Ch 58).
+
 
 
 The complete primary texts and discourses of Ajahn Chah in this vault can be found in the following local files:
@@ -175,4 +236,5 @@ The complete primary texts and discourses of Ajahn Chah in this vault can be fou
 * 📖 **Ajahn Sumedho's Recollections**: `[[_Ajahn Sumedho stories_.md]]`
 * 📖 **Training this Mind**: `[[Ajahn Chah - Training this Mind.md]]`
 * 📖 **The Gift of Dhamma**: `[[The Gift of Dhamma.md]]`
-
+* 📜 **Evening Dharma Talk (IMS 1979)**: `[[Report - Ajahn Chah - Evening Dharma Talk (Insight Meditation Society 1979-06-16)|Dharma Talk Report: IMS Evening Session (1979-06-16) ↗]]`
+* 📜 **Discussion & Q&A Session (IMS 1979)**: `[[Report - Ajahn Chah - Discussion and QA (Insight Meditation Society 1979-06-16)|Dharma Talk Report: IMS Discussion & Q&A (1979-06-16) ↗]]`

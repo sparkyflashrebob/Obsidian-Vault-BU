@@ -1,2 +1,0 @@
-
-conventional reality

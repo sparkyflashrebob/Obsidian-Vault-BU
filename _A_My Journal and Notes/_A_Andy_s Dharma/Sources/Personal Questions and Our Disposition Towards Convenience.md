@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_Andy_s Dharma"
+category: "research"
+---
+
+Speaker 1: 00:00
+
+So I was just in a Kinko's copy FedEx place, and woman looked like maybe your grandmother and a daughter were trying to print. And the lady was going about fairly loud and, you know, being a little bit demanding, nothing big, but so, so she's over at the printer and then she's not following the prompts. And so I offered to help her, said, hey, you know, you pay, just put your card, show the chip on the thing so it could scan it or insert it and blah, blah, blah. She couldn't get there because she hadn't answered the question before what she wanted to do, which basically, do you want to make copies or print or whatever wanted to do. And then, you know, I encouraged her that she could do it. And then her daughter, her granddaughter stepped in, whoever she was. And so she started clicking the prompts and dealing with it. So we're great. But at one point, she was, the lady was saying, oh, it's asking me too many personal questions. So I got to thinking, you know, what's personal? You know, she wasn't asking for her firstborn or it didn't really ask, doesn't ask any personal questions, just what you, you know, what do you want to do? And so I was just, I was thinking about, you know, our disposition towards things. We don't account for for that per se. We, the way we approach life is it is to be for our convenience. And when we define what that convenience is based on, our conditions or habit, have you been habitualized or have. Yeah. Conditioned into dealing with things. And so that's a really important thing because a lot of it has to do with, I mean, not a lot like most of it has to do with the way you're, how you are approaching and seeing and viewing the world. And that should be kept at the forefront of all of your experience because then you could start to gauge and evaluate and contemplate and look at that and use that as, and you can make things easier for yourself. This is a continual letting go process. I believe that's required for us to live at peace and to be in harmony with the world.

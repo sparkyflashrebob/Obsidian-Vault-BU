@@ -1,4 +1,0 @@
-MMTCP
-- [[trauma]]
-- [[identities]] ([[DEIA]])
-

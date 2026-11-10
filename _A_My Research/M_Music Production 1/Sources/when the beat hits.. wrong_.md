@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "M_Music Production 1"
+category: "research"
+---
+
+do the unexpected moving your things to the wrong beat can be really nice it's called syncopation and it's about marking unusual spots in the beat un syncopated so move it but what counts as an unusual beit it's anything that stand out from the pulse of the track regular make them come late or early Melody we can give it some bounce synop pading can also be to delay an entire phrase as you feel that it's outside the regular pulse but moving isn't always necessary you can just emphasize The Groovy ones now check out the everything follows the pulse but now and new feel another cool trick to try out can be to move this entire pattern one 16th note left H you will discover new cool rhythms or get ideas now let's talk about techone even though techno producers are really into their four on the floor Kick Drum they use a lot of small syncopation elements look at this pluck you wouldn't put it like this doesn't add anything move it add some drums so regardless of genre you'll have good things coming from dropping in stuff outside of what feels regular our times own The Beatles the blacke piece have a song with a fantastic example of syncopation rocking to The beit if it didn't have it it would sound something like this instead they put the start of every bar one 16th note early listen it pulls us forward and I if little trick to find some cool rhythm placements can be to use delays grab a sample and add a triplet or a do a delay they won't been sync but it will sound cool cool cool cool thank you for watching join the channel for exclusive perks if you want and have a nice day

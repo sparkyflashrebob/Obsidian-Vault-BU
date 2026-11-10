@@ -209,8 +209,13 @@ tags:
 - **[01:44:59 PM] Culinary & Relational Stories**: Reflecting on independent spice sourcing (Diaspora spices) and appreciating the unpretentious wisdom of younger generations who bypass traditional rat races.
 
 ### Evening Session
-- **[04:00:00 PM] IMC Opening & Meghia Discourse**: Opening the Hidden Villa retreat with traditional precepts and a Dhamma reflection on Meghia and the Buddha, exploring how we often project conditions for peace onto external settings.
-- **[04:06:11 PM] Undertaking Retreat Precepts**: Formal recitation of the training precepts for the retreat, establishing noble silence and physical ease for the container of practice.
+- **[04:00:00 PM – 05:30:00 PM] IMC Retreat Opening & 4:00 PM Dharma Talk by Diana Clark: The Story of Meghiya**:
+  - **Speaker**: Teacher **Diana Clark** delivered the opening retreat discourse to the gathered practitioners in the Dhamma Hall.
+  - **The *Meghiya Sutta* (Ud 4.1 / AN 9.3)**: Diana explored the story of Meghiya, the Buddha's attendant prior to Ānanda, who insisted on meditating alone in an idyllic mango grove against the Buddha's advice, only to be overwhelmed by unwholesome thoughts of craving, ill will, and cruelty.
+  - **The Five Conditions for Ripening Liberation**: The Buddha taught Meghiya that an unripened mind requires: (1) Spiritual friendship (*kalyāṇa-mittatā*), (2) Ethical restraint (*sīla*), (3) Elevating Dhamma talk on contentment and peace, (4) Diligent energy (*vīriya*), and (5) Direct wisdom (*paññā*).
+  - **The Four Antidotes**: *Asubha* for lust, *Mettā* for ill will, *Ānāpānasati* for mental agitation, and *Anicca-saññā* (impermanence) to uproot conceit.
+  - **The Perceptual Shift**: Moving from grasping, effortful "looking" to effortless, spacious "seeing."
+  - **Undertaking Precepts & Noble Silence**: Formal recitation of the retreat training precepts, establishing Noble Silence (*ariya-tuṇhībhāva*) across the community (detailed in [[2026-10 IMC Hidden Villa Retreat - Dharma Talks & Morning Instructions|IMC Hidden Villa Retreat Master Report]]).
 
 ---
 
@@ -224,24 +229,20 @@ tags:
 
 ---
 
-## 📖 Detailed Subject Matter
+## 📋 Detailed Subject Matter
 
-### Morning Session: Review, Systemic Critique, and Preparation
-The day begins early with a focused review of technical reports and automated archival summaries. As Andy examines the previous day's synthesis, we notice a discerning eye at work: automated summaries that attempt to manufacture spiritual insights can occasionally feel contrived or misaligned with actual lived experience. Rather than brushing past this friction, Andy explores it directly—questioning why certain metadata anomalies appear and asserting the value of authentic, unadorned human reflection over robotic platitudes. 
+### 🌅 Morning Session (7:00 AM - 12:00 PM)
+- **04:24 AM - 11:30 AM | Archival Integrity, Departure Prep & Lived Experience**: Andy spent the morning at home reviewing overnight system diagnostics and automated outputs. Reaffirmed the core archival standard: genuine spiritual and societal reflections must emerge from authentic human moments (family milestones, sincere interactions, direct meditation insights) rather than moralizing sermons manufactured from routine technical friction. Packed sitting gear (zafu, bench, blankets), cold-weather layers, and recording hardware to benchmark field capture across the retreat container.
 
-Amidst the morning prep, thoughts turn toward the upcoming transition to Hidden Villa. There is a gentle acknowledgment of the domestic logistics required to step away from home and enter a container of noble silence.
+### ☀️ Afternoon Session (12:01 PM - 5:00 PM)
+- **12:30 PM - 04:00 PM | Travel to Hidden Villa, Blodgett House Check-In & Opening Circle**: Departed Marin at 12:30 PM and drove south across the Peninsula toward Los Altos Hills, reflecting on simpler, principled ways of living and admiring independent artisans choosing craft over corporate rat races. Arrived at Hidden Villa around 2:00 PM, checked into Blodgett House, selected a sitting spot along the right side of the Dhamma Hall, and joined fellow retreatants and the teaching team (Diana Clark, Kim Allen, David Lorey, Ying Chen) for the opening orientation circle.
+- **04:00 PM - 05:30 PM | Opening Retreat Discourse by Diana Clark: The Meghiya Sutta (Ud 4.1) & Precepts**: Attended the opening Dharma talk by Diana Clark exploring the story of Venerable Meghiya, who prematurely sought isolated practice in a mango grove and was assaulted by sensual lust, ill will, and cruelty. Explored the Buddha's five conditions for an unripened mind (spiritual friendship, ethical discipline, inspiring conversation, energy, and wisdom) and four meditative antidotes (asubha for lust, mettā for ill will, ānāpānasati for wandering thoughts, and anicca-saññā for conceit). Undertook the training precepts and formally entered Noble Silence (see [[2026-10 IMC Hidden Villa Retreat - Dharma Talks & Morning Instructions|Retreat Master Notes]]).
 
-### Afternoon Session: Journey to Hidden Villa and Culinary Reflections
-By early afternoon, the departure for Hidden Villa takes center stage. Leaving home at 12:30 PM, the journey serves as a physical and mental bridge from daily responsibilities into the retreat space. Arriving around 2:00 PM, the container of the IMC retreat begins to take shape. 
-
-En route and during settling in, conversations and reflections touch upon simpler ways of living—appreciating independent creators who bypass traditional corporate structures (such as Diaspora single-origin spices) and marveling at the unpretentious wisdom of younger generations who choose authenticity over the standard rat race.
-
-### Evening Session: The Opening of Retreat and the Tale of Meghia
-As evening settles over Hidden Villa, the retreat formally opens. Andy takes part in establishing the container of practice, leading into traditional precepts and a contemplative Dhamma reflection centered on Meghia, the Buddha’s attendant. 
-
-The story of Meghia—who yearned to leave his duties to meditate in an idyllic mango grove, only to be gently cautioned by the Buddha—serves as a profound mirror for our own practice. We often chase external conditions, believing that the right environment, scenery, or quiet will finally deliver peace. The teaching invites us to investigate this tendency: recognizing that true stability arises not from arranging external conditions perfectly, but from meeting whatever is present right here, without second-arrow reactivity.
+### 🌙 Evening Session (5:01 PM - 11:00 PM)
+- **05:30 PM - 09:30 PM | Evening Noble Silence, Seated Practice & Rest**: Transitioned fully into Noble Silence at Hidden Villa; engaged in seated meditation and somatic settling in the Dhamma Hall before retiring to Blodgett House for early sleep.
 
 ---
+
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 

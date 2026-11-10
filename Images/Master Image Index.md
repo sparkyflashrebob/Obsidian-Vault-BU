@@ -44,7 +44,7 @@ The table below details the 15 specific notes that embed or reference these 133 
 | **5** | [[_A_Finances - Investments - SSI/_Fidelity/Following the Fundamentals/Following The Fundamentals 260630.md\|Following The Fundamentals 260630]] | **3** | `Pasted image 20260630091718.png`, `Pasted image 20260630092433.png`, `Pasted image 20260630092511.png` |
 | **6** | [[Blog -- Talking to Yourself - Transforming Our Internal Commentary.md\|Blog -- Talking to Yourself - Transforming Our Internal Commentary]] | **1** | `Pasted image 20260812130732.png` |
 | **7** | [[if in the seen there's only the seen how do you get away from judgment.md\|if in the seen there's only the seen how do you get away from judgment]] | **1** | `Pasted image 20260826163746.png` |
-| **8** | [[Untitled 2.md\|Untitled 2]] | **1** | `Pasted image 20260823130115.png` |
+| **8** | [[Phone text 1\|Untitled 2]] | **1** | `Pasted image 20260823130115.png` |
 | **9** | [[Native American Perspectives/Noel Knockwood - Native Explorations info.md\|Noel Knockwood - Native Explorations info]] | **1** | `Pasted image 20260823094439.png` |
 | **10** | [[_A_Head & Heart Together/_Blog Posts/In the Seen Only the Seen - How to make the World less complicated.md\|In the Seen Only the Seen - How to make the World less complicated]] | **1** | `Pasted image 20260901115328.png` |
 | **11** | [[_A_Head & Heart Together/_Blog Posts/p_Easing Our Inner Torment Without Gaslighting Ourselves - A Practical, Human Guide v2.md\|p_Easing Our Inner Torment Without Gaslighting Ourselves - A Practical, Human Guide v2]] | **1** | `Pasted image 20261006122841.png` |
@@ -225,7 +225,7 @@ The table below details the 15 specific notes that embed or reference these 133 
 | :--- | :--- | :---: | :--- |
 | 1 | [[Pasted image 20260826163746.png]] | L107 | `![[Pasted image 20260826163746.png]]` |
 
-### 8. [[Untitled 2.md|Untitled 2]] (1 Images)
+### 8. [[Phone text 1|Untitled 2]] (1 Images)
 *Path:* `Untitled 2.md`
 
 | # | Image File | Line in Note | Embed Syntax / Context |
@@ -380,7 +380,7 @@ All 133 images listed alphabetically with file sizes and primary note references
 | 89 | [[Pasted image 20260815115649.png]] | 1359.9 KB | [[Living Transmission of Love from the Other Side.md\|Living Transmission of Love from the Other Side]] (L46) |
 | 90 | [[Pasted image 20260815115700.png]] | 1304.5 KB | [[Living Transmission of Love from the Other Side.md\|Living Transmission of Love from the Other Side]] (L47) |
 | 91 | [[Pasted image 20260823094439.png]] | 1651.3 KB | [[Native American Perspectives/Noel Knockwood - Native Explorations info.md\|Noel Knockwood - Native Explorations info]] (L183) |
-| 92 | [[Pasted image 20260823130115.png]] | 91.7 KB | [[Untitled 2.md\|Untitled 2]] (L1) |
+| 92 | [[Pasted image 20260823130115.png]] | 91.7 KB | [[Phone text 1\|Untitled 2]] (L1) |
 | 93 | [[Pasted image 20260826163746.png]] | 43.9 KB | [[if in the seen there's only the seen how do you get away from judgment.md\|if in the seen there's only the seen how do you get away from judgment]] (L107) |
 | 94 | [[Pasted image 20260901115328.png]] | 615.9 KB | [[_A_Head & Heart Together/_Blog Posts/In the Seen Only the Seen - How to make the World less complicated.md\|In the Seen Only the Seen - How to make the World less complicated]] (L7) |
 | 95 | [[Pasted image 20260910093029.png]] | 934.5 KB | [[_A_My Research/health/Kaiser HEALTH EDUCATION - WEIGHT LOSS MEDS ONLINE.md\|Kaiser HEALTH EDUCATION - WEIGHT LOSS MEDS ONLINE]] (L1) |

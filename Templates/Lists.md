@@ -1,6 +1,0 @@
-```dataview
-List
-Sort name
-```
-
-

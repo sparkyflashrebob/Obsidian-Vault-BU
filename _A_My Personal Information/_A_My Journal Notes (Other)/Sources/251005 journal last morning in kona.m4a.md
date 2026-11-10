@@ -1,0 +1,12 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Journal Notes (Other)"
+category: "personal"
+---
+
+Okay, last uh journal for the trip uh before we leave to back home. Andrea uh hurt her toe in the middle of the night. So, that's going to be the feature for getting on the plane and getting home. Um let's see. Where were we? Um Um the metal head dude at breakfast yesterday. We're going over there again today. Um so yesterday uh we went for a walk uh and went and had a um uh I was getting thirsty and tired of course. We went I saw a wellness sign went into the store and uh apparently the store was open but not really open. They were still setting up. And um so I was I was harassing them about not having all the stuff on the shelves that I wanted to see or look at, especially the bling for Andrea. And um but it was very good conversation with them. And um they uh uh we got a we got a couple of drinks there and uh That was that uh Oh, and they gave us some free cookies, too. Uh they were really good, by the way. So, that was really neat. So, when we were sitting down on the bench drinking our drink, and then um uh eating our cookies, uh we sat in the bench under this big beautiful tree and um there was a bench. It was in front of a business and the uh the owner came out and talked to us, asked where we were from and picked up my garbage. I told him, "Hey, I was going to throw that away." Um, but anyway, he was very friendly and uh so he was talking about uh mainly uh you know, how long he had been on the island and um the small you know and that uh they're there they don't do dinners. They only do um uh brunches and his wife I've studied under some famous chef and makes the the mo most famousest of chef is what he said.
+
+James Beard
+
+James Beard and um uh that they make the a killer uh um uh eggs benedict. So, we had talked about coming out to go see him, but now uh with Andrew having foot issues, we're not going to walk as much as possible. Oh, hold on. There's some contesting on on whether that's true or not. So, uh um but otherwise, we're um those are the interactions from yesterday other than having a great time at the pool with Danny, which I think I already talked about. So, um yeah. That's my last journal before we fly out.

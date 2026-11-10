@@ -10,7 +10,7 @@ Finding [[harmony]]
 Walking A Fine Line 
 Trauma Sensitive 
 [[Mirror]] 
-[[Words Hurt]] 
+[[_Misc Unsorted/Words Hurt]] 
 [[Misc Subjects/When You only have this moment]] 
 [[_My Research/Dharma Subjects and Themes/Subjects & Themes/Warrior Knowledge|Warrior Knowledge]] 
 [[_My Research/Dharma Subjects and Themes/Subjects & Themes/Two Truths Doctrine|Two Truths Doctrine]] 

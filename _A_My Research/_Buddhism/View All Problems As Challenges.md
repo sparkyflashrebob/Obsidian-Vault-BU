@@ -1,9 +1,0 @@
----
-Created: 2023-06-16
----
-         
-
-View all problems as challenges. Look upon negativities that arise as opportunities to learn and to grow. Don't run from them, condemn yourself, or bury your burden in saintly silence. You have a problem? Great. More grist for the mill. Rejoice, dive in, and investigate.  
-  
--Bhante Henepola Gunaratana, "Mindfulness in Plain English"
-

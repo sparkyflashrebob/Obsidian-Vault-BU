@@ -1,0 +1,114 @@
+---
+tags:
+  - notebooklm-import
+notebook: "P_Fear"
+category: "research"
+---
+
+All Issues
+
+* Courses
+* Store
+* Our Mission
+* Donate
+  Sign InSubscribe
+
+### Fear and Fearlessness: What the Buddhists Teach
+
+So much of our suffering—as individuals and as a society—is caused by fear. In fact, according to Buddhism, fear is at the very root of ego and samsara.
+Judy Lief25 May 2017
+
+* Share on Facebook
+* Share on X
+* Email this Page
+
+#### Starting on the Path of Fear and Fearlessness
+
+###### By Judith Lief
+
+It helps to explore how we can work with fear from the point of view of the path, the student’s journey. How do we walk the path of fear? Fear is not a trivial matter. In many ways, it restricts our lives; it imprisons us. Fear is also a tool of oppression. Because of fear, we do many harmful things, individually and collectively, and people who are hungry for power over others know that and exploit it. We can be made to do things out of fear.
+Fear is a very tricky thing. Sometimes we put up a pretense of virtue, but really we’re afraid of being bad. Are our good deeds true virtue or just fear? Fear also stops us from speaking up when we know we should. Fear is often what causes people to leave the path of dharma. When things start to go deep, beyond self-improvement, they encounter fear and say, “This path is not for me.”
+The essential cause of our suffering and anxiety is ignorance of the nature of reality, and craving and clinging to something illusory. That is referred to as ego, and the gasoline in the vehicle of ego is fear. Ego thrives on fear, so unless we figure out the problem of fear, we will never understand or embody any sense of egolessness or selflessness.
+
+###### Fear has two extremes. At one extreme, we freeze. We are petrified, literally, like a rock. At the other extreme, we panic. How do we find the path through those extremes?
+
+We have our conscious day-to-day fears—of a close call, an accident, a bad health diagnosis. But then there is an undercurrent of fear, which is very relevant to practitioners. This undercurrent of fear lurks behind a lot of our habits. It is why it is so hard to just sit still or stand still or stand in line—not doing anything in particular—without feeling nervous and fidgety. We have a fear of being still.
+Why do we spin out so many thoughts all the time? We sit and try to quiet the mind but it just rumbles on and on, churning out masses of thought, small and large and pink and yellow and bland and slimy. Why? It’s because of this undercurrent of fear. It’s as though we have to keep things moving. We have to keep ourselves distracted at some fundamental level. We have to keep our momentum going, because it’s pretty scary to think of it stopping. Once we have separation and duality, we have to maintain the momentum. The problem with ego and duality is that at some level we know it’s a sham, but we have to keep at it. So part of the undercurrent of fear is the fear of being found out, of being exposed as a big fat phony who is creating a solid illusion out of thin air.
+Fear has two extremes. At one extreme, we freeze. We are petrified, literally, like a rock. At the other extreme, we panic. We run around like maniacs and our mind goes into hyperdrive. Freeze or panic. Freeze or panic. How do we find the path through those extremes?
+There are many stages in the practitioner’s journey of working with fear, but it is very important to know where it begins, so we can get off on the right foot. The starting point is called the narrow path, where you look straightforwardly at your own experience. You examine fear and dissect it into its components. Where does it arise? What is the sensation when you feel afraid? What kind of thoughts race through your mind when you are in a state of fear? What’s your particular pattern? Do you panic? Do you freeze? Do you get really busy and try to fix everything? Do you get angry? At this stage in the path, you try to understand your experience, try to break it down.
+To do this, it helps to see things as they arise—before they become full-blown and you are caught in their sway, at which point you can’t do much about them. In meditation practice you slow things down, and that allows you to see the subtle arisings. By slowing things down, you can interrupt the tossing of the match into the pile of leaves. You can say, “I don’t need to go there. I see what’s coming.” You catch things when they’re manageable. Understanding, examining, knowing, slowing down—those are the first steps in working with fear, the beginning of the path to fearlessness.
+
+#### The Cave of the Blue Dragon
+
+###### By John Daido Loori, Roshi
+
+There’s a koan I’m particularly fond of called “The National Teacher’s Stone Lion.” The national teacher and the emperor of China were entering the palace grounds when the national teacher pointed to a stone lion and said, “Your majesty, would you please say a word of Zen, something profound, about this lion?” And the emperor said, “I can’t say anything. Would you please say something?” And the national teacher said, “It’s my fault.”
+What the national teacher was doing was taking responsibility for what Zorba the Greek called “the full catastrophe.” Our tendency, by contrast, is to make ourselves the victim, which means there is nothing we can do. I think, “He made me angry. It’s his fault. There is nothing I can do.” But when I realize that only I can make myself angry, then I’ve empowered myself to do something about my anger. The same goes for fear.
+The koan’s prologue says:
+Confined in a cage up against the wall, pressed against the barriers, if you linger in thought holding back your potential, you will remain mired in fear and frozen in inaction. If, on the other hand, you advance fearlessly and without hesitation, you manifest your power as a competent adept of the way, passing through entanglements and barriers without hindrance to time and season. A great peace is attained. How do you advance fearlessly and without hesitation?
+Fear arises the moment you ask yourself, what is this all about? Inevitably, it has nothing to do with right now. It has to do with the future, but the future doesn’t exist. It hasn’t happened yet. The past doesn’t exist. It has already happened. The only thing you’ve got is what’s right here, right now. And coming home to the moment makes all the difference in the world in how you deal with fear.
+There are all kinds of fearlessness. Chögyam Trungpa Rinpoche used to talk about “idiot compassion.” Well, there’s idiot fearlessness too, which is just being dull-witted. If you remain calm when everyone else panics, perhaps you don’t understand the problem. When we talk about “advancing fearlessly,” it’s not that.
+There’s also the fearlessness that comes out of anger, out of converting your fear into anger in the face of danger, but that’s not a lasting solution. There’s the fearlessness of young people, the kind of people the military likes to send off to war. When you’re seventeen or eighteen, you can feel invulnerable, but false invulnerability is not a wise form of fearlessness. Fearlessness is empowered by fear. You can’t develop fearlessness—real compassionate, generous fearlessness—without fear. Fearlessness is born of fear.
+“…if you linger in thought holding back your potential, you will remain mired in fear and frozen in inaction.”
+That’s where we freeze in the presence of fear. We may have all the potential of a lion, a Buddha, but the moment we start analyzing and projecting, we give rise not to freedom but to more things to analyze. We come up with all kinds of rationalizations for our fear, but somehow they don’t seem to help. We define it, categorize it, analyze it, judge it, understand it, but still fear persists.
+“If, on the other hand, you advance fearlessly without hesitation, you manifest your power as a competent adept of the way.”
+This power comes directly out of meditation. In zazen, each time you acknowledge a thought, let it go, and come back to the moment, you build joriki, the power of concentration. The more you sit, the deeper you sit, the more joriki you build, and the closer you come to the falling away of body and mind. Meditation means going to where you already are, what you already have. It’s a direct pointing to the human mind, constantly pointing back to ourselves.
+“…passing through entanglements and barriers without hindrance to time and season. A great peace is attained.”
+This is what we call the endless spring, the endless spring of enlightenment. Always present and perfect, whether we realize it or not.
+“How do you advance fearlessly and without hesitation?”
+For this, I will refer to the koan’s capping verse, its poetic expression:
+The cave of the blue dragon is ominous.
+Only the fearless dare to enter.
+It is here that the forest of patterns is clearly revealed.
+It is here that the one ripe pearl is hidden.
+The cave of the blue dragon is where we store all of our stuff—our psychological bilge, so to speak—and it’s very difficult to go there. It takes a certain degree of fearlessness to do that. The process of zazen engages that. It engages the fear, in order to empower fearlessness. When stuff comes up, we don’t use zazen as another vehicle for suppression. When something keeps coming up in meditation, that’s a signal that you need to deal with it. You need to process it. You need to process it thoroughly and fearlessly, to feel it and experience it, then let it go and come back to the moment.
+
+#### Fear the Right Thing
+
+###### By Robert Thurman
+
+We all think that fear is awful and painful, yet the Buddhists—the master psychologists for thousands of years—don’t include fear in the long list of mental afflictions contained in the Abhidharma, the core teachings on Buddhist psychology. Anger is mentioned. Impatience is mentioned. Many other familiar afflictions are mentioned. But not fear. I’ve always thought that was curious, but if we consider it closely, we’ll see a way in which it makes sense.
+Being free of fear is certainly praised in the buddhadharma. One of the three major types of giving is giving someone protection from fear. It’s the essence of the abhaya, the no-fear mudra. This is the famous gesture of the Buddha where he holds up his hand, palm out. Indeed, when you become a buddha, you become fearless.
+Under normal circumstances fear is not a problem, which is why it’s not listed among the afflictions. Fear is a healthy thing, in general. It is awareness of danger. Fear is protective; it’s what helps us to avoid wandering into a hungry lion’s den.
+So fear is helpful in that everyday sense. It is also helpful in the Buddhist sense, in the form of fear of suffering, embodied in the first noble truth. The truth of suffering is not a doomsday prediction. It is not expressing an inevitable destiny. On the contrary, it alerts us to the fact that we are not being aware of what we really are. We are deluded about suffering. We ought to be aware of our suffering. We should be afraid of suffering, in fact. Otherwise, why would we have any reason to do anything about it?
+
+###### Starting out with the right kind of fear is the way to fearlessness.
+
+Fear will motivate us to try to understand the world and ourselves, and when we do, we will come to appreciate the second noble truth: that suffering is caused by a habit of constructing an absolute self. We go through life being absolute, as if no one else matters, but we can look at that habit and come to learn that it doesn’t work. We can develop deep concentration, deep meditation about that and ultimately free ourselves from that gut feeling of being “the real me,” opposed to everything and everyone else. If we don’t overcome this sense of self-absoluteness, we will descend into the lower realms of being. That is something it is reasonable to fear.
+The third noble truth is nirvana—the fact that it is possible to become permanently free of suffering and yet not dead. Many people in America think they’re going to be permanently free of suffering just by dying, but the third noble truth tells us that it is possible to be free of suffering and also be alive. That is ultimate fearlessness. And the Buddha offered us a means to realize this in the form of the fourth noble truth, which describes an educational process involving study, concentration, meditation, and changing your lifestyle.
+If you follow this path, you can reach a stage where you’re connected to your own nobleness and the nobleness of others. You realize there is no absolute self, and therefore the self is a flexible, relational thing, like an aikido master of reality. You understand yourself as interwoven with the universe. You have diminished your sense of isolation and alienation from others, your disconnectedness from the world. You have increased and intensified your sense of connection to the world. You do not fear that connectedness.
+It is said that out of ignorance we fear what we should not fear, and we are not afraid of what we should be afraid of. Normally we fear the connectedness, but it is in fact the disconnectedness that we ought to be afraid of. Starting out with the right kind of fear is the way to fearlessness.
+
+#### The Gesture of Fearlessness and the Armor of Loving-Kindness
+
+###### By Sylvia Boorstein
+
+I think this was the first Buddhist story I heard when I began practicing thirty years ago. A fierce and terrifying band of samurai was riding through the countryside, bringing fear and harm wherever they went. As they were approaching one particular town, all the monks in the town’s monastery fled, except for the abbot. When the band of warriors entered the monastery, they found the abbot sitting at the front of the shrine room in perfect posture. The fierce leader took out his sword and said, “Don’t you know who I am? Don’t you know that I’m the sort of person who could run you through with my sword without batting an eye?” The Zen master responded, “And I, sir, am the sort of man who could be run through by a sword without batting an eye.”
+It took me many years to warm up to that story. I thought it inconceivable that I could undergo such a thing without batting an eye. If they were doing startle tests when I was young, I’m pretty sure I would have failed miserably. Another reason I didn’t like the story was that it seemed so offhanded about life. I thought the story meant that it was all the same to the Zen master whether he lived or died. And it’s not all the same to me. I’d much rather live.
+I don’t actually know whether the story is meant to imply that the Zen master had so much insight into the absolute that he really didn’t discriminate between living or dying, but I don’t think that matters so much. The point, as I understand it now, is that he understood there was nothing at all for him to do. In the face of being killed, you have two possibilities. You can fight with the moment, either physically or mentally, and create more turmoil in your mind. Or you can say, this is simply what’s happening. That’s what happens where something as final as death is in sight. The mind gives up its usual hope for another reality, and when it gives up that hope, the mind relaxes. It doesn’t have to look for something else to do. So even though it is the end, it’s without suffering.
+It was very important for me to learn the difference between suffering and pain. Suffering is the extra turmoil in the mind over and above the pain of body and mind. The absence of that tension is the absence of suffering. The Zen master could let go of that tension. Even those of us who haven’t been doing decades of practice can let go of that tension when we are faced with the inevitable. This is not theoretical. I have seen this with friends of mine who are dying of cancer.
+The gesture of fearlessness is a simple gesture of accepting whatever there is. It’s not the “whatever” of adolescence, which combines “couldn’t care less” with a little bit of aggression. This “whatever” is the whatever of truth. Things happen because other things have happened. Karma is true. This is what’s happening in this moment. It can’t be other than this. This is what it is, and that truth is always soothing.
+Fearlessness also comes from benevolence and goodwill in the face of whatever oppresses you. You are afraid, but instead of fighting what faces you, you embrace it and accept it—you develop loving-kindness as a direct antidote to fear. This is expressed beautifully in one of the famous images of the Buddha depicting the night of his enlightenment. The Buddha is seated under the Bodhi tree, looking relaxed and contemplative, and apparently surrounded by a protective shield. Surrounding him are the maras, all of the afflictions that assail the mind. Some have spears aimed at the Buddha and some are disguised in erotic imagery, aiming to disrupt the Buddha’s concentration, trying to generate the fear that comes from being attacked. But the Buddha sits unmoved, with one hand on the ground, as if to say, “I have a right to be here.” The shield that surrounds him, that protects him from these afflictions, is his benevolence. His own loving-kindness shining out from him is the dissolver of all afflictions.
+Our own benevolence is actually the protection that renders enemies impotent. In the picture, as the spears and arrows come to touch the shield around the Buddha, they fall to the ground as flowers all around him. I like to think of those flowers as an illustration of how each of us, by cultivating steadfast goodwill, can dissolve the forces of confusion and fear in the world.
+
+#### Seek a Spiritual Ground
+
+###### By Traleg Kyabgon Rinpoche
+
+The Buddhist view is that fear is ubiquitous. We all have an underlying sense of not being settled, of not being secure. We have an existential feeling of uncertainty and instability, and that makes us very anxious. Unfortunately, we usually apply the wrong antidote to this ever-present sense of anxiousness.
+To allay or mollify that fear, we try to find refuge in accumulating wealth, or trying to make a big name for ourselves, or doing aerobics, or getting a new nose, or whatever. Yet doing these things over and over again does not settle us. In fact, it does the opposite. It exacerbates the very problem we are trying to address. Buddhism does not teach us to completely give up all relationship with material things. That’s not the point. The point is the attitude we take toward what we do and what we have. When we do things to try to make ourselves secure, to establish our own sense of identity, we are barking up the wrong tree. We enflame our negative emotions.
+
+###### The very act of dealing with fear is attaining fearlessness.
+
+When these emotions become inflamed, our fears grow. They compound. They go haywire. As the Buddha himself said, we get completely bogged down by fears of not getting what we want to have, being separated from what we have, and getting what we do not want. Unless we have some kind of spiritual focus, we do not feel any real sense of groundedness, and so our efforts are not fruitful in the long run. We disperse our psychic and spiritual energies right, left, and center, leaving ourselves exhausted and frustrated. We think we’ve missed out on this or that, or that everybody is an obstacle to our effort to improve ourselves. We want to have a certain kind of life, but everything is frustrating that.
+When we feel like that, all kinds of fears arise—fear of death, of old age, of our reality crumbling, of ending up being nothing or nobody. On the other hand, if we are secure in ourselves from having found some kind of spiritual focus, and we learn how to gather our psychic and spiritual energies into ourselves, we can discover a kind of inner richness. If we acknowledge the deep sense of emptiness we feel at the very bottom of our being, which cannot be filled by any kind of love that we might get from other people or any amount of money, we see that it can be filled only by the richness of our own spiritual cultivation. If we do that, we will experience a sense of groundedness that allows us to reduce and manage the fears we experience and, eventually, to overcome them.
+The very act of dealing with fear is attaining fearlessness. We don’t do two things—first overcoming fear and then starting on the project of developing fearlessness. All the fears are not going to just magically disappear. We will need to develop stability and insight. Stability in itself is not sufficient. Feeling a bit more calm and relaxed is not sufficient to overcome the deep sense of anxiety and anxiousness at the core of our being. To overcome it we need insight, which, according to Buddhism, involves profound reflection on our lives. That includes looking deeply at our fear. Looking deeply shows us its nature and teaches us how to work with it.
+As we look deeply, we can see that there is not an object of fear separate from the subject who is afraid. Think about it. How fearful one is in relation to an object varies from individual to individual, and even with the same individual it varies from one time to another. So how one experiences fear in relation to a particular object of fear this year will be different from last year, or this week from last week, or this afternoon from this morning.
+
+###### If we acknowledge the deep sense of emptiness we feel at the very bottom of our being, which cannot be filled by any kind of love that we might get from other people or any amount of money, we see that it can be filled only by the richness of our own spiritual cultivation.
+
+With the stability of shamatha and the insight of vipashyana, we really begin to see the interrelationship between the fear response and the object of fear. From the Buddhist point of view, that’s very significant. We understand that we do not have two independent things coming together: one who fears and what is feared. We then begin to develop some appreciation for what is called interdependent arising—subject and object arising together—which gives us a feeling of empowerment, of real choice, a lot of room to move around in, and a real inkling of the Buddha’s wisdom.
+These essays are based on teachings given at the program “Fear and Fearlessness: What the Buddhists Teach.” This weekend of teachings, practice, and discussion was the first of an annual series cosponsored by Lion’s Roar and the Omega Institute.
+Judy Lief
+Judy Lief is a Buddhist teacher and the editor of many books of teachings by the late Chögyam Trungpa Rinpoche. She is the author of *Making Friends with Death* . Her teachings and new podcast, “Dharma Glimpses,” are available at judylief.com.
+Our MissionDonateSubscribeTerms of ServicePrivacy PolicyCopyright © 2017 Lion’s Roar Foundation. All Rights Reserved.

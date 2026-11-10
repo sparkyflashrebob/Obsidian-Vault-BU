@@ -1,5 +1,0 @@
-[[Childhood Influences]]
-[[Father(2)]]
-[[Mama]]
-[[Relations with Siblings]]
-[[Relations with friends & others]]

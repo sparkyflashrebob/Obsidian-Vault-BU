@@ -1,5 +1,0 @@
----
-tags: []
----
-
-Ajahn Sumedho

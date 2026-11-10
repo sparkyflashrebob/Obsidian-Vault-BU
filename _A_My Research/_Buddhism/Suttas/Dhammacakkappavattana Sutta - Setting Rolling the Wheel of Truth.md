@@ -14,6 +14,11 @@ Buddha addressed the bhikkhus of the group of five
 		gives vision, knowledge, and it leads to peace, to direct acquaintance**, to discovery, to [[nibbana]]. 
 	* Reflected back on him meditating under a tree observing his father*
 
+
+Two Extremes should not be followed
+
+
+
 ---
 
 [[_A_My Research/_Buddhism/_Dharma Subjects and Themes/Middle Way 1/The Middle Way]]

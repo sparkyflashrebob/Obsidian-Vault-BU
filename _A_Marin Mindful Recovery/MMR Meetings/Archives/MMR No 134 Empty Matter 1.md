@@ -65,7 +65,7 @@ I'd dare say that this is pointing us towards the simialr teachings on the [[4 N
 	noticing how we cling to our experience and look outside ourselves
 		thru our senses 
 		for fulfillment 
-	When we [[Letting Go]] 
+	When we [[_A_My Journal and Notes/_A_Andy_s Dharma/Sources/Letting Go]] 
 		we experience cessasion
 		similar to the feeling of things being empty and unsubstantial 
 		

@@ -41,7 +41,7 @@ tags:
 > • **The Master Pentology Framework:**  
 >   - **Foundational Overture (Current File):** [[Report - The Conditioning Process in Humans, Evolution, Consciousness, Karma, Trauma, and the Architecture of Freedom]] (`_A_My Research/_Buddhism/Conditioning/`)  
 >   - **Pillar 1:** [[Report - Personality View, Identity, Worldly Winds, and Protection]] (`_A_My Research/_Buddhism/Sakkayaditthi/`)  
->   - **Pillar 2:** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Buddhism/sankhara/`)  
+>   - **Pillar 2:** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Antigravity Spiritual Reports/`)  
 >   - **Pillar 3:** [[Report - The Observer, Reacting vs. Observing in Meditation, Mediation, and Active Life]] (`_A_My Research/_Buddhism/The Observer/`)  
 >   - **Pillar 4:** [[Report - Karma, Skillfulness, Sakkayaditthi, and Sankharas, How to Treat Experience]] (`_A_My Research/_Buddhism/Karma/`)  
 > • **Vault Somatic & Trauma Syntheses:** [[The Somatic Turn -- A Half-Century of Integrating Trauma Physiology with Contemplative Science (1975-2025)]], [[Trauma - the Body - and Pathways to Healing -- A Synthesis of Core Concepts]], [[Feeling Empty Inside - Exploring Trauma]], [[Mindfulness for those with trauma]], [[Dealing with Difficulties - Pain]]  
@@ -708,7 +708,8 @@ And in that discovery lies ultimate freedom.
 ### Master Cross-Vault Citation Index
 * **Foundational Overture (This File):** `_A_My Research/_Buddhism/Conditioning/Report - The Conditioning Process in Humans, Evolution, Consciousness, Karma, Trauma, and the Architecture of Freedom.md`
 * **Pillar 1 (Sakkāya-diṭṭhi):** [[Report - Personality View, Identity, Worldly Winds, and Protection]] (`_A_My Research/_Buddhism/Sakkayaditthi/`)
-* **Pillar 2 (Saṅkhāra):** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Buddhism/sankhara/`)
+* **Pillar 2 (Saṅkhāra):** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Antigravity Spiritual Reports/`)
 * **Pillar 3 (The Observer):** [[Report - The Observer, Reacting vs. Observing in Meditation, Mediation, and Active Life]] (`_A_My Research/_Buddhism/The Observer/`)
 * **Pillar 4 (Karma & Skillfulness):** [[Report - Karma, Skillfulness, Sakkayaditthi, and Sankharas, How to Treat Experience]] (`_A_My Research/_Buddhism/Karma/`)
 * **Somatic Trauma Syntheses:** [[The Somatic Turn -- A Half-Century of Integrating Trauma Physiology with Contemplative Science (1975-2025)]], [[Trauma - the Body - and Pathways to Healing -- A Synthesis of Core Concepts]], [[Feeling Empty Inside - Exploring Trauma]], [[Mindfulness for those with trauma]]
+

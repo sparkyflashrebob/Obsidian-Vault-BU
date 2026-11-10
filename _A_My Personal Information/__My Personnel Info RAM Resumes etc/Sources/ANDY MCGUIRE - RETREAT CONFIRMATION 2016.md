@@ -1,0 +1,9 @@
+---
+tags:
+  - notebooklm-import
+notebook: "__My Personnel Info RAM Resumes etc"
+category: "personal"
+---
+
+CONFIRMATION FORM Thanksgiving Monastic Retreat November 18-27, 2016
+Instructions: Complete the information below, and return via email to retreat manger, Hitesi Cyndia at Hitesi3@gmail.com with your name in the subject line, by November 7, 2016 to confirm and ensure your place. Thank you! (This form will be kept confidential between the retreat manager and teachers and will be shredded at the end of the retreat.) Name ANDY MCGUIRE Age 56 Gender BOY MEDICAL/EMERGENCY INFORMATION Emergency Contact during retreat: ANDREA AXTELL Relationship: WIFE Telephone: Day Eve 415-902-5344 OR 415-891-8896 Do you have any medical/health conditions that may affect your participation on the retreat, including during the work meditation period? (E.g. allergies, medications, mobility issues, etc.) If “Yes”, please describe: NO Do you have any mental health issues? If “Yes”, please describe: THANKFULLY NOT NOW. Are you taking any medications? If “Yes”, please describe: YES, HEART MEDICATION. Do you have any relevant factors that you would like to mention to the teachers, such as a recent bereavement, family difficulty, history of abuse, stress at work, etc.? If “Yes”, please describe: NO RETREAT INFORMATION What is the longest meditation retreat you have completed? MANY 10 DAY Please list the last few retreats you have attended: XGIVING RETREAT 2015, 2014, 2013 Have you participated in a monastic retreat before? If “Yes”, with which teachers? YES, AJAHN PASANNO, AJAHN AMARO Do you need to sit in a chair? OCCASTIONALLY – BAD BACK.. Is there anything else you would like us to know? NO Please indicate if you are able to offer or need a ride. We will do our best to connect you and help out! From SFO or San Francisco: From Oakland Airport or East Bay: From Marin: From Sonoma: Other: (remember to put YOUR NAME IN THE SUBJECT LINE of your email, thank you)

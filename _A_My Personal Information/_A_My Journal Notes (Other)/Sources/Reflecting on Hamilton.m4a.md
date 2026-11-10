@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Journal Notes (Other)"
+category: "personal"
+---
+
+So, I'm here at my uh quest spot, second quest spot that I have ever went used where uh my experience with Hamilton, who Hamilton is a uh lizard that hung out with me during my three days here, especially the last last two and uh I had a wonderful experience with him. He came and he revealed himself uh when I was resting in my tent and uh he could peer into the tent um and see me resting and I saw him on the rock hanging up side down looking at me. And then uh he scured up the thing. And then uh a little later that day, he came down to the ground and sat three or four feet away from me at the most as I was under a shade, under a tree. and uh he spent the rest of the afternoon with me there. And in fact uh he was eating bugs and just sitting with me as I was sitting. It was awesome. And then uh that same evening, I don't know if that was the third evening or the second evening, I think it was the third evening. Um, uh, he was drumming the sundown and he came down from the rocks and he had a girlfriend that he had brought with him and they were both sitting there and they were listening to me as I drum the sun down. So, one of the reflections I wanted to to uh do this with this uh with the this recording. It's just how sentient this lizardrained creature was with me. Um you know, sentient enough to to come and uh get comfortable with me and to sit with me and to come and listen to me play music, which you know, I don't may not even know it was music. It wasn't music. It was just drumming. But he recognized me and he knew it was okay because he kept coming back. So what about that in terms of consciousness?

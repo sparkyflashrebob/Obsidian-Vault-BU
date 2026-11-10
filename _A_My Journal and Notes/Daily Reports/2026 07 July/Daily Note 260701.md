@@ -150,7 +150,9 @@ tags:
 #### 🕒 8:15 PM – 8:20 PM — Bee Session 9003154 (`World Cup Soccer Discussion`)
 **Domestic Anecdote with Andrea — The 2003 Raiders Super Bowl Sabotage**  
 *Context: Andy reminiscing with Andrea about Super Bowl XXXVII while watching sports archives.*  
-> "So this Super Bowl here, do you remember this one? I was living with Bruce, and Pat and Di came over to watch the Super Bowl at my house with me. And the Raiders got blown out so bad they left at halftime. The coach sabotaged the Raiders—the Raiders' coach sabotaged the Raiders' team! Monday morning, we get a booklet that says 'Game Plan to a Championship,' right? And our offensive average was 340, 350 pounds. Smash-mouth, that's the game plan. We're gonna smash-mouth and beat these guys up. Friday morning we get in and we have a brand new game plan! I've never had a coach, two days before a game, change the game plan so drastically from 'we're not gonna smash-mouth, we're gonna try to throw the ball 60 times' against John Gruden's defense that knew every signal."
+> "So this Super Bowl here, do you remember this one? I was living with Bruce, and Pat and Di came over to watch the Super Bowl at my house with me. And the Raiders got blown out so bad they left at halftime. The coach sabotaged the Raiders—the Raiders' coach sabotaged the Raiders' team!
+>
+> In the documentary, the players were explaining how Monday morning they got a booklet that said 'Game Plan to a Championship,' right? And their offensive average was 340, 350 pounds. Smash-mouth, that was the game plan: they were gonna smash-mouth and beat these guys up. Friday morning they get in and they have a brand new game plan! They had never had a coach, two days before a game, change the game plan so drastically from 'we're not gonna smash-mouth, we're gonna try to throw the ball 60 times' against Jon Gruden's defense that knew every signal."
 
 ---
 

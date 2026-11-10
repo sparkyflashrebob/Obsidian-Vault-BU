@@ -1,0 +1,18 @@
+---
+tags:
+  - notebooklm-import
+notebook: "B_Philosophy Spirituality Society and Politics"
+category: "research"
+---
+
+a77b6efc-aaf9-46be-99e5-14421f016cab
+
+Epstein Victim's Lawyer Makes A Shocking Revelation About FBI Documents From 1996, Watch Video
+
+0a476954-311d-4354-9001-6ddec31ad381
+
+https://www.youtube.com/watch?v=WIFHNnZkf2I
+
+WIFHNnZkf2I
+
+maria farmer was a professional artist she was about 25 years old um she had graduated from the new york academy of art a figurative arts school in new york and she was working as an employee for jeffrey epstein in new york city she has consistently and repeatedly said that in 1996 in the summer of 1996 she reported jeffrey epstein to the fbi after having reported him to the new york police department she reported epstein and she reported galain maxwell as well for child sex abuse crimes including child pornography we've spent many years trying to get her records through freedom of information act requests which are the classic way to get them the most recent freedom of information act request i made was in jan i got a response in january 2025 that's earlier this year and they told me that they wouldn't get back to me before november 2027 to just answer my request and this has been the and when we've seen anything from the government which is infrequent it's highly redacted information and we've never seen anything before corroborating her 1996 report but we just saw it yesterday for the first time in 30 years which is remarkable remarkable really remarkable all we know right now from the documents is that there was a clear and corroborated report that maria farmer did exactly what she has said for 30 years that she did she reported epstein to the authorities to the federal authorities to the fbi and as far as we can tell and i wish i knew kristen i wish i had more information out of the files or otherwise it looks like the government did absolutely nothing and as a result having done nothing um having failed to act um you know horrible things have happened um had they acted had they investigated in even the smallest way they could have stopped him and it's not just the victims it's also the victim's families because it affects not just that person but everyone they deal with their loved ones the people that they come in contact with um their ability to function in society so it affected thousands of lives and they could have spared that for those thousands of people and they could have avoided 30 years of trauma if they had just done their job one of the key things we want to accomplish with this release of files is transparency another key thing is belief restoration of public trust in the institutions and a third thing is accountability and so far we're not hitting any of those marks maria said it beautifully to me yesterday she said it's tears of joy and tears of sadness tears of joy because she's now validated she's vindicated yes you know she she did what she said she she did um and that the world can now see that um and all those naysayers and there have been a lot of naysayers accusing her of not telling the truth who dis disregarded her discarded her dismissed her for so many years decades um she's now has some kind of corroboration and vindication that this is true and the sadness the the tears of sadness because look at the waste of the 30 years and not only for her but for so many victims whether it's virginia fray or all the other survivors who didn't have to be subjected to this kind of child sex crime if you like this video then like share and subscribe to mirror now

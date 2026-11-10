@@ -1,0 +1,99 @@
+---
+tags:
+  - notebooklm-import
+notebook: "MMTCP Education"
+category: "research"
+---
+
+#### Metta: The Practice of Lovingkindness
+
+MINDFULNESS MEDITATION TEACHER CERTIFICATION PROGRAM
+Metta Phrases
+Below are traditional metta phrases and alternative phrases. You can start with a simple set and invite people to change them in whatever way reflects their
+best intentions. It can be helpful to give examples from the lists below.
+May you/I be filled with lovingkindness. May you/I be safe from inner and outer dangers. May you/I be well in body and mind. May you/I be at ease and happy.
+May I be safe. May I be peaceful. May I be healthy. May I live with ease
+In addition, these phrases can help people generate greater self-compassion when they are experiencing feelings of personal inadequacy: May I be kind to myself. May I accept myself as I am.
+Or if the suffering stems from external circumstances: May I accept my life as it is.
+Alternatives if “May I” feels to much like a prayer or asking permission from an authority figure: The phrase can begin, “I wish to be,” or, “I hope . . .” or, “I want.” You can also add “as possible” if that is more realistic: “May I be as safe as possible.”
+MAY I BE SAFE
+May I be free from danger May I be safe from inner and outer harm. May I be safe and protected from inner and outer danger and harm. May I live in safety. May I be free from fear. May I know safety and the causes of safety.
+MAY I BE HAPPY
+May I be peaceful. May I be happy and joyful. May I be liberated. May I have mental happiness. May I know happiness and the causes of happiness.
+MAY I BE HEALTHY
+May I be physically strong and healthy. May I be free from pain. May I be healed. May I have physical well-being. May I make a friend of my body. May I embody my love and understanding. May I know physical happiness and the causes of physical happiness.
+MAY I LIVE WITH EASE
+May the elements of daily life—work, family—go easily and not be a struggle. May I live with ease of well-being. May lovingkindness manifest throughout my life. May I dwell in peace. May I know ease of well-being and the causes of ease and well-being.
+May I be filled with lovingkindness, held in lovingkindness. May I touch/know a deep and natural peace. May I be happy and healthy. May I be peaceful and at ease. May I accept myself completely just as I am in this moment. May I take care of myself wisely, happily, joyfully. May I experience love, joy, wonder, and wisdom in this life just as it is. May I be well in body and mind. May I be held in the heart of love. May I awaken (to the truth of loviwng presence or to full liberation) and be free (of suffering).
+MAY YOU …
+Benefactor or person (in whom you can easily see their goodness and wish them well) Friend Neutral person Difficult person (one who gives rise to difficult feelings/thoughts) All beings
+Script for Guided Meditation
+LOVINGKINDNESS BY JACK KORNFIELD
+I am larger than I thought! I did not know I held so much goodness! —Walt Whitman
+Begin the practice of lovingkindness simply. Sit so that you feel comfortable. Let your body rest and your heart be soft. It is best to begin by directing lovingkindness to those you love, because often people can find
+it difficult to direct love to themselves. Picture, imagine, think of someone you love a lot, where love comes easily and is uncomplicated. Start where it’s easy to first open the heart. You can even begin with a child or a dog. Breathe gently and recite inwardly the following traditional phrases directed toward their
+well-being.
+May you be filled with lovingkindness. May you be safe from inner and outer dangers. May you be well in body and mind. May you be at ease and happy.
+As you repeat these phrases, hold this loved one in lovingkindness. Adjust the words and images to best open your heart. Repeat these phrases and kind intentions over and over again, letting the feelings permeate your body and mind. This meditation may at times feel mechanical or awkward. It can also bring up feelings of
+irritation or anger. If this happens, it is especially important to be patient and kind toward yourself, allowing whatever arises to be held in a spirit of friendliness and kind affection. After a few minutes, picture a second person about whom love comes easily. Extend the same
+wishes of lovingkindness to them. Whether the image or feelings are clear or not does not matter. Simply continue to plant the seeds of loving wishes, repeating the phrases gently, no matter what arises. The rule in lovingkindness practice is to follow the way that most easily opens your heart. Now, after a time, you are ready to turn to lovingkindness for yourself. Envision or imagine these
+two loved ones gazing back at you with the same well-wishing. They want you too to be held in kindness, to be safe and well, to be happy. Picture them saying this to you kindly: May you too be filled with lovingkindness. May you be safe from inner and outer dangers. May you be well in body and mind. May you be at ease and happy.
+Receive these gratefully. After a few repetitions, take their good wishes into yourself. You may even wish to place a hand on your heart. Recite: May I be filled with lovingkindness. May I be safe from inner and outer dangers. May I be well in body and mind. May I be at ease and happy.
+When you have established a sense of lovingkindness for yourself, you can expand your meditation to include others. Choose a benefactor—someone in your life who has loved or cared for you. Picture this person and carefully recite the same phrases. When lovingkindness for your benefactor has developed, you can gradually include other
+people you care about in your meditation. Picture each beloved person, recite the same phrases, evoking a sense of lovingkindness for each person in turn. After this, you can include a wider circle of friends. Then gradually extend your meditation step by step to picture and include community members, neighbors, people everywhere, animals, all beings, the whole earth.
+Script for Guided Meditation 1
+LOVINGKINDNESS: BEING KIND TO YOURSELF
+The lovingkindness (metta in Pali) meditation awakens us to our connectedness with all of life. Often the starting place is an offering of care to our own being. This simple practice is a direct and powerful way to awaken from the trance of unworthiness. By regarding ourselves with kindness, we begin to dissolve the identity of an isolated, deficient self. This creates the grounds for including others in an unconditionally loving heart.
+Sit comfortably and quietly, and relax any areas of the body that might be tense or tight. Take some moments to feel the breath at the heart: breathing in, sense that you are receiving warmth and energy; breathing out, sense that you are letting go into openness. Silently or in a whisper, begin offering yourself prayers of lovingkindness. To start, choose four or
+five phrases that resonate for you. They might include: May I be filled with lovingkindness; may I be held in lovingkindness. May I feel safe and at ease. May I feel protected from inner and outer harm. May I be happy. May I accept myself just as I am. May I touch deep, natural peace. May I know the natural joy of being alive. May I find true refuge within my own being. May my heart and mind awaken; may I be free.
+As you repeat each phrase, open to whatever images and feelings arise with the words. Approach the meditation as an experiment, sensing what words and images best serve to soften and open your heart. You might explore placing your hand gently on top of your heart to see if this deepens the experience of holding yourself with kindness. Take as long as you like, offering yourself these phrases and reflecting on them. As you end your
+meditation, sit quietly for a few moments and notice the feelings in your body and heart. Is there a new sense of space and tenderness? Do you feel more at home in your own being? Throughout the day: The more you remember to regard yourself with kindness, the more readily
+you will find a sense of connectedness and freedom from trance. You can practice anywhere, offering yourself the phrases of lovingkindness as you walk, drive, and conduct the tasks of daily life. If you become agitated or upset: The prayers of lovingkindness can seem discordant and
+artificial if you are in the grip of fear, shame, or confusion. At times they may even highlight how undeserving and bad you feel about yourself. Without judgment, include this reactivity in the meditation: “May this too be held in lovingkindness.” Then simply resume your meditation, accepting whatever thoughts or feelings arise. If the words seem mechanical: Don’t worry if you sometimes find yourself just reciting the
+phrases. Your heart has natural seasons of feeling open and closed. What most matters is your intention to awaken lovingkindness.
+From True Refuge (2013) by Tara Brach
+Script for Guided Meditation 2
+LOVINGKINDNESS: RECEIVING LOVE
+Fear arises from a sense of separateness and it loses its grip as we perceive our connectedness to others and to life. This version of the lovingkindness meditation can help you develop your capacity to receive love and trust belonging.
+Sit comfortably and quietly, and take a few full breaths. With a gentle attention, scan your body and mind, noticing whatever fear or vulnerability you might be feeling. Connect with your longing to feel safe, protected, and loved. Then remember a place—in the world or in your imagination—where you feel deeply at home. It might be a spot in
+nature or in your bedroom, a coffee shop, or a cathedral. Take some moments to evoke it with all your senses, imagining the forms and colors, the smells and sounds of your healing place. Can you feel yourself there, being held by the peaceful, comforting, or beautiful energy around you? Now bring to mind the face of anyone who helps you to feel loved and safe. It might be your
+grandmother or a beloved teacher, your dog, or your dearest friend. It might be a spiritual figure like the Buddha, Kwan-yin (the bodhisattva of compassion), or Jesus. Whoever appears, sense that they perceive your vulnerability and your longing for safe refuge. Look into their eyes and see them sending you a message of love—“I am here with you … I care about you.” Feel their physical presence and let their energy surround you and hold you in an embrace of safety. Give yourself some moments to take in the love and ease that is offered. What is it like to feel this care surrounding and holding you? Now, softly place your hand over your heart or on your cheek and receive the touch as a
+message of their care and protection. If you are facing a particularly painful situation in your life, try to contact the underlying fear
+and feel how that fear is living in your body. Touch your throat, your chest, your belly. As you do, imagine that the love of the being you have called on is flowing through your hand into your most vulnerable and fearful places. You might hear the sound of this being’s voice speaking words of kindness and reassurance. Take as long as you’d like, letting in love and opening directly to the sensations and feelings that arise. How does it affect you to receive love? Notice any changes in your breathing, in your shoulders and belly, in your heart and mind. Is there some sign that the message of love and belonging has been received deep within your body and spirit? If you are patient and gentle with yourself, you will learn to connect with a sense of inner refuge when you most need it. Because we have been wounded in relationship, it can be challenging to trust and let in love.
+Take your time and explore this practice with as much self-compassion as possible:
+
+* If you can’t find someone who evokes a deep sense of feeling loved or safe, choose a person (pet, spiritual figure) who you sense is intrinsically caring, accepting, and wise. You might also imagine a more formless presence that you experience simply as warmth and light. With practice the felt sense of living love will awaken.
+* If you contact pain about feeling unlovable, imagine that being or presence offering kindness directly to your doubt, hurt, or fear. Listen for a message or reminder from this being that might help you to relax and trust the presence of love.
+* Connect with your intention to awaken and free your heart. This will give you the courage to experiment and discover your own pathway to a safe and loving refuge.
+  Adapted from True Refuge (2013) by Tara Brach
+  Script for Guided Meditation 3
+  LOVINGKINDNESS: SEEING PAST THE MASK
+  Whenever we recognize goodness, our heart opens with lovingkindness. Starting from the love we feel for those dearest to us, this version of the lovingkindness meditation helps us learn to see goodness in those who are different, distant, or even hurtful.
+  Sit in a way that allows you to be comfortable and relaxed. Letting go of whatever tension you can, loosen your shoulders, soften your hands, and relax your belly. Feel a smile spread through your eyes, softening the flesh around them. Bring a slight smile to the mouth, and feel the smile on the inside of the mouth. Smile into your heart, and then imagine the smile expanding, creating a receptive, tender space through the whole heart and chest area. Now bring into your heart someone you love. Take some moments to reflect on the qualities you
+  most appreciate. Recall his or her intelligence, humor, kindness, vitality. Picture this person when he or she is feeling love for you. Be aware of his or her essence as good and wakeful and caring. In your heart, feel your appreciation for this dear one and begin offering your prayer. You might draw from four or five phrases below or, if you prefer, create your own. May you be filled with lovingkindness, held in lovingkindness … may you feel my love now. May you feel safe and at ease. May you accept yourself just as you are. May you be happy. May you touch great and natural peace. May you know the natural joy of being alive. May your heart and mind awaken; may you be free.
+  As you silently whisper each phrase of lovingkindness, imagine how it might be for this person to experience the fruit of your blessing—the fullness of love, self-acceptance, peace, joy, and freedom. Now, widen your circle of caring by bringing to mind a “neutral” person. (This might be
+  someone you see regularly but don’t know well or feel strongly about.) Take some moments to recall how this person looks, moves, and speaks. Now try to imagine him or her gazing at a beloved child … or struck by the beauty of a fresh snowfall … or laughing, relaxed, and at ease. Remind yourself that he or she wants to be happy and doesn’t want to suffer. Then, as this person comes alive for you, use the phrases above, or whatever others you choose, to offer your appreciation and lovingkindness. Now bring to mind someone with whom you have a difficult relationship—perhaps someone
+  who evokes anger, fear, or hurt. First take a moment to bring a kind, non-judging attention to your own feelings as you reflect on him or her. Then, turning back to this difficult person, try to see past the mask. Look to see some aspect of his or her basic goodness. It may help to imagine this person as a young child, sleeping peacefully—or at the other end of life, as someone who has just passed away. Can you recall something about this person that you admire, some quality of dedication, caring, or creativity? Even if it’s difficult to recognize this person’s goodness, remind yourself that all humans want to be happy, want to avoid suffering. Remember that life matters to this person just as it does to you. Holding him or her in a gentle attention, begin offering the phrases of lovingkindness that come most easily for you. Next imagine that you are bringing together all those you have just prayed for—a dear person,
+  a neutral one, a difficult one. Take a moment to include yourself, honoring the goodness and sincerity you’ve brought to this meditation. Holding yourself and these others in your heart, sense your shared humanity, your vulnerability and basic goodness. Send prayers of lovingkindness to all at once, recognizing that you are in this together.
+  Finally, allow your awareness to open out in all directions—in front of you, to either side, behind you, below you, and above you. In this vast space, sense that your loving presence is holding all beings: the wild creatures that fly and swim and run across fields; the dogs and cats that live in our homes; the life forms that are threatened with extinction; the trees and grasses and flowers; children everywhere; humans living in great poverty and those with great riches; those at war and those at peace; those who are dying and those who are newly born. Imagine that you can hold the earth, our mother, in your lap and include all life everywhere in your boundless heart. Aware of the goodness inherent in all living beings, again offer your prayers: May all beings be filled with lovingkindness. May all beings know great and natural peace. May there be peace on earth, peace everywhere. May all beings awaken; may all be free.
+  Repeat these phrases several times. Then allow yourself to rest in openness and silence, letting whatever arises in your heart and awareness be touched by lovingkindness. There are many ways to weave the lovingkindness practice throughout your daily life.
+* Set an intention to reflect, each morning for a week, on the goodness of the people you live with. Then, whenever you remember during the day, silently offer them your prayers.
+* Whenever a loved one or someone else triggers feelings of irritation or insecurity, pause, recall some specific example of that person’s goodness, and mentally whisper, “May you be happy.”
+* Choose a “neutral” person you encounter regularly, and whenever you see them during the following week, remind yourself of their goodness and silently offer your wishes for their well-being. Notice if your feelings for this person change.
+* Choose a “difficult” person and set a time to reflect daily on his or her goodness. After you’ve offered prayers of lovingkindness for at least two weeks, do you notice a change in your feelings? Has there been any change in their behavior toward you?
+* Discover what happens when you let someone know the goodness you are seeing in them.
+  Keeping Your Practice Fresh and Alive
+  Whatever awakens a genuine sense of connectedness and care is a lovingkindness practice. So if your formal practice is feeling somewhat mechanical, experiment with the following:
+* Use whatever words most resonate in the moment.
+* Whisper your prayer aloud.
+* Say the name of the person you’re praying for.
+* Imagine your heart is holding the people you’re praying for, or that you’re touching their cheeks with care.
+* Imagine them feeling healed and loved and uplifted by your prayer.
+  Even a few moments of reflecting on goodness and offering lovingkindness can reconnect you with the purity of your loving heart.
+  From True Refuge (2013) by Tara Brach
+  Additional Scripts
+  Loving-Kindness: The Revolutionary Art of Happiness, Sharon Salzberg. Scripts for self, benefactor, friend, neutral, difficult, groups, and all beings.
+  A Clinician’s Guide to Teaching Mindfulness, Christiane Wolf & J. Greg Serpa, pp. 141–143
+  Self-Compassion, Kristin Neff, pp. 203–205
+  Lovingkindness Meditation audio: self-compassion.org/wp-content/uploads/2016/11/LKM\_ cleaned.mp3
+  Self-Compassion/Lovingkindness Meditation audio: self-compassion.org/wp-content/ uploads/2016/11/LKM.self-compassion\_cleaned.mp3

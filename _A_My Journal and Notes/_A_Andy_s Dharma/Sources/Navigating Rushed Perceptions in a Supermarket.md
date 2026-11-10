@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_Andy_s Dharma"
+category: "research"
+---
+
+Speaker 1: 00:00
+
+So this one's a Sunday morning coming from whole foods. Just noticing my mind came in, like, 1130. So it's a little busier today. Lots of people rushing around in the lines. You know, I got people right up on me. Felt the need to kind of push what I was doing. And then new checker, pretty girl, but new to the store. And then when she checked me out a little bit, you know, I bagged everything up, and then the other person was on me checking out already, and I hadn't bagged all the groceries yet, so threw everything in and just, you know, felt a little bit not appreciative. Appreciated in a way, so. But remember, when I comment about these sake taking things personal that are not personal, so I'm just reflecting on it, and then I'll noticing other people rushing in and out, too. People that were behind me before, I guess I was, had too many things for them, even though there was nobody else. And behind them or in front of them, they decided they want to get in a quicker line. Just everybody's rushing. And so I was just thinking about, you know, how seniors might feel when they're being rushed and. Yeah. Or imagine people who. How they feel about being impatient because things aren't going fast enough. So, look, thinking about the yin and the yang of the world, the duality in the world through awareness, that is, through awareness and recognizing that there is none of this is all. This is just a creation in my own mind, my own perceptions, and maybe not necessarily the perceptions of the world. Probably most likely 100% nothing anybody else perceptions because I'm the only one experiencing them. So I'm responsible for my own. Yeah. Whatever is generated inside of me, I'm responsible for that. So that's. I want to noted that.

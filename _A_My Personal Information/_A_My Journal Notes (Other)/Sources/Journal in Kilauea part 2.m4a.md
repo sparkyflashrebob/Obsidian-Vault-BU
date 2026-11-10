@@ -1,0 +1,22 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Journal Notes (Other)"
+category: "personal"
+---
+
+Do you like her?
+
+Go for it. I leave me a little bit.
+
+Okay.
+
+So, while we're uh we're eating breakfast here the f on uh our forest retreat and we're talking about um yesterday's interactions and she just reminded uh told me about a dinner interaction we had with a couple was sitting behind us. Um Andrea mentioned that he was wearing a Kobe shirt jersey. So, I I turned around down to him and I asked him if it was signed by co K um by Kobe and um he said no. He said that his his wife gave it to him who was he was his fiance who was there at the ta at the table having dinner with him had given it to him as a present but also as an announcement that she was pregnant and I and uh it was so sweet and then the fact that she didn't tell saw him for 3 weeks while she was planning to give him the gift and I guess she had it signed by some people. I don't know exactly how that story went, but he had bought her the the trip to Hawaii that they were now on it and she didn't know that. So was both of them had surprises for each other and the dude was you would think of him being like a biker gangster type. He had tattoos all over him and And um so and and so I was I was told them I was really happy for them and it was such a wonderful treat that the story they were telling us that they had given each other and um but then Andrea told me this morning right now just a few seconds ago that the guy said that I that that's a really nice guy and so that just really warms my heart. Um so then it reminded me oh I didn't talk about the other stories that we had. that day which is we were at the um Rainbow Falls and um ran into this um this uh Indian guy from India who was u leaning over at the boiling pots there and uh he kind of mentioned something to me in a very friendly way. He seemed like a sparky of he was an older dude and he was very sparky. So I went right over to him and we had this conversation and And and it it was a wonderful conversation that we had with his whole family was there and his well not his whole family but a lot of his family. His his I guess one of his daughters uh is a vice president. Two of them were his daughters are there but one of them was a vice president for Bank of America in V in North Carolina. And um so I joked around that she was she paid for the whole trip for for the family. And um so we were talking for quite a while and you know admiration and for a lot of different things and he kept inviting us to go into you know just um places in India with him and I never quite got his name but I could probably find him but through his his daughter um but it was just a really a wonderful exchange and he talked we talked about Buddhism we he talked about Hinduism you know the nonviolent and Yeah, it was just a really a wonderful experience. And then we had uh two other interactions, one at another one at that exact same location with a dude who was in a Syracuse um shirt and he mentioned that he was a uh former policeman and he was in the ROC and he I guess he his daughter would got play graduated from the ROC and She honored him with like giving him her away kind of thing. Some kind of ceremony.
+
+Oh, inducting her in the military. And um he was a he was a chatty dude and um there also. But Andrea uh and her adventures um mistake our car for another car. And she went to go get in this guy's car and uh he was in in the car. She didn't get in the car, she insists. Um, but she noticed that some of the things in his car, like it was a Jeep and blah blah blah blah blah, but they had an interaction. So, that was another funny thing from the day. And then the last one I'll mention is that we went and I was looking for searching for coffee. Oh, listen to that bird.
+
+Um, a cute Okay. Um, and then, oh, you could put in the bathroom by my medicine. And then the Oh, that's cute. And the last thing was, uh, just going to get a coffee at this little turnoff scenic route and we stopped at this little grocery store to get a coffee and yeah, it's just very friendly there. And very nice there. And the coffee wasn't that great and Andrea didn't and I didn't see eye to eye on the me making that comment, but it's okay. Um, and I got a uh it was like a sushi roll, but it was made with spam, spiced spam.
+
+Mushibi or mush mushi.
+
+Mushibi. It was really good, actually. We We scarfed it on the way down. Um, okay. That's enough for me journaling this, but I wanted to get it down.

@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "__My Personnel Info RAM Resumes etc"
+category: "personal"
+---
+
+**CONFIRMATION FORM** Thanksgiving Monastic Retreat November 21-30, 2014 ***Instructions: Complete the information below, and return via email to retreat manger, Hitesi Cyndia at Hitesi3@gmail.com. Thank you! Please return by November 7, 2014 to confirm and ensure your place.*** (This form will be kept confidential between the retreat manager and teachers and will be shredded at the end of the retreat.) Name Andy McGuire Age 54 Gender Male **MEDICAL/EMERGENCY INFORMATION** Emergency Contact during retreat: Andrea Axtell Relationship: Live-In-Partner Telephone: Day 415-891-8895 Eve 415-902-5344 Do you have any medical/health conditions that may affect your participation on the retreat, including during the *work meditation period? (E.g. allergies, medications, mobility issues, etc.)*
+If “Yes” to above, please describe: Do you have any mental health issues? No If “Yes” to above, please describe: Are you taking any medications? Yes. If “Yes” to above, please describe: Heart Medications (Simvastatin 40MG, Atenolol 25MG) Do you have any relevant factors that you would like to mention to the teachers, such as a recent bereavement, family difficulty, history of abuse, stress at work, etc.? If “Yes” to above, please describe: **RETREAT INFORMATION** What is the longest meditation retreat you have completed? Multiple 10 day retreats. Please list the last few retreats you have attended: Monastic Retreat last 3 years. Have you participated in a monastic retreat before? Yes
+If “Yes” to above, with which teachers? Ajahn Passano, Ajahn Amaro Do you need to sit in a chair? Occassionally Is there anything else you would like us to know? Need to limit dairy. Lactose intolerant. **Please indicate if you are able to offer or need a ride. We will do our best to connect you and help out!** From SFO or San Francisco: From Oakland Airport or East Bay: From Marin: Not available this year. From Sonoma: Other:

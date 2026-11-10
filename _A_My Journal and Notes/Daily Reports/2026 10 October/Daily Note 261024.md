@@ -268,20 +268,20 @@ tags:
 
 ---
 
-## 📖 Detailed Subject Matter
+## 📋 Detailed Subject Matter
 
-### 🌅 Morning Session: Contemplative Rhythms & Process Alignment
-The morning began with solitary reflection at 410 Manzanita Ave. Reviewing workflow notes, Andy observed how easily process sequences can experience friction when unattended, meeting this observation with quiet curiosity rather than personal blame. Following a dedicated 26-minute seated meditation, he reaffirmed foundational boundaries for his journal: strictly confining news and current events to topics personally spoken about, eliminating automated background noise. Routine technical tasks—verifying local language server security and finalizing API credentials—were completed with calm, steady focus.
+### 🌅 Morning Session (7:00 AM - 12:00 PM)
+- **06:34 AM - 09:48 AM | Hardware Startup, Seated Meditation & Logging Boundaries**: Initialized parallel audio recording checks across the Yescool A2, Plaud NotePin, and Elasound NZ007 to evaluate field reliability, acoustic fidelity, and battery performance ahead of Sunday's retreat departure. Sat for 26 minutes of silent meditation (9:17 AM - 9:43 AM), anchoring attention in whole-body posture and resting awareness on the breath to allow morning tension to settle naturally. Stepped out for solo breakfast while Andrea worked, and applied graphite lubricant to exterior door locks to prevent mechanical binding. Reaffirmed the strict journal boundary that news and current events must only be noted when personally discussed.
 
-### ☀️ Afternoon Session: Environmental Stewardship & Hardware Inquiries
-As midday approached, attention turned to community stewardship and seasonal preparedness. Partnering with neighbor Patrick Hickey, Andy synthesized camera GPS metadata and USGS LiDAR datasets into an elevation transect running from Corte Madera Creek inland to Magnolia Avenue. By cross-referencing street crown and curb heights, they mapped out realistic inundation risks for the upcoming King Tide sequence, identifying designated safe parking areas at Lucky's lot. Later in the afternoon, Andy explored recording equipment options, comparing the lightweight, wearable form factor of the Linearity Yescool unit with voice-activated alternatives to ensure long-term ease of use.
+### ☀️ Afternoon Session (12:01 PM - 5:00 PM)
+- **11:55 AM - 04:30 PM | Tam Valley Flood Elevation Transect & Hardware Ergonomics**: Collaborated with neighbor Patrick Hickey analyzing USGS 3DEP LiDAR bare-earth elevation data against laser level measurements and smartphone GPS along the transect from Corte Madera Creek inland to Magnolia Avenue. Mapped out roadway inundation thresholds for anticipated seasonal King Tides compounded by Kelvin wave surges, designating safe high-ground vehicle parking at upper Lucky's lot. Evaluated the wearable form factor of the Yescool A2 versus voice-activated recorders (Elasound NZ007, DictoPro) for unobtrusive retreat operation, and coordinated highway driving routes with Andrea to Queen of the Valley Hospital in Napa.
 
-### 🌙 Evening Session: Welcoming New Life & Monumental Family Healing
-The evening marked a deeply monumental milestone for Andy's core inner family. Driving north to Napa with Andrea, they arrived at Queen of the Valley Hospital to visit stepdaughter Kiera and her boyfriend Hayk, welcoming their newborn son, Gago (born October 23 at 1:00 PM). 
-
-Meeting Hayk in person in an atmosphere saturated with genuine love, acceptance, and compassion broke through previous emotional walls, forging an immediate and heartfelt bond. Kiera shared her dramatic labor journey—waking before dawn with cramps she initially attributed to bad food, enduring regular contractions with steady composure until hospital staff confirmed full dilation. Andy took immense joy in holding newborn Gago next to his heart, helping him burp, and reflecting on how becoming a father to Ryan and Kiera had permanently dissolved feelings of inner emptiness, replacing them with enduring purpose. On the car ride home, Andy and Andrea reflected warmly on the encounter, celebrating how meeting vulnerability with an open heart transforms family relationships and reaffirms fundamental goodness.
+### 🌙 Evening Session (5:01 PM - 11:00 PM)
+- **05:30 PM - 08:30 PM | Family Milestone: Welcoming Baby Gago & Meeting Hayk at Queen of the Valley Hospital**: Stopped for dinner in Vallejo with Andrea before arriving at the maternity ward in Napa to celebrate newborn grandson Gago. Met Kiera's boyfriend Hayk in person in an atmosphere of warmth, compassion, and mutual respect, dissolving past tensions and establishing an immediate loving family bond. Listened to Kiera recount her swift 4-5 minute active delivery, celebrated with daughter Ryan and ex-wife Katie, and held newborn Gago close to his chest.
+- **08:30 PM - 10:30 PM | Return Drive & Contemplations on Fatherhood**: Drove home with Andrea reflecting deeply on how fatherhood had permanently re-anchored his life trajectory from early-adult emptiness into lifelong purposeful care and devotion for his children. Completed final packing preparations for Sunday morning departure to the 5-day silent residential retreat at Hidden Villa.
 
 ---
+
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 

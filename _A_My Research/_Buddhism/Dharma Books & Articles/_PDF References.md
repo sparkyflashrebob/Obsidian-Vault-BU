@@ -1,0 +1,18 @@
+# PDF References: Dharma Books & Articles
+
+The following reference documents for this topic have been moved to the Google Drive Reference Library:
+
+| Document Title | Size | Link |
+| :--- | :--- | :--- |
+| [Alan Watts - The Middle Way .pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Alan Watts - The Middle Way .pdf>) | 95.7 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Alan Watts - The Middle Way .pdf>) |
+| [Analayo_Satipatthana-The-Direct-Path-to-Realization.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Analayo_Satipatthana-The-Direct-Path-to-Realization.pdf>) | 1.27 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Analayo_Satipatthana-The-Direct-Path-to-Realization.pdf>) |
+| [Nyanatiloka_Buddhist_Dictionary.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Nyanatiloka_Buddhist_Dictionary.pdf>) | 1.64 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Nyanatiloka_Buddhist_Dictionary.pdf>) |
+| [Pasanno_Amaro_The_Island.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Pasanno_Amaro_The_Island.pdf>) | 2.08 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Pasanno_Amaro_The_Island.pdf>) |
+| [Thanissaro_BMC_I.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_BMC_I.pdf>) | 1.69 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_BMC_I.pdf>) |
+| [Thanissaro_Skill-in-Questions.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_Skill-in-Questions.pdf>) | 2.28 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_Skill-in-Questions.pdf>) |
+| [Thanissaro_The-Wings-to-Awakening.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_The-Wings-to-Awakening.pdf>) | 2.00 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_The-Wings-to-Awakening.pdf>) |
+| [Thanissaro_The_Mind_Like_Fire_Unbound_2010.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_The_Mind_Like_Fire_Unbound_2010.pdf>) | 559.2 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Thanissaro_The_Mind_Like_Fire_Unbound_2010.pdf>) |
+| [Words of My Perfect Teacher She Lung of Kunzang Lama Patrul Rinpoche.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Words of My Perfect Teacher She Lung of Kunzang Lama Patrul Rinpoche.pdf>) | 30.58 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Buddhism/Dharma Books & Articles/Words of My Perfect Teacher She Lung of Kunzang Lama Patrul Rinpoche.pdf>) |
+
+> [!TIP]
+> Clicking **Open PDF** or the document title opens the file directly in your system PDF reader.

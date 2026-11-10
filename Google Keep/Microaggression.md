@@ -1,2 +1,0 @@
-
-Microaggression is a term used for commonplace daily verbal, behavioral or environmental slights, whether intentional or unintentional, that communicate hostile, derogatory, or negative attitudes toward stigmatized or culturally marginalized groups.

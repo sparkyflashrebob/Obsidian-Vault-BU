@@ -232,6 +232,7 @@ tags:
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
 #### 🏛️ Living Mindfully ESCOM Club Meeting — College of Marin, Deedy Hall Rm 111 (1:22 PM – 3:55 PM PDT)
+📄 **Dedicated Dharma Talk Report**: [[Living Mindfully ESCOM Meeting Report - 2026-10-01|Living Mindfully ESCOM Meeting Report — October 1, 2026]]
 * **Meeting Synopsis**: Weekly hybrid in-person/Zoom gathering of the Living Mindfully ESCOM Club facilitated by Andy McGuire in Elizabeth Deedy Hall Room 111, with physician, author, and mindfulness teacher Will Meecham as the sole attendee (*Krisp operating in transcribe-only mode*). The session unfolded with the full four-part structure: setting up the rolling monitor and wide-angle camera, a personal check-in on somatic discomfort and authentic leadership, a seated silent meditation, a shared reading of Mary Oliver's *"Wild Geese"*, and an expansive philosophical dialogue on contemplation vs. bare mindfulness, releasing the demand for purpose and becoming (*bhava*), the pitfalls of monetized Dharma marketing, and working with physical pain and karma as direct teachers.
 * **Key Points by Participant**:
   * **Andy McGuire (Facilitator)**:

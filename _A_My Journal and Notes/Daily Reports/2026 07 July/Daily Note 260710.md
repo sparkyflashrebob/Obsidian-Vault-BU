@@ -175,9 +175,9 @@ tags:
 > "This is how you're conditioned, and not all conditioning is bad, but you have to understand it. When I was just out of high school, I had summer jobs selling goods down in Monterey near the military bases. I remember walking down the street, blocks and blocks, right after getting a haircut. And shortly thereafter, there was this tiny kitten all alone on the street. I couldn't leave it—I just couldn't leave it there alone! I didn't know where the mother was, so I took it with me, carried it home, and cared for it for months. That instinct to protect, to take responsibility, to step in when something is vulnerable—that's who I was conditioned to be from a very young age. We both carry that 'responsible one' pattern in our families, and learning mindfulness is about honoring that care while making sure we don't carry the whole world on our shoulders."
 
 #### 🕒 5:10 PM – 5:20 PM — Bee Session 9169121 (`Meditation and World Cup football`)
-**Contemplative Reflection — Grounding in the Chants & Meeting Tide Warnings**  
-*Context: Andy reflecting after chanting the Pali verses while tracking the 7-foot tide forecast.*  
-> "Salutation to the Triple Gem, Subjects for Frequent Recollection, and Verses of Sharing and Aspiration... Sitting with these ancient words settles everything down. There is a time limit for how long you want to spin in the mind. There's no need to unnecessarily carry worry if you can alleviate it! People get terrified of these king tides, but if you look at the facts: the peak is 7 feet tomorrow and 7 foot 2 on Sunday and Monday. The street has to go bad first before we have to worry about our parking lot. Even the last time the street flooded, our cars were completely untouched. We stay watchful, we prepare, but we don't compound it with mental fear."
+**Contemplative Reflection — Grounding in the Chants & Cognitive Rest**  
+*Context: Andy reflecting after chanting the Pali verses in his living room.*  
+> "Salutation to the Triple Gem, Subjects for Frequent Recollection, and Verses of Sharing and Aspiration... Sitting with these ancient words settles everything down. There is a time limit for how long you want to spin in the mind. There's no need to unnecessarily carry worry if you can alleviate it!"
 
 #### 🕒 8:28 PM – 8:35 PM — Bee Session 9172016 (`Street Drain Overflow Monitoring`)
 **On-Site Neighborhood Dialogue — Monitoring the Street Vent Bubbling**  

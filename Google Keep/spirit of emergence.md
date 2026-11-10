@@ -1,2 +1,0 @@
-
-Buddhists refer to this shift in priorities as the arousal of a spirit of emergence, with which we move away from the sources of discontent and set out on the path to genuine happiness. This is the most compassionate thing we can do for ourselves.

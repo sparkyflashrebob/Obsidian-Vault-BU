@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_Andy_s Dharma"
+category: "research"
+---
+
+Speaker 1: 00:00
+
+So this is January 23rd, I believe. It's a Thursday morning. I found myself resisting walking. I meditated for about 55 minutes. It's been a little bit of a struggle physically, I think. And this morning, actually even mentally, my. There's a little bit of negativity in me for sure. So I didn't go for my walk and I ate breakfast, which is a positive, I guess. And now I'm sitting here listening to a talk by Ajahn Semedo and he's talking a lot about politics, which was surprising in society. Very conservative in that he's talking about Britain's a lot of social polities that prop up people, which is surprising because that's what we're looking for more in the United States, at least from my perspective. The kinder, gentler society that supports its people, good ideal, nothing wrong with that. But yeah, the taking away risk, you know. But the big thing out of the talk I got so far, well, there was others, but that got today was him talking about us putting our eggs in the back in our, in a basket. That society, politics, politicians, is going to somehow make things perfect and we'll live happily after, you know, happily ever after. And that hasn't been the, the way it has been so far. And it's not necessarily what politics and society can do. Nothing wrong with moving towards that way if we can. Doesn't seem like we're, we're even concerned about that really at all. But yeah, so putting our emphasis in the outside world, fixing everything and neglecting the inside world, not necessarily neglecting, but putting our faith and our refuge in external things and not putting them on internal, on what we could do internally. So yeah, that's a spiritual thing. That's a spiritual perspective and not negating, it's not negating those things, the importance of those things. But they could so easily grab us and take over. And so I think that's just a very important point for me to emphasize for myself, whether anybody else agrees with it or not. We can get lost in the external and yeah, that's actually the norm. Right. This, yeah.

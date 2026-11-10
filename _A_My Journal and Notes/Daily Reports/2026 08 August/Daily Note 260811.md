@@ -88,7 +88,7 @@ tags:
 
 #### 🕒 8:44 AM – 8:58 AM — Humorous Personal Anecdotes: Garlic Fries & San Francisco Vallejo Street
 - Andy shared two lighthearted, self-effacing personal stories with companions over morning coffee.
-- He recounted an embarrassing moment at a Giants baseball game where eating garlic fries led to involuntary flatulence right in front of Jim Armstrout, an audio engineering colleague he deeply admired.
+- He recounted an embarrassing moment at a Giants baseball game where eating garlic fries led to involuntary flatulence right in front of Jim Armintrout, an audio engineering colleague he deeply admired.
 - He also recalled a bizarre chapter from his bachelor years on Vallejo Street near Union in San Francisco, when an acquaintance absconded with his car and apartment keys, requiring him to scale external fire escapes and climb through bay windows to enter his home.
 
 #### 🕒 9:20 AM – 9:51 AM — King Tide Neighborhood Damage Assessment & Photographic Documentation
@@ -160,7 +160,7 @@ tags:
 
 ### Vulnerability and Humor: Garlic Fries & The Vallejo Street Heist
 - Andy entertained companions with two self-deprecating autobiographical stories illustrating how humor diffuses social shame.
-- The first story captured a mortifying moment of flatulence after eating garlic fries at a Giants baseball game in front of respected audio professional Jim Armstrout, demonstrating that professional dignity survives bodily mishaps.
+- The first story captured a mortifying moment of flatulence after eating garlic fries at a Giants baseball game in front of respected audio professional Jim Armintrout, demonstrating that professional dignity survives bodily mishaps.
 - The second story recounted surviving the theft of his vehicle and house keys on Vallejo Street in San Francisco, turning an infuriating past crisis into an amusing testament to practical resourcefulness.
 
 ### Documenting King Tide Flooding on Corte Madera Creek
@@ -206,9 +206,9 @@ tags:
 ## 🗣️ Personal Monologues & Direct Thoughts
 
 #### 🕒 8:50 AM – 8:55 AM — Laughing at Imperfection (`Morning Reflection`)
-**Humorous Memoir & Self-Acceptance — Garlic Fries and Jim Armstrout**  
+**Humorous Memoir & Self-Acceptance — Garlic Fries and Jim Armintrout**  
 *Context: Andy recounting a classic embarrassing workplace memory to friends.*  
-> "I was sitting right there with Jim Armstrout—someone I had enormous respect for in the broadcast audio world—and I had just put away an entire basket of those intense garlic fries. My stomach was knotted up, and before I could even flinch, it happened. Total mortification! But you know, we take ourselves so damn seriously in this life. When your body does something embarrassing, you can either drown in humiliation or realize that we are all just fragile, ridiculous human animals. Once you learn to laugh at yourself, nobody can ever use your imperfections against you."
+> "I was sitting right there with Jim Armintrout—someone I had enormous respect for in the broadcast audio world—and I had just put away an entire basket of those intense garlic fries. My stomach was knotted up, and before I could even flinch, it happened. Total mortification! But you know, we take ourselves so damn seriously in this life. When your body does something embarrassing, you can either drown in humiliation or realize that we are all just fragile, ridiculous human animals. Once you learn to laugh at yourself, nobody can ever use your imperfections against you."
 
 #### 🕒 4:30 PM – 4:36 PM — The Architecture of Clarity (`System Design Directive`)
 **Workflow Philosophy — Decoupling Raw Transcripts from Daily Notes**  
@@ -249,7 +249,7 @@ tags:
 - **"The King Tide High-Water Mark"** — Photographic and somatic benchmarks for evaluating community flood vulnerability (`9:30 AM`).
 
 ### Notable Names & Works Mentioned
-- **Jim Armstrout** — Respected audio broadcast engineer featured in Andy's humorous stadium anecdote (`8:45 AM`).
+- **Jim Armintrout** — Respected audio broadcast engineer featured in Andy's humorous stadium anecdote (`8:45 AM`).
 - **Patrick** — Neighborhood resident on Larkspur Plaza Dr whose vehicle was relocated during King Tide flooding (`9:25 AM`).
 - **Audel** — Monday SDRT collaborator whose attendance boundary (Mondays only) was formally verified (`1:25 PM`).
 - **Karl Marx & Friedrich Engels** — 19th-century political economists whose critiques of industrial labor and surplus value were examined (`7:40 PM`).

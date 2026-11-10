@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "M_Music Production 1"
+category: "research"
+---
+
+do you recognize this sound i'm sure you do in one way or another it's one of the most beloved sounds in dance music but what's the sound called and how did it get that way let's go back in time it's the early '9s and his song Show Me Love by Rubiness hasn't been very successful but this Swedish DJ called Stonebridge is going to change that he's looking for work so he calls this label asking for something to remix and guess show me love his first version is rejected so on his next attempt he replaces the bass with a new sound and this sound isn't even a bass it's an organ and he thinks it's me he stands in reluctantly and gets a smash hit while also inventing something new cuz this organ base really spreads as used by Beyonce surprisingly big hit in the original synth it's even more iconic than you think the name of it is the Corgan one from 1988 if you know patch 17 organ 2 that's the sound but there's more apart from being this famous bass sound it was used as a chord instrument in this absolute classic so what's so special about this sound a big part of it is that he's playing two notes at once here's just one note and the second part of the sound is staying seven semmit tones up at all times this forms a perfect fifth make it like half a chord instrument which is why I just start on a kick and fit complete and by just putting it back bit and making it a little bit snappier you got a sound of one of the best songs in history have a nice day we're getting close to subscribe yes thanks

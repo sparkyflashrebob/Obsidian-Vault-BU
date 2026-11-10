@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "D_Advocacy and Resistance"
+category: "research"
+---
+
+so i'm an introvert and it may seem like as an introvert i'd be the last person you'd expect to host networking events but on the contrary i actually want to argue to you that it's the best possible thing to do because most networking events have been created by extroverts for other extroverts they are loud they are noisy and they are frenetic they are undifferentiated masses of people and you don't necessarily know who's there or why they're there or who they are and you have to plunge into this group and somehow try to extract a meaningful interaction out of it doesn't work that well instead especially although not exclusively if you're an introvert what you can do that is far more targeted and efficient is to host your own event you can make it exactly how you like it and optimize it so that you really can get to know people in a meaningful way for instance for me this means having smaller groups in quieter environments and you know who's there and who is coming you can even send out information in advance to tell other people who the guests are so that people can prepare in advance if they wish to do so this is a lot better than going to somebody else's event and hoping you'll meet the right person instead by curating the event people will be grateful to you for having done so and you'll have created an environment that is optimized for you and people like you to shine and to get to know each other and build real relationships

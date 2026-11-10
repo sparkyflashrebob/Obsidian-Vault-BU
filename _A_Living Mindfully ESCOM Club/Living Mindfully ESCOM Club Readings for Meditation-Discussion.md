@@ -252,3 +252,50 @@ A curated collection of short readings, poems, and excerpts for the weekly Livin
 - **Reflection Prompts:**
   - *"What does it feel like in your body when you hold onto an old resentment, versus the felt sense of setting it down?"*
   - *"The Hawaiian word for forgiveness, 'Kala,' means to loosen, unbind, or set free. Who or what might you give yourself permission to gently unbind today—including yourself?"*
+
+
+## Other alternatives
+
+### Option 1: Clarissa Pinkola Estés — _We Were Made for These Times_
+
+> "Ours is not the task of fixing the entire world all at once, but of stretching out to mend the part of the world that is within our reach. Any small, calm thing that one soul can do to help another soul, to assist some portion of this poor suffering world, will help immensely. It is not given to us to know which acts or by whom, will cause the critical mass to tip toward an enduring good. What is needed for dramatic change is an accumulation of acts, adding, adding to, adding more, continuing."
+
+**Why it works:**
+
+Post-election days often bring acute overwhelm—a sense that the world is too vast, fractured, or impossible to heal. Estés releases the burden of solving everything at once, gently steering attention back to the present moment and the small, tangible circle of care within arm's reach.
+
+**Reflection Prompts:**
+
+- "What is one 'small, calm thing' within your reach today that restores your sense of agency?"
+    
+- "When the broader world feels overwhelming, how do you gently bring your attention back to your immediate sphere of care?"
+    
+
+### Option 2: Howard Thurman — _The Centering Moment_
+
+> "There is in each of us a capacity for quietude, for rest, for renewal. To enter into this quietude is to allow the spirit to catch up with the body, to let the dust settle so that the eye can see clearly again. Do not be in a hurry. Let the heart have its quiet time, that you may look out upon the world not with panic, but with steady eyes and an open heart."
+
+**Why it works:**
+
+Howard Thurman was a philosopher, civil rights mentor, and contemplative. His words honor the nervous system's need to rest after prolonged tension and media noise. It shifts the room from reactive fight-or-flight energy into spacious presence before asking anyone to make sense of what comes next.
+
+**Reflection Prompts:**
+
+- "Where in your body are you holding the noise and hurry of this week, and what does it feel like to give your spirit permission to 'catch up'?"
+    
+- "What helps your eyes look at the world steadily rather than reactively?"
+    
+
+### Option 3: Pema Chödrön — _When Things Fall Apart_
+
+> "We think that the point is to pass the test or to overcome the problem, but the truth is that things don’t really get solved. They come together and they fall apart. Then they come together again and fall apart again. It’s just like that. The healing comes from letting there be room for all of this to happen: room for grief, for relief, for misery, for joy."
+
+**Why it works:**
+
+Elections naturally divide people into camps of winners and losers, relief and distress. Chödrön’s insight addresses the cyclical nature of life without taking sides. It validates whatever emotion a participant walked into the room carrying, offering spacious acceptance rather than forced optimism.
+
+**Reflection Prompts:**
+
+- "Can you allow whatever you are feeling right now—fatigue, hope, grief, or uncertainty—to simply exist without needing to fix or judge it?"
+    
+- "How does recognizing the ebb and flow of circumstances soften your resistance to this moment?"

@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "M_Music Production 1"
+category: "research"
+---
+
+what's that rhythm in most songs you can count the four to the 1 2 3 4 and these can be split into eight notes 1 and 2 and 3 and four and or four 16th notes 1 and 2 and 3 and four but what if you split them into three how would that sound we got a triplet rhythm so each bit is split into three parts to 1 2 3 4 go one and a two and a three and a four but usually you might not play all of them but keeping the feel so why triplets well it has certain character to it been used in thousands of hits like Ste Wonder or Katy Perry the Spacewoman I or this home part from a a better corn era one and a two and a three and a So the thing about triplets it affects the feel of the song quite a lot almost feeling like a different tempo let's switch back to eighth notes and notice the fill ready this the same tempo but even now that the bit only uses eight notes we can still have useful triplets like in a melody they have this sort of reaching feel or you can use the common triplet rap flow surprisingly easy to fill in the words liberty gravity only on Saturday another cool technique are sneaking them in sparsely so they're more impactful so is it hard to do in a music program not really my font you program probably splits them into something even change it to a third of a beat go ham with that project on Patreon song is out have a nice day and subscribe for more vids

@@ -1,1 +1,0 @@
-https://www.upworthy.com/story-boots-explains-economic-inequality-rp4

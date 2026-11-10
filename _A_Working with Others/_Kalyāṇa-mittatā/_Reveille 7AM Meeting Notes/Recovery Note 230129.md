@@ -32,7 +32,7 @@ There was no phone number to call; regular meetings were to materialize much lat
 AA Grapevine Inc. Emotional Sobriety I (pp. 99-100). AA Grapevine, Inc.. Kindle Edition. 
 
 
-[[Dharma Reminders]]
+[[_Misc Unsorted/Dharma Reminders]]
 What I Hear
 
 Suites me to be sober and it suits my family to be sober 

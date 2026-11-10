@@ -1,5 +1,0 @@
-[[habitual ways of thinking]]
-[[avoiding]]
-[[resisting]]
-[[liking and not liking]]
-[[hating]]

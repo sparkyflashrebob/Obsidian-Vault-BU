@@ -1,0 +1,23 @@
+# Elasound NZ007 Transcript - Monday, November 09, 2026
+
+**Date**: 2026-11-09  
+**Source Device**: Elasound NZ007 Wearable Hardware Recorder  
+**Original File**: `V2026-11-09-14-20-33.WAV`  
+**Time Span**: 02:20:33 PM – 04:20:33 PM PST  
+**Total Duration**: 2h 0m 0s  
+**Participants**: Andy McGuire, Andrea McGuire, Interlocutors  
+
+---
+
+## 🎙️ Session: Elasound Recording (02:20:33 PM – 04:20:33 PM PST)
+
+- **Source File**: `V2026-11-09-14-20-33.WAV`
+- **Audio Specs**: 24,000 Hz, stereo, ADPCM IMA WAV
+
+- **[02:20:33 PM] Andy**: and unified. I have a good dog. You have a good kind of dog. Okay. Okay. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Perfect. You know, I'm painting the grandmas verse.
+
+- **[02:24:16 PM] Andy**: I heard awesome, yeah. I didn't mean to pry at all, but I'm interested in the food. So I beat different pocks on their connection, really not with fooding Buddha at all, and really so really cool. That's how I connect with them. I actually want to, as soon as I go to the dentist center and they die there, forget his So they have a center here and you can go and meditate. You can go out to the point and raise. Wow. Yeah, you can just call up and say, hey, you have to schedule a few foots. There's a pedagogy for out and it's like raise. Yeah, but it's private. So you have to connect with them and then they hook you up and you just drive in and put your stuff in the picture here and you're there for a few days. I think it's four days, you know, than actually. It is lovely if you need a month to get a week. But anyway, that's how I connected with it. Yeah, you're welcome. What's your name? Radika. Okay, Radika. I'm Andy. Please, please do that by hearing your performance. I was actually just doing the songs that the music they're playing here is kind of spiritual. It was that song. I thought you had to play it. Oh, that's wonderful. I'm sorry to take your away from your little book. Now I stream every time. But I can't, I can rip it if you don't mind me ripping it. You know what I mean? I put it on my computer and then I can play it in the closet. Then it doesn't even seem like they. Okay, yeah Are you on the app? I'm on the park mobile app. Yeah, I think you can Yeah, you can, I think you can have
+
+- **[02:39:36 PM] Andy**: I'll work you up and maybe I'll say hi. Cool. I'm not going to get back into the door. Oh, wow. Where at? Open Hills. Oh, I'm hoping you're doing an open hill. Cool. Cool, all right. Next door, my kids. So, if you get on the list, you get on the menu. And then, I'll let you know about that. So, do you know who I'm on? I'm on the puppy, right now. So, sometimes I've gone to the, she has a center over in Capitol Valley that they, well, this is before COVID. I don't know if they'd carry it up back there, but that would go on this and, you know, they do curtain every Saturday, open house, I have a big meal, it was really good community. I got used to it. Yeah, it's beautiful. Yeah, I do like that. So thank you very much. Thank you. Thank you. You take care of yourself. All right. So what are you? I'm trying to get you? Yeah, so I like it. And also, some of them are good. So then they also stay at home. So they have a good thing. So what are you doing? I like it. I like it. I like it. I like it. I like it. I like it.
+
+- **[02:42:40 PM] Andy**: I'm a part of the science industry as well. The folks were incredible. And when many scholars, people were actually interested in the scientists of society, I was really impressed by all of the people that they created. I was very, very impressed with that. I was very, very impressed with that. Couple days ago. Thank you. She was just at the, I'll tell you when I get home. I got, I have my, okay, it's sent. right now there's one more car spot in the back if you want. Otherwise you could try to go to your dry spot right now. I'm going to go to our park carport real quick and then we'll talk about moving it. Okay. The carport in the in the back there's a parking spot if you want to park there. Okay. Because I have to walk a long way to bring the groceries in. I'll go ahead. I'll just walk a long way to get the groceries in. I can get in there. You're not hearing me. I'm in the carport right now. I want to put the groceries in the car in the house and if you're gonna be right behind me there's a spot in the car in the car lot in our lot in the back. Why didn't she just stay where you are? That's what I was saying a few minutes ago. Okay, I didn't understand. I'm driving. Okay, I'm, I'm, okay, gotcha. Alright, see ya. Bye. Okay, patience, patience, patience Andy. Patience, I said all of that. That was open the car for two.

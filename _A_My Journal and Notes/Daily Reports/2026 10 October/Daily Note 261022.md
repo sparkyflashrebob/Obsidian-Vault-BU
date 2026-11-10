@@ -237,6 +237,7 @@ tags:
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
 ### 1️⃣ Living Mindfully ESCOM Club Meeting at College of Marin (02:00 PM – 03:30 PM PDT)
+📄 **Dedicated Dharma Talk Report**: [[Living Mindfully ESCOM Meeting Report - 2026-10-22|Living Mindfully ESCOM Meeting Report — October 22, 2026]]
 * **Context & Location**: Bi-weekly contemplative senior gathering held in-person at College of Marin (Kentfield campus) and simultaneously broadcast via Zoom.
 * **Participants**: Andy McGuire (Facilitator), Andrea McGuire, Nick F. (Online participant).
 * **Key Points & Facilitation**:

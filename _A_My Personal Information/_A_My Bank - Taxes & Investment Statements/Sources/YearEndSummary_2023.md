@@ -1,0 +1,924 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Bank - Taxes & Investment Statements"
+category: "personal"
+---
+
+# 2022 Summary of transactions
+
+# Account number ending
+
+# 7069
+
+# Account information
+
+# View your account information
+
+# We're here to help
+
+# Questions about your account?
+
+# Please call the customer service
+
+# number on the back of your
+
+# credit card.
+
+# Online account tools
+
+# Change email
+
+# Change personal information
+
+# More services
+
+# Prepared for:
+
+# RONALD A MCGUIRE & ANDREA M AXTELL
+
+# 2022 year-end summary of credit card transactions
+
+# This statement takes a look at how, when and where you used your credit card ending in 7069 between
+
+# January 1, 2022, and December 31, 2022. While this report is for informational purposes only, you may find it
+
+# useful when making a budget, preparing your taxes or reviewing how you use your credit card for different
+
+# types of purchases.
+
+# Note: This summary includes transaction activity from any upgraded, lost, or stolen accounts. Charges from
+
+# December 2022 that did not post until January 2023 are not included in this recap.
+
+# Account snapshot
+
+# *Total spent*
+
+# $19,040.21
+
+# *Total interest*
+
+# Refer to your credit card statement for total interest
+
+# on your account.
+
+# Page 1 of 8
+
+# $5,682.53
+
+# *Merchandise*
+
+# $4,367.57
+
+# *Travel and*
+
+# *Transportation*
+
+# $3,808.96
+
+# *Health*
+
+# $2,360.75
+
+# *Utilities*
+
+# $1,377.46
+
+# *Entertainment*
+
+# $1,442.94
+
+# *All Other*
+
+# *Categories*
+
+# Here's how you used your credit card in 2022
+
+# Page 2 of 8
+
+# Understanding your spending pattern
+
+# To provide insight into how and where you spend your money, we've summarized your transactions by time
+
+# frame and by type of transaction.
+
+# Monthly spending for 2022
+
+# JAN
+
+#### 425.29
+
+# FEB
+
+#### 2370.55
+
+# MAR
+
+#### 865.91
+
+# APR
+
+#### 919.47
+
+# MAY
+
+#### 460.25
+
+# JUN
+
+#### 2695.14
+
+# JUL
+
+#### 1572.62
+
+# AUG
+
+#### 1254.47
+
+# SEP
+
+#### 5904.46
+
+# OCT
+
+#### 872.67
+
+# NOV
+
+#### 696.27
+
+# DEC
+
+#### 1003.11
+
+# 2022 Summary by month
+
+# *Merchandise*
+
+# *Travel and*
+
+# *Transportation Health Utilities Entertainment*
+
+# *All Other*
+
+# *Categories*
+
+# *Total*
+
+# JANUARY $196.17 $0.00 $0.00 $182.22 $0.00 $46.90
+
+# $425.29
+
+# FEBRUARY $199.66 $1,363.06 $358.36 $181.04 $218.44 $49.99
+
+# $2,370.55
+
+# MARCH $426.26 $0.00 $0.00 $258.03 $141.62 $40.00
+
+# $865.91
+
+# Quarterly total
+
+# $822.09 $1,363.06 $358.36 $621.29 $360.06 $136.89
+
+# $3,661.75
+
+# APRIL $346.16 $49.39 $0.00 $182.23 $316.69 $25.00
+
+# $919.47
+
+# MAY $94.61 $0.00 $0.00 $178.02 $0.00 $187.62
+
+# $460.25
+
+# JUNE $754.43 $1,608.90 $0.00 $178.02 $59.60 $94.19
+
+# $2,695.14
+
+# Quarterly total
+
+# $1,195.20 $1,658.29 $0.00 $538.27 $376.29 $306.81
+
+# $4,074.86
+
+# JULY $914.28 $145.65 $0.00 $202.32 $139.80 $170.57
+
+# $1,572.62
+
+# AUGUST $497.66 $131.11 $72.00 $194.23 $219.92 $139.55
+
+# $1,254.47
+
+# SEPTEMBER $1,469.21 $719.72 $3,060.00 $194.25 $164.16 $297.12
+
+# $5,904.46
+
+# Quarterly total
+
+# $2,881.15 $996.48 $3,132.00 $590.80 $523.88 $607.24
+
+# $8,731.55
+
+# OCTOBER $517.90 $0.00 $0.00 $212.54 $117.23 $25.00
+
+# $872.67
+
+# NOVEMBER $152.84 $0.00 $0.00 $188.43 $0.00 $355.00
+
+# $696.27
+
+# DECEMBER $113.35 $349.74 $318.60 $209.42 $0.00 $12.00
+
+# $1,003.11
+
+# Quarterly total
+
+# $784.09 $349.74 $318.60 $610.39 $117.23 $392.00
+
+# $2,572.05
+
+# Page 3 of 8
+
+# Preparing your taxes
+
+# Here is a list of all your transactions between January 1, 2022 and December 31, 2022. To find out more
+
+# information about itemized deductions such as travel expenses or medical and dental expenses, search "Topic
+
+# 500" at www.irs.gov.
+
+# *Over, please*
+
+# Merchandise $5,682.53
+
+# Clothing $682.01
+
+# *Date Description Location Amount*
+
+# 02/28/22 PAYPAL \*ETSY INC 402-935-7733, NY 2.45
+
+# 03/19/22 PAYPAL \*TEESPRINGIN 402-935-7733, KY 67.54
+
+# 06/13/22 SP TERRITORYAHEAD HTTPSTERRITOR, OH 254.50
+
+# 10/24/22 SP TERRITORYAHEAD HTTPSTERRITOR, OH 357.52
+
+# $682.01
+
+# Food Store $36.00
+
+# *Date Description Location Amount*
+
+# 05/19/22 PAYPAL \*RYZE 402-935-7733, MA 36.00
+
+# $36.00
+
+# Department Store $16.07
+
+# *Date Description Location Amount*
+
+# 10/03/22 PAYPAL \*EBAY US 402-935-7733, CA 16.07
+
+# $16.07
+
+# Other Stores/Retail $3,400.95
+
+# *Date Description Location Amount*
+
+# 01/07/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.17
+
+# 01/20/22 PAYPAL \*TARGETCORPO 402-935-7733, IN 66.47
+
+# 01/21/22 AMAZON.COM\*JA21O6EO3 A AMZN.COMBILL, WA 42.98
+
+# 01/22/22 AMAZON.COM\*188EG17D1 A AMZN.COMBILL, WA 9.98
+
+# 01/22/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.18
+
+# 01/25/22 AMZN MKTP US\*HZ8D72SG3 AMZN.COMBILL, WA 8.97
+
+# 01/27/22 PAYPAL \*BANDCAMP 402-935-7733, CA 3.53
+
+# 02/03/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.42
+
+# 02/03/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.42
+
+# 02/03/22 PAYPAL \*BANDCAMP 402-935-7733, CA 2.00
+
+# 02/08/22 AMZN Mktp US\*R94PH5PS3 Amzn.combill, WA 33.98
+
+# 02/19/22 PAYPAL \*BANDCAMP 402-935-7733, CA 5.68
+
+# 02/28/22 LR\_SUBSCRIPTION HALIFAX, NS 47.88
+
+# 03/01/22 PAYPAL \*AARDVARK 11681 402-935-7733, CA 17.07
+
+# 03/10/22 PAYPAL \*BANDCAMP 402-935-7733, CA 4.00
+
+# 03/11/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 03/17/22 PAYPAL \*BEATPORT 402-935-7733, CO 1.29
+
+# 03/19/22 AMZN Mktp US\*1N7V43BD1 Amzn.combill, WA 24.76
+
+# 03/21/22 AMZN Mktp US\*1N32S7661 Amzn.combill, WA 32.90
+
+# 03/28/22 AMZN Mktp US\*1N02J4R52 Amzn.combill, WA 24.12
+
+# 03/28/22 AMZN Mktp US\*1N5SA4R92 Amzn.combill, WA 41.03
+
+# 04/08/22 PAYPAL \*BEATPORT 402-935-7733, CO 1.29
+
+# 04/08/22 PAYPAL \*BEATPORT 402-935-7733, CO 1.29
+
+# 04/14/22 PAYPAL \*LLBEANINC 402-935-7733, ME 86.89
+
+# 04/14/22 WHOLE EARTH PROVISION 512-4761555, TX 88.99
+
+# 04/16/22 Prime Video\*1A7101V70 888-802-3080, WA 1.98
+
+# 04/28/22 PAYPAL \*BANDCAMP 402-935-7733, CA 2.62
+
+# 05/09/22 PAYPAL \*TWELVE24COC 402-935-7733, CA 30.85
+
+# 05/11/22 PAYPAL \*BEATPORT 402-935-7733, CO 1.29
+
+# 05/16/22 PAYPAL \*BEATPORT 402-935-7733, CO 1.29
+
+# 05/18/22 PAYPAL \*MERCARI 888-32 402-935-7733, CA 20.18
+
+# Page 4 of 8
+
+# *Over, please*
+
+# *Continued*
+
+# *Date Description Location Amount*
+
+# 05/21/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 05/21/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 05/21/22 PAYPAL \*BANDCAMP 402-935-7733, CA 3.00
+
+# 06/03/22 REUSENOTEBOOK.US LONDON 29.99
+
+# 06/04/22 AMZN Mktp US\*2X74D1HZ3 Amzn.combill, WA 42.40
+
+# 06/06/22 PAYPAL \*STEAM GAMES 402-935-7733, WA 24.99
+
+# 06/11/22 AMZN DIGITAL\*118541BP2 888-802-3080, WA 12.49
+
+# 06/13/22 AMZN Digital\*1I8YY6MT3 888-802-3080, WA 10.99
+
+# 06/13/22 AMZN Digital\*8R2TY0BY3 888-802-3080, WA 1.99
+
+# 06/13/22 AMZN Digital\*LO6ZY2HJ3 888-802-3080, WA 9.99
+
+# 06/16/22 PAYPAL \*PDTRADINGLI 25 35314369001 17.28
+
+# 06/20/22 AMZN Digital\*CB2MR9EA3 888-802-3080, WA 13.99
+
+# 06/20/22 PAYPAL \*BANDCAMP 402-935-7733, CA 24.63
+
+# 06/22/22 AMZN Mktp US\*1L9SY6IT3 Amzn.combill, WA 25.43
+
+# 06/27/22 AMZN Mktp US\*LS3ZC2H43 Amzn.combill, WA 10.86
+
+# 07/04/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 07/04/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 07/05/22 AMZN Digital\*JX2RW9FR3 888-802-3080, WA 8.99
+
+# 07/11/22 AMZN Digital\*E61UR3RS3 888-802-3080, WA 6.99
+
+# 07/11/22 PAYPAL \*SUTERA 402-935-7733, CA 53.42
+
+# 07/12/22 PAYPAL \*SMARTWOOL 402-935-7733, CO 108.53
+
+# 07/14/22 PAYPAL \*BANDCAMP 402-935-7733, CA 0.87
+
+# 07/14/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.25
+
+# 07/22/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 07/27/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.00
+
+# 08/01/22 IN \*FOREST LEARNING CE TOUTLE, WA 121.65
+
+# 08/02/22 AB\* ABEBOOKS.CO JFRGQT HTTPSWWW.ABEB, WA 10.31
+
+# 08/02/22 AB\* ABEBOOKS.CO JFRGQZ HTTPSWWW.ABEB, WA 52.01
+
+# 08/03/22 AMZN Digital\*0A0EU4593 888-802-3080, WA 9.99
+
+# 08/03/22 AMZN Digital\*UX7TS3TA3 888-802-3080, WA 13.99
+
+# 08/04/22 AB\* ABEBOOKS.CO JFRGQS VICTORIA, BC 13.62
+
+# 08/05/22 AMZN Digital\*8K2DJ2E33 888-802-3080, WA 27.50
+
+# 08/05/22 AMZN Digital\*RP3W87333 888-802-3080, WA 47.37
+
+# 08/05/22 AMZN Digital\*U59O258R3 888-802-3080, WA 9.99
+
+# 08/06/22 AMZN Digital\*AD4461AF3 888-802-3080, WA 28.50
+
+# 08/08/22 AMZN Digital\*E38RS9Z63 888-802-3080, WA 7.99
+
+# 08/08/22 AMZN Digital\*GL32916C3 888-802-3080, WA 6.99
+
+# 08/11/22 AMZN Mktp US\*9P6AQ98F3 Amzn.combill, WA 9.34
+
+# 08/11/22 AMZN Mktp US\*A55O74C93 Amzn.combill, WA 9.78
+
+# 08/15/22 AMZN Digital\*XY8708TK3 888-802-3080, WA 12.99
+
+# 08/17/22 AMZN Digital\*ZM3XI3EU3 888-802-3080, WA 12.99
+
+# 08/26/22 AMZN Mktp US\*K82851L83 Amzn.combill, WA 35.24
+
+# 08/29/22 AMZN MKTP US\*C468K4HT3 AMZN.COMBILL, WA 59.81
+
+# 08/31/22 AMZN Mktp US\*1V8SO3X21 Amzn.combill, WA 7.60
+
+# 09/05/22 AMZN Mktp US\*1V03E2HP0 Amzn.combill, WA 22.57
+
+# 09/05/22 AMZN Mktp US\*1V5T67HO0 Amzn.combill, WA 25.83
+
+# 09/05/22 AMZN Mktp US\*HZ39M0IH3 Amzn.combill, WA 64.70
+
+# 09/05/22 GUILFORD PUBLICATIONS 212-431-9800, NY 33.14
+
+# 09/05/22 Kindle Svcs\*1V0UW78A0 888-802-3080, WA 14.96
+
+# 09/05/22 Kindle Svcs\*1V1010BS0 888-802-3080, WA 14.99
+
+# 09/05/22 Kindle Svcs\*1V1XE1QU0 888-802-3080, WA 13.99
+
+# 09/05/22 Kindle Svcs\*1V7U488P0 888-802-3080, WA 6.95
+
+# 09/05/22 PAYPAL \*PADDLE.COM 35314369001 15.00
+
+# 09/05/22 PAYPAL \*PADDLE.COM 35314369001 69.70
+
+# 09/05/22 SP ALL33 CHAIRS HTTPSMOVEALL3, CA 923.29
+
+# 09/06/22 Kindle Svcs\*1V1FW2PE2 888-802-3080, WA 9.99
+
+# 09/07/22 AMAZON.COM\*1V8SK5R70 A AMZN.COMBILL, WA 16.39
+
+# 09/07/22 AMZN Mktp US\*1V9TU5HH2 Amzn.combill, WA 22.83
+
+# 09/07/22 PAYPAL \*SOMAFM COM 402-935-7733, CA 7.99
+
+# 09/10/22 AMZN Mktp US\*1V66I3RK2 Amzn.combill, WA 82.44
+
+# 09/13/22 Amazon.com\*1F8BE7VI2 Amzn.combill, WA 13.00
+
+# 09/21/22 AMZN Mktp US\*1M9MH7WO0 Amzn.combill, WA 14.13
+
+# 09/22/22 PAYPAL \*PEARSONEDUC 402-935-7733, NJ 17.50
+
+# 09/23/22 Kindle Svcs\*1U50744W0 888-802-3080, WA 7.99
+
+# 09/24/22 AMAZON.COM\*1U7ZG70S0 A AMZN.COMBILL, WA 21.73
+
+# 09/26/22 Kindle Svcs\*1U1WP4GC0 888-802-3080, WA 11.99
+
+# Page 5 of 8
+
+# *Over, please*
+
+# *Continued*
+
+# *Date Description Location Amount*
+
+# 09/26/22 Kindle Svcs\*1U2YH53R2 888-802-3080, WA 14.99
+
+# 09/26/22 Kindle Svcs\*1U82K3MK1 888-802-3080, WA 21.99
+
+# 09/28/22 PAYPAL \*BANDCAMP 402-935-7733, CA 1.13
+
+# 10/03/22 AMZN MKTP US\*142610XD0 AMZN.COMBILL, WA 19.56
+
+# 10/03/22 AMZN Mktp US\*149ZP70X2 Amzn.combill, WA 10.89
+
+# 10/05/22 AMZN Mktp US\*1K0BH3CP0 Amzn.combill, WA 27.24
+
+# 10/06/22 Kindle Svcs\*1415U6SN2 888-802-3080, WA 2.99
+
+# 10/06/22 Kindle Svcs\*146ZZ1WQ1 888-802-3080, WA 18.99
+
+# 10/07/22 PAYPAL \*SOMAFM COM 402-935-7733, CA 7.99
+
+# 10/17/22 Kindle Svcs\*HT7F572C0 888-802-3080, WA 11.99
+
+# 10/24/22 AMZN Mktp US\*H87WP64M2 Amzn.combill, WA 8.69
+
+# 10/31/22 Kindle Svcs\*H00N66ID0 888-802-3080, WA 9.99
+
+# 10/31/22 Kindle Svcs\*H05B867O0 888-802-3080, WA 11.99
+
+# 10/31/22 Kindle Svcs\*H08G086P1 888-802-3080, WA 13.99
+
+# 11/02/22 AMZN Mktp US\*H061T10H2 Amzn.combill, WA 6.53
+
+# 11/02/22 Kindle Svcs\*H03DQ29T1 888-802-3080, WA 13.49
+
+# 11/07/22 PAYPAL \*SOMAFM COM 402-935-7733, CA 2.43
+
+# 11/11/22 Kindle Svcs\*H23EL0HK2 888-802-3080, WA 12.99
+
+# 11/14/22 Kindle Svcs\*HB1VB49V0 888-802-3080, WA 6.99
+
+# 11/14/22 Kindle Svcs\*HB5LQ1851 888-802-3080, WA 9.99
+
+# 11/14/22 Kindle Svcs\*HB90K6D40 888-802-3080, WA 11.98
+
+# 11/21/22 AMZN Mktp US\*HI61I1AV2 Amzn.combill, WA 26.15
+
+# 11/21/22 AMZN Mktp US\*HI7VP2RE0 Amzn.combill, WA 15.25
+
+# 11/23/22 Kindle Svcs\*HI9SH4QO2 888-802-3080, WA 11.99
+
+# 11/23/22 Kindle Svcs\*HW7YA7AA0 888-802-3080, WA 11.99
+
+# 11/25/22 Kindle Svcs\*HW2XO05O0 888-802-3080, WA 9.99
+
+# 11/28/22 AMZN Mktp US\*HW4J93I00 Amzn.combill, WA 13.07
+
+# 12/03/22 Kindle Svcs\*R75N77O43 888-802-3080, WA 10.98
+
+# 12/05/22 Kindle Svcs\*1E50H0LP3 888-802-3080, WA 12.99
+
+# 12/05/22 Kindle Svcs\*7F7CG0913 888-802-3080, WA 12.98
+
+# 12/05/22 Kindle Svcs\*F35IC0R83 888-802-3080, WA 12.99
+
+# 12/05/22 Kindle Svcs\*GR25K3Q73 888-802-3080, WA 10.99
+
+# 12/06/22 AMZN MKTP US\*VK3RO46D3 AMZN.COMBILL, WA 10.57
+
+# 12/07/22 KINDLE SVCS\*UF5I632O3 888-802-3080, WA 14.98
+
+# 12/07/22 PAYPAL \*SOMAFM COM 402-935-7733, CA 7.99
+
+# 12/08/22 Kindle Svcs\*7M3620473 888-802-3080, WA 7.99
+
+# 12/12/22 AMAZON.COM\*E09YT5MY3 A AMZN.COMBILL, WA 10.89
+
+# $3,400.95
+
+# Electronics $1,547.50
+
+# *Date Description Location Amount*
+
+# 01/03/22 PAYPAL \*OUTPUT 402-935-7733, CA 32.00
+
+# 01/18/22 PAYPAL \*DIGITALRIVE SI 35314369001 29.89
+
+# 02/07/22 1PASSWORD TORONTO, ON 59.85
+
+# 02/11/22 PAYPAL \*TLH 402-935-7733, CA 44.98
+
+# 03/30/22 GUITARCENTER.COM CALL 866-498-7882, UT 212.55
+
+# 04/12/22 PAYPAL \*SWEETWATER 402-935-7733, IN 163.10
+
+# 06/22/22 PRESONUS AUDIO ELECTRO 225-216-7887, LA 274.90
+
+# 07/06/22 ECTACO 718-728-6110, NY 529.00
+
+# 07/09/22 PAYPAL \*PLUGINBOUTI 35314369001 51.19
+
+# 07/16/22 PAYPAL \*EVERNOTE 402-935-7733, CA 52.49
+
+# 07/18/22 PAYPAL \*EVERNOTE 402-935-7733, CA 47.37
+
+# 07/27/22 PAYPAL \*PLUGINBOUTI 35314369001 50.18
+
+# $1,547.50
+
+# 
+
+# For travel deductions, search
+
+# "Topic 511" at www.irs.gov
+
+# Travel and Transportation $4,367.57
+
+# Auto Rental $577.35
+
+# *Date Description Location Amount*
+
+# 04/04/22 DOLLAR 0058413 PENSACOLA, FL 49.39
+
+# 06/17/22 HERTZ 0103002 HERTZ PPAY, OK 396.85
+
+# 08/01/22 HERTZ 0731603 PORTLAND, OR 131.11
+
+# $577.35
+
+# Page 6 of 8
+
+# *Over, please*
+
+# *Continued*
+
+# Gas Station $75.20
+
+# *Date Description Location Amount*
+
+# 07/29/22 CHEVRON 0203301 TACOMA, WA 75.20
+
+# $75.20
+
+# Airline $1,470.27
+
+# *Date Description Location Amount*
+
+# 02/02/22 SOUTHWESTAIR 4029357733, TX 137.97
+
+# 02/14/22 AMERICAN AIR0017745196 FORT WORTH, TX 468.20
+
+# 02/14/22 AMERICAN AIR0017745196 FORT WORTH, TX 468.20
+
+# 06/18/22 SOUTHWESTAIR 4029357733, TX 197.95
+
+# 06/18/22 SOUTHWESTAIR 4029357733, TX 197.95
+
+# $1,470.27
+
+# Hotels $1,388.78
+
+# *Date Description Location Amount*
+
+# 06/16/22 PAYPAL \*AIRBNB HMH8PN 4029357733, CA 440.38
+
+# 06/17/22 PAYPAL \*AIRBNB HMW8WP 4029357733, CA 161.86
+
+# 09/12/22 REVERSE CREEK LODGE JUNE LAKE, CA 436.80
+
+# 12/09/22 HILTON HOTELS 707-4331300, CA 349.74
+
+# $1,388.78
+
+# Other Travel/Transportation $855.97
+
+# *Date Description Location Amount*
+
+# 02/10/22 FLIGHTHUB 8009001431 800-900-1431, WA 99.60
+
+# 02/10/22 PAYPAL \*PRICELINE 402-935-7733, CT 189.09
+
+# 06/16/22 PAYPAL \*PRICELINE 402-935-7733, CT 161.91
+
+# 06/16/22 PRICELN\*TVL PROTECT 800-774-2354, CT 52.00
+
+# 07/25/22 PAYPAL \*PARTS GEEK 402-935-7733, PA 28.42
+
+# 07/28/22 PORTLAND PARKING KITTY 503-8234012, OR 1.60
+
+# 07/29/22 Port of Cascade Locks, 704-817-2500, NC 2.35
+
+# 07/30/22 PARKWHIZ, INC. 8884727594, IL 33.08
+
+# 07/30/22 RPNW - OFF STREET COT TACOMA, WA 5.00
+
+# 09/21/22 PAYPAL \*PARTS GEEK 402-935-7733, PA 28.42
+
+# 09/30/22 TOYOTA MARIN SERVICE SAN RAFAEL, CA 254.50
+
+# $855.97
+
+# 
+
+# For the deduction of medical care
+
+# expenses, search "Topic 502" at
+
+# www.irs.gov
+
+# Health $3,808.96
+
+# Health Care $3,808.96
+
+# *Date Description Location Amount*
+
+# 02/01/22 ROMEO C AGBAYANI JR GREENBRAE, CA 358.36
+
+# 08/23/22 SMA DENTAL CORTE MADERA, CA 72.00
+
+# 09/23/22 SMA DENTAL CORTE MADERA, CA 3,060.00
+
+# 12/13/22 SMA DENTAL CORTE MADERA, CA 318.60
+
+# $3,808.96
+
+# Utilities $2,360.75
+
+# Utilities $2,360.75
+
+# *Date Description Location Amount*
+
+# 01/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 182.22
+
+# 02/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 181.04
+
+# 03/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 194.09
+
+# 03/17/22 GOOGLE \*Google Store 855-836-3987, CA 63.94
+
+# 04/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 182.23
+
+# 05/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 178.02
+
+# 06/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 178.02
+
+# 07/05/22 COMCAST CALIFORNIA 800-COMCAST, CA 202.32
+
+# 08/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 194.23
+
+# 09/05/22 COMCAST CALIFORNIA 800-COMCAST, CA 194.25
+
+# 10/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 212.54
+
+# 11/04/22 COMCAST CALIFORNIA 800-COMCAST, CA 188.43
+
+# Page 7 of 8
+
+# *Over, please*
+
+# *Continued*
+
+# *Date Description Location Amount*
+
+# 12/05/22 COMCAST CALIFORNIA 800-COMCAST, CA 209.42
+
+# $2,360.75
+
+# Entertainment $1,377.46
+
+# Recreation $48.61
+
+# *Date Description Location Amount*
+
+# 06/09/22 PAYPAL \*VINYL LIVES 68 402-935-7733, CA 8.26
+
+# 06/16/22 PAYPAL \*VINYL LIVES 68 402-935-7733, CA 9.35
+
+# 09/15/22 GOLDEN GATE FERRY I 800-352-0212, CA 31.00
+
+# $48.61
+
+# Dining $1,328.85
+
+# *Date Description Location Amount*
+
+# 02/05/22 DOORDASH\*PINGS MANDARI WWW.DOORDASH., CA 75.91
+
+# 02/15/22 TST\* Roma Antica Larks Larkspur, CA 84.85
+
+# 02/28/22 DD DOORDASH TAQUERIAB 855-973-1040, CA 57.68
+
+# 03/07/22 TST\* Gotts Roadside - 415-785-4233, CA 65.09
+
+# 03/31/22 DD DOORDASH PINGSMAND 855-973-1040, CA 76.53
+
+# 04/02/22 MCGUIRES IRISH PUB PENSACOLA, FL 253.44
+
+# 04/11/22 MY THAI RESTAURANT SAN RAFAEL, CA 63.25
+
+# 06/13/22 HIGH TECH BURRITO - MI 877-8144102, CA 41.99
+
+# 07/29/22 CHERYLS ON 12TH PORTLAND, OR 54.69
+
+# 07/30/22 HEARTHFIRE GRILL OLYMP OLYMPIA, WA 85.11
+
+# 08/01/22 FISHERMANS RESTAURANT SEATTLE, WA 146.64
+
+# 08/29/22 CHEESECAKE CORTE MADER CORTE MADERA, CA 73.28
+
+# 09/05/22 LUNDY'S HOME COOKING SAN RAFAEL, CA 71.50
+
+# 09/12/22 Farm House Local Larkspur, CA 61.66
+
+# 10/06/22 THE TIDES BODEGA BAY, CA 117.23
+
+# $1,328.85
+
+# 
+
+# For the deduction of tuition and
+
+# related expenses, search "Topic
+
+# 457" at www.irs.gov
+
+# Education
+
+# Education $70.00
+
+# *Date Description Location Amount*
+
+# 05/30/22 BANANAS AT LARGE 415-457-7600, CA 70.00
+
+# $70.00
+
+# Services
+
+# Services $1,372.94
+
+# *Date Description Location Amount*
+
+# 01/11/22 PP\*FASTSPRING 402-935-7733, CA 46.90
+
+# 02/21/22 PAYPAL \*TARA BRACH 402-935-7733, MD 49.99
+
+# 03/24/22 WASH Laundry CA7503154 Larkspur, CA 40.00
+
+# 04/18/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 04/23/22 PP\*FACEBOOK FACEBOOK A 402-935-7733, CA 10.00
+
+# 04/28/22 PP\*FACEBOOK FACEBOOK A 402-935-7733, CA 4.00
+
+# 05/10/22 PAYPAL \*SCIENCENOND 402-935-7733, CA 15.00
+
+# 05/17/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 05/30/22 REBOOT MISSION LLC 415-6219842, CA 66.62
+
+# 05/31/22 PAYPAL \*TRAVELINGNU 402-935-7733, CA 25.00
+
+# 06/09/22 PAYPAL \*WOODY99 106334 402-935-7733, CA 28.19
+
+# 06/11/22 PP\*METAPAY AMERICANCAN 402-935-7733, CA 30.00
+
+# 06/17/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 06/24/22 PAYPAL \*MEDECINSSAN 402-935-7733, NY 25.00
+
+# 07/05/22 AKISMET HYTKCL0A8N HTTPSWORDPRES, CA 36.00
+
+# 07/05/22 PP\*FASTSPRING 402-935-7733, CA 29.95
+
+# 07/09/22 PAYPAL \*ZAZZLECOMIN 402-935-7733, CA 32.88
+
+# 07/18/22 PAYPAL \*BUDDHISTPUB 402-935-7733, CA 24.74
+
+# 07/18/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 07/29/22 AT\* MUSEUMOFGLASS 151-04560182, WA 36.00
+
+# 08/15/22 RECREATION.GOV 877-444-6777, NM 2.00
+
+# 08/16/22 PAYPAL \*GUMROAD ONLINE 402-935-7733, CA 54.80
+
+# Page 8 of 8
+
+# Written disputes must be sent within 60 days of the first statement listing the transaction. The Year-End Summary does not extend an expired billing period. See
+
+# your monthly statement, your Credit Card Agreement or the annual Your Billing Rights notice for details.
+
+# Bank of America Corporation, its affiliates and its financial advisors do not provide legal, tax or accounting advice. You should consult your legal and/or tax advisors
+
+# before making financial decisions. This credit card program is issued and administered by Bank of America, N.A. Bank of America and the Bank of America logo are
+
+# registered trademarks of Bank of America Corporation.
+
+# *Continued*
+
+# *Date Description Location Amount*
+
+# 08/17/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 08/19/22 THE TRICYCLE FOUNDATIO 212-9290320, NY 69.00
+
+# 08/24/22 PAYPAL \*WIKIPEDIA 402-935-7733, CA 2.75
+
+# 09/03/22 CPH WELLNESS AND FITNE 312-690-7272, IL 100.00
+
+# 09/05/22 PAYPAL \*VISTAPRINT 402-935-7733, MA 36.86
+
+# 09/06/22 MEETUP ORG SUB 6M MEETUP.COM, NY 69.26
+
+# 09/10/22 YOSEMITE NP EL PORTAL, CA 80.00
+
+# 09/17/22 PAYPAL \*MAILCHIMP 402-935-7733, GA 11.00
+
+# 10/03/22 PAYPAL \*GIVING FUND 402-935-7733, DC 25.00
+
+# 11/07/22 Google Domains 650-2530000, CA 12.00
+
+# 11/28/22 MARIN CENTER BOX OFFIC 415-4736800, CA 343.00
+
+# 12/02/22 Google Domains 650-2530000, CA 12.00
+
+# $1,372.94
+
+# Thank you for your business!

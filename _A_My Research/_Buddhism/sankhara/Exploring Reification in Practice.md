@@ -75,7 +75,7 @@ When we notice our belly tightening over an email, a conversation, or an anticip
 ---
 
 ### Doorway 3: Deconstructing the Fabricated "I" (Nāgārjuna's Mirror)
-In our practice with [[_A_My Research/_Buddhism/Emptiness/Nāgārjuna|Nāgārjuna's]] examination of identity, we can notice that the sense of an isolated, sovereign "I" is not a continuous entity, but a localized fabrication constructed fresh in reaction to particular circumstances:
+In our practice with [[_A_My Research/_Antigravity Spiritual Reports/Nāgārjuna|Nāgārjuna's]] examination of identity, we can notice that the sense of an isolated, sovereign "I" is not a continuous entity, but a localized fabrication constructed fresh in reaction to particular circumstances:
 
 1. **Noticing When the "Self" Appears**:  
    When we are peacefully listening to music, watching a sunset, or resting in stillness, where is the rigid "self"? There is hearing, seeing, and receptive awareness, but very little "I." The self usually springs into prominence the moment there is a perceived threat, a task to defend, or an egoic ambition.
@@ -333,7 +333,7 @@ Over time, this practice frees up our vital energy from the chronic habit of str
 - [[_A_My Research/_Buddhism/Identity view sakkāya-diṭṭhi|Identity View (Sakkāya-Diṭṭhi)]]
 - [[_A_My Research/_Buddhism/Self & Not-Self/Sakkaya Ditthi (Personality View)|Sakkaya Ditthi (Personality View)]]
 - [[_A_Marin Mindful Recovery/MMR Meetings/Archives/MMR No 05 - Identity View and Stress|Identity View and Stress]]
-- [[_A_My Research/_Buddhism/Emptiness/Nāgārjuna|Nāgārjuna: Emptiness (Śūnyatā), Reality, and Deconstructing the Self]]
+- [[_A_My Research/_Antigravity Spiritual Reports/Nāgārjuna|Nāgārjuna: Emptiness (Śūnyatā), Reality, and Deconstructing the Self]]
 - [[_A_My Research/_Buddhism/sankhara/Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery|Master Report: Saṅkhāra, Mental Fabrications, and Mindful Recovery]]
 - [[_A_My Research/_Buddhism/ANATTA|Anattā in the Nikāyas & Strategy of Not-Self]]
 - [[_A_My Research/_Buddhism/Aggregates_Skandha_Khandhas|The Five Aggregates (Khandhas / Skandhas)]]

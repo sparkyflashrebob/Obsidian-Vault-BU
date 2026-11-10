@@ -1,0 +1,433 @@
+# Plaud Daily Transcript - Sunday, November 01, 2026
+- **Date**: 2026-11-01
+- **Total Audio Sessions Processed**: 3
+- **Generated**: 2026-11-02 08:45:00 PST
+
+---
+
+## 🎙️ Session 1: 2026-11-01 09:20:46 (5h00m)
+- **Source File**: `2026-11-01 09_20_46.mp3`
+- **Audio ID**: `of_25eb965eba29bf6a009485c7184d5442`
+- **Time Span**: 09:20:46 AM – 02:20:46 PM PST
+
+- **[00:00 - End] (Speaker / Group)**: (Morning contemplative practice, somatic alignment, Wispr dictations, and Antigravity AI studio workflows on branch seven non-monastic lineage structure and James Baraz dharma talks)
+
+---
+
+## 🎙️ Session 2: 2026-11-01 14:20:47 (5h00m)
+- **Source File**: `2026-11-01 14_20_47.mp3`
+- **Audio ID**: `of_17bb45a6fb52678afc696782cfa91cbc`
+- **Time Span**: 02:20:47 PM – 07:20:47 PM PST
+
+- **[00:00 - End] (Speaker / Group)**: (Afternoon domestic work, flood infrastructure research on high-tide barriers and carport cradles, and preparation for family dinner with Keith and Holly)
+
+---
+
+## 🎙️ Session 3: 2026-11-01 19:20:48 - 11-01 Dinner with the folks (1h26m)
+- **Source File**: `2026-11-01 19_20_48 - 11-01 Dinner with the folks.mp3`
+- **Audio ID**: `of_f35933fb7df3a72ea6892e7bb6b6da6b`
+- **Time Span**: 07:20:48 PM – 08:47:38 PM PST
+- **Participants**: Andy McGuire, Andrea McGuire, Keith (Andrea's father), Holly (Keith's wife / Andrea's stepmother)
+
+- [07:20:48 PM] (0.0s - 7.0s): I mean, to go with everything I can, I use it to substitute my computer to do it for, you know.
+- [07:20:55 PM] (7.0s - 14.0s): So do you think you triggered AI?
+- [07:21:02 PM] (14.0s - 21.0s): Yeah, we have an automated system for your first system.
+- [07:21:09 PM] (21.0s - 22.0s): Yeah.
+- [07:21:10 PM] (22.0s - 26.0s): And I've set up for read, I've set up for our good planter,
+- [07:21:14 PM] (26.0s - 29.0s): but we just change what we saw from the other side,
+- [07:21:17 PM] (29.0s - 31.0s): but it's not going to be as much as we are.
+- [07:21:19 PM] (31.0s - 32.0s): Oh, there you go.
+- [07:21:20 PM] (32.0s - 37.0s): And you're going to activate something.
+- [07:21:25 PM] (37.0s - 38.0s): Yeah.
+- [07:21:26 PM] (38.0s - 39.0s): Okay.
+- [07:21:27 PM] (39.0s - 41.0s): I'm going to go with that.
+- [07:21:29 PM] (41.0s - 42.0s): It's a water system.
+- [07:21:30 PM] (42.0s - 48.0s): So it's changing the time and skipping service.
+- [07:21:36 PM] (48.0s - 50.0s): You want me to help you with that?
+- [07:21:38 PM] (50.0s - 51.0s): Or is there, you guys?
+- [07:21:39 PM] (51.0s - 55.0s): I think it's correct because I wouldn't have to check.
+- [07:21:43 PM] (55.0s - 57.0s): I'm just saying...
+- [07:21:45 PM] (57.0s - 60.3s): That's scary.
+- [07:21:48 PM] (60.3s - 61.3s): Yeah.
+- [07:21:49 PM] (61.3s - 63.3s): So that's what I'm saying.
+- [07:21:51 PM] (63.3s - 66.3s): I kind of want to know.
+- [07:21:54 PM] (66.3s - 68.3s): Oh, stuff is happening for me.
+- [07:21:56 PM] (68.3s - 71.3s): Yeah, I mean, the water is getting the lawns getting watered,
+- [07:21:59 PM] (71.3s - 74.3s): and the dog's fed, and I don't care.
+- [07:22:02 PM] (74.3s - 75.3s): Yeah.
+- [07:22:03 PM] (75.3s - 78.3s): That sign I want to be that I want to know.
+- [07:22:06 PM] (78.3s - 83.3s): It's just an unusual experience for us to have someone out of control like that.
+- [07:22:11 PM] (83.3s - 86.3s): Well, but I think it scares a lot of people.
+- [07:22:14 PM] (86.3s - 89.3s): I trust it more than I don't, you know.
+- [07:22:18 PM] (90.3s - 99.3s): Do you have an app or something?
+- [07:22:27 PM] (99.3s - 100.3s): Or how are you guys?
+- [07:22:28 PM] (100.3s - 102.3s): How are you setting it?
+- [07:22:30 PM] (102.3s - 103.3s): Okay.
+- [07:22:31 PM] (103.3s - 106.3s): So that app, what's the name of that app?
+- [07:22:34 PM] (106.3s - 107.3s): Rachio.
+- [07:22:35 PM] (107.3s - 108.3s): Rachio.
+- [07:22:36 PM] (108.3s - 110.3s): All right.
+- [07:22:38 PM] (110.3s - 111.3s): CHIO.
+- [07:22:39 PM] (111.3s - 112.3s): Okay.
+- [07:22:40 PM] (112.3s - 114.3s): So it's a service.
+- [07:22:42 PM] (114.3s - 115.3s): Okay.
+- [07:22:43 PM] (115.3s - 117.3s): So it happens here.
+- [07:22:45 PM] (117.3s - 124.3s): So their equipment is on their server, meaning it's at your home is connected to your Wi-Fi
+- [07:22:52 PM] (124.3s - 127.3s): and connects to them and the cloud.
+- [07:22:55 PM] (127.3s - 134.3s): And so that app actually is your, so it's a setting in your app somewhere.
+- [07:23:02 PM] (134.3s - 138.3s): So can you talk to it?
+- [07:23:06 PM] (138.3s - 140.3s): Not for that one.
+- [07:23:08 PM] (140.3s - 141.3s): Okay.
+- [07:23:09 PM] (141.3s - 142.3s): Okay.
+- [07:23:10 PM] (142.3s - 146.3s): I think when I set it up there was some question that I answered yes to.
+- [07:23:14 PM] (146.3s - 147.3s): Maybe you.
+- [07:23:15 PM] (147.3s - 148.3s): Yeah.
+- [07:23:16 PM] (148.3s - 149.3s): Yes.
+- [07:23:17 PM] (149.3s - 150.3s): Do you know the name of it?
+- [07:23:18 PM] (150.3s - 152.3s): So that if it asks you.
+- [07:23:20 PM] (152.3s - 153.3s): Hi, Rachio.
+- [07:23:21 PM] (153.3s - 154.3s): You know.
+- [07:23:22 PM] (154.3s - 157.3s): I'm doing what you just did.
+- [07:23:25 PM] (157.3s - 160.3s): I like what you did.
+- [07:23:28 PM] (160.3s - 168.3s): That's great, huh?
+- [07:23:37 PM] (169.3s - 176.3s): Okay.
+- [07:23:44 PM] (176.3s - 181.3s): So did you tell it what kind of plants do you have?
+- [07:23:49 PM] (181.3s - 186.3s): You see I'm saying if you give the information they'll say, oh, we water those twice a week
+- [07:23:54 PM] (186.3s - 190.3s): or what do we find here?
+- [07:23:59 PM] (191.3s - 194.3s): But you create a zone.
+- [07:24:02 PM] (194.3s - 195.3s): And you did it.
+- [07:24:03 PM] (195.3s - 200.3s): And there's no specifications for what the site is on the set.
+- [07:24:08 PM] (200.3s - 203.3s): It's about the backyard backyard.
+- [07:24:11 PM] (203.3s - 204.3s): Yeah.
+- [07:24:12 PM] (204.3s - 209.3s): Well, that's really good.
+- [07:24:17 PM] (209.3s - 216.3s): Okay.
+- [07:24:25 PM] (217.3s - 219.3s): Yeah.
+- [07:24:27 PM] (219.3s - 221.3s): All those things would affect it.
+- [07:24:29 PM] (221.3s - 222.3s): Intelligence.
+- [07:24:30 PM] (222.3s - 224.3s): That's the AI part.
+- [07:24:32 PM] (224.3s - 225.3s): Yeah.
+- [07:24:33 PM] (225.3s - 226.3s): Yeah.
+- [07:24:34 PM] (226.3s - 227.3s): It's great.
+- [07:24:35 PM] (227.3s - 230.3s): I should tell our, the association of our people.
+- [07:24:38 PM] (230.3s - 231.3s): Hey.
+- [07:24:39 PM] (231.3s - 236.3s): You guys should click this Rachio app on this.
+- [07:24:45 PM] (237.3s - 241.3s): I should tell our, the association of our people.
+- [07:24:49 PM] (241.3s - 242.3s): Hey.
+- [07:24:50 PM] (242.3s - 253.6s): You guys should click this Rachio app on this.
+- [07:25:01 PM] (253.6s - 256.6s): She complains about it because they're watering.
+- [07:25:04 PM] (256.6s - 261.6s): They're too much water and at the right time.
+- [07:25:09 PM] (261.6s - 264.6s): See you.
+- [07:25:12 PM] (264.6s - 267.6s): Well, now we have a bunch of rock and water.
+- [07:25:16 PM] (268.6s - 272.6s): Did you, so that's another thing when it flooded this week
+- [07:25:20 PM] (272.6s - 277.6s): or the last time it flooded so it was like a month ago.
+- [07:25:25 PM] (277.6s - 283.6s): It apparently all of the covers for the electrical outlets,
+- [07:25:31 PM] (283.6s - 288.6s): the control of the boxes and stuff, they floated away.
+- [07:25:36 PM] (288.6s - 293.6s): Because the water, flood waters came and lifted the plastic lids off of them.
+- [07:25:41 PM] (293.6s - 295.6s): They're not concrete.
+- [07:25:43 PM] (295.6s - 296.6s): They're plastic.
+- [07:25:44 PM] (296.6s - 299.6s): So they got lifted off and they drift it down the drains.
+- [07:25:47 PM] (299.6s - 304.6s): And the last one was like boxes that are exposed now.
+- [07:25:52 PM] (304.6s - 308.6s): And then what they did on the unheard board, I was dead.
+- [07:25:56 PM] (308.6s - 310.6s): Somebody, somebody in the neighborhood said,
+- [07:25:58 PM] (310.6s - 313.6s): Hey, why don't you put a rock on them?
+- [07:26:01 PM] (313.6s - 315.6s): I'll tell you put a rock on them and they go,
+- [07:26:03 PM] (315.6s - 316.6s): those didn't float away.
+- [07:26:04 PM] (316.6s - 319.6s): The other ones they did.
+- [07:26:07 PM] (319.6s - 322.6s): They're all the bricks that were left.
+- [07:26:10 PM] (322.6s - 323.6s): Yeah.
+- [07:26:11 PM] (323.6s - 324.6s): They popped off.
+- [07:26:12 PM] (324.6s - 327.6s): They were all the bricks that were left.
+- [07:26:15 PM] (327.6s - 329.6s): They're all the bricks that were left.
+- [07:26:17 PM] (329.6s - 332.6s): The single bricks that were left.
+- [07:26:20 PM] (332.6s - 335.6s): They're all the bricks that were left.
+- [07:26:23 PM] (335.6s - 338.6s): Because of.
+- [07:26:26 PM] (338.6s - 340.6s): And then all the bricks go.
+- [07:26:28 PM] (340.6s - 341.6s): Yeah.
+- [07:26:29 PM] (341.6s - 343.6s): Just one more thing.
+- [07:26:31 PM] (343.6s - 346.6s): Does anyone need one number?
+- [07:26:34 PM] (346.6s - 347.6s): Yes.
+- [07:26:36 PM] (348.6s - 349.6s): 4.5.
+- [07:26:37 PM] (349.6s - 350.6s): 6.
+- [07:26:38 PM] (350.6s - 351.6s): 6.
+- [07:26:39 PM] (351.6s - 352.6s): 7.
+- [07:26:40 PM] (352.6s - 353.6s): 0.5.
+- [07:26:41 PM] (353.6s - 355.6s): Look what they're going to accomplish.
+- [07:26:43 PM] (355.6s - 356.6s): Yeah.
+- [07:26:44 PM] (356.6s - 358.6s): It's all me?
+- [07:26:46 PM] (358.6s - 359.6s): Yeah.
+- [07:26:47 PM] (359.6s - 360.6s): All right.
+- [07:26:48 PM] (360.6s - 361.6s): Yeah.
+- [07:26:49 PM] (361.6s - 362.6s): We got some fun.
+- [07:26:50 PM] (362.6s - 363.6s): Some bad.
+- [07:26:51 PM] (363.6s - 364.6s): Yeah.
+- [07:26:52 PM] (364.6s - 365.6s): It's like fun.
+- [07:26:53 PM] (365.6s - 366.6s): It's good.
+- [07:26:54 PM] (366.6s - 367.6s): It's good.
+- [07:26:55 PM] (367.6s - 368.6s): It's good.
+- [07:26:56 PM] (368.6s - 369.6s): It's good.
+- [07:26:57 PM] (369.6s - 370.6s): It's good.
+- [07:26:58 PM] (370.6s - 371.6s): It's good.
+- [07:26:59 PM] (371.6s - 372.6s): It's good.
+- [07:27:00 PM] (372.6s - 373.6s): It's good.
+- [07:27:01 PM] (373.6s - 374.6s): It's good.
+- [07:27:02 PM] (374.6s - 375.6s): It's good.
+- [07:27:03 PM] (375.6s - 376.6s): It's good.
+- [07:27:05 PM] (377.6s - 378.6s): Oh, it's wonderful.
+- [07:27:06 PM] (378.6s - 379.6s): It's good.
+- [07:27:11 PM] (383.6s - 384.6s): It's hard.
+- [07:27:12 PM] (384.6s - 385.6s): It's hard.
+- [07:27:13 PM] (385.6s - 387.6s): All I could do was make a cotton.
+- [07:27:15 PM] (387.6s - 388.6s): Oh, yeah.
+- [07:27:16 PM] (388.6s - 389.6s): Nice.
+- [07:27:17 PM] (389.6s - 390.6s): It's delicious.
+- [07:27:22 PM] (394.6s - 395.6s): It's soiggly.
+- [07:27:23 PM] (395.6s - 399.6s): It's so rugged in here.
+- [07:27:27 PM] (399.6s - 401.6s): That's Ward's name.
+- [07:27:29 PM] (401.6s - 402.6s): Yeah.
+- [07:27:30 PM] (402.6s - 411.6s): Oh no, I'm fine maybe this has no.
+- [07:27:39 PM] (411.6s - 412.6s): I don't know.
+- [07:27:40 PM] (412.6s - 414.6s): I don't know.
+- [07:27:42 PM] (414.6s - 415.6s): I don't know.
+- [07:27:43 PM] (415.6s - 419.6s): But my name is Mitch is Mitch, because I got a big one right here.
+- [07:27:47 PM] (419.6s - 421.6s): I've got a question.
+- [07:27:49 PM] (421.6s - 427.6s): I know you were numbered and the whole thing of it,
+- [07:27:55 PM] (427.6s - 430.6s): and the season will change, but...
+- [07:27:58 PM] (430.6s - 432.6s): I did get cold all of a sudden.
+- [07:28:00 PM] (432.6s - 433.6s): Yeah.
+- [07:28:01 PM] (433.6s - 437.6s): But this morning I saw when we see the kids on the front yard,
+- [07:28:05 PM] (437.6s - 442.6s): and when I walked out of a fountain in Iraq.
+- [07:28:12 PM] (444.6s - 446.6s): So the word may have spread.
+- [07:28:14 PM] (446.6s - 449.6s): Because the falcons have come to our youth before.
+- [07:28:17 PM] (449.6s - 450.6s): Yeah.
+- [07:28:18 PM] (450.6s - 452.6s): We're not taking this right away.
+- [07:28:20 PM] (452.6s - 453.6s): Thank you very much.
+- [07:28:21 PM] (453.6s - 454.6s): You're welcome.
+- [07:28:22 PM] (454.6s - 455.6s): Don't worry about it.
+- [07:28:23 PM] (455.6s - 456.6s): Don't worry about it.
+- [07:28:24 PM] (456.6s - 457.6s): Don't worry about it.
+- [07:28:25 PM] (457.6s - 458.6s): We have hot.
+- [07:28:26 PM] (458.6s - 460.6s): I had a hot pair in our neighborhood.
+- [07:28:28 PM] (460.6s - 462.6s): They called weeks.
+- [07:28:30 PM] (462.6s - 463.6s): I could use a falcons.
+- [07:28:31 PM] (463.6s - 465.6s): I could see two masses.
+- [07:28:33 PM] (465.6s - 467.6s): The ones that I see before.
+- [07:28:35 PM] (467.6s - 469.6s): Well, everybody's mountains.
+- [07:28:37 PM] (469.6s - 470.6s): This probably was.
+- [07:28:38 PM] (470.6s - 471.6s): It's...
+- [07:28:39 PM] (471.6s - 472.6s): It's way down.
+- [07:28:40 PM] (472.6s - 473.6s): I enjoy it.
+- [07:28:41 PM] (473.6s - 475.6s): I don't know how to fix it well.
+- [07:28:43 PM] (475.6s - 478.6s): You should make friends with the crows.
+- [07:28:46 PM] (478.6s - 479.6s): All the babies.
+- [07:28:47 PM] (479.6s - 482.6s): Because the crows in our neighborhood keep the hot,
+- [07:28:50 PM] (482.6s - 484.6s): so you can control them.
+- [07:28:52 PM] (484.6s - 485.6s): And the seagulls.
+- [07:28:54 PM] (486.6s - 488.6s): The crows are off.
+- [07:28:56 PM] (488.6s - 489.6s): Thank you so much.
+- [07:28:57 PM] (489.6s - 490.6s): I love it.
+- [07:28:58 PM] (490.6s - 491.6s): Thank you.
+- [07:28:59 PM] (491.6s - 493.6s): Crows killed birds.
+- [07:29:01 PM] (493.6s - 494.6s): What?
+- [07:29:02 PM] (494.6s - 496.6s): Crows killed birds.
+- [07:29:04 PM] (496.6s - 497.6s): Really?
+- [07:29:05 PM] (497.6s - 499.6s): They killed the baby crows.
+- [07:29:07 PM] (499.6s - 500.6s): Oh, yeah.
+- [07:29:08 PM] (500.6s - 503.6s): That's all species I think do that.
+- [07:29:11 PM] (503.6s - 506.6s): Pray on the babies.
+- [07:29:14 PM] (506.6s - 508.6s): That's why they have a lot of them.
+- [07:29:16 PM] (508.6s - 511.6s): He's got that little guy too often.
+- [07:29:19 PM] (511.6s - 512.6s): Yeah.
+- [07:29:20 PM] (512.6s - 514.6s): He's very happy.
+- [07:29:23 PM] (515.6s - 518.6s): We have a lot of swallows in our neighborhood.
+- [07:29:26 PM] (518.6s - 520.6s): We have tons.
+- [07:29:28 PM] (520.6s - 523.6s): Like every apartment complex will have the box in the corners.
+- [07:29:31 PM] (523.6s - 524.6s): They build us there.
+- [07:29:32 PM] (524.6s - 526.6s): They build in there.
+- [07:29:34 PM] (526.6s - 527.6s): And then guess what?
+- [07:29:35 PM] (527.6s - 528.6s): They're around for a month.
+- [07:29:36 PM] (528.6s - 530.6s): And then they fly.
+- [07:29:38 PM] (530.6s - 532.6s): We get to see them learning how to fly.
+- [07:29:40 PM] (532.6s - 534.6s): They're flying around in circles.
+- [07:29:42 PM] (534.6s - 535.6s): And they're gone.
+- [07:29:43 PM] (535.6s - 537.6s): And then they're gone.
+- [07:29:45 PM] (537.6s - 538.6s): I wonder where they go.
+- [07:29:46 PM] (538.6s - 540.6s): We don't have enough bugs to keep them happy.
+- [07:29:48 PM] (540.6s - 541.6s): The bugs are all gone.
+- [07:29:50 PM] (542.6s - 544.6s): The bugs are kept down low.
+- [07:29:52 PM] (544.6s - 546.6s): Well, now they are, yeah.
+- [07:29:54 PM] (546.6s - 549.6s): But I mean, they're eating the bugs.
+- [07:29:57 PM] (549.6s - 552.6s): They also had like hundreds and hundreds of dragonflies.
+- [07:30:00 PM] (552.6s - 553.6s): Yeah.
+- [07:30:01 PM] (553.6s - 554.6s): Like a week or two.
+- [07:30:02 PM] (554.6s - 557.6s): Everything's something with a paper that we used to think about.
+- [07:30:05 PM] (557.6s - 558.6s): Yeah.
+- [07:30:06 PM] (558.6s - 560.6s): Five different species or whatever.
+- [07:30:08 PM] (560.6s - 561.6s): Yeah.
+- [07:30:09 PM] (561.6s - 562.6s): It's really funny.
+- [07:30:10 PM] (562.6s - 563.6s): I look down.
+- [07:30:11 PM] (563.6s - 566.6s): We've got three park features and that was it today.
+- [07:30:14 PM] (566.6s - 567.6s): Well, awesome.
+- [07:30:15 PM] (567.6s - 569.6s): We've got to continue the white one.
+- [07:30:17 PM] (569.6s - 570.6s): Yeah.
+- [07:30:18 PM] (570.6s - 571.6s): When I was there.
+- [07:30:19 PM] (571.6s - 572.6s): Yeah.
+- [07:30:20 PM] (572.6s - 573.6s): The white one was coming.
+- [07:30:21 PM] (573.6s - 574.6s): You got past two days.
+- [07:30:22 PM] (574.6s - 575.6s): No way.
+- [07:30:23 PM] (575.6s - 576.6s): It's coming.
+- [07:30:24 PM] (576.6s - 577.6s): It's coming.
+- [07:30:25 PM] (577.6s - 578.6s): I like the candy.
+- [07:30:26 PM] (578.6s - 579.6s): It's grabbing the bell.
+- [07:30:27 PM] (579.6s - 580.6s): I think it's a bell.
+- [07:30:28 PM] (580.6s - 581.6s): Yummy.
+- [07:30:29 PM] (581.6s - 584.6s): It would probably go after the white one because it's noticeable.
+- [07:30:32 PM] (584.6s - 586.6s): I mean, it's not a bell.
+- [07:30:34 PM] (586.6s - 587.6s): Yum.
+- [07:30:35 PM] (587.6s - 588.6s): It's not too good.
+- [07:30:36 PM] (588.6s - 589.6s): They're pretty bad.
+- [07:30:37 PM] (589.6s - 590.6s): I don't know.
+- [07:30:38 PM] (590.6s - 591.6s): I don't know.
+- [07:30:39 PM] (591.6s - 592.6s): I don't know.
+- [07:30:40 PM] (592.6s - 593.6s): The white one.
+- [07:30:41 PM] (593.6s - 594.6s): I was like,
+- [07:30:42 PM] (594.6s - 595.6s): Brian, why?
+- [07:30:43 PM] (595.6s - 596.6s): I don't know.
+- [07:30:44 PM] (596.6s - 597.6s): I don't know.
+- [07:30:45 PM] (597.6s - 598.6s): But apparently it's really simple.
+- [07:30:46 PM] (598.6s - 599.6s): Yeah.
+- [07:30:47 PM] (599.6s - 600.6s): And we've had other cheers here.
+- [07:30:48 PM] (600.6s - 601.6s): And we've had one payer and two tickets.
+- [07:30:49 PM] (601.6s - 602.6s): Oh, because the other ones put their heads together.
+- [07:30:50 PM] (602.6s - 603.6s): They'll go for him first.
+- [07:30:51 PM] (603.6s - 604.6s): Yeah.
+- [07:30:52 PM] (604.6s - 605.6s): He's all right.
+- [07:30:53 PM] (605.6s - 606.6s): He's all right.
+- [07:30:54 PM] (606.6s - 607.6s): I know.
+- [07:30:55 PM] (607.6s - 608.6s): I know.
+- [07:30:56 PM] (608.6s - 609.6s): I know.
+- [07:30:57 PM] (609.6s - 610.6s): I know.
+- [07:30:58 PM] (610.6s - 611.6s): I know.
+- [07:30:59 PM] (611.6s - 612.6s): I know.
+- [07:31:00 PM] (612.6s - 615.4s): I know.
+- [07:31:03 PM] (615.4s - 616.4s): I know.
+- [07:31:04 PM] (616.4s - 617.4s): I know.
+- [07:31:05 PM] (617.4s - 618.4s): I know.
+- [07:31:06 PM] (618.4s - 619.4s): I know.
+- [07:31:07 PM] (619.4s - 620.4s): I know.
+- [07:31:08 PM] (620.4s - 621.4s): I know.
+- [07:31:09 PM] (621.4s - 622.4s): I know.
+- [07:31:10 PM] (622.4s - 623.4s): I know.
+- [07:31:11 PM] (623.4s - 624.4s): I know.
+- [07:31:12 PM] (624.4s - 625.4s): I know.
+- [07:31:13 PM] (625.4s - 626.4s): I know.
+- [07:31:14 PM] (626.4s - 627.4s): I know.
+- [07:31:15 PM] (627.4s - 628.4s): I know.
+- [07:31:16 PM] (628.4s - 629.4s): I know.
+- [07:31:17 PM] (629.4s - 630.4s): I know.
+- [07:31:18 PM] (630.4s - 631.4s): I know.
+- [07:31:19 PM] (631.4s - 632.4s): I know.
+- [07:31:20 PM] (632.4s - 633.4s): I know.
+- [07:31:21 PM] (633.4s - 634.4s): I know.
+- [07:31:22 PM] (634.4s - 635.4s): I know.
+- [07:31:23 PM] (635.4s - 636.4s): I know.
+- [07:31:24 PM] (636.4s - 639.0s): I know.
+- [07:31:26 PM] (639.0s - 640.0s): I know.
+- [07:31:27 PM] (640.0s - 649.2s): I know.
+- [07:31:37 PM] (649.2s - 650.2s): I know.
+- [07:31:38 PM] (650.2s - 651.2s): I know.
+- [07:31:39 PM] (651.2s - 652.2s): I know.
+- [07:31:40 PM] (652.2s - 653.2s): I know.
+- [07:31:41 PM] (653.2s - 654.2s): I know.
+- [07:31:42 PM] (654.2s - 655.2s): I know.
+- [07:31:43 PM] (655.2s - 656.2s): I know.
+- [07:31:44 PM] (656.2s - 657.2s): I know.
+- [07:31:45 PM] (657.2s - 658.2s): I know.
+- [07:31:46 PM] (658.2s - 659.2s): I know.
+- [07:31:47 PM] (659.2s - 660.2s): I know.
+- [07:31:48 PM] (660.2s - 661.2s): I know.
+- [07:31:49 PM] (661.2s - 662.2s): I know.
+- [07:31:50 PM] (662.2s - 663.2s): I know.
+- [07:31:51 PM] (663.2s - 664.2s): I know.
+- [07:31:52 PM] (664.2s - 665.2s): I know.
+- [07:31:53 PM] (665.2s - 666.2s): I know.
+- [07:31:54 PM] (666.2s - 680.2s): They won the championship, only second year of a gym and an existence.
+- [07:32:08 PM] (680.2s - 687.2s): Second year of existence and they're the fastest team to ever win a championship of any sports
+- [07:32:15 PM] (687.2s - 694.2s): and any sport in the United States since 1970s.
+- [07:32:22 PM] (694.2s - 696.2s): They're so bad at something.
+- [07:32:24 PM] (696.2s - 698.2s): No walking, but they're there.
+- [07:32:26 PM] (698.2s - 700.2s): They're walking.
+- [07:32:28 PM] (700.2s - 705.2s): Yeah, the Warriors, they're associated with the Warriors.
+- [07:32:33 PM] (705.2s - 706.2s): Same on the show.
+- [07:32:34 PM] (706.2s - 708.2s): It's like their team is 13.
+- [07:32:36 PM] (708.2s - 711.2s): Yeah, 14 to go team.
+- [07:32:39 PM] (711.2s - 713.2s): It was exciting.
+- [07:32:41 PM] (713.2s - 719.2s): And a lot of the Warriors players throughout the game last night was partying.
+- [07:32:47 PM] (719.2s - 723.2s): It's just a big pride thing really, that's all it is.
+- [07:32:52 PM] (724.2s - 726.2s): Nice to have to the pride.
+- [07:32:54 PM] (726.2s - 729.2s): What are the players?
+- [07:32:57 PM] (729.2s - 731.2s): They're present for other teams?
+- [07:32:59 PM] (731.2s - 738.2s): Just like the college the pros do, the college team, they get drafted and colleges.
+- [07:33:06 PM] (738.2s - 741.2s): Yeah, so it's a whole chain of command.
+- [07:33:09 PM] (741.2s - 748.2s): And they're just creating a whole lot of the gallons for a bombing to try to meet the team.
+- [07:33:17 PM] (749.2s - 752.2s): So they were really kind of scary.
+- [07:33:20 PM] (752.2s - 762.2s): The R, the MVP was a woman in Gabby who I think she was on the team and they brought her on
+- [07:33:30 PM] (762.2s - 764.2s): and she came in the team.
+- [07:33:32 PM] (764.2s - 765.2s): We're okay.
+- [07:33:33 PM] (765.2s - 768.2s): 30 points to the championship tournament.
+- [07:33:36 PM] (768.2s - 771.2s): Oh, I'm pretty old.
+- [07:33:39 PM] (771.2s - 776.2s): Yeah man, it was 70 points for the team so that's like
+- [07:33:45 PM] (777.2s - 778.2s): 37 points.
+- [07:33:46 PM] (778.2s - 785.2s): A lot of the players on the team this year were on the University of Connecticut team.
+- [07:33:53 PM] (785.2s - 786.2s): Yeah.
+- [07:33:54 PM] (786.2s - 789.2s): College team which is obviously really strong women.
+- [07:33:57 PM] (789.2s - 791.2s): We had to like the number one team.
+- [07:33:59 PM] (791.2s - 794.2s): We had to be in 6th when the champions hit a lot.
+- [07:34:02 PM] (794.2s - 798.2s): A lot of these players were really grounded with a lot of talent.
+- [07:34:06 PM] (798.2s - 801.2s): And they made me mad at that.
+- [07:34:10 PM] (802.2s - 803.2s): The team really came together.
+- [07:34:11 PM] (803.2s - 809.2s): It's kind of a ride tag group of other players that hit together.
+- [07:34:17 PM] (809.2s - 812.2s): And they formed this amazing bond.
+- [07:34:20 PM] (812.2s - 815.2s): It's a long way to play.
+- [07:34:23 PM] (815.2s - 819.2s): So part of each other.
+- [07:34:27 PM] (819.2s - 820.2s): Yeah.
+- [07:34:28 PM] (820.2s - 823.2s): They were watching it last night.
+- [07:34:31 PM] (823.2s - 825.2s): And then the final buzzer went out.
+- [07:34:33 PM] (825.2s - 826.2s): I was like, yeah.
+- [07:34:34 PM] (826.2s - 827.2s): She's screaming in my ear.
+- [07:34:35 PM] (827.2s - 830.2s): I'm so happy for them.
+- [07:34:39 PM] (831.2s - 833.2s): So happy.
+- [07:34:41 PM] (833.2s - 834.2s): Yeah.
+- [07:34:42 PM] (834.2s - 838.2s): And I want to be a forward.
+- [07:34:46 PM] (838.2s - 839.2s): This was 14 years.
+- [07:34:47 PM] (839.2s - 843.2s): I never wanted to be in here but all the different teams just played on.
+- [07:34:51 PM] (843.2s - 845.2s): The first one.
+- [07:34:53 PM] (845.2s - 848.2s): See when they asked her.
+- [07:34:56 PM] (848.2s - 851.2s): What did she think about all this?
+- [07:34:59 PM] (851.2s - 855.2s): Of the women's crowd and all the noise and the excitement.
+- [07:35:04 PM] (856.2s - 861.2s): So this is what happens when we support women's sports.
+- [07:35:09 PM] (861.2s - 862.2s): It's incredible.
+- [07:35:10 PM] (862.2s - 866.2s): It can study everywhere and all those things.
+- [07:35:14 PM] (866.2s - 867.2s): I'm excited.
+- [07:35:15 PM] (867.2s - 868.2s): Yeah.
+- [07:35:16 PM] (868.2s - 876.2s): They were selling out the arena every day in 18,000 seats.
+- [07:35:24 PM] (876.2s - 879.2s): And allowed for women's sports.
+- [07:35:27 PM] (879.2s - 883.2s): The team they play though, the Atlanta Dream.
+- [07:35:32 PM] (884.2s - 888.2s): They only compete 3,500 in their arena.
+- [07:35:36 PM] (888.2s - 891.2s): Big difference.
+- [07:35:39 PM] (891.2s - 892.2s): Yeah.
+- [07:35:40 PM] (892.2s - 893.2s): Not out there yet.
+- [07:35:41 PM] (893.2s - 896.2s): It starts with the team as well as we are.
+- [07:35:44 PM] (896.2s - 897.2s): Yeah.
+- [07:35:45 PM] (897.2s - 898.2s): That's what happened.
+- [07:35:46 PM] (898.2s - 899.2s): Really?
+- [07:35:47 PM] (899.2s - 900.2s): No.
+- [07:35:48 PM] (900.2s - 901.2s): What's you?
+- [07:35:49 PM] (901.2s - 902.2s): Every night.
+- [07:35:50 PM] (902.2s - 903.2s): Yeah.
+- [07:35:51 PM] (903.2s - 906.2s): The same as the boys team.
+- [07:35:54 PM] (906.2s - 911.2s): But the area has always been supportive of women's sports.
+- [07:35:59 PM] (911.2s - 914.2s): I mean, I did sports with Stanford.
+- [07:36:02 PM] (914.2s - 919.2s): Stanford always had very popular women's sports.
+- [07:36:07 PM] (919.2s - 920.2s): Yeah.
+
+---

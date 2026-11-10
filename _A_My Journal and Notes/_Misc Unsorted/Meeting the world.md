@@ -17,4 +17,4 @@ And obviously meeting the world where it's at with some grace, all right?
 
 not get [[swept away]]
 [[meet the moment]]
-[[Rise Up]]
+[[_A_My Journal and Notes/_Misc Unsorted/Rise Up]]

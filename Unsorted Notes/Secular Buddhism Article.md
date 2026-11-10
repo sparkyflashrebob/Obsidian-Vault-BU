@@ -1,1 +1,0 @@
-https://secularbuddhism.org/the-four-foundations-of-secular-buddhism/

@@ -1,1 +1,0 @@
-https://longevity.stanford.edu/lifestyle/2025/01/24/spiritual-but-not-religious/

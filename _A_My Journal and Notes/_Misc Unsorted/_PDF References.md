@@ -1,0 +1,15 @@
+# PDF References: _Misc Unsorted
+
+The following documents have been moved to the Google Drive Reference Library:
+
+| Document | Size | Link |
+| :--- | :--- | :--- |
+| [A Journey Inward and Outward_ Navigating the Human Experience - Google Docs.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/A Journey Inward and Outward_ Navigating the Human Experience - Google Docs.pdf>) | 107.0 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/A Journey Inward and Outward_ Navigating the Human Experience - Google Docs.pdf>) |
+| [Checking-in-same-game-motivation-d9ecd571-7774.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Checking-in-same-game-motivation-d9ecd571-7774.pdf>) | 59.5 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Checking-in-same-game-motivation-d9ecd571-7774.pdf>) |
+| [Journal Notes Organized into Themes for a Book.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Journal Notes Organized into Themes for a Book.pdf>) | 102.7 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Journal Notes Organized into Themes for a Book.pdf>) |
+| [Paths-to-Practice-and-Inspiration-778142b8-7326.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Paths-to-Practice-and-Inspiration-778142b8-7326.pdf>) | 58.1 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Paths-to-Practice-and-Inspiration-778142b8-7326.pdf>) |
+| [Self-Conditiong - Relating to Others- 8-18-24 9am 1723999199504.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Self-Conditiong - Relating to Others- 8-18-24 9am 1723999199504.pdf>) | 94.7 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Self-Conditiong - Relating to Others- 8-18-24 9am 1723999199504.pdf>) |
+| [Self-Conditiong-Relating-to-Others-8-18-24-9am-1723999199504-m4a-73c18a8a-05bd.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Self-Conditiong-Relating-to-Others-8-18-24-9am-1723999199504-m4a-73c18a8a-05bd.pdf>) | 61.5 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/Journal and Course PDFs/_Misc Unsorted/Self-Conditiong-Relating-to-Others-8-18-24-9am-1723999199504-m4a-73c18a8a-05bd.pdf>) |
+
+> [!TIP]
+> Clicking **Open PDF** or the document title opens the file directly in your system PDF reader.

@@ -1,1 +1,0 @@
-https://www.upworthy.com/william-shatner-shares-reflections-on-going-to-space-ex1

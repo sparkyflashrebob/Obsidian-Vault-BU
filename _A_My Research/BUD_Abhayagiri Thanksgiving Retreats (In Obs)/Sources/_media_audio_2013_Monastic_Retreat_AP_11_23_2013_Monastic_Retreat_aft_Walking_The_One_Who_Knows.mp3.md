@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "BUD_Abhayagiri Thanksgiving Retreats (In Obs)"
+category: "research"
+---
+
+So we could transition to uh walking meditation. Uh if we were uh we come back for another sitting at 3:30. So taking the uh walking meditation and uh you know there's different ways of of using Using the walking meditation in sense of um one can do fairly walking fairly quickly. Uh or walking very slowly. Um generally uh I'd encourage to walk a little bit slower than one's normal pace. Um this there's a there is a benefit that uh tends to come with um a physical slowing down. Slowing down, letting things settle. Um bringing attention to the uh this sensation of touch at the uh at the feet. Um paying attention to the lifting of the foot, moving, setting it down um bringing uh that attention to the lower part of the body. It's a it's a good way of getting out of our thinking minds and just come to the that the very simple sensation of touch tends to be very very settling, very soothing. Um and again that that uh using the opportunity for a continuity of awareness. Um but uh you know whenever um distraction arises whenever thoughts um kind of impinge on the mind uh then um not to uh get swept up in reactions of aversion or or uh uh uh because sometimes we over idealize what we think we should be doing and um the reality is this is what's happening. Uh this is what is recognizing it, paying attention to it, uh reflecting on the experience, reestablishing attention and awareness. And there's that the continuity is in that reestablishing and and being willing to to uh uh return to that that fundamental quality of of of awareness. Being the one who knows

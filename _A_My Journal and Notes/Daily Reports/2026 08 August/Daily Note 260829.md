@@ -296,7 +296,7 @@ tags:
 
 ### The Baby Bird Learning to Fly (2008 Concentration Retreat)
 - Resting in the living room, Andy shared a cherished contemplative memory from a rigorous concentration meditation retreat he attended in 2008.
-- During a period of intense mental exhaustion and physical pain on the cushion, Andy walked outside into the retreat courtyard and noticed an exhausted baby bird attempting its first flight.
+- During a period of intense mental exhaustion and physical pain on the cushion, Andy walked outside into the retreat courtyard and noticed an baby bird on a branch in a tree practicing taking off and landing on the same branch.
 - Watching the fledgling tumble, rest, gather its strength, and try again without frustration or self-judgment became a permanent teaching on patience: spiritual practice is not about instant perfection, but about gently gathering ourselves and trying again.
 
 ---
@@ -316,7 +316,7 @@ tags:
 #### 🕒 9:30 PM – 9:45 PM — Evening Reflection with Andrea
 **Contemplative Storytelling — The Baby Bird at the 2008 Concentration Retreat**  
 *Context: Andy sharing a teaching memory with Andrea after watching Kill Bill.*  
-> "I was thinking back to that retreat in 2008—one of the hardest concentration sits I ever did. My body was screaming, my mind was running wild, and I felt like a total failure as a meditator. I walked outside during walking meditation, feeling defeated, and I saw this tiny baby bird on the ground trying to fly up to a branch. It would flutter its wings, hop a few inches, fall down on its belly, sit there catching its breath, and then try again. It wasn't angry. It wasn't scolding itself. It was just learning how to be what it was made to be. That little bird taught me more about Dhamma than ten lectures: practice is just fluttering, falling, resting with kindness, and hopping back up."
+> "I was thinking back to that retreat in 2008—one of the hardest concentration sits I ever did. My body was screaming, my mind was running wild, and I felt like a total failure as a meditator. I walked outside during walking meditation, feeling defeated, and I saw this tiny baby bird on a branch in a tree practicing taking off and landing on the same branch. It would flutter its wings, take off for just a moment, land back on its branch, sit there catching its breath, and then try again. It wasn't angry. It wasn't scolding itself. It was just learning how to be what it was made to be. That little bird taught me more about Dhamma than ten lectures: practice is just fluttering, falling, resting with kindness, and hopping back up."
 
 ---
 

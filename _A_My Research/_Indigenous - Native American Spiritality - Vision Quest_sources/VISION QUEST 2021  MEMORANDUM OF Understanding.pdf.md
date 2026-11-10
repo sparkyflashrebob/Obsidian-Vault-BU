@@ -1,2 +1,0 @@
-# VISION QUEST 2021  MEMORANDUM OF Understanding.pdf
-

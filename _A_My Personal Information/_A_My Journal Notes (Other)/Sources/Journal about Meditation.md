@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Journal Notes (Other)"
+category: "personal"
+---
+
+Observing Impermanence things changing

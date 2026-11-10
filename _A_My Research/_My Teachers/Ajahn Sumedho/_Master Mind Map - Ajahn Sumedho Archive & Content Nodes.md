@@ -74,14 +74,18 @@ mindmap
 
 Below is the complete structural breakdown of the subfolders located within `_A_My Research\_My Teachers\Ajahn Sumedho`:
 
-| Subfolder Path | File Count | Core Purpose & Contents | Primary Thematic Focus |
-| :--- | :--- | :--- | :--- |
-| **`4 Noble Truths Retreat/`** | 9 files | Complete 7-Day Singapore retreat transcript series and index files. | Dukkha, Samudaya, Nirodha, Magga; Three Turnings (*Sacce, Kicce, Kate*). |
-| **`Ajahn Sumedho_notes/`** | 11 files | Structured analytical study notes, AI summaries, and thematic syntheses. | Fetters of identity, language as attachment, unconditioned awareness. |
-| **`Ajahn Sumedho_sources/`** | 61 files | Source reference documents, audio talk markups, Spirit Rock retreats. | Monastic retreat lectures, raw dialogue notes, study background. |
-| **`Books/`** | 8 files | Primary PDF book transcriptions and published volumes by Luang Por Sumedho. | *Direct Realization*, *The Wheel of Truth*, *The Way It Is*, *Personality*. |
-| **`Synthesis of Teachings/`** | 821 files | Extensive topical compendium of Amaravati retreat Q&As, daily reflections. | Deep granular cross-references on every aspect of Buddhist practice. |
-| **`Transcripts/`** | 117 files | Complete *108 Talks by Luang Por Sumedho* audio transcript collection. | Historical chronological audio talks (1978–2010s). |
+| Major Archive / Subfolder | Status | File Count | Core Purpose & Master Archival Index | Primary Thematic Focus |
+| :--- | :---: | :---: | :--- | :--- |
+| **[[00 - Master Index - 108 Talks by Luang Por Sumedho\|108 Talks by Luang Por Sumedho/]]** | ✅ Complete | 108 talks | Comprehensive 4-decade chronological retrospective (1978–2010). | Sakkāya-diṭṭhi, Sound of Silence, Deathless, Awareness, Nirodha. |
+| **[[Ajahn Sumedho - 4 Noble Truths Retreat Singapore Index\|4 Noble Truths Retreat/]]** | ✅ Complete | 7 talks | Intensive 7-day retreat at Kong Meng San Phor Kark See Monastery (2006). | The 12 Modes (*Tiparivaṭṭaṁ Dvādasākāraṁ*), Three Turnings, Transcending Suffering. |
+| **[[00 - Master Index - Talks From Thailand (2010-2014)\|Talks From Thailand (2010-2014)/]]** | ✅ Complete | 37 talks | Archival discourses at Wat Pah Nanachat, Wat Pah Pong, & Dtao Dam. | Ascetic discipline (*ot-thon, toraman*), The Knower (*Phū Rū*), Paccuppanna-dhamma. |
+| **[[00 - Master Index - Spirit Rock Monastic Retreats\|Spirit Rock Monastic Retreats/]]** | ✅ Complete | 30 talks | Monastic retreats and historical California visits (1995, 1999, 2001, 2005, 2008). | The Way It Is (*Tathatā*), Sound of Silence (*Nāda*), Space & Consciousness, The Unconditioned (*Asaṅkhata*). |
+| **[[00 - Master Index - Amaravati Retreats\|Amaravati Retreats/]]** | ✅ Complete | 26 talks | Landmark 10-day retreat (May 2006), annual Vassa retreats, & Winter retreats (1989–2007). | Relaxed Attention (*Paccuppanna-Dhamma*), Asaṅkhata, Sakkāya-diṭṭhi, Nāda, Biological Conditionality (*Idappaccayatā*). |
+| **[[00 - Master Index - Recent Dhamma Talks (2020-2024)\|Recent Dhamma Talks (2020-2024)/]]** | ✅ Complete | 21 talks | Culminating discourses and Q&As delivered between ages 86–90 (2020–2024). | Non-Thinking (*Buddho*), I Think Therefore I Doubt, Ideals Don’t Feel, Effortless Right Effort, In This Life. |
+| **[[00 - Master Index - Amaravati Archival & Sunday Talks\|Amaravati Archival & Sunday Talks/]]** | ✅ Complete | 47 talks | Historical discourses, Sunday reflections, and monastic gatherings (1988–2019). | Witnessing Position (*Buddho*), Stress & Two Arrows, Parable of the Key, Inner Listening, Gratitude (*Kataññū*). |
+| **[[00 - Master Index - Amaravati Podcast Archives|Amaravati Podcast Archives/]]** | ⏳ In-Progress (350 Talks Live) | 546 tracks (350 live) | Definitive comprehensive audio podcast archive spanning 4 decades (1980s–2020s). | Asaṅkhata, Amata, Sound of Silence, Buddho, Idappaccayatā, Sīladharā, Kathina. |
+| **`Books/`** | 📚 Curated | 8 volumes | Primary PDF book transcriptions and published volumes by Luang Por Sumedho. | *Direct Realization*, *The Wheel of Truth*, *The Way It Is*, *Personality*. |
+| **`Synthesis of Teachings/`** | 🔬 Compendium | 627 notes | Topical research compendium across various monastic themes and retreat reflections. | Granular cross-references on technical Buddhist psychological doctrines. |
 
 ---
 

@@ -7,7 +7,7 @@ points to in itself
 - The Need to Cultivate mindfulness practice both on and off the cushion, also emptiness - similar to our wanting to cultivate joy, and wellbeing - and not only focus on our difficulties
 - Bringing awareness within/inward reflection - coincides with cultivating seclusion - the ability to be alone with oneself
 - having a continuity of practice 
-- Practicing Intelligent [[Letting Go]] 
+- Practicing Intelligent [[_A_My Journal and Notes/_A_Andy_s Dharma/Sources/Letting Go]] 
 - Being aware of our present mental state, and in particular being aware of any negative states of mind (defilements)
 - Guarding our senses - The Bahiya Practice of noticing what we are noticing and what we are adding
 - whereby achieving a collected mindfulness - fully present, aware of thoughts, feelings and our surroundings without being overwhelmed by them.

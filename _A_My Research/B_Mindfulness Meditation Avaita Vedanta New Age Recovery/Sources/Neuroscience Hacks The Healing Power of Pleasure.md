@@ -1,0 +1,9 @@
+---
+tags:
+  - notebooklm-import
+notebook: "B_Mindfulness Meditation Avaita Vedanta New Age Recovery"
+category: "research"
+---
+
+* <https://www.psychologytoday.com/us/blog/why-good-sex-matters/202301/neuroscience-hacks-the-healing-power-of-pleasure>
+  + Much of our understanding of what enables us to experience pleasure counter-intuitively comes from the more abundant research into pain. When we investigate the brain correlates of pleasure more closely, we discover that the pathways for pleasure and pain are closely intertwined. When we avoid pain, we are also learning to avoid pleasure. We shut down emotionally as well as physically. So how do we get back on the path to pleasure?

@@ -1,6 +1,0 @@
----
-tags:
-- inspirational
----
-
-Rumi

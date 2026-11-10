@@ -160,6 +160,13 @@ If I turn towards these.
 Liberating to the citta
 Ego threatened but heart relieved.
 
+---
+
+### Related Vault Documents & Adapted Scripts
+- [[Chapter 18 - Ajahn Amaro - When the Last Breath Comes.md]] (Published chapter in *More Than Mindfulness*)
+- [[Deep Work on Forgiving Others - Meditation Script (Ajahn Amaro - Andy Adapt).md]] (Guided meditation script adapted by Andy)
+- [[ST- LWDWR - Ajahn Amaro No 4 Death Rehearsal Meditation.md]] (Full 1-hour Death Rehearsal transcript)
+
 
 
 

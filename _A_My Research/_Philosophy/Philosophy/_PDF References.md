@@ -1,0 +1,16 @@
+# PDF References: Philosophy
+
+The following reference documents for this topic have been moved to the Google Drive Reference Library:
+
+| Document Title | Size | Link |
+| :--- | :--- | :--- |
+| [Man_s Search for Meaning.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Man_s Search for Meaning.pdf>) | 1.75 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Man_s Search for Meaning.pdf>) |
+| [Meditations.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Meditations.pdf>) | 694.8 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Meditations.pdf>) |
+| [Philosophy of Biology_ 8 (Princeton Foundations of Contemporary Philosophy).pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Philosophy of Biology_ 8 (Princeton Foundations of Contemporary Philosophy).pdf>) | 1.22 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Philosophy of Biology_ 8 (Princeton Foundations of Contemporary Philosophy).pdf>) |
+| [The Kybalion (Illustrated) (Annotated)_ A Study of The Hermetic Philosophy of Ancient Egypt and Greece.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Kybalion (Illustrated) (Annotated)_ A Study of The Hermetic Philosophy of Ancient Egypt and Greece.pdf>) | 8.68 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Kybalion (Illustrated) (Annotated)_ A Study of The Hermetic Philosophy of Ancient Egypt and Greece.pdf>) |
+| [The Manual_ A Philosopher_s Guide to Life (Stoic Philosophy Book 1).pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Manual_ A Philosopher_s Guide to Life (Stoic Philosophy Book 1).pdf>) | 528.9 KB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Manual_ A Philosopher_s Guide to Life (Stoic Philosophy Book 1).pdf>) |
+| [The Unheard Cry for Meaning_ Psychotherapy and Humanism.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Unheard Cry for Meaning_ Psychotherapy and Humanism.pdf>) | 1.41 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/The Unheard Cry for Meaning_ Psychotherapy and Humanism.pdf>) |
+| [Why Buddhism is True_ The Science and Philosophy of Meditation and Enlightenment.pdf](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Why Buddhism is True_ The Science and Philosophy of Meditation and Enlightenment.pdf>) | 2.08 MB | [Open PDF](<file:///G:/Google Drive (260611)/Library (Books and Articles)/Research PDFs/_Philosophy/Philosophy/Why Buddhism is True_ The Science and Philosophy of Meditation and Enlightenment.pdf>) |
+
+> [!TIP]
+> Clicking **Open PDF** or the document title opens the file directly in your system PDF reader.

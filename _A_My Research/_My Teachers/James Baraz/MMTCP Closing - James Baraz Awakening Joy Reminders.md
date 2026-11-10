@@ -94,7 +94,7 @@ if we are placed in a fMRI and not stressed or in physical pain, not emptionally
 
 Coming to these teachings:
 reorient to [[take in the good]], look for it, and actually bring it out in others, we will awaken that feeling of wellbeing 
-change our state of [[Cognitive Bias]] 
+change our state of [[_Misc Unsorted/Cognitive Bias]] 
 
 [[Awakening Joy Principles]] 
 (Ten wholesome states) that come from the teachings 

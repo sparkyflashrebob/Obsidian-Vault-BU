@@ -1,7 +1,0 @@
----
-aliases:
-  - Umwelt
-  - ""
-  - ""
-tags: []
----

@@ -32,7 +32,7 @@ self-reflection/contemplation
 meditation/[[_Book Markups/Readwise/Books/Mindfulness]]/[[_Book Markups/Readwise/Books/Awareness]]
 spiritual growth
 "[[if i think it is a problem, it is a problem]]"
-Equanimity/undistrubed/[[letting go]] - letting god/[[surrender]]
+Equanimity/undistrubed/[[_A_My Journal and Notes/_A_Andy_s Dharma/Sources/Letting Go]] - letting god/[[surrender]]
 [[Not take poison from others]]
 The problem was the grdge
 

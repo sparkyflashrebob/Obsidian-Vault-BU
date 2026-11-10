@@ -1,8 +1,0 @@
----
-tags:
-- sakkaya-ditthi
-- quotes
----
-
-Marcus Aurelius
-“Such as are your habitual thoughts; such also will be the character of your mind; for the soul is dyed by the color of your thoughts.”

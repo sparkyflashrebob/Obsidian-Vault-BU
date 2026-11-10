@@ -1,0 +1,20 @@
+---
+tags:
+  - notebooklm-import
+notebook: "MMTCP Education"
+category: "research"
+---
+
+### Mindfulness of Thoughts
+
+MINDFULNESS MEDITATION TEACHER CERTIFICATION PROGRAM
+Script for Guided Meditation Just as it’s possible to direct attention to the breath, to body sensations, or to sounds, the same mindful loving awareness can be directed to observe thought. To experiment and understand this, try a one-minute practice of counting your thoughts. You will notice picture thoughts and words thoughts. Some people think primarily in images, others in words, and some have the audio and visual thoughts coming together. Just notice. There might also be very soft thoughts that come in the background saying things like “there haven’t been many thoughts yet.” Your job is to sit for one minute, like a cat at the mouse hole, and simply number the thoughts when they appear. Ring the bell to begin and then again to end the one minute. Check in with people and ask how many thoughts they counted? The number doesn’t matter. If they only counted a few, it doesn’t mean they necessarily had fewer thoughts; perhaps some of them were longer than others. What is important to communicate to them is that they now realize that it is possible to step outside the ever-flowing stream of thoughts and witness them with mindful loving awareness. Now invite them to include mindfulness of thought in their general mindfulness meditation. Tell them that as they follow the sensations of their breathing, or the sensations in their body, there will be a stream of thoughts in the background. Let them be. Let them rise and fall like waves of the ocean around the breath. But periodically, whether after three breaths or six breaths or 10 breaths, a strong thought will arise and carry the attention away. As soon as you notice this thought, name it gently according to its predominant quality. You can use simple notes like planning, remembering, judging, worrying, imagining, or fearful thought, happy thought, interesting thought, creative thought, painful thought, and so forth. Simply naming and acknowledging the thought is supportive of the witnessing quality of mindful loving awareness. Once you have noted a thought gently for some time, you will notice that it dissolves like a cloud under sunlight. Thoughts are ephemeral, they are empty, they have no substance except what we invest in them.
+After the thought has diminished, simply return again to mindfulness of breath and body for a time until another strong experience—whether a thought or emotion or sound—pulls your attention from the breath. Stepping out of the stories the thought tells, you can see the common patterns of thought without being so caught in them. And more importantly, you begin to rest in the field of mindful loving awareness rather than being repeatedly carried away by thought. Now you can alternate mindfulness of breathing with mindfulness of other strong experiences when they arise. You become a steady, loving witness of all that arises and passes. You become a peaceful one sitting still amidst the rising and falling waves of experience. Here are some further ways to investigate and learn about thought as you are growing in mindfulness.
+
+* Notice how it feels, the very moment you shift from being absorbed or lost in thought, to simply name it without being swept into it.
+* Notice which types of thought really have an effect on your body. What thoughts trigger you most? What is their bodily effect?
+* Notice how some thoughts automatically bring strong emotions, and how some emotions automatically bring up certain thoughts. Learn to witness the interplay between thought and emotion.
+* Notice the experience of the space between thoughts.
+* Deliberately bring up a sad thought, an angry thought, a loving thought. Notice how powerfully these thoughts and their connected emotions affect the whole state of your body and mind.
+* Imagine you are the open sky and thoughts float through like clouds. Sense what it is like to shift from thinking to lovingly noticing the clouds.
+  MINDFULNESS OF THOUGHTS

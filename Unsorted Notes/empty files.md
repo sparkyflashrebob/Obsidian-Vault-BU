@@ -28,7 +28,7 @@
 - [[_My Research/B_Book Markups/Kindle Book Notes/Examples of writing a Bio.md]]
 - [[_My Research/B_Book Markups/Kindle Book Notes/Dharma.md]]
 - [[not-self]]
-- [[Not Tolerant to Peace]]
+- [[_Misc Unsorted/Not Tolerant to Peace]]
 - [[4 Nobles Truths]]
 - [[Index]]
 - [[Book - Sakkaya Ditthi]]

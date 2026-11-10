@@ -1,9 +1,0 @@
-
-
-Stop.
-
-You.
-
-Stop.
-
-Stop.

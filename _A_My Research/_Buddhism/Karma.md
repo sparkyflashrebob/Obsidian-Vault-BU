@@ -1,1 +1,0 @@
-https://www.psychologytoday.com/us/blog/hide-and-seek/202404/the-psychology-and-philosophy-of-karma

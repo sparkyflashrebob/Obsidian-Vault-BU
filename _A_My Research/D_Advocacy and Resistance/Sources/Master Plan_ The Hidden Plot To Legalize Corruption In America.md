@@ -1,0 +1,3293 @@
+---
+tags:
+  - notebooklm-import
+notebook: "D_Advocacy and Resistance"
+category: "research"
+---
+
+#### Master Plan Copyright © 2025 by Chester Trenton Productions, Inc. All rights reserved.
+
+#### No part of this publication may be reproduced, stored in a retrieval system or transmitted in any way by any means, electronic, mechanical, photocopy,
+
+#### recording or otherwise without the prior permission of the author except as provided by USA copyright law.
+
+#### No part of this book may be used or reproduced in any manner for the purpose of training artificial intelligence technologies or systems. No artificial intelligence
+
+#### was used in the writing or producing of this book. This book is designed to provide accurate and authoritative information with
+
+#### regard to the subject matter covered. Cover design by Erika Duran. Interior design by DTPerfect Book Design.
+
+#### Published in the United States of America by Lever Books, an imprint of The Lever. levernews.com
+
+#### Identifiers: 979-8-9929640-0-4 (Paperback) 979-8-9929640-1-1 (E-Book)
+
+### To Bill Moyers, Robert W. McChesney, and William Greider—truth-telling defenders of independent journalism and democracy. By living your ideals, you
+
+### showed us how to hold power accountable.
+
+# Table of Contents
+
+#### Preface
+
+#### Introduction
+
+# 1 Milk Money
+
+# 2 The Powell Memo
+
+# 3 The Secret Task Force
+
+# 4 Corporations Are People
+
+# 5 The Maverick
+
+# 6 The Machine
+
+# 7 Shock and Awe
+
+# 8 Going Big
+
+# 9 The Heist
+
+# 10 High Water
+
+# 11 Biden Our Time
+
+#### Afterword
+
+#### Chronology
+
+#### Cast of Characters
+
+#### Bibliography
+
+#### Notes
+
+#### About the Authors
+
+# Preface
+
+#### This book is an adaptation of the Master Plan podcast, which premiered in the fall of 2024. But its origins stretch back much further. David Sirota had been developing this concept long before founding The Lever in 2020. When our team first came together to produce the series, we started with a simple question: How did unrestrained money and influence from the wealthy and powerful so thoroughly dominate the U.S. political system at every level? The answer, told over eleven episodes, was anything but simple.
+
+#### Producing Master Plan required years of archival research, dedicated reporting, and interviews to uncover a sweeping history of campaign finance reform, the Supreme Court, and corruption in American politics. What we didn’t anticipate was just how eerily relevant it would become. We couldn’t have predicted that the 2024 election would shatter records as the most expensive, dark-money-fueled election in U.S. history. We didn’t know the Supreme Court’s role in enabling corruption would become daily front-page news. And we certainly didn’t expect “oligarchy” to become a household word in 2025.
+
+#### Despite our initial uncertainty about whether anyone would care about such a wonky topic, the podcast exceeded all our expectations, drawing over a million downloads and topping the charts in multiple categories. It was featured by Apple Podcasts and Spotify in their editorial picks and covered by major media outlets including Rolling Stone, The Guardian, The Nation, and WNYC.
+
+#### Master Plan went on to earn some of podcasting’s highest honors, including the National Press Club Award for excellence in audio journalism and the Gold Medal for Best Investigative Journalism Podcast from the New York Festivals. It also won two Signal Awards for Best News & Politics Podcast and Best Writing and was named an honoree by the 2025 Webby Awards. Suddenly, this scrappy, independent project was being mentioned alongside productions from The Economist, ABC News, and The Boston Globe.
+
+#### In an age of shrinking attention spans and sound bites, this kind of response to a deeply reported, eleven-hour podcast gave us hope that there’s still demand for stories with substance. We also kept hearing the same feedback from listeners: “Can I get transcripts of this?” “Why isn’t this a book?” That demand echoed a feeling we already had as researchers. The podcast covered such a sweeping timeline that we had to leave out countless archival findings and fascinating details that just couldn’t fit into fifty-minute episodes. This book gave us the space to include those details—complete with citations, footnotes,
+
+#### timelines, and new content—and to tell the full story in print. The podcast was a true team effort. Laura Krantz researched, conducted
+
+#### interviews, and wrote the episodes on Watergate, the Bellotti case, and John McCain—now chapters 1, 4, and 5 of this book. Ula Kulpa wrote the episodes that became chapter 8 on Citizens United and chapter 9 on the IRS takeover. Chris Walker, our fact-checker, ensured accuracy in every detail. Ron Doyle, our editor, played a crucial role reworking and reinterpreting large sections to help structure the podcast and this book. Two works that shaped our understanding of how big-money interests unraveled campaign finance laws are Dark Money, by the indomitable Jane Mayer, and the writings of the late historian Robert Mutch.
+
+#### We’re also deeply grateful to The Lever team, including managing editor Joel Warner, news editor Lucy Dean Stockton, and podcast producer Arjun Singh. For making this book possible, we’d like to thank Nick Campbell, our copyeditor Bess Maher, and the team at Launch My Book.
+
+#### Most of all, we want to thank The Lever’s subscribers, whose support made this work possible.
+
+# Introduction
+
+#### David Sirota
+
+#### When you hear the word “corruption,” what comes to mind? Perhaps your first thought is something technical—a corrupted file on a computer’s hard drive, unusable and broken, or the dreaded blue screen of death. In this sense, corruption is a malfunction, a disruption in the system.
+
+#### Or maybe you imagine a distant regime in some far-flung corner of the globe, where government officials amass personal fortunes while the population is left to starve. Perhaps your mind turns to pop culture—like the Nevada senator in The Godfather, brazenly demanding a bribe from the Corleone family, or Clay Davis from The Wire, the embodiment of transactional politics, punctuating his schemes with his infamous catchphrase, “Sheeeeiiit.”
+
+#### For political junkies, your thoughts may jump to current events. If you lean Republican, you might recall the Hunter Biden Burisma scandal, where a Ukrainian natural gas company paid the president’s son millions to serve on its board.1 If you lean Democratic, you might think of Donald Trump’s unapologetic quid pro quo, trading promises to gut climate laws for $1 billion in campaign donations from oil executives.2
+
+#### Corruption in politics, at its core, is the process of using money to break the machinery of government. It transforms a system meant to serve the public into one that serves only the wealthy and the powerful. There’s a distinction, however, between petty corruption and systemic corruption.
+
+#### There’s the corruption of, say, a cop taking a bribe to rip up a speeding ticket or a government official diverting public highway funds into their own pocket. This kind of petty corruption is bad, but greedy individuals will always exist, which makes this kind of small-time graft inevitable, even in the best-run governments.
+
+#### Systemic corruption, on the other hand, is far more insidious. It’s the kind of corruption that becomes so embedded and so normalized, that it stops being recognized as corruption at all. It’s when you shrug your shoulders and think, Well, that’s just the way things are. Like in The Matrix, it’s omnipresent but hard to identify because it envelopes everything. As Morpheus famously explained to Neo, “You can feel it when you go to work, when you go to church, when you pay your taxes.”3
+
+#### This pervasive, systemic corruption now defines American politics. You
+
+#### catch glimpses of it every time the news reports on the obscene amounts of money flooding into campaigns and elections. Anchor after anchor announces record-breaking figures:
+
+#### “Billionaires spending a record $880 million dollars in the midterms . . .”4
+
+#### “Spending projected to reach, get this, nearly $11 billion dollars . . .”5
+
+#### “An ultra-secretive Chicago industrial mogul has quietly given $1.6 billion dollars . . . the largest known political advocacy donation in U.S. history.”6
+
+#### This level of corruption doesn’t just happen by accident. It isn’t an unavoidable consequence of governance. It is created—built deliberately by people who want to trap society in a system of bribery and dishonesty because it serves their interests.
+
+#### The question, then, is this: Who designed this dystopia? Who engineered a system where money holds more power than the will of the people?
+
+#### I’ve been searching for answers to that question for twenty-five years. And now, I believe we’ve finally found them.
+
+#### To expose the epic story of how corruption became entrenched in America, we’ll eventually go back fifty years. But before diving into that history, let me tell you where this story began for me.
+
+#### Can you pinpoint the exact moment you realized how broken and corrupt the system is? For me, it was the year 2000, during a pre-dawn bus trip across the U.S.-Canada border.
+
+#### At the time, I was a few years out of college, still inspired by the dreams of good government and progress I’d seen dramatized in The West Wing. I had just landed my first significant job in politics, working for a relatively unknown New England congressman named Bernie Sanders. He was leading an innovative and audacious effort: busing senior citizens across the border into Canada to purchase prescription drugs at dramatically lower prices than in the United States.7
+
+#### The bus trips were designed to make a statement. Why, Bernie asked, should Americans pay significantly more for the same medications, many of which were developed at U.S. taxpayer expense? He explained to news cameras that it was “insane” for identical prescription drugs to cost far less in Canada, Mexico, or Europe.8 It wasn’t just a rhetorical question— it was a challenge to the
+
+#### pharmaceutical industry and Congress alike. This campaign wasn’t just about political theater; it had a practical goal.
+
+#### Bernie had introduced a bill that would allow American pharmacies to buy medications from Canada and sell them to U.S. customers at lower world-market prices. The idea was simple, sensible, and resonated across party lines. Some Democrats campaigned on the issue during the 2000 election. One of these candidates was Brian Schweitzer, a Montana farmer running for the U.S. Senate.
+
+#### Schweitzer, who I also worked for, had organized similar bus trips to Canada, framing them as a bipartisan effort to force Congress into action. He made clear that these trips weren’t about political affiliation.
+
+#### “We didn’t ask people when they got on those buses to Canada if they were Republicans or Democrats or Libertarians or vegetarians,” he explained. “We only asked them if they wanted to make a difference.”9 By embarrassing Congress, the campaign aimed to shine a spotlight on the issue and push lawmakers to respond.
+
+#### The strategy worked. Momentum accelerated as more legislators from both parties signed onto the bill. Eventually, the bill to allow American pharmacies to import prescription drugs from countries where they were cheaper passed through Congress and was signed into law by President Bill Clinton.10 To my twenty-five-year-old self, it felt like a vindication of the democratic process. There was a problem, the public demanded action, and the machinery of government had responded to the people, delivering a solution. USA! USA!
+
+#### But then, the hammer came down. Not long after the bill’s passage in 2000, I was sitting in my tiny Washington,
+
+#### D.C., apartment. It was a tense time in America—just two weeks had passed since the Supreme Court’s controversial decision in Bush v. Gore handed the presidency to George W. Bush. That evening, I heard the news: The prescription drug program had hit a wall.
+
+#### Secretary of Health and Human Services Donna Shalala, citing what she claimed were serious flaws and loopholes in the legislation, announced that the administration would not implement the program. In a letter to President Clinton, she insisted that the bill could not guarantee savings for American consumers. Without her certification, the law’s provisions were rendered meaningless. The congressional plan to reduce Americans’ medical costs by importing cheaper prescription drugs was now effectively dead.
+
+#### The trickery behind this reversal was staggering. Lawmakers from both parties had celebrated the passage of the bill, issuing press releases that promised to lower the cost of medicine. But behind the scenes, the pharmaceutical
+
+#### industry—having funneled millions of dollars into the coffers of both political parties—had orchestrated a different outcome. Lobbyists worked with their congressional allies to insert a loophole into the legislation. That last-minute provision allowed the Clinton White House to kill the reimportation program before it could even launch.11
+
+#### President Clinton stood before the cameras and spun the move as a principled negotiating tactic. “Since she couldn’t certify that American consumers [would] get lower prices, she didn’t want to hold out false hope or be involved in something she thought was not legitimate,” he said.12
+
+#### The announcement itself was timed for maximum obscurity. It came just after Christmas, a period when Washington slows down and the public’s attention is elsewhere. It was a textbook move for burying bad news—a deliberate strategy to avoid scrutiny.
+
+#### The whole affair reeked of corruption and the fallout from that betrayal is still felt today. The price of medicine has continued to soar, pushing millions into financial hardship.13 Data show the extent of the problem: In January 2022, prices for more than eight hundred medications increased, affecting not just those without insurance but even those who have it.14 The system had failed— by design.
+
+#### What I witnessed during those weeks permanently changed my understanding of American politics. Idealism and hard work weren’t enough in a system designed to preserve the power of the wealthy at the expense of everyone else. Corruption wasn’t an occasional anomaly—it was the engine that kept the entire machine running.
+
+#### My political innocence was gone. A few more years working on Capitol Hill left me bitter, bruised, and deeply disillusioned. I deeply identified with “Rowdy” Roddy Piper’s character in the 1988 cult classic They Live when he found sunglasses that let him see all the monsters destroying society. Once you see the truth, you can’t unsee it. And like him, I wanted justice.
+
+#### That anger and frustration turned out to be the perfect mindset for becoming an investigative journalist. I dove headfirst into exposing the corruption I had seen up close. I began publishing stories that revealed how politicians were profiting from their cozy relationships with health-care giants, Wall Street banks, and defense contractors. Over time, I wrote a few best-selling books, hosted a radio show, and launched the investigative news site The Lever. I even co-created the story for the Oscar-nominated film Don’t Look Up, a dark satire about a corrupt White House allowing a top donor to profit off a comet hurtling toward Earth—a parable for how greed and power endanger the world.
+
+#### Yet as much as I was proud of my work, a deeper realization emerged. Each story of corruption I reported on—each politician caught trading favors for campaign donations—was not an isolated incident. These were symptoms of a larger disease—a deliberate, systemic plan to legalize corruption in all its forms. Over decades, this plan had reshaped the rules, making bribery through campaign cash and gifts the norm rather than the exception.
+
+#### That brings us to this book. Over the next eleven chapters, we will expose the blueprint that created this corrupt system. We’ll investigate the architects of this master plan and how they manipulated the levers of power to serve their own interests. And we’ll do it by employing the classic journalistic principle that used to guide investigations: “Follow the money.”
+
+#### Why follow the money? Because today’s systemic corruption affects every aspect of your life.
+
+#### If you’re struggling to make ends meet, pay off credit card debt, or cover your rent, you can thank the corporate donors who paid lawmakers to block minimum wage increases,15 rent control measures,16 and caps on credit card interest rates.
+
+#### If you’re one of the 112 million Americans who can’t afford health care,17
+
+#### you can trace that back to the health insurance companies spending an average of $157 million per year on lobbying18—ensuring the United States remains the only industrialized nation without guaranteed medical care.
+
+#### If you’re worried about climate change, look no further than the fossil fuel companies that have spent mountains of cash to ensure lawmakers protect their profits while the planet burns.19
+
+#### Thinking back to those bus trips to Canada all those years ago, I remember the seniors who made the journey just to get the medicines they needed to stay alive. They were victims of this system—a system of legalized corruption that has metastasized over decades. Their plight wasn’t inevitable, and neither is yours. By following the money, we’ll uncover how this system was built, and perhaps, how it can be dismantled.
+
+#### You might be asking yourself: If corruption is so destructive, why would anyone want to legalize it? The answer lies in the ambitions of the oligarchs, operatives, and opportunists who have orchestrated this system. These individuals don’t like democracy—not the kind of democracy where one person equals one vote. In a functioning democracy, they wouldn’t stand a chance of enacting their self-serving, ideologically extreme policies.20 So, to achieve their goals, they needed to break the system. They needed to create a world where elections could be bought, legislation could be shaped by the highest bidder,
+
+#### court rulings could be influenced, and public policy could be dictated by moneyed interests rather than the will of the people.
+
+#### This wasn’t a random occurrence—it was a deliberate strategy. To fully understand how we got here, we need to go back about fifty years
+
+#### to the beginning of this plan. Our journey starts in 1971, a pivotal moment in American history, when it looked like corruption might actually be reined in. It was a time of hope and progress, a moment when the possibility of a fairer system seemed within reach.
+
+#### But, as we’ll see, that optimism was short-lived. The master planners had other ideas.
+
+# Milk Money
+
+#### The year was 1971 and progress was in the air. Hot pants were hot, bell-bottoms were swinging, and peasant tops were all the rage. Dr. Seuss’s The Lorax was a new bestseller and disco music was just starting to emerge. Thousands of protesters descended on Washington, D.C., demanding an end to the Vietnam War.
+
+#### Even in the stiff and formal corridors of Washington, D.C., change seemed possible. Over the past decade, public pressure had compelled Congress to create Medicare, Medicaid, civil rights legislation, voting rights protections, and the Department of Housing and Urban Development. The federal government had officially declared a “War on Poverty.”1 A Republican president, Richard Nixon, had signed the Clean Air Act and legislation to establish the Environmental Protection Agency, marking a new era of environmental responsibility. Nixon had also pledged to end the Vietnam War.2
+
+#### Congress, meanwhile, was working on a flurry of groundbreaking bills to improve standards in industries, including the energy, agriculture, nursing home, and consumer products industries. Lawmakers extended the Voting Rights Act for another five years.3 It was an era driven by the idea that government could be a partner in solving the nation’s greatest problems, protecting consumers, and ensuring fairness.
+
+#### By today’s standards, the United States in 1971 feels like another world— one where reformers seemed to have the upper hand. But despite the era’s many successes, one colossal problem remained unresolved: the problem of money. Dirty, sweaty, corrupting money.
+
+#### The sweeping reforms of the New Deal, the Civil Rights Movement, and the Great Society had chipped away at some forms of corruption, but big money still loomed large over American politics. It had the power to derail much of the progress that had been made.
+
+#### In the mid-twentieth century, corruption scandals periodically rocked Washington. One scandal even forced a Supreme Court justice to resign, and the public was becoming increasingly aware of the pervasive influence of money in politics. What many Americans didn’t know at the time was that by the early
+
+#### 1970s, one of the biggest corruption problems of all was sitting right in the Oval Office.
+
+#### “These dairymen are organized; they’re adamant; they’re militant,”4 echoed the Southern drawl of John Connally, Nixon’s Secretary of the Treasury, as captured by the president’s newly installed secret Oval Office recording system.5 It was March 23, 1971, and Connally was advising Nixon on how to raise campaign funds for his 1972 reelection bid. His suggestion? Milk.
+
+#### A former governor of Texas and survivor of the assassination of John F. Kennedy, Connally informed Nixon that the powerful dairy lobby was “amassing an enormous amount of money” for political activities.6 Historically, the dairy industry had cozied up to Democratic politicians in dairy-producing states and Lyndon B. Johnson’s administration. But Connally believed the dairy executives were open to switching their political support. His pitch to Nixon was simple: If the president was willing to use his authority to raise the minimum price of milk—a key policy change the industry had been lobbying for —it would incentivize them to redirect their campaign contributions to Nixon’s reelection effort.7
+
+#### At the end of this Oval Office meeting, nothing seemed finalized. Connally asked for a private word with Nixon, and the tape momentarily went silent. When the recording resumed, Connally was gone and Nixon was speaking to his aides, relaying the plan.
+
+#### “We just made a decision on the dairy thing,” Nixon said. Connally would inform the milk lobby that in exchange for price supports, they needed to “put so much money directly at your disposal” into Nixon’s campaign.8
+
+#### The deal was clear. Nixon’s Agriculture Department, which had previously declined to increase milk price supports, would guarantee federal prices covering 85 percent of the dairy industry’s costs.9 Nixon went “all out” on milk, as the president put it. And in return, Connally would shake them down for campaign cash, Nixon said.
+
+#### Nixon’s chief of staff, H.R. Haldeman, added specifics. The dairy producers were committing a million dollars to Nixon’s reelection efforts, with $90,000 funneled monthly into newly established dummy committees.10 These committees bore benign names like “The League of Dedicated Voters” and “Americans Working to Build a Better Community”11—names designed to obscure their true purpose: concealing the dairy industry’s massive contributions.
+
+#### The arrangement was brazen. Nixon was, quite literally, milking the dairy lobby for every dollar he could get. “He knows them well, and he’s used to
+
+#### shaking them down,” Nixon said of Connally. It was a stark example of corruption in action—a president using the power of his office to enrich both his campaign donors as well as his campaign coffers. A win-win.
+
+#### But Nixon’s enthusiasm for this scheme would soon come back to haunt him. For all the cash it brought in, the milk scandal was about to become one of the first cracks in the carefully constructed facade of his administration.
+
+#### Dirty money, it turns out, doesn’t always stay hidden.
+
+#### At first glance, Nixon’s 1971 milk scandal might seem like a small episode in the grand history of American corruption. It wasn’t even Nixon’s first scandal, and compared to the earth-shaking revelations that would soon emerge during Watergate, the dairy debacle appears almost quaint. But in 1971, it was far from trivial. The scandal’s significance lay not just in the deed itself, but in the moment it occupied—a critical juncture in the fight for reforming America’s political system.
+
+#### This was a time of significant progress and change in America. As Nixon was secretly trading dairy price supports for campaign cash, Congress was debating the most serious anti-corruption legislation since the Federal Corrupt Practices Act of 1925. For advocates of campaign finance reform, Nixon’s under-the-table dealings with the milk lobby became a rallying cry when it hit the newspapers. The scandal made what could have been an abstract conversation about money in politics deeply tangible for Americans: Milk—a household staple—had become more expensive because of political greed. The public noticed.
+
+#### Though audio tapes of the Connally-Nixon conversation wouldn’t come out until a few years later during Watergate, headlines about the dairy money and dairy policy change blared across the country. The Wall Street Journal described it as “Milk and Money: Flood of Cash to Help Nixon Campaign Follows Hike in Dairy Supports.”12 The Washington Post offered a blunter take, calling it simply, “Milking Dollars for Nixon.”13 Walter Cronkite, the nation’s most trusted news anchor, weighed in.14 He told a national audience that just two days after Nixon met with major dairy firms, the Agriculture Department reversed its decision on milk price supports and campaign donations from dairy interests soon poured into Nixon’s reelection coffers.
+
+#### The timing of the revelations couldn’t have been worse for Nixon as Congress was just then considering campaign finance legislation he was trying to stop. The television age had transformed political campaigning into a prohibitively expensive endeavor, and candidates needed vast sums of money to
+
+#### run the ads that would reach living rooms across America. One infamous ad from just a few years earlier, Lyndon Johnson’s “Daisy” commercial, drove home the stakes—both political and financial.15 That ad—starting with a child innocently counting flower petals and ending with a nuclear explosion—was a stark, unforgettable warning against electing Barry Goldwater. It was also a harbinger of a new era where memorable, powerful television ads could decide elections, provided campaigns had the money to fund them.
+
+#### Even Nixon himself acknowledged the problems of this new money-dominated system. In a 1971 interview with ABC, he lamented the escalating costs of elections. Reflecting on his first campaign for Congress in 1946, Nixon noted it had cost only $25,000 to run. By 1971, he estimated that no House race could be mounted for less than $100,000, except in the safest districts. While on camera, Nixon claimed to favor reforms to limit campaign expenses. “We do favor a limitation on expenses,” he said. “There is no question about that.”16
+
+#### But behind the scenes, the Nixon administration was working furiously to kill campaign finance reform legislation.17 A memo unearthed from the National Archives reveals just how openly cynical Nixon aides were. White House counsel John Dean wrote to aide Chuck Colson, urging him to mobilize business trade groups to oppose the legislation.18 Dean even suggested that these groups “quietly go to the Hill and tell members of the House and Senate that if they continue to support this legislation, they will be cutting off financial support from these groups.”
+
+#### In essence, the White House was encouraging business leaders to threaten lawmakers with financial retaliation if they supported reforms aimed at reducing corruption. This was a direct effort to weaponize corporate money against reforms aimed at reducing corruption.
+
+#### Despite these efforts, Congress moved forward. The Federal Election Campaign Act (FECA), designed to cap campaign ad spending and increase transparency in political financing, passed by overwhelming margins—334–20 in the House and 88–2 in the Senate. Every Republican senator voted in favor, except for the two from Arizona: Barry Goldwater and Paul Fannin.19 Publicly, Nixon—who likely despised every word of the legislation—was compelled to sign it into law on February 7, 1972. Notably, there was no public ceremony to mark the occasion. Instead, in a formal statement, Nixon said all the right things, praising the legislation and expressing confidence that the law would “guard against campaign abuses and help build public confidence in the election process.”20
+
+#### FECA marked a significant step toward reforming America’s campaign
+
+#### finance system. Before the new law, campaign finance was a Wild West with weak laws that were too narrow in scope, allowing politicians to trade favors for campaign cash with impunity. Years earlier, Lyndon Johnson had pushed Congress to pass his proposal for election reforms, calling for a major overhaul of campaign finance laws to prioritize transparency. He argued that existing regulations, like the Federal Corrupt Practices Act and the Hatch Act, were outdated and full of loopholes that allowed politicians to sidestep accountability. “They are more loophole than law,” Johnson wrote. “They invite evasion and circumvention.”21 FECA offered a glimmer of hope that the era of dirty money in politics might finally be ending. For a brief moment, it seemed the United States was on the cusp of building a fair and accountable political system.
+
+#### Of course, looking back from today, the optimism of 1971 feels like a distant dream, almost naive in its optimism.
+
+#### On September 7, 1972, one year after the milk scandal and seven months after Nixon reluctantly signed FECA into law, the public affairs program Thirty Minutes With . . . aired a revealing interview on a new TV network called PBS.22
+
+#### The guest was John Ehrlichman, one of Nixon’s top aides, and the host was Elizabeth Drew, a prominent Washington correspondent for The Atlantic Monthly. With her signature bouffant hairstyle and bright green blouse, Drew was a sharp visual contrast to Ehrlichman’s somber dark suit. But the real contrast was in their words—Drew’s probing questions about Nixon’s administration against Ehrlichman’s steadfast defense of it.
+
+#### Drew began by referencing Nixon’s earlier promises to clean up corruption, evoking the memory of the “Bobby Baker Syndrome,” a term referencing a scandal involving Lyndon Johnson’s former Senate aide who had resigned amid bribery allegations.23 She pressed Ehrlichman on whether Nixon could credibly claim to have kept his promise given the various controversies now surrounding his administration, such as the break-in of the Democratic National Committee headquarters at the Watergate complex on June 17, 1972, just three months prior.
+
+#### “No, I don’t think so,” Ehrlichman deflected. “And as far as the Watergate thing is concerned? I know just about as much about it as you do—probably less. Except I do know, very definitely, that people in the government, in the White House particularly, are simply not involved in that.”
+
+#### This was a bold claim—especially coming from the man who would later go to prison for his pivotal role in the events leading up to the Watergate break-in and the subsequent coverup.24
+
+#### Still, Ehrlichman persisted in portraying the Nixon administration as a bastion of integrity. “Compared to other administrations or by any standard you want to apply,” he assured viewers, “it has been an extraordinarily clean, corruption-free administration. Because the president insists on that.”
+
+#### This televised performance was more than political spin—it was an early maneuver in what would become a widespread cover-up. Publicly, Nixon’s administration clung to the veneer of reform, bolstered by the signing of FECA, the most comprehensive anti-corruption law in decades. Privately, they were orchestrating schemes to undermine those very reforms, neck-deep in a system of corruption they sought to conceal.
+
+#### The story of this corruption, however, is far larger than Watergate. While the break-in and subsequent cover-up became the scandal’s most infamous aspects, the real foundation of the Watergate scheme lay in a hidden world of untraceable campaign money. This story of the decades-long master plan to institutionalize corruption began to take shape in the cauldron of Watergate and reverberates through the political landscape of today. This moment in 1972 marks the opening salvo in a high-stakes game that continues to this day, pitting reformers seeking to shore up democratic protections against those dismantling those safeguards to serve power and wealth.
+
+#### Five months before Ehrlichman’s interview, in the spring of 1972, Washington, D.C. was gearing up for a humid summer. Amid this picturesque backdrop, men began arriving at Dulles International Airport, their briefcases and attaché cases filled with cash.25 They all headed to the same destination:26
+
+#### 1701 Pennsylvania Avenue, the headquarters of Nixon’s reelection campaign, the ironically named Committee to Re-Elect the President—commonly known as CREEP.
+
+#### It was days before key provisions of FECA were set to take effect and inside CREEP’s offices, staffers were in overdrive. Political campaigns were no strangers to handling money, but this was unprecedented. The amounts were staggering. One top executive from Pennzoil arrived with $150,000 in cash, $550,000 in checks, and stock certificates.27 A New Jersey financier sent over $200,000 in neatly wrapped hundred-dollar bills inside a worn leather bag.28
+
+#### Howard Hughes’s representatives dropped off blank checks for the campaign to fill out as they pleased.29 In a mere two-day span, CREEP handled the equivalent of $45 million in today’s money.30 The scale of the operation was extraordinary, and it’s no surprise that much of that money was coming from the kinds of donors who wanted political favors from the Nixon White House — from the approval of mergers to get-out-of-jail-free cards.
+
+#### Nixon had signed FECA in February, but his campaign had found a way around the law’s impending requirements. Gordon Liddy, the brash, mustachioed former FBI agent known for his extreme antics, was the mastermind of the scheme.31 Officially, Liddy served as CREEP’s general counsel, tasked with ensuring the campaign followed the law.32 Unofficially, he devised a plan to exploit a loophole: The law Nixon signed included a sixty-day gap between the expiration of the old law and the start of the new disclosure requirements. In a newly revealed memo to the White House (see Figure 1), Liddy proposed using this gap—a seemingly magical window of lawless time— to accept unlimited, anonymous donations, funneling them into Nixon’s reelection effort in secret and without oversight.33 It was a theory, at least. Maybe not strong enough to hold up in court, but convincing enough for a rogue lawyer and his crew.
+
+Figure 1. In a January 12, 1972, memo, G. Gordon Liddy outlined a scheme to exploit a supposed loophole to funnel secret donations to President Nixon’s reelection campaign. (National Archives)
+
+#### The strategy, however, wasn’t as covert as Nixon’s team might have hoped. The New York Times ran a front-page story revealing that Nixon’s campaign fundraiser had been urging donors to make their contributions before the disclosure rules went into effect on April 7.34 A campaign letter even outlined
+
+#### how donors could exploit the supposed loophole. Once word spread, other campaigns—both Republican and Democratic—adopted similar tactics.35
+
+#### However, none matched the scale of CREEP’s operation. On June 19, reporters Bob Woodward and Carl Bernstein published the first of many articles in The Washington Post investigating the burglary of Democratic Party offices at the Watergate and the figures involved.36 It later emerged that some of the anonymous cash flowing into CREEP had funded the burglary and provided hush money for the culprits.
+
+#### At the time, the public remained in the dark about how this money was being used. The revelations would come later, during the Watergate investigations. While the break-in and its cover-up captured the nation’s imagination and inspired countless dramatizations, the secret flow of campaign money was the true scandal. It highlighted the persistence of corruption despite FECA’s passage.
+
+#### The watchdog groups that had fought to pass FECA were determined to uncover the truth. They demanded to know who had donated the millions that flowed into Nixon’s campaign.37 Only Nixon and his closest allies knew that information—but a lawsuit was about to change that.
+
+#### In the months following Nixon’s signing of the Federal Election Campaign Act, anonymous money poured into his reelection campaign thanks to G. Gordon Liddy’s magic window scheme. Behind the scenes, Nixon and Ehrlichman were strategizing on how to handle mounting scrutiny. A recording from the Oval Office captured Nixon’s mounting frustration, muttering about a man named John Gardner, calling him “an ass.”38 Gardner, a former cabinet official under Lyndon Johnson, had become a thorn in Nixon’s side after founding Common Cause, a citizens’ advocacy group dedicated to political accountability and transparency.39 Nixon reportedly once asked Gardner to be his running mate in 1968—a request Gardner declined. The relationship quickly soured, with Gardner becoming one of Nixon’s harshest critics.40
+
+#### Gardner and Common Cause were particularly focused on exposing the donors behind Nixon’s reelection campaign during the disclosure-free window Liddy had seemingly exploited. Facing resistance and delays from the White House, Common Cause filed a federal lawsuit demanding transparency under the newly bolstered campaign finance regulations. Gardner addressed the issue at a press conference, highlighting the suspicious flow of massive sums into Nixon’s campaign and the reciprocal flow of government favors out of it.41
+
+#### Gardner warned that Nixon was aiming to amass the largest political war chest
+
+#### in U.S. history, and he argued that failing to disclose his pre-April financial backers would be “morally delinquent.”42
+
+#### The issue of disclosure was at the heart of the fight over campaign finance reform. Under FECA, candidates were required to disclose expenditures or contributions exceeding $100.43 The law also mandated periodic disclosure reports from candidates, political parties, and political action committees, to be filed in administrative offices buried deep within the Capitol.
+
+#### Fred Wertheimer, Common Cause’s young legislative director in 1972, understood the limitations of simply having disclosure laws on the books. “We thought no one’s gonna look at ’em,” he later recalled in an interview. “The public is not going to find out this information if reporters don’t have it before them because it would take a hell of a lot of work to review these reports.”
+
+#### Determined to make the disclosures accessible, Wertheimer and his team devised a system in which volunteers were dispatched to Capitol Hill to purchase photocopies of the reports. They worked tirelessly to meticulously compile the data, creating press releases tailored for each state and congressional district that detailed how much money candidates had received and from whom. “We issued press releases for each member of Congress on their report, the total contributions raised, the total expenditures they made,” Wertheimer said. “And we also monitored whether they were filing in the states.”44
+
+#### Over the course of the 1972 campaign, Common Cause uncovered a staggering number of violations of the new law, filing complaints against 128 Democrats and 98 Republicans in congressional races. For many candidates, it was a shock to discover that someone was actually watching.45
+
+#### But Common Cause’s ultimate focus was on the presidential race. Common Cause also knew that other campaigns were following CREEP’s lead and exploiting loopholes to collect anonymous donations during the disclosure-free window. Gardner’s group called on all presidential candidates to provide full disclosure of donations received prior to the April 7 deadline.
+
+#### The excuses rolled out like a well-rehearsed script. The law didn’t require disclosure. It would be unfair to donors. Other campaigns hadn’t disclosed yet. Even after other campaigns began releasing donor lists, CREEP held firm.46 “They said, ‘Nuts to you.’ They fought us,” Wertheimer said.
+
+#### Common Cause, however, adopted a novel legal strategy that relied on the Federal Corrupt Practices Act—the outdated law that FECA had just replaced. While the Corrupt Practices Act was deeply flawed, offering no regulatory authority to enforce reporting, no public disclosure requirements, and no penalties for noncompliance, it did require that contributions over $100 be
+
+#### reported. Therefore, Common Cause argued, even though FECA’s disclosure rules had not yet taken effect, the older law was still in force. The lawsuit posed a serious threat to Nixon’s White House, not just because it risked exposing the secret bags of cash that had marched into CREEP’s offices, but also because it threatened to unravel efforts to cover up the Watergate debacle.
+
+#### Coincidentally—or perhaps not—shortly after Common Cause filed its lawsuit, the Internal Revenue Service (IRS) launched an investigation into the organization’s tax-exempt status.47
+
+#### Undeterred, Common Cause pressed forward. Facing a court order, CREEP grudgingly agreed to a partial concession. While refusing to disclose donors from the magic window, they released information about those who had contributed during January and February 1972.
+
+#### When the list became public on November 3, it caused a media frenzy. ABC’s David Shoemaker reported from outside CREEP’s offices as John Gardner and his team attempted to collect the donor records.48
+
+#### In the black-and-white footage, Gardner, flanked by reporters, marches into CREEP’s offices to retrieve the first batch of information. He asks to see the director of press relations, Powell Moore.
+
+#### Moore does not emerge, but a security guard steps in, attempting to block photographers. “Well, we’ve been asking the press people to get out here,” the guard says. A grainy hand appears in the footage, shoving a camera lens downward.
+
+#### “Wait, wait, wait! All right,” a reporter shouts back. “Don’t touch me!” Despite the guard’s efforts, the press held their ground. Eventually, the
+
+#### security man gave up, and so did Gardner. After waiting in vain for twenty-five minutes, Gardner walked back to his office, leaving lawyers behind to pick up the list. Reporters jostled with attorneys, eager to secure their own copies.
+
+#### Back at Common Cause’s office, volunteers dove into the preliminary donor list. The news report shows fresh-faced young people in quintessential 1970s attire, pouring over documents, calculators at the ready. The numbers were jaw-dropping:
+
+#### $1,000,000 from Clemens Stone, a Chicago insurance magnate rumored to be in line for an ambassadorship to Great Britain. $800,000 from Richard Scaife of the Mellon family. $300,000 from Arthur Watson, a former ambassador to France. $255,000 from John Mulcahy of New York, who had hosted Nixon during a trip to Ireland.
+
+#### Uncovering these figures was just the beginning. The volunteers worked tirelessly, calling operators in other states on rotary phones, flipping through massive phone books, and cross-referencing data by hand. In an age before internet searches and digital databases, this painstaking process was groundbreaking.
+
+#### And yet, the biggest revelations remained out of reach. Common Cause’s lawsuit had pried open a partial view of CREEP’s financial dealings, but the anonymous donations made during the critical months of March and April—the height of Liddy’s magic window—remained a mystery.49 Nixon coasted to a landslide victory over George McGovern, but the legal battle was far from over.
+
+#### In early 1973, as the Watergate scandal began to unfold, Common Cause’s lawyers deposed Nixon’s campaign officials, seeking answers about the missing records. Time and again, they heard the same refrain: The documents had been destroyed. It was plausible. CREEP officials had become renowned for their document-shredding operations.
+
+#### But one tantalizing clue emerged: A campaign official let slip that one document had not been destroyed. This document, a list of Nixon’s most generous donors—those who had handed over the biggest bags of cash— remained safe in a locked drawer belonging to Nixon’s personal secretary, Rose Mary Woods, only steps from the Oval Office.50
+
+#### Woods, Nixon’s loyal secretary, would later become infamous during the Watergate scandal for her court testimony about the mysterious 18.5-minute gap in a crucial White House tape. But in mid-1973, she was at the center of another controversy. This secret list of donors became an obsession for Common Cause, who nicknamed it “Rose Mary’s Baby,” a nod to the recently released horror film about a young mother manipulated by a sinister, conspiratorial cult.51
+
+#### Nine months after the lawsuit was filed, a federal judge finally ordered the White House to hand over the list.52 On June 14, 1973, the White House confirmed it had the document, though an assistant press secretary insisted Nixon had never seen it.
+
+#### The list was staggering—more a tome than a sheet of paper—measuring an inch and a half thick. It detailed $19 million53 in undisclosed donations to Nixon’s reelection fund, part of a total haul of $55 million.54 Adjusted for inflation, that’s equivalent to $407 million today.
+
+#### This jaw-dropping figure revealed not only the scale of CREEP’s fundraising but also the extraordinary lengths they had gone to keep it hidden. The consequences of these revelations would grow over the coming months, but for now Rose Mary’s Baby had finally been delivered.
+
+#### In May 1973, Archibald Cox stood before the press, formally accepting his appointment as Special Prosecutor for the Watergate investigation.55 Tall and dignified with an Orville Redenbacher-esque bow tie that put any modern imitator to shame, Cox made it clear that his role was to uncover the truth behind not just the infamous burglary but also the broader corruption entangling the Nixon administration.56
+
+#### Cox understood the scale of the task ahead. Watergate wasn’t just one scandal—it was a sprawling web of political misdeeds. To tackle it, he divided his investigation into specialized task forces.57 While some teams focused on the break-in and Nixon’s shadowy White House operations, others probed deeper, exposing the murky underworld of corporate influence and illicit campaign financing.
+
+#### One task force examined a scandal involving one of the nation’s largest telephone companies, which had pledged $400,000 to the Republican Party in exchange for favorable treatment in an antitrust lawsuit.58 But the most significant task force for the Watergate narrative—and this story—was the one focused on campaign contributions. Its mission was simple: follow the money.
+
+#### The Campaign Contributions Task Force took a hard look at the Associated Milk Producers’ $2 million donation to Nixon’s campaign, a quid pro quo we explored earlier.59 But its main focus was on the “magic window” of lawlessness in early 1972 before FECA’s disclosure requirements went into effect. Who were the contributors who poured cash into Nixon’s reelection war chest? What had they been promised in return?
+
+#### Thanks to John Gardner and Common Cause, prosecutors already had partial answers. The now-infamous Rose Mary’s Baby donor list had identified major contributors, and names had begun to emerge through investigative reporting and whistleblowers. One of those young prosecutors was Roger Witten, a former student of Archibald Cox at Harvard. For Witten, fresh out of law school, the assignment was both exhilarating and daunting.
+
+#### “I didn’t know anything about any subject we were confronting when I walked in the door,” Witten recalled years later. “It was exciting, and it was scary.”
+
+#### What they uncovered was damning. Witten and his team traced the funds paid to the Watergate burglars back to illegal campaign contributions, but they wanted to go further, examining the motivations behind these secret donations. Why were Nixon’s backers so eager to avoid disclosure? What influence were they buying?
+
+#### The names of contributors and companies came from multiple sources:
+
+#### members of CREEP, Nixon’s personal lawyer, investigative journalists like Woodward and Bernstein, and the Rose Mary’s Baby list. Familiar corporations emerged, including Gulf Oil, Ashland Oil,60 Northrop,61 Phillips Petroleum,62
+
+#### Goodyear,63 Occidental.64
+
+#### The Campaign Contributions Task Force faced a challenge: The bulk of Nixon’s campaign cash had been collected before FECA’s new regulations, meaning prosecutors had to rely on older, rarely enforced laws to press charges.65 But the political climate of Watergate emboldened them. For the first time in anyone’s memory, corporations and their executives were held to account for channeling illegal funds into political campaigns.66
+
+#### Witten explained their strategy: “We were open to plea bargains because frankly, we didn’t have the resources to try twenty cases. But we also wanted to hold these companies and executives up to public scrutiny.”67
+
+#### This approach worked. Companies that came forward voluntarily to disclose illegal contributions received more lenient treatment. However, the task force ensured that corporate executives—not just their companies—faced consequences. “It’s not a high priority of a CEO of a name-brand company to go to court and confess guilt in connection with a crime,” Witten noted. The public spectacle of executives pleading guilty sent a powerful message.
+
+#### On October 17, 1973, Special Prosecutor Cox announced that both corporations and their responsible executives would face charges. That day, three major U.S. corporations—Goodyear, Minnesota Mining and Manufacturing (3M), and American Airlines—pleaded guilty to making more than $125,000 in illegal contributions to Nixon’s campaign.68
+
+#### The fallout from these revelations was immense. The media revealed that American Airlines had laundered its $55,000 contribution through accounts in Lebanon. For Americans following the Watergate drama, it was a shocking glimpse into the depth of corruption in politics.
+
+#### Watergate became the first campaign finance scandal of the modern era. By its conclusion, the Campaign Contribution Task Force had obtained convictions against nineteen corporations and twenty-one executives for making illegal donations to Nixon’s campaign.69
+
+#### And yet, as Watergate engulfed his administration, Nixon made a fateful decision: He ordered the firing of Archibald Cox. The resulting chaos, known as the Saturday Night Massacre, saw the top two Justice Department officials resign rather than carry out Nixon’s order. Solicitor General Robert Bork, third in line, ultimately dismissed Cox. The public was outraged.
+
+#### To contain the fallout, Nixon held a televised press conference.
+
+#### “I made my mistakes, but in all of my years of public life, I have never profited, never profited from public service—I earned every cent,” Nixon declared. “I have never obstructed justice. I welcome this kind of examination because people have got to know whether or not their president is a crook. Well, I am not a crook. I’ve earned everything I got.”70
+
+#### The damage, however, was already done. By the time Nixon delivered that now-famous line, millions of Americans had already been captivated by the nationally televised Senate Watergate hearings. Under the leadership of Senator Sam Ervin, the hearings exposed the deep connections between corruption, illicit campaign finance, and the Watergate burglary.
+
+#### “Didn’t you suspect,” Ervin grilled witnesses, “that when you raised this money and distributed it in this surreptitious manner to the lawyers and families of the parties that had been indicted in the Watergate, that you were aiding the Nixon campaign for reelection?”71
+
+#### Americans glued to their televisions heard dramatic stories about bags of cash, political intrigue, and outright corruption. Even before the Saturday Night Massacre, public discontent was palpable. A Gallup survey in 1973 revealed that Americans considered corruption and “lack of trust” in government as among the most important problems facing the country.72
+
+#### As the scandal deepened, Nixon’s resignation became inevitable. Yet even as he prepared to leave office, the broader implications of Watergate continued to reverberate. Campaign finance reformers, emboldened by widespread public outrage, seized the moment to push for amendments that would strengthen FECA.73
+
+#### One of those reformers was a fresh-faced thirty-one-year-old senator from Delaware: Joe Biden. “This is the single most important issue that can be resolved by this Congress,” Biden argued in a televised debate.74
+
+#### Nixon’s successor, Gerald Ford, signed the reforms into law in 1974. The legislation limited individual contributions, capped presidential campaign spending, and introduced public financing for presidential elections through voluntary tax checkoffs (see Chapter 3). At the signing ceremony, Ford acknowledged the American people’s frustration with corruption and pledged that the new law would address it.75
+
+#### The Watergate-era campaign finance reforms were a watershed moment, triggered by the crisis of Nixon’s presidency. As Fred Wertheimer of Common Cause put it, “Watergate was the trigger because the public would not have engaged, people would not have been outraged. We passed the Watergate reforms in 1974 because we had enormous public support and demand.”76
+
+#### While Watergate seemed like a turning point, the forces of corruption weren’t defeated—they were simply lying in wait. Nixon may have exited the stage, but he left behind a time bomb in Washington. That ticking sound? The legacy of Supreme Court Justice Lewis Powell and his blueprint for reshaping the American political system, one decision at a time.
+
+#### This is where the story truly begins.
+
+# The Powell Memo
+
+#### The room was filled with the low hum of conversation, the clinking of glasses, and the faint haze of cigar smoke curling toward the ceiling. It was December 1971, and the exclusive 21 Club in Midtown Manhattan played host to an extraordinary celebration. Philip Morris Incorporated, the tobacco giant behind Marlboro and Virginia Slims, was honoring one of their own.
+
+#### The centerpiece of the event was a twenty-minute spoof of the popular program You Are There, hosted by Walter Cronkite himself, the iconic CBS anchor known as “the most trusted man in America.” We know this from a vinyl record that has sat in obscurity for almost fifty years.1
+
+#### “Lewis F. Powell Jr. began the practice of law in Virginia in the year 1932,” Cronkite begins. “His intellect, his dedication, and his great qualities as a human being became widely known and appreciated by his peers.”
+
+#### For this private show, Cronkite wasn’t delivering news from the Evening News desk but narrating a fictionalized tribute to Lewis F. Powell Jr., a Philip Morris board member and now a freshly confirmed Supreme Court justice, nominated by President Richard Nixon.
+
+#### You Are There used fictional reenactments to teach the audience about historical events and figures—such as the Battle of Gettysburg and the Boston Tea Party—presenting them as if they were being covered live.2 This reenactment began with Powell’s early days in Richmond, Virginia.
+
+#### “Mr. Powell! Mr. Powell! I just come from your house,” exclaimed one actor in a thick Southern drawl. “Congratulations, your wife just gave birth to a baby boy!”3
+
+#### From there, the program recounted various moments of Powell’s life and career to the day he was tapped by President Nixon to fill a vacant seat on the nation’s highest court.
+
+#### “And now,” Cronkite intoned with his signature gravitas, “Lewis F. Powell Jr. will join the Supreme Court of the United States.”
+
+#### The performance culminated in what seemed like the ultimate corporate in-joke: Philip Morris CEO Joseph Cullman presented Powell with a black Supreme Court justice robe emblazoned with Marlboro and other Philip Morris
+
+#### brand logos, evoking the look of a NASCAR driver (see Figure 2).4 The robe was a gag, of course—but one that highlighted a deeper truth.
+
+#### Cullman declared Powell’s Supreme Court appointment “without question the greatest single honor ever bestowed upon anyone connected with Philip Morris.”5
+
+Figure 2. Photos from a vinyl record jacket depict a private December 1971 event honoring Lewis F. Powell. Philip Morris’s CEO presented Powell with a mock Supreme Court robe branded with tobacco
+logos. At right, Walter Cronkite speaks with Powell. (Washington and Lee University.)
+
+#### The next day, Powell sent Cullman a thank-you note. Among the gifts given to him and his wife—a crystal sculpture and a watch—Powell singled out the judge’s robe. “Sentimentally, I think we like the Philip Morris robe best of all!” he wrote.6
+
+#### For Philip Morris and the assembled corporate elite, Powell’s confirmation was a victory worth celebrating. He was their guy, through and through. Powell had sat on the boards of several major corporations, including Philip Morris.7 In fact, he had been crucial in helping the cigarette-maker navigate the growing legal and regulatory scrutiny over public health concerns about smoking. Now, their go-to guy was ascending to a position of enormous power, the Supreme Court, where he could influence the laws of the land for decades to come.
+
+#### But there was another reason for the corporate elite’s elation, one that went far beyond Powell’s legal acumen or corporate ties. Earlier that year, Powell had
+
+#### penned a confidential memo that would become the blueprint for a quiet revolution in American politics.
+
+#### At initial glance, the memo might seem like a dry business proposal. Titled “Attack on American Free Enterprise System,” it was written at the behest of Eugene B. Sydnor Jr., a director of the U.S. Chamber of Commerce. Powell’s words, however, revealed a growing anxiety among the business class. He warned that American companies faced an existential threat from a coalition of labor unions, environmentalists, consumer advocates, and left-leaning academics.
+
+#### His solution was radical. Powell argued that corporate America needed to organize—not just in the boardroom but in the courtrooms, classrooms, and political institutions of the country. Business leaders had to mobilize their resources to shape public opinion, dominate policymaking, and counter what Powell described as “an attack on the enterprise system.”
+
+#### The memo was a call to arms, a playbook for transforming the way power worked in America.
+
+#### Back at the 21 Club, the executives raising glasses to Powell likely understood the memo’s significance, even if few outside their circle had seen it. It was a founding document for what would become a highly organized, well-funded campaign to shift the balance of power in America toward big business.
+
+#### In this chapter, we look beyond Congress and the presidency to the behind-the-scenes figures who brought Powell’s manifesto to life, building a political coalition not to fight corruption but to legalize it.
+
+#### If the name Lewis F. Powell Jr. doesn’t ring a bell, don’t feel bad. Powell isn’t exactly a household name. He sat on the Supreme Court in the 1970s and 80s, having been appointed by Richard Nixon. His reputation at the time was that of a calm, sensible moderate who got along with everyone. After his overwhelming Senate confirmation in 1971, Powell expressed his characteristic humility.
+
+#### “I am, of course, gratified by the Senate’s action, and particularly by the generous margin of approval,” he said. “But the near unanimity of support does frighten me a little. I am too conscious of my own limitations to take it at face value.”8
+
+#### Powell’s aw-shucks charm and self-effacing wit earned him respect across ideological lines. Biographers and colleagues described him as affable, pragmatic, sensible, and genuinely modest.9 In a 1978 documentary, Powell reflected on his early years on the court, joking, “The justice that’s the youngest in seniority is
+
+#### the doorkeeper. I was the highest-paid doorkeeper in the world for five years.”10
+
+#### When Powell retired in 1987, he was widely celebrated as a centrist. “Justice Powell was a great moderating influence,” said Democratic Congresswoman Pat Schroeder. “He was not running around with an ideological bit in his mouth.” Ivy League law professors lauded his “virtue of moderation,” and journalists praised his gentility.11 NPR’s Nina Totenberg observed, “I can’t imagine him ever saying a harsh word to anyone. You can’t help but have enormous affection for him.”12
+
+#### But beneath Powell’s reputation as a genial, evenhanded justice lies a very different legacy. Dig deeper into his career, and you’ll find a life story strikingly at odds with the portrait of a mild-mannered consensus builder. Powell was the author of an angry screed that became one of the influential manifestos of the late twentieth century.
+
+#### This document, which came to be known as the Powell Memo, wasn’t the work of a mild-mannered moderate. It was an urgent, enraged, and radical manifesto that would serve as a rallying cry for corporate America. Today, the memo is frequently referenced as a key turning point in modern politics. Senator Sheldon Whitehouse of Rhode Island has spoken about its significance, describing it as “the single most consequential piece of writing that Lewis Powell ever did in a long career of consequential writing.”13 Whitehouse has methodically connected the memo to the right-wing takeover of the Supreme Court and the broader influence of corporate interests on American democracy.
+
+#### Yet for all its importance, the Powell Memo remains omitted from the official history of this country. It is often dismissed as a kind of conspiracy theory—like some boogeyman manufactured by liberals desperate to explain their loss of power. Even when it does get mentioned, it can sound almost too outrageous to be real.
+
+#### Take, for example, actor Dick Van Dyke, who once brought it up in an interview on CNN before the 2016 election. “Are you familiar with the Lewis Powell Memorandum?” he asked. “It said there’s too much democracy, and it’s a threat to capitalism.”14 While Van Dyke’s summary may sound exaggerated, it’s not far off the mark. The memo warned that democratic movements— unions, consumer advocates, and environmentalists—posed a direct threat to free enterprise.
+
+#### Oddly enough, Powell’s official biography, written by one of his former Supreme Court clerks, doesn’t mention the memo at all in its more than seven hundred pages.15 In fact, the document seems to have been deliberately downplayed or erased from much of Powell’s legacy.
+
+#### As a justice, Powell’s most visible contributions were in landmark cases about social issues like abortion, affirmative action, and the death penalty. He was often a swing vote, and his centrist leanings earned him praise from liberals who appreciated his pragmatic approach.16 But on issues of corporate rights and campaign finance laws, Powell’s positions were far from moderate. Decisions he participated in during his tenure on the court laid the groundwork for the increasing influence of money in politics, changes whose consequences became evident only decades later.
+
+#### What’s more, the Powell Memo was written just a few months before Powell joined the Supreme Court. He later dismissed it as something he had written in his free time as a favor to a friend, claiming it had little impact.17 Yet its influence is undeniable. The Powell Memo wasn’t just a proposal—it arrived at the perfect moment to help catalyze a resurgent conservative movement that was beginning to embed its ideology into American culture. This memo played a key role in reshaping the balance of power in the United States, leaving a lasting impact on media, education, government policy, and most critically, the courts.
+
+#### To understand how the memo came to be—and why it was so pivotal—we first need to understand the man who wrote it. Lewis Powell wasn’t merely a genial Southern gentleman. Behind his genteel exterior was a sharp, calculating mind with a vision for America that would change the country forever.
+
+#### The archives of Lewis F. Powell Jr. are housed in a small, historic town steeped in tradition: Lexington, Virginia. Nestled on the campus of Washington and Lee University, the Powell papers occupy a dedicated wing of the library, complete with a massive painted portrait of Powell himself.18 This is where Powell went to college before going to Harvard Law School. He is depicted in his Supreme Court robes, deep in thought, his tall frame and wire-rimmed glasses evoking a scholarly air.
+
+#### On one visit, Jennifer Mitchell, the archivist, greeted visitors with genuine enthusiasm. “The Powell papers are extensive,” she said as she led the way to the collection. “They cover his life from almost beginning to end.” She guided her guests down an elevator to a sprawling, windowless basement lined with rows of accordion shelves, each filled with numbered boxes. “It starts here and continues all the way up through box eight-hundred-something,” she explained.
+
+#### Powell’s meticulous nature was evident in every corner of the archive. His time as an intelligence officer on the top-secret Ultra Project during World War II was documented alongside his career as a corporate lawyer, his presidency of the American Bar Association, and his service on the Richmond City School
+
+#### Board and the Virginia State Board of Education.19 “He saved everything,” Mitchell noted. “Notes from confirmation hearings, letters, speeches—there’s even his World War II uniform and four pairs of socks.”20
+
+#### Powell was sixty-four when he got on the Supreme Court, one of the oldest nominees in history. In addition to his archival materials, Powell left behind recordings of himself dictating letters and memos, a practice he was known for throughout his career.21 Using a device called a Dictaphone, Powell would speak his thoughts aloud for his secretary, Liz, to type. In one recording, he carefully instructed, “Strike out the use of this name. Put a comma.”22 This habit revealed a man who was not only highly disciplined but also constantly refining and shaping his ideas.
+
+#### Powell’s archives illuminate the influences that shaped his worldview and, ultimately, the manifesto he would write. His career was deeply rooted in Richmond, Virginia, a city that had reemerged after the Civil War as a hub of corporate enterprise, fueled by the growth of the tobacco industry, banking, and railroads. Powell’s family was not wealthy, but they traced their lineage back to early Jamestown settlers, grounding him in the traditions of the Old South.23
+
+#### After earning a law degree, Powell joined the prestigious Richmond firm of Hunton, Williams, Anderson, Gay & Moore, a legal powerhouse known for defending big business against government regulation.24 The firm’s founder had built his reputation helping railroads and banks fend off legislative oversight, establishing a legacy that Powell would carry forward.
+
+#### He quickly rose through the ranks, earning recognition as a sharp legal mind and steady hand in securities law and litigation. Known for his meticulous and even-handed approach, Powell was rewarded with a partnership and the firm was renamed Hunton, Williams, Gay, Moore & Powell.25 By 1959, his client list read like a who’s who of American capitalism. He represented the Rockefellers and helped expand a statewide banking network by pushing to liberalize banking laws.26
+
+#### Beyond the courtroom, Powell threw himself into Richmond’s civic and political life. He joined the local Chamber of Commerce, waded into electoral politics, and pushed for government reform at the local level—all while backing Republican candidates on the national stage. He also chaired the Richmond School Board and later served on Virginia’s State Board of Education during one of the most volatile chapters in Southern history: the backlash to Brown v. Board of Education.
+
+#### As Virginia’s business community wrestled with the realities of desegregation, Powell positioned himself as a voice of restraint. He opposed
+
+#### calls for “Massive Resistance”—a hard-line campaign by white political leaders to defy federal desegregation orders—but not out of a moral conviction to civil rights. For Powell and the business elites he represented, such obstructionist policies were bad for business. They threatened to derail Virginia’s industrial growth and tarnish its reputation as a Southern hub of international commerce.
+
+#### So while Powell argued against outright defiance, he also did little more than was necessary to move desegregation forward.27
+
+#### As a lawyer, Powell was sharp and persuasive but never confrontational. He saw himself as a team player, a respected member of the ruling class. Yet his instinct for compromise wasn’t just about keeping the peace; it was strategic. Powell knew that maintaining cohesion among the elites was key to preserving their shared interests.28
+
+#### A brilliant legal strategist, Powell was, at heart, an institutionalist who saw corporate interests not merely as a pursuit of profit but as essential to the broader good of society. His ascent exemplified the revolving door between business, law, and government—the so-called Iron Triangle— where corporate influence over public policy was not just enabled but actively cultivated by the legal profession.29
+
+#### By the 1960s, Powell had cemented his status as a key figure in Richmond’s upper echelons. To his corporate clients, he was more than just a legal adviser; he was a trusted strategist shaping business policies and key decisions as he secured board seats at major companies he represented, including the Ethyl Corporation,30 Brooks Brothers, and, most notably, Philip Morris.31
+
+#### Powell’s relationship with Philip Morris provides a revealing window into his role in shaping corporate America’s defensive strategies. By the 1960s, the tobacco industry faced growing public pressure as the surgeon general began linking smoking to cancer. Philip Morris, one of the most prominent tobacco companies, saw itself as under siege. Rather than passively accept regulatory challenges, the company adopted an aggressive counteroffensive strategy—and Powell was central to its efforts.32
+
+#### As a member of Philip Morris’s board and a legal adviser, Powell helped craft sophisticated PR campaigns, lobbying strategies, and legal defenses designed to confuse the public and protect industry profits. The key insight was that the industry couldn’t simply react to regulation; it needed to go on the offensive. Joseph Cullman stepped up as the tobacco CEO who was willing to lead the charge, even appearing on national television to defend the company’s product.
+
+#### “It’s true that babies born from women who smoke are smaller,” Cullman
+
+#### infamously stated on Face the Nation in January 1971. “But they are just as healthy as the babies born to women who do not smoke. Some women would prefer having smaller babies.”33
+
+#### The backlash to that comment was swift, but Philip Morris did not back down—and neither did Powell. In a letter to Cullman, Powell praised the company’s aggressive approach to discrediting the American Cancer Society, which had been a vocal critic of the tobacco industry. “At the very least,” Powell wrote, “the American Cancer Society is likely to be more restrained in the future.”34
+
+#### Powell wasn’t just an observer; he was an architect of Philip Morris’s response. In a June 1971 letter to a colleague at Hunton’s D.C. office, he warned that the tobacco industry was “under the gun” in Washington over health concerns. Powell pointed out that the Cigarette Advertising and Labeling Act, passed the previous year, may soon be amended to extend TV and radio advertising restrictions to print. To counter this, he directed the lobbyist to coordinate with public relations executives and use The Tobacco Institute—Big Tobacco’s influential lobbying and PR arm—to push back against further regulations in Congress. He also noted that any time spent on behalf of Philip Morris should be billed to the firm.35
+
+#### He advised on specific lobbying efforts, communications strategies, and legal frameworks to undermine the growing body of scientific evidence about the dangers of smoking.36 His contributions were part of a larger campaign that involved creating alternative organizations, funding questionable scientific studies, and lobbying policymakers.37 These tactics laid the groundwork for what would later be called “astroturfing”—corporations funding fake “citizens’ groups” to mislead the public and manipulate debates.38
+
+#### This strategy was stunningly effective. In 1971, the year Powell helped guide Philip Morris’s efforts, the company posted record revenues, even as public health concerns about smoking intensified.
+
+#### Internal documents later revealed that by the early 1960s, Philip Morris’s own researchers had found—and largely accepted— “overwhelming” evidence linking cigarette smoking to cancer. Yet, rather than acknowledging the risks, the company waged an aggressive campaign to sow doubt and delay regulation.39
+
+#### Decades later, federal prosecutors charged Philip Morris and other major tobacco companies with racketeering, and states won massive class-action lawsuits against the industry. But during Powell’s tenure, the tobacco industry’s tactics—attacking critics, distorting science, and lobbying aggressively—set a
+
+#### precedent for the kind of corporate counteroffensives that other industries would soon adopt.40
+
+#### While Powell was advising Philip Morris, another force loomed large in his life: a deep fear of communism. Starting in the 1960s, Powell regularly corresponded with FBI Director J. Edgar Hoover41 and his top deputies. Newly uncovered documents reveal that Powell served as what the Bureau referred to as an “SAC contact,” a designation for trusted informants.42 Powell shared information about suspected communist activities, particularly within the legal profession, and as part of this friendly relationship he received intelligence about left-wing organizations, including detailed financial reports on activist groups.
+
+#### Powell’s correspondence with the FBI revealed his growing alarm about a new breed of political activists—college organizers, anti-war protesters, and the New Left. One report Powell reviewed, titled Confrontation Politics, analyzed the rhetorical techniques of these radical groups.43
+
+#### Cartha DeLoach, assistant to FBI Director J. Edgar Hoover and widely regarded as Hoover’s most trusted lieutenant, was a frequent correspondent of Powell. DeLoach provided Powell with real-time research and strategic insights about activist tactics, drawing directly from FBI intelligence.
+
+#### “[M]ay I suggest that you might like to consult a newly published book, Revolution for the Hell of It by Abbie Hoffman,” DeLoach wrote, referencing Hoffman, a leader of the Youth International Party (the “Yippies”). “This book might give you some insights into the New Leftist mentality,” Hoover’s deputy added.44
+
+#### While Powell’s exchanges with the FBI were private, his public speeches began to echo similar themes.45 In a 1970 address titled The Attack on American Institutions, Powell decried what he saw as the growing threat of radicalism. “Today there are others with quite opposite goals who insist with equal fervor that civil disobedience of laws deemed to be unjust is a legitimate means of asserting desired rights,” Powell said. “Tyranny is the inevitable result of this form of anarchy.”46
+
+#### Powell’s rhetoric often veered into hyperbole. In the same speech, he compared public figures like Black Panther leader Eldridge Cleaver to Nazi propagandists, claiming the Panthers’ rhetoric was “as open and notorious as Adolf Hitler and his storm troopers.” His alarmist tone mirrored that of conservative leaders like Ronald Reagan, who warned against socialism and government overreach during his 1964 speech supporting Barry Goldwater.
+
+#### Between 1968 and 1970, Powell’s sense of urgency intensified. In letter after letter, he expressed concerns about what he saw as a broad and virulent attack
+
+#### on American democracy. One exchange with William Ruder,47 co-founder of the PR agency Ruder Finn, captures this anxiety. Ruder, who had played a key role in helping Philip Morris craft campaigns to deny the scientific evidence linking smoking to cancer,48 wrote, “The question of the whole free enterprise system—and the open question as to who is going to be doing the work to make sure that in the long run it survives—is everybody’s job, and therefore nobody’s. And that’s a real pity.”
+
+#### Powell shared Ruder’s worry that the defense of capitalism was being neglected. These ideas of industry and thus democracy being under “broad and virulent attack” would become a central theme in the document Powell would write just a few months later for the U.S. Chamber of Commerce.49 His memo would not only outline who should “do the work” to protect free enterprise but also provide a detailed blueprint for how to do it. The Powell Memo was about to take shape.
+
+#### In 1971, Lewis Powell was alarmed. The forces he believed were threatening corporate America—consumer advocates, labor unions, environmentalists, and left-wing radicals—appeared to be gaining momentum. At the center of this movement was a thirty-seven-year-old legal crusader named Ralph Nader, whose name had become synonymous with holding corporations accountable. Nader wasn’t just a thorn in the side of big business—he was a bona fide celebrity. Whether he was suing General Motors for concealing auto defects or exposing deceptive advertising practices, Nader dominated headlines, shining a spotlight on corporate misconduct and government corruption.50
+
+#### His growing influence inspired a wave of idealistic young law school graduates to follow his lead. These “Nader’s Raiders,” as they came to be known, were joining public interest law groups instead of taking lucrative jobs at corporate firms. But the movement didn’t stop with litigation. Nader’s Raiders were building an infrastructure to challenge the power of corporate America. These groups employed their own lawyers and scientists to take on corporations and push for government accountability. As one young Nader acolyte told CBS News, “If you think about what Nader has done all by himself—in Detroit, in Washington, and elsewhere—multiply that by fifteen times. You’d be changing the equation of power in a state.”51
+
+#### Nader’s crusade for corporate accountability was capturing the public imagination. He was reshaping the national conversation about government oversight, and the media couldn’t get enough of him. That June, Esquire
+
+#### magazine featured Nader on its cover with the headline: “Ralph Nader can be the next President of the United States.”52 For Powell, the breaking point came when Fortune magazine—a publication for the business elite—published a nine-page profile of Nader.53 Powell read the article carefully, even underlining one particularly chilling line: “The passion that rules in him is aimed at smashing utterly the target of his hatred, which is corporate power.” To Powell, the Fortune piece confirmed his worst fears: Nader and his allies were no longer just an annoyance—they had become an existential threat to the free enterprise system. The anti-corporate movement was no longer a fringe cause; it was becoming mainstream.
+
+#### Catalyzed into action, Powell connected with Gene Sydnor, a longtime friend and fellow Richmond resident.54 Sydnor was a pro-business former Virginia state senator, the CEO of a department store chain, and, most importantly, the chair of the U.S. Chamber of Commerce’s education committee. Sydnor had deep ties to the chamber’s leadership, and if any organization had the resources to mount a counteroffensive, it was the Chamber of Commerce, the most powerful business lobbying group in Washington.55
+
+#### Powell’s goal was to convince the chamber to think far bigger than it ever had before. It was a tall order, but by the end of the summer, Powell had produced a detailed, thirty-four-page plan complete with section headings and footnotes outlining his vision and delivered the typed document to Sydnor.
+
+#### Dated August 23, 1971, and marked “confidential,” the Powell Memo was far more than a business proposal—it was a battle plan.56 Powell opened with urgent and stark language, framing the situation as nothing less than a crisis for American capitalism. “No thoughtful person can question that the American economic system is under broad attack,” he wrote. He described a “shotgun attack” undermining public confidence in “capitalism” and “the profit system,” and singled out Ralph Nader as the most dangerous figure leading the charge. “Perhaps the single most effective antagonist of American business is Ralph Nader,” Powell declared, “who—thanks largely to the media—has become a legend in his own time and an idol of millions of Americans.”
+
+#### But Powell wasn’t just ranting—his memo laid out a comprehensive, step-by-step strategy for corporate America to regain control, protect its interests, and reshape the political and legal systems to favor business. The plan had four key components:
+
+#### Step 1: Take Over Higher Education Step 2: Influence the Media Step 3: Dominate the Political Arena
+
+#### Step 4: Take Control of the Courts
+
+#### Powell saw college campuses as the breeding ground for radical ideas that fueled anti-corporate activism. To counter this, he called on businesses to fund programs that would instill conservative, pro-business values in students. He envisioned a “staff of scholars” and a “speaker’s bureau” to promote these ideals and suggested that businesses evaluate textbooks to ensure they didn’t contain anti-business bias.
+
+#### “These bright young men,” Powell wrote, “seek opportunities to change a system which they have been taught to distrust—if not, indeed, despise.”
+
+#### He also identified the media as a critical front in this ideological battle. Powell argued that news outlets played a central role in shaping public opinion, and he urged businesses to monitor and counteract their influence. He singled out television as a particularly powerful medium but also emphasized the importance of infiltrating radio, scholarly journals, books, and even paid advertisements. He called for businesses to keep television “under constant surveillance” and to actively shape narratives favorable to the free enterprise system.
+
+#### Beyond education and media, Powell saw the political arena as ripe for influence. He criticized business leaders for being too timid and urged them to become aggressive players in politics. “This is the lesson that political power is necessary,” Powell wrote, and such power “must be used aggressively and with determination—without embarrassment and without the reluctance which has been so characteristic of American business.” He envisioned the Chamber of Commerce taking a leading role in funneling money into elections and building alliances to influence policymaking.
+
+#### But perhaps the most consequential section of the memo focused on the courts. Powell saw the judiciary as “the most important instrument for social, economic, and political change.”
+
+#### He argued that businesses had failed to use the courts to their advantage. He believed that liberal and left-wing groups had been more effective at using the courts and urged businesses to adopt the same strategy. He called on corporate leaders to file lawsuits, challenge regulations, and submit amicus briefs to sway judicial rulings in their favor.
+
+#### Powell pointed to groups like the American Civil Liberties Union as examples of how coordinated legal efforts could drive significant change and called on the Chamber of Commerce to adopt similar tactics. “The judiciary may be the most important instrument for social, economic, and political change,” he asserted.
+
+#### Powell’s memo didn’t just outline these strategies; it also emphasized the importance of funding. “This is a vast area of opportunity for the Chamber, if it is willing to undertake the role of spokesman for American business and if, in turn, business is willing to provide the funds,” he wrote. He made it clear that this effort would require unprecedented financial support from corporate America.
+
+#### Powell’s plan was ambitious, but it was also deeply calculated. It laid out a vision for how corporate America could reshape education, media, politics, and the judiciary to create a system that would safeguard its interests. “If our system is to survive,” he wrote, “top management must be equally concerned with protecting and preserving the system itself.”
+
+#### This wasn’t a short-term strategy—it was a blueprint for a decades-long transformation of American society, and as history would soon show, it was a blueprint that corporate leaders would embrace with fervor.
+
+#### The memo concluded with a dire warning: “[B]usiness and the enterprise system are in deep trouble, and the hour is late.”
+
+#### When Lewis Powell penned the six-thousand-word memorandum that would bear his name, he had no intention of keeping it to himself. This was not a personal manifesto to file away and forget; it was a blueprint for action, aimed squarely at the corporate elite. Powell handed the memo to his friend Eugene Sydnor, the education committee chair of the U.S. Chamber of Commerce. From there, it quietly began circulating among the country’s most powerful business leaders.
+
+#### Just two months later, Powell’s phone rang. The caller on the other end wasn’t a business ally—it was the president of the United States.57
+
+#### The events leading up to Nixon’s call with Powell unfolded during one of the most politically and ideologically transformative periods of Supreme Court reshuffling in American history.58 Early in his first term, Richard Nixon hit the presidential-legacy jackpot. Most presidents are lucky to fill one Supreme Court seat—Nixon filled four in just three years.
+
+#### It began in 1969, when Nixon replaced the retiring, famously progressive Earl Warren with the more conservative Warren Burger as Chief Justice, fulfilling his campaign promise to appoint “strict constructionists.”59 Around the same time, a Life magazine exposé revealed a controversial financial arrangement between liberal Justice Abe Fortas and a wealthy financier, who would later be imprisoned for securities fraud. The financier had agreed to pay Fortas $20,000 through his foundation in exchange for legal services. Fortas
+
+#### ultimately returned the money, but the damage was done.60
+
+#### Though modest by today’s standards—especially compared to the luxury gifts later linked to Justices Thomas and Alito—the Fortas scandal erupted into a major controversy. With help from Attorney General John Mitchell, a young Justice Department lawyer named William Rehnquist, and strategic leaks about an FBI investigation, Nixon orchestrated a pressure campaign that ultimately forced Fortas to resign.61 For Nixon, who had long railed against the Warren Court’s expansion of civil rights, civil liberties, and federal authority, the resignation of one of Lyndon Johnson’s two appointees offered a golden opportunity to reshape the court’s ideological balance.
+
+#### But Nixon’s path forward was rocky. His first nominee to replace Fortas, Clement Haynsworth of South Carolina, was opposed by labor and civil rights groups as a segregationist and rejected by the Senate after reports of financial conflicts. Nixon’s next pick, G. Harrold Carswell of Florida, faced even greater backlash. Damaged by a past speech defending the “principles of white supremacy” and questions about his qualifications, Carswell, too, was rejected.62
+
+#### It was the first time since Grover Cleveland’s presidency in 1894 that two Supreme Court nominees had been denied. Nixon’s third attempt, Harry Blackmun of Minnesota, finally stuck—he was unanimously confirmed in 1970. Still, Nixon grumbled that the Senate would never confirm a Southerner to the court. Then, in the fall of 1971, fate delivered another opportunity. Justice Hugo Black retired and died shortly after, and Justice John Marshall Harlan II stepped down due to failing health. Suddenly, Nixon had two more vacancies to fill.
+
+#### His first choice was William Rehnquist, a young, outspoken conservative in the Justice Department with Goldwater credentials—sure to please the GOP’s hard-right base. For the second seat, Nixon returned to Lewis Powell. Powell had already been on the president’s shortlist after the Haynsworth debacle, but when he caught wind of it, he quietly asked that his name be withdrawn, citing his age and his comfortable, lucrative life at his Richmond law firm. Still, Powell had left a strong impression. He and Nixon had exchanged letters over the years, bonding over their shared disdain for communists and campus protestors.63 (Nixon was particularly taken with a confidential paper Powell had coauthored called “Political Warfare,” which proposed using “political and psychological measures” to discredit communist regimes. “We must put aside the self-deception that the techniques of political warfare are unethical or immoral,” Powell wrote. Nixon later praised Powell’s recommendations as “profoundly perceptive.”)64
+
+#### In October 1971, when the president called him directly—this time with a
+
+#### more urgent pitch—Powell felt compelled to reconsider. “If I determined that your appointment at this time is what the court needs,
+
+#### would you undertake it if I were to ask you to do it?” Nixon asked. Powell replied in his classic genteel Southern manner: “I think the answer is
+
+#### affirmative, Mr. President. I’m a fairly patriotic guy.” He was more than just patriotic. For Nixon, choosing Powell at this
+
+#### moment was a political masterstroke. Powell had strong backing from the Chamber of Commerce, and his mild manner and reputation for moderation made him an easy sell to a Democratic-controlled Senate. Privately, Nixon referred to him as a “corporation lawyer” in a call with California Governor Ronald Reagan—and that’s precisely what he wanted.65
+
+#### On November 4, 1971, Powell and Rehnquist appeared before the Senate. Rehnquist, the conservative movement firebrand, faced tough questioning over his record on civil rights. Powell, by contrast, sailed through with measured and reassuring answers on race and civil disobedience. “The Senate reserved two days for debate but didn’t need them,” one news anchor marveled. “There wasn’t even a whisper of dissent.” The vote: 89–1. The lone opposition: Senator Fred Harris of Oklahoma, warning that Powell was “an elitist with no compassion for the little people.”66
+
+#### But to Nixon—and the business elites cheering quietly from the sidelines— that sounded a lot like praise.
+
+#### Powell’s confirmation seemed inevitable, but there’s an alternate reality worth considering. The FBI, under Powell’s pen pal J. Edgar Hoover, conducted Powell’s background check and interviewed dozens of friends, colleagues, and coworkers.67 Yet the agency conveniently excluded his memo from the report sent to Congress, along with any mention of Powell’s correspondence with Hoover or his inflammatory rhetoric comparing liberal activists to Adolf Hitler. Powell was the last person anyone would have expected to be the author of a revolutionary new doctrine. Had the Powell Memo surfaced during the confirmation hearings, Powell’s nomination might not have been so assured.
+
+#### “It’s very possible that, had Justice Powell’s strong pro-business views as expressed in the Chamber of Commerce memo been known, he might never have made it onto the Supreme Court,” observed UCLA law professor Adam Winkler.68
+
+#### But the memo remained hidden—samizdat circulating among business executives and conservative activists, but not available to rank-and-file lawmakers or the general public. At least not when it could have jeopardized
+
+#### Powell’s nomination. But then, a few months after Powell was sworn in, his memo was leaked to
+
+#### columnist Jack Anderson, a journalist renowned for exposing corruption in Washington. Anderson’s nationally syndicated Washington Merry-Go-Round column, titled “FBI Missed Blueprint by Powell,” revealed the contents of the memo and raised questions about why it had been kept secret during Powell’s confirmation hearings.69
+
+#### Powell never publicly addressed the leak. He dismissed the memo in private as a favor to a friend, downplaying its significance. Meanwhile, corporate leaders rushed to defend Powell. Powell’s legal colleagues wrote letters to newspapers criticizing the coverage.70 Virginia Senator Harry Byrd Jr., a close friend, even read the memo into the Congressional Record, framing it as a defense of free speech for the business community: “In essence, the memorandum is a call to the business community of the United States to exercise its First Amendment right of free expression on its own behalf.”71
+
+#### In hindsight, the backlash only amplified the memo’s influence.72 Byrd’s maneuver ensured its words would reach an even wider audience, fulfilling Powell’s directive to use “every available means” to counter attacks on the free enterprise system.
+
+#### Still, the Powell Memo faded from public view, overshadowed by larger scandals like Watergate. Powell himself worked to cultivate his image as a centrist and gentlemanly jurist, a strategy so effective that when he passed away in 1998, his obituary in The Washington Post made no mention of the memo.73
+
+#### But the memo didn’t disappear. Its ideas were already taking root, inspiring a corporate mobilization that would reshape American politics.
+
+#### “It was eerie when I first read the contents of that memo,” said Senator Sheldon Whitehouse. “So much of what you see right now, playing out at the hands of the far right, was recommended in that memo. That you needed to control the court. That you needed to control the media. That you needed rapid response on college campuses.”74
+
+#### Whitehouse sees the memo as the blueprint for the corporate takeover of American democracy. “You can see the elements operating in plain view,” he explained, pointing to the rise of corporate lobbying, political front groups, and strategic litigation that Powell had prescribed.
+
+#### Critics today echo this analysis. Former Labor Secretary Robert Reich described the Powell Memo as “the start of the corporate takeover of American politics.”75 Others call it “a corporate call to arms” or “a playbook for capitalist forces to mobilize against the general population.”
+
+#### But to prove a conspiracy, it’s not enough to show a plan existed or even that people shared a goal. There must be evidence of coordination and collective action. Did Powell’s memo truly spark a conspiracy to legalize corruption?
+
+#### Whitehouse is cautious but pointed. “I don’t have hard evidence,” he admitted. “But when you consider the role of the U.S. Chamber of Commerce as this leading, powerful corporate political advocacy tool, and you see that the memo is directed to them, it’s hard to believe that wasn’t circulated through the corporate community.”
+
+#### The connections are undeniable, but the full story remains elusive. Where’s the smoking gun—those meetings, agendas, and presentations that would confirm Powell’s memo as the catalyst for coordinated action?
+
+#### Well, we found something. And it takes us to a very special place, a magical place where dreams come true.
+
+# The Secret Task Force
+
+#### Imagine it’s January 1973. You’re driving home after a long day, gripping the wheel of your wood-paneled Buick. The radio crackles as you flip through stations, seeking a reprieve from the deluge of bad news. Nixon, just days from his second inauguration, is embroiled in a mounting scandal. Senate Democrats are preparing an investigation into the Watergate break-in, protests for women’s liberation are growing louder, and the weight of it all makes you long for an escape.
+
+#### Switching to the AM dial, you land on W.A.R.M. 590, a station covering northern Pennsylvania and parts of New York. Suddenly, you hear something that stops you cold.
+
+#### “Mr. Businessman,” the announcer begins, “have you read the Powell Memorandum? It just might be the most important document about the free enterprise system ever written.”
+
+#### What is the Powell Memorandum? And who is Lewis Powell? The announcer explains: This document warns of a “growing menace”—
+
+#### one not from foreign adversaries, but from domestic forces. The danger, he says, is not from radical commies storming the gates, but from “people in college classrooms, people who reach the public through radio and television and magazines, people in our own community. Their numbers aren’t all that big yet, but their weapons are powerful—an ability to talk, to write, and to influence public opinion. They match this with an almost religious devotion to one goal: destroy free enterprise in America.”
+
+#### This wasn’t mere hyperbole. These were actual radio editorials promoting the Powell Memo, aired to mobilize a new wave of business leaders.1 For you, the suburban businessman listening in your Buick, it’s a rallying cry. The stakes are clear: If you don’t act, the system you’ve built your life around might crumble. You realize it’s time to get off the sidelines and join the fight.
+
+#### When we left off in the previous chapter, Lewis Powell’s memo had been leaked, raising questions about why it wasn’t disclosed during his confirmation to the Supreme Court. But Powell never addressed the memo publicly, and its brief moment in the spotlight faded. Powell himself sidestepped any
+
+#### controversy, deflecting inquiries to his friend Gene Sydnor at the Chamber of Commerce, saying, in effect, “Go ask them.” Powell was careful about maintaining the appearance of impartiality and called it part of his “sterilization as a judge.”2
+
+#### For many, that’s where the official story of the Powell Memo’s impact ends, and some have dismissed its significance as overblown. Others, however, see it as a step-by-step blueprint oligarchs and activists used to orchestrate the takeover of major American institutions. And now there’s proof that the latter’s suspicions were warranted.
+
+#### We all know the history of the many social movements in the 1960s and ’70s —civil rights, environmentalism, women’s liberation. In this chapter, we’re going to tell you about the movement you’ve probably never heard of: the Powell Memo movement, which began the process of legalizing corruption in America.
+
+#### Piecing this story together wasn’t easy. Powell’s personal papers hinted at meetings and campaigns connected to the memo,3 but the full picture required digging through archives across the country. What emerged was a portrait of a movement in its infancy—one that would soon become a juggernaut. It involved the names of powerful people. Some were already part of a burgeoning conservative movement in the early 1970s, while others were previously apolitical business leaders. But the memo came at the perfect moment to steer many of them in the same direction—the Business Roundtable, the head of Procter & Gamble, Charles Koch, Roger Ailes, and others.
+
+#### The starting point? A three-day conference at Disney World’s Polynesian Resort in March 1973. Organized by the U.S. Chamber of Commerce’s Public Affairs Committee, it was billed as the first gathering of the “Task Force on the Powell Memorandum.”4
+
+#### Yes, there was an actual Powell Memo Task Force, and yes, they met at Disney World. Picture it: tiki torches, white sand beaches, and the futuristic monorail gliding overhead. Amid the leisure of this new vacation utopia, America’s corporate elite gathered to plot a coordinated campaign to reshape the country.
+
+#### The event’s mastermind was William G. Whyte, a top lobbyist for U.S. Steel and a fixture on Washington’s K Street. Dubbed the “Dean of the Corporate Washington Establishment,” Whyte embodied the new breed of corporate public affairs specialists, blending lobbying, legal expertise, and media strategy to maximize political influence.5 As chair of the newly created Powell Memo Task Force, Whyte’s task was to bring Powell’s vision to life.6
+
+#### He assembled a who’s who of American business (see Figure 11, Cast of Characters): executives from General Motors, CBS, 3M, JCPenney, and more. Amway cofounder Jay Van Andel, CBS Broadcasting Group President Richard Jencks, and representatives from major universities joined the mix, ensuring the group’s influence extended beyond boardrooms into classrooms and the media.7
+
+#### The conference agenda mirrored the memo’s recommendations. Sessions focused on “enhancing the image of business,” strategies for political action, and creating a long-term framework to expand corporate influence—particularly how “the Chamber and business community can develop more political clout.”8
+
+#### Among the high-profile attendees was Congressman Gerald Ford, the House minority leader and future president. Officially, Ford was there for a work-related junket, courtesy of U.S. Steel and his longtime friend Whyte.9 Unofficially, he was there to strategize with the Powell Memo Task Force about the upcoming congressional elections and how to neutralize legislation threatening their agenda—a literal agenda that listed “Reform of the Federal Election Campaign Act of 1971” as their top legislative action item.10
+
+#### FECA, designed to reform campaign finance in the wake of Watergate, became a sticking point for the country’s top businessmen and corporate leaders, as the political tide turned toward increased regulation and calls for higher taxes on the wealthy. They focused on weakening restrictions on corporate-funded political action committees (PACs).11 Letters from the time reveal attendees lobbying to amend the regulations around corporate campaign donations. One executive wrote optimistically: “We should be able to get many companies to follow our own pattern of political fundraising.”12
+
+#### Their disdain for opponents like Wisconsin Senator William Proxmire, a staunch defender of campaign finance laws, was palpable. One letter joked about contributing to a “special fund to have Senator Proxmire get a few more hair transplants . . . provided the operator drills a little deeper this time.”
+
+#### Gerald Ford, as noted in Chapter 1, would later sign amendments to FECA into law as president—amendments that, despite being touted as reform, created the first major loopholes for corporate PACs. No more secret bags of dirty cash smuggled through airports à la Nixon. Those loopholes, conceived in the Polynesian Hotel’s conference rooms, paved the way for an explosion of legalized corporate spending in politics.13
+
+#### But campaign finance was just one piece of the puzzle. To implement Powell’s multifaceted and expansive vision, the task force divided into subcommittees, each focused on a core tenet of the memo: education, communications, political action, and judicial action. They were encouraged to
+
+#### think big, with instructions to “blue sky” their ideas beyond the Powell Memo’s already ambitious scope. They recognized that this was a long game, requiring not just money but sustained, strategic planning. Powell had laid it out clearly in the memo: “Strength lies in organization, in careful long-range planning and implementation, in consistency of action over an indefinite period of years.”
+
+#### This wasn’t just a plan to defend business interests—it was a call to reimagine American democracy in the image of corporate America. Powell’s memo had become more than a manifesto; it was now the master plan for a movement.
+
+Figure 3. As chair of the Powell Memo Task Force, lobbyist William G. Whyte wrote the foreword to a special November 1973 Washington Report issue of the U.S. Chamber of Commerce’s magazine, outlining
+the group’s recommendations. (Northern Illinois University.)
+
+### Powell’s Plan in Action
+
+#### Published as a special edition of the U.S. Chamber of Commerce’s Washington Report in 1973, the twenty-page “Business Response to the Powell Memorandum” marked a turning point for America’s largest business lobby.14 The report was the result of months of work by the chamber’s task force on the Powell Memorandum and was officially approved by the board of directors on November 8, 1973. It laid out a sweeping plan to implement Lewis F. Powell’s ideological blueprint— an official embrace of his call for American business to take a more aggressive role in shaping public opinion and public policy.
+
+#### With a foreword by task force chair William Whyte of U.S. Steel (see Figure 3), the report compiled recommendations from subcommittees focused on communications, education, and judicial and political action. It named more than forty prominent members from business and academia, including executives from G.E., General Motors, and Phillips Petroleum. Notable figures included Jay Van Andel of Amway and Edward Scripps of E.W. Scripps Co. (see Figure 11, Cast of Characters).
+
+#### The report called for a united business front—led by the U.S. Chamber—to push back against negative public perceptions and reshape the broader environment through coordinated campaigns in schools, media, and the courts. On political spending, it recommended that the chamber work more closely with the Business-Industry Political Action Committee (BIPAC), which would go on to pour millions into key races. It also urged corporations and local business groups to form their own PACs, with the chamber offering guidance on how to manage them. Joseph Fanelli, who led the Powell Memo Task Force, would later become BIPAC’s president, expanding its influence following campaign finance reforms enacted under President Gerald Ford.15
+
+#### “As a first essential for action, business executives—particularly at top corporate, association, and chamber levels—must be involved. Their commitment must be personal,” the report concluded. “We must use every skill and talent, every program and project, every tool and device we possess while creating better ones. Our need is urgent. We must meet it at once. And our drive must be sustained.”
+
+#### To sustain momentum, the report called for a permanent group within the chamber: the Committee on Business Overview (see Figure 12, Cast of Characters). A few months later, U.S. Chamber President Arch Booth sent out invitations to prospective members. The committee, he explained, would include “representation from the major private enterprise-oriented organizations,” such as the Business Roundtable and the National Association of Manufacturers (NAM), along with executives, PR strategists, and academics. The goal was to coordinate messaging, share strategies, and, as Booth put it, “help preserve and perpetuate the private enterprise system.”16 The mission: to turn the Powell Memo ideas into concrete action and “reverse the adverse trend of public opinion” about corporate America.
+
+#### With deep pockets and a clear plan, they went to work.
+
+#### In the mid-twentieth century, political manifestos were everywhere, galvanizing movements and reshaping society. Works like Betty Friedan’s The Feminine Mystique, Rachel Carson’s Silent Spring, Saul Alinsky’s Rules for Radicals, and Dr. Martin Luther King Jr.’s Letter from Birmingham Jail became seminal texts, igniting waves of change. Mao Zedong’s Little Red Book became a rallying cry for revolutionaries worldwide.
+
+#### But what about corporate conservatives? They had no equivalent— no foundational text to counteract these progressive movements and inspire their own. Barry Goldwater’s The Conscience of a Conservative and William F. Buckley Jr.’s media presence were highly influential, but these were largely intellectual exercises. To build a cohesive movement, they needed something that could resonate both with the elites shaping policy and powerbrokers with money and resources.
+
+#### This is why we should be skeptical that the Powell Memo’s 1972 leak to columnist Jack Anderson was entirely unintentional. Indeed, shortly after the memo became public, the U.S. Chamber of Commerce began a widespread distribution campaign. The organization mailed thousands of copies to members, republished it in their official magazine with an ornate design treatment, and promoted it almost like a quasi-religious text. The memo became an underground bestseller. According to chamber estimates, hundreds of thousands of copies circulated, sparking discussions, speeches, and reprints in business periodicals.17 “Millions of Americans—including many prominent business executives—have read it. It has served as a springboard for many speeches and articles. Hundreds of thousands of copies have circulated,” explained one chamber message to its members in 1973.18 It became the conservative movement’s version of The Anarchist Cookbook—a contraband-like guidebook passed from hand to hand.
+
+#### By early 1973, activity surrounding the Powell Memo reached a fever pitch. At the same time Gerald Ford was delivering his keynote address at the Disney World conference for the Powell Memo Task Force, another event was taking place at the Marriott in Dallas, Texas. Both gatherings were inspired by Powell’s manifesto, underscoring its growing influence.
+
+#### In Dallas, members of the Young Presidents’ Organization (YPO), a club for business leaders, held what could be described as Powell Memo parties— meetings of like-minded conservatives eager to strategize around Powell’s ideas.19 John A. Howard, president of Rockford College in Illinois and an
+
+#### emerging conservative thought leader, attended one such meeting. For Howard, the Powell Memo offered a framework for a new, ideologically driven movement.
+
+#### The focus in Dallas turned on one particularly potent passage: Powell’s warning about the media. How, they asked, could corporate America exert more influence over news coverage that was turning public opinion against them? Among the speakers at the Dallas meeting was a young TV producer and political consultant whose star was rising after helping Richard Nixon get elected: Roger Ailes.
+
+#### “Roger Ailes outlined the power which advertisers would be able to exert upon TV programming if they were moved to do so,” wrote Howard later, summarizing Ailes’s message. “The Chamber members not only need to understand the problem, but be informed about where and how they can apply leverage and be given the tools to exert the leverage.” Howard was so energized by Ailes’s ideas for reshaping television news that he concluded his meeting report with a striking recommendation: “This man appears to be a potential secret weapon, and the Chamber would be wise to enlist him as a consultant.”20
+
+#### While there’s no record of the U.S. Chamber of Commerce officially hiring Ailes after his involvement in this and other meetings about the Powell Memo, his ideas clearly struck a chord.21 The following year, Ailes was tapped to run the newsroom for TVN, a fledgling conservative news service financed by beer magnate Joseph Coors with the involvement of activist Paul Weyrich. Their goal was to create an ideological alternative to the major broadcast networks. “The Coors people trust Ailes because of his affiliation with the Republicans—and because he’s not a newsman,” one TVN staffer remarked at the time. “They don’t trust newsmen.”22 Though the company eventually folded, TVN is now widely viewed as an early forerunner of Fox News.
+
+### Capitalism on Camera
+
+#### Just as political outsiders like Ailes were trying to build new conservative media from scratch, Powell’s memo was also influencing top executives inside mainstream media organizations. Internal correspondence from the Chamber’s Committee on Business Overview reveals a coordinated effort to shift journalism in a more pro-business direction.
+
+#### Arthur R. Taylor, then president of CBS, expressed frustration over how difficult it was for “top management to delineate news parameters” without being accused—by journalists and the public alike
+
+#### —of trying to interfere with editorial independence. “I’ve been attempting as persuasively as possible for the last year to correct the situation at CBS News, with some results,” Taylor wrote in a letter to a chamber associate. “But I’m afraid it’s going to take a long time. When next we meet, I hope we can have an opportunity to discuss methods by which we might accelerate what is obviously a very important movement.”23
+
+#### In a 1974 proposal titled “Spokesman Role for Chief Executive Officers,” Charles H. Crutchfield, head of radio and TV company Jefferson-Pilot Broadcasting, took it a step further. He argued that CEOs needed to become public advocates for capitalism. Crutchfield urged companies to hire media consultants, train executives to be camera-ready, and take an aggressive posture toward shaping press coverage. “Speaking up often and openly,” he declared, was essential to protecting the free enterprise system.24
+
+#### Crutchfield’s proposal became an official training initiative for the U.S. Chamber, complete with courses, visual aids, and handbooks. In Speak Up, a 1975 educational film for business executives, host Jenkin Lloyd Jones—a past chamber president and editor of The Tulsa Tribune —warned that public distrust of business was at an all-time high, fueled by misconceptions about corporate profits, inflation, and the need for government regulation. He emphasized that these negative attitudes were driving increasingly hostile legislation.25
+
+#### To combat this, the program featured interviews with conservative columnist James J. Kilpatrick, The Washington Post’s business editor, broadcast TV producers, and others, offering concrete advice on how corporate leaders could present themselves to reporters and insert their narratives into the news cycle.
+
+#### The business community was no longer content to merely complain about liberal bias. They were organizing to take the media battlefield by storm—and the Powell Memo was their battle plan.
+
+#### The memo spread like wildfire, largely through snail mail and Xerox copies. A vice president of a company might receive a copy in the mail and share it with a colleague, and then the cycle would continue. The memo eventually reached some of the wealthiest and most influential families in America—direct descendants of the Robber Barons of the Gilded Age, who were committed to the destruction of the federal government bureaucracy expanded under the New
+
+#### Deal. John Merrill Olin, heir to a chemical and munitions fortune, was stirred by
+
+#### the memo.26 He began channeling millions of dollars into think tanks and legal organizations, including the Federalist Society. Powell’s memo didn’t just influence mainstream business leaders—it also galvanized radical free-market ideologues like Charles and David Koch, whose oil and gas empire came with a deep libertarian ideology. Speaking at an Institute for Humane Studies seminar in April 1973, Koch echoed Powell’s warnings, but argued his prescriptions didn’t go far enough.
+
+#### While the U.S. Chamber of Commerce focused on legal battles and lobbying and the Young Presidents’ Organization meeting focused on the media, Koch delivered a speech praising the “famous Powell Memorandum” as a mandate for ideological warfare—real change required reshaping the way people thought about capitalism itself. Koch pushed for a more radical vision—one free from all government intervention, regulation, and taxation. The real need, he argued, was to build a well-funded network of committed advocates for pure capitalism. He argued that investing in education and free-market scholars would have a greater long-term impact than direct political action or advertising.
+
+#### “As the Powell Memorandum points out, ‘business and the enterprise system are in deep trouble, and the hour is late,’” Koch said. “But the system can be restored if business will reexamine itself and undertake radical new efforts to overcome the prevalent anti-capitalist mentality.”27
+
+#### The Kochs would go on to found the Cato Institute, another think tank dedicated to deregulation and dismantling campaign finance laws, and, later, Americans for Prosperity.
+
+#### The memo also reached Richard Mellon Scaife, heir to an oil and banking fortune, who became an early funder of conservative organizations, including the American Legislative Exchange Council and the Heritage Foundation.28
+
+#### Joseph Coors of Coors Brewing Company likewise found inspiration in Powell’s words. He told a historian that the Powell Memorandum “stirred” him and made him realize American business was “ignoring a crisis.”29 Using his family’s beer fortune, Coors helped launch the Heritage Foundation and funded ventures that eventually evolved into powerhouses of conservative influence, including early precursors to Fox News.
+
+#### The Heritage Foundation, in particular, became a cornerstone of conservative policy, influencing Republican agendas from Ronald Reagan’s presidency to Donald Trump’s administration. By 2024, it had solidified its role as a dominant force, spearheading initiatives like “Project 2025,” a sprawling
+
+#### nine-hundred-page blueprint for a potential second Trump term.30
+
+#### Another convert was William B. Lambert, a fifty-year-old Ohio business executive who, in February 1974, made a pilgrimage to Washington, D.C., to meet Powell at the Supreme Court. Two weeks later, Lambert wrote Powell a glowing letter, calling their meeting “memorable” and noting that he had spent the past two years devoted to answering the Powell Memo’s call to action.31
+
+#### He and other businessmen launched the National Center for Responsible Enterprise, producing bulletins, manuals, and training materials to spread Powell’s message.32 Powell himself praised Lambert’s work, commending his dedication to “economic education.”
+
+#### Lambert wasn’t alone. Executives around the country formed study groups, immersing themselves in the works of Milton Friedman and Ayn Rand— authors they had never read before. These ideas gave them a fresh ideological framework and a shared enemy: government regulation and consumer activism. Defending business and capitalism—and corporate America—became their unifying cause, a battle they were eager to wage.
+
+#### Other organizations followed suit. The Committee for Constructive Consumerism, led by Henry Ford II, aimed to restore public trust in corporate America. The Ethyl Corporation—best known for its toxic leaded gasoline additive, and whose acquisition by a Richmond company Powell had helped broker in 1962—made the Powell Memo the theme of their annual magazine and distributed copies nationwide.33 Leonard E. Read, founder of the libertarian Foundation for Economic Education, promoted the memo at political action committee meetings. Even the Texas Bureau for Economic Understanding proposed publishing the memo as a booklet for distribution in Texas high schools.34
+
+#### But as the movement grew, so did concerns about fragmentation. Three weeks after meeting Lambert, Powell received another letter— this
+
+#### time from an executive in the construction materials industry who had been organizing his own workshops on free enterprise. The executive was alarmed by the sheer number of similar initiatives popping up. He saw an explosion of institutes, foundations, centers, and councils, all operating independently, and pleaded with Powell to help unify them.35
+
+#### Powell, now busy with his Supreme Court duties, declined. But the U.S. Chamber of Commerce stepped in. Joseph Fanelli, a chamber executive, began connecting these groups, appearing at a Dallas gathering to urge attendees to rally behind the chamber as the central organizing force for the movement.
+
+#### In the following months, corporate funding priorities shifted. Instead of
+
+#### focusing solely on direct campaign contributions, business leaders redirected millions into conservative nonprofits and ideological projects.
+
+#### While these organizations were part of a broader conservative resurgence, Powell’s memo gave them structure and direction, bridging the gap between corporate America and the rising tide of right-wing activism.
+
+#### In effect, the Powell Memo had created something new: an alliance between corporate America and the conservative movement, which came complete with its own network of activists, intellectuals, and political foot soldiers. And crucially, it gave far-right forces unprecedented access to the financial power of the business elite.
+
+#### The Powell Memo was the connective tissue linking these individuals and organizations in the infancy of the movement. It provided a framework for coalition-building among oligarchs, activists, and intellectuals who had previously lacked a unifying vision.
+
+#### The Powell Memo didn’t just inspire policy shifts—it sparked a grassroots movement among business leaders who had never considered themselves political. Previously apolitical executives and middle managers suddenly found a sense of purpose, rallying around a new identity as defenders of capitalism.
+
+#### However, in 1974 the movement was still largely underground—a network of powerbrokers and ideologues quietly working to implement Powell’s ideas. The question remained: How would they take these ideas and turn them into actionable steps to infiltrate the courts, reshape American culture, and consolidate their power?
+
+#### That’s where the story goes next.
+
+#### It was November 12, 1974—nineteen months after the tiki torches burned at Disney World’s Polynesian Resort and the projectors whirred in Dallas hotel conference rooms. The last leaves of autumn were falling, and Richard Nixon, tarnished and disgraced, was gone from office.
+
+#### “I shall resign the presidency effective at noon tomorrow,” Nixon had declared in August, his voice heavy with defeat. His successor, Gerald Ford— the man once chauffeured to a Powell Memo Task Force meeting by U.S. Steel lobbyist William Whyte—had since pardoned Nixon with a single stroke of his pen, granting him “a full, free, and absolute pardon for all offenses against the United States.”36
+
+#### Lewis Powell, meanwhile, had settled into his seat on the Supreme Court, cultivating a reputation as a reasonable, moderate justice. The general public had long since forgotten about the controversy over his leaked memo. But within the walls of the Chamber of Commerce’s headquarters in Washington, D.C., the
+
+#### memo’s master plan was quietly being realized. By this point, the Committee on Business Overview—the permanent group
+
+#### born from the Powell Memo Task Force—had been hard at work for over a year, implementing the memo’s recommendations. The urgency was palpable. Days earlier, Republicans had suffered a historic drubbing in the post-Watergate midterm elections, with a new wave of liberal reformers sweeping into Congress. If the master planners were going to protect their agenda, they would need to move swiftly.
+
+#### This particular November day marked the third of three key meetings that would shape the Powell Memo movement. Unlike the breezy, tropical setting of Disney World or the oil-and-gas wealth of Dallas, this gathering took place in a more formal venue: the Chamber’s headquarters, within view of the White House.
+
+#### The seating chart for the meeting (see Figure 12, Cast of Characters) reads like a who’s who of the burgeoning conservative power structure.37 Around the table sat William Baroody, president of the conservative think tank the American Enterprise Institute; Barton Cummings, the bow tie–wearing chair of the Ad Council; Gene Sydnor, the Richmond businessman who first persuaded Powell to draft his memo; and John Howard, the president of Rockford College, who had attended the earlier Dallas meeting. Executives from CBS, Amway, and General Motors were joined by representatives from the National Association of Manufacturers, the Council of Better Business Bureaus, and the newly formed Business Roundtable. Together, these groups would go on to define a new power structure on Capitol Hill.
+
+#### At the head of the table was William Whyte, the U.S. Steel lobbyist who had masterminded the earlier Disney World conference. Whyte began the meeting by addressing the room, detailing the progress made since the task force’s inception.38 After a year of closely studying the Powell Memo, Whyte explained, the chamber’s board had officially approved a plan of action. They concluded that “there were four mandatory areas in which business must concentrate its efforts if it is to achieve acceptance with the general public.”
+
+#### Slides flicked across a screen as Whyte laid out the breadth of their accomplishments. Congress had been persuaded to amend campaign finance laws, allowing for corporate PAC spending—a key objective discussed at Disney World. “Congress has enacted most of the reforms we sought and, notably, we helped to stave off that drive for public financing of congressional races,” Whyte declared.39
+
+#### He pointed to the chamber’s growing involvement in the courts. The Powell
+
+#### Memo had recommended emulating Ralph Nader’s focus on litigation: filing lawsuits designed to achieve specific policy outcomes and submitting amicus briefs to pressure judges. Whyte noted that the chamber’s legal teams were already participating in cases on issues ranging from unemployment benefits for striking workers to environmental regulations. “We have been successful in gaining our point of view in important instances,” he said, “and we expect these judicial actions to be one of the most far-reaching and productive elements resulting from Task Force recommendations.”
+
+#### The task force had also launched a series of educational initiatives, including new lesson plans for teachers, multimedia kits on profits and productivity, and pilot television programs like Everybody Knows What Profit Is.40 The chamber’s media outreach now extended to weekly columns sent to hundreds of newspapers, public-service announcements on radio stations, and cable TV features reaching millions. Even as these achievements were touted, Whyte reminded the room that much more work lay ahead. In that spirit, advertising executive Cummings reported that “field work” was underway on a multi-million-dollar national PSA campaign to promote public “support of the American enterprise system.”
+
+### Selling the System
+
+#### One of the most ambitious and far-reaching initiatives to come out of the chamber’s efforts was a massive, multi-year public relations campaign spearheaded by Barton Cummings through the Ad Council. Known for wholesome campaigns like Smokey Bear, the Ad Council teamed up with Ford’s Commerce Department to counter rising public discontent over inflation, big business, and broader unease with the structure of the economy.41
+
+#### Funded by millions from corporate giants like Mobil Oil, Procter & Gamble, and U.S. Steel, the “American Economic System” campaign echoed the very ideas that had first resonated with Cummings in the Powell Memo.42 The heart of the campaign was booklets illustrated with Charles Schulz’s Peanuts characters, which placed the logic of business and capitalism at the core of American government and identity. The nationwide rollout also included billboards, magazine ads, and radio spots.43 One radio ad asked, “Architect Delores Gould, what’s your IQ?” When Gould answered “138,” the narrator quipped, “And your EQ? Your economics quotient?” The ad concluded with Gould admitting, “Oh, I don’t know much about economics.” Another
+
+#### television spot featured a fumbling businessman unable to explain how the American economic system worked. The interviewer pressed him: “Who makes the American Economic System work?” The businessman stammered, “Well, uh-uh . . . I don’t know.” The interviewer shot back, “Right. And that’s a problem.”44
+
+#### Over its four-year run in the late 1970s, at least fourteen million booklets were distributed to the American public, Cummings later recalled.45 The Ad Council went on to tout its campaign to reshape public opinion about free-market capitalism as “the most successful introduction of a public service campaign in Ad Council history,” even publishing a pamphlet that described the organization as “free enterprise’s effective communications machine.”46
+
+#### Meanwhile, the ideas Powell outlined regarding judicial influence were becoming more formalized. They led to the creation of the chamber’s litigation arm—the National Chamber Litigation Center—funded by corporate donors.47
+
+#### Around the same time, conservative “public interest” law firms like the Pacific Legal Foundation (PLF) emerged, forming the foundation of a growing network of legal organizations that would go on to flood the courts with lawsuits and amicus briefs for decades.48 In June 1975, Ronald Reagan, gearing up for a presidential run, highlighted PLF on his syndicated radio program, Viewpoint with Ronald Reagan. “It’s a nonprofit public interest law firm dedicated to upholding the Constitution and protecting the public interest against such special interests as welfare rights groups, government bureaus, and ultra-environmentalist organizations,” Reagan declared.49
+
+#### Founded on March 5, 1973, by a former Reagan aide, PLF was the first nonprofit focused on conservative cause-lawyering. It offered an appealing pitch to business donors: By pooling resources, conservative legal groups could take on risky or less profitable cases free of charge. PLF’s success inspired a wave of similar organizations. Backed by the Chamber of Commerce, several regional legal foundations emerged under the umbrella of the National Legal Center for the Public Interest.
+
+#### Following this model, the Mountain States Legal Foundation was founded in Colorado in 1977, with funding from Joseph Coors of Coors Brewing. This organization largely targeted federal environmental and land-use regulations. Its first legal director, James Watt—who would later serve as Reagan’s Interior Secretary—branded the foundation unapologetically as an “exclusively pro-business organization.” Watt and his team pitched the group to businesses not
+
+#### as a charity, but as an “investment” in reshaping the legal and regulatory landscape.
+
+#### (And when we got a peek inside Watt’s archived files, guess what we found? His own personal copy of the Powell Memorandum—complete with his handwritten notations.)50
+
+#### In addition, the transformation at the Chamber of Commerce in the wake of the Powell Memo was profound. In 1975, Richard Lesher took the helm as president and began reshaping the organization’s focus. Under Lesher’s leadership, the chamber placed a strong emphasis on grassroots outreach to local chapters, significantly expanding its influence. He grew the chamber’s national membership from 50,000 to 250,000, primarily by recruiting small businesses with fifty or fewer employees. Within a year, the chamber merged with the National Association of Manufacturers, creating a unified powerhouse of money and influence.
+
+#### The chamber’s shift wasn’t just in size but in tone. It abandoned its traditional stance of staying on the sidelines of political fights and became an aggressive, vocal player in the arena. It included a chamber-funded film, Happy Birthday USA, narrated by none other than Jimmy Stewart.
+
+#### “Government bureaucracy is becoming a paternalistic monopoly that is burying us in paperwork and red tape,” Stewart warned. “It stifles initiative, and it erodes the basic self-reliance, which is our American legacy.51 If allowed to continue, it could bring an end to freedom and enterprise.” The irony wasn’t lost on critics: Stewart, the man who once played the government-reforming outsider in Mr. Smith Goes to Washington, was now a mouthpiece for Washington insiders arguing that government was the problem.
+
+#### To this end, the organization directly and forcefully engaged in political battles, pioneering “astroturf” lobbying—deploying supposed grassroots citizens’ groups to advocate for business-friendly policies. This new approach turned the chamber into a formidable campaign-spending force, capable of swaying elections and reshaping political spending rules to amplify big business’s control over American politics. Central to this long-term strategy was one overarching goal: securing Supreme Court approval for unfettered corporate political spending. By the mid 1970s, the pieces of the master plan were firmly in place.
+
+#### All that remained was to find the right opportunities to push the plan into full effect and ensure the unrestricted flow of corporate money into politics. The first opportunity would come soon—in a courtroom case that would forever change the role of money in American politics.
+
+#### The case was Buckley v. Valeo.
+
+# Corporations Are People
+
+#### In the post-Watergate midterm elections, Republicans had suffered a catastrophic loss, with liberal reformers sweeping into Congress. In the fall of 1974, President Ford reluctantly signed amendments to the Federal Election Campaign Act (FECA). These updates to FECA were part of a wave of “good government” bills passed by lawmakers in the mid-1970s, aimed at tightening election rules and restoring public trust in the political process. The amendments were designed to curb corruption by capping contributions, imposing spending limits, requiring donor disclosure, and establishing the Federal Election Commission as a new agency to enforce these rules. But Ford’s grudging acceptance of the legislation revealed its vulnerability. While he publicly promoted the FECA amendments as a way to “remove whatever influence big money and special interests may have on our federal electoral process,” his official statement also exposed his administration’s real stance. “Although I do have reservations about the First Amendment implications inherent in the limits on individual contributions and candidate expenditures,” he said, “I am sure that such issues can be resolved in the courts.”1 It was a clear signal to the master planners that the new campaign finance laws were ripe for challenge.
+
+#### For them, this new law represented a significant obstacle. If they wanted to implement Powell’s vision, they needed to dismantle it. The vehicle for doing so would be Buckley v. Valeo—a turning point in campaign finance law that would transform American politics. UCLA legal scholar Rick Hasen described its impact: “It’s the foundational case for understanding the Supreme Court’s constitutional approach to campaign finance questions. Everything flows from Buckley.”2
+
+#### The plaintiff at the heart of the case was Senator James Buckley, a Conservative Party darling who had ridden into office in 1970 on a wave of anti-establishment fervor. James Buckley wasn’t just any newcomer to politics; he was part of a dynastic family that shaped American conservatism. His younger brother, William F. Buckley Jr., was already a towering figure in the movement, a famed columnist, and the founder of National Review. James Buckley’s political
+
+#### career, however, emerged when Robert F. Kennedy was assassinated in 1968 and New York Governor Nelson Rockefeller appointed Republican Charles Goodell to fill Kennedy’s vacant Senate seat. Goodell—a moderate who later clashed with the Nixon administration over his opposition to the Vietnam War —earned the ire of the president and his vice president, Spiro Agnew, who derided him as part of a “liberal-radical coalition,” and earned a spot on Nixon’s infamous “enemies list.”3 (For modern readers, Charles Goodell may be better known as the father of NFL Commissioner Roger Goodell.)
+
+#### Goodell’s opposition to Nixon created a dilemma for the GOP: While the administration resented Goodell, did they really want to lose the seat to the Democrats? Enter James Buckley, the Conservative Party candidate who offered an alternative to both Goodell and the Democratic contender.
+
+#### A long-shot candidate with a populist message, Buckley’s campaign found quiet support from the conservative movement’s rising elite. Nixon refrained from endorsing any candidate in the three-way race, but Agnew publicly attacked Goodell in an effort to boost Buckley’s candidacy. Behind the scenes, prominent businessmen, bankers, and board chairs bankrolled Buckley’s campaign.4 Their political gamble paid off. Buckley won, becoming the first third-party candidate elected to the U.S. Senate in nearly thirty years. His tenure lasted only one term, but during that short time, he became pivotal for the master planners.5
+
+#### Buckley, with his image of earnest outsider independence, quickly aligned with DC insiders to launch a legal challenge to FECA.
+
+#### On January 2, 1975—just one day after FECA’s amendments took effect— an unlikely coalition of plaintiffs filed a federal lawsuit, with Buckley’s name at the top. The case, Buckley v. Valeo, targeted FECA’s limits on contributions and expenditures, arguing they violated the First Amendment.6
+
+#### At first glance, the plaintiffs seemed have little in common: Senator Buckley, liberal antiwar Democrat Senator Eugene McCarthy, the Socialist Workers Party, the Libertarian Party, and the New York Civil Liberties Union. These strange bedfellows shared a belief that FECA’s restrictions infringed on their ability to fund and run campaigns, limiting free speech and violating their First Amendment rights.
+
+#### “If you say that candidates are limited in how much money they can spend or a person is limited in how much money they can contribute for political speech, that certainly affects the rights of speech and association,” explained Rick Hasen, a UCLA legal scholar.7
+
+#### On the other side of the case was Francis Valeo, the first director of the
+
+#### newly created Federal Election Commission (FEC). Valeo’s role was largely symbolic; he was a stand-in for the federal government tasked with enforcing FECA’s rules.
+
+#### For Buckley and McCarthy, however, this case was deeply personal. Both had been insurgent candidates who depended on large contributions from wealthy donors to compete against the entrenched machinery of the two-party system. FECA’s spending caps prohibited individuals from spending more than $1,000 to independently support or oppose a candidate. Buckley argued that such limits unfairly benefited incumbents while stifling outsider campaigns.
+
+### Bankrolling Buckley
+
+#### Funding for the 1975 Buckley v. Valeo lawsuit came from several sources. As Ann Southworth recounts in her book Big Money Unleashed, wealthy conservative activist Charles Koch helped fund the litigation by contributing through the Libertarian Party.8 His motive was simple: he wanted the freedom to pour unlimited money into the presidential campaign of his choice—a candidate named Roger MacBride, representing the fledgling, anti-government Libertarian Party. However, unsure whether such a large contribution would be legal under the amended Federal Election Campaign Act, Koch sought legal clarity before moving forward. To help navigate the issue, Edward H. Crane III, then chair of the Libertarian Party, hired John Bolton to consult with the FEC.
+
+#### Following the Supreme Court’s Buckley decision, which upheld limits on campaign contributions, the FEC issued an advisory opinion allowing the Libertarian Party to receive up to $25,000 per year from a single donor—a paltry sum in the eyes of the Koch Industries heir. MacBride didn’t win the presidency in 1976; he received just 0.2 percent of the popular vote and no Electoral College votes. (Although he later helped create the Little House on the Prairie TV series, so perhaps it wasn’t a total loss.)9
+
+#### Ultimately, Koch hired Crane to lead his family foundation, the Cato Institute, which would grow into a highly influential libertarian think tank and a central force in future legal challenges to campaign finance regulation.
+
+#### The argument behind Buckley v. Valeo didn’t come out of thin air. Buckley
+
+#### had already criticized FECA on the Senate floor, repeatedly citing a booklet written by Yale law professor Ralph K. Winter and published by the American Enterprise Institute, a conservative think tank.10 (Notably, Winter’s coauthor was a recent Yale Law School graduate named John R. Bolton—now better known as the mustachioed neoconservative who later served as a national security advisor to both George W. Bush and Donald Trump.)
+
+#### Winter’s radical thesis equated money with speech, claiming that limits on campaign spending were inherently unconstitutional. “Setting a limit on candidate expenditures sets a maximum on the political activities in which American citizens can engage and is thus unconstitutional,” Winter wrote.11
+
+#### This argument—that spending limits crushed outsider candidates—became the cornerstone of Buckley’s case.
+
+#### When the case first came before a federal court, the judges upheld FECA, reasoning that its limits were necessary to prevent corruption and maintain the integrity of elections. But Buckley and his co-plaintiffs quickly appealed to the Supreme Court, which heard oral arguments on November 10, 1975.12
+
+#### Through the stately Greco-Roman columns and sculpted bronze doors into the Great Hall of the U.S. Supreme Court, Chief Justice Warren Burger presided over a case with enormous stakes. At its core, Buckley v. Valeo asked whether money in politics was a corrupting influence that could be regulated or a form of free speech protected under the First Amendment. Winter represented Buckley and the other plaintiffs, alongside Bolton, Washington lawyer Brice Clagett, and the New York Civil Liberties Union’s Joel Gora.13
+
+#### Typically, the job of defending federal laws in the Supreme Court would fall to the solicitor general. And indeed, one of the lawyers arguing in defense of FECA was the famed Archibald Cox. However, Cox wasn’t representing the federal government per se—he was there on behalf of FECA’s chief Senate sponsors, Edward M. Kennedy and Hugh Scott.
+
+#### Cox’s involvement was prompted by an unusual move from the actual solicitor general at the time: Robert Bork. Bork—who had infamously acted as Nixon’s hatchet man, firing Cox as special prosecutor during the “Saturday Night Massacre”—had returned to his post as solicitor general under President Ford after Nixon’s resignation. Like Winter, his fellow Yale Law School colleague, Bork personally opposed FECA, believing campaign finance limits were an inherent violation of the First Amendment. Ford, who had reluctantly signed the FECA amendments, had also made clear that his administration had reservations about key parts of the law.14
+
+#### Rather than mounting a full-throated defense of FECA, Bork and Attorney
+
+#### General Edward Levi took the extraordinary step of filing two separate briefs.15
+
+#### The first, filed on behalf of the government, nominally defended FECA. The second—filed as an amicus brief—reflected Bork’s true views, arguing that significant parts of the law were unconstitutional. Though Bork stopped short of outright opposing FECA, the message to the justices was unmistakable: The administration wouldn’t object if the court struck it down. The dual-brief strategy infuriated the FEC and campaign finance advocates like Common Cause, who had expected a unified defense of the hard-fought reforms.
+
+#### Thus, the stage was set for a battle between the conservative legal theories of Robert Bork and the anti-corruption advocacy of Archibald Cox.
+
+#### Winter argued that FECA’s spending caps silenced candidates and stifled free expression.16 “The burden of FECA thus falls heavily on those challenging the status quo,” Winter declared. “This legislation makes it acutely difficult for them to overcome the exposure incumbents already enjoy.” He compared spending limits to a local ordinance banning restaurant ads, framing them as an attempt by established players to freeze out competition.17
+
+#### Cox, drawing on his experience as the former Watergate special prosecutor, reminded the court of the bags of illicit cash that had fueled Nixon’s reelection campaign, warning that unchecked money would inevitably corrupt American democracy. He contended that campaign contributions and spending weren’t speech—they were tools of influence, often used to buy votes and curry favor. “The purposes, as we see them, are first, to protect the honor and integrity of government operations in both the legislative and executive branches against the corrosive influence of large contributions,” Cox explained.
+
+#### The court issued its decision on January 30, 1976. In a split ruling, the justices upheld FECA’s contribution limits, reasoning that they imposed only minor restrictions on free speech. However, they struck down expenditure limits.18 By declaring limits on spending a violation of the First Amendment, the court effectively enshrined the idea that spending money to influence elections was a protected form of free expression.
+
+#### At the time, this might have seemed like a technicality. But it wasn’t. This decision set a precedent that would ripple through the decades, dismantling campaign finance laws and providing the legal foundation for the rise of dark money in politics. For the master planners, Buckley v. Valeo was more than a win —it was the cornerstone of their strategy to legalize corruption and consolidate power.
+
+#### By the mid-1970s, the Supreme Court was grappling with a series of First
+
+#### Amendment cases that didn’t initially seem connected to campaign finance. But as events unfolded, these seemingly unrelated cases became instrumental in reshaping the boundaries of political and corporate power, thanks to a mix of idealistic legal theories and opportunistic maneuvering by the master planners.
+
+#### One of these cases began with abortion rights. An alternative newspaper in Charlottesville, Virginia, had advertised abortion services available in New York, where the procedure was legal, even though it remained illegal in Virginia. The newspaper’s editor, Jeffrey Bigelow, was charged under Virginia law and convicted for advertising abortion services. His case ultimately made its way to the Supreme Court in 1975, with the ACLU arguing that his conviction violated the First Amendment.19
+
+#### Alan Morrison, a lawyer for Ralph Nader’s consumer protection group Public Citizen, saw Bigelow’s case as an opportunity to establish a new precedent. Morrison wasn’t just interested in Bigelow’s right to publish information; he was advocating for the rights of Virginia citizens to receive it. “I saw this as a case in which we should file our brief testing the waters on the listener theory,” Morrison later explained.20 He argued in an amicus brief that Virginia was infringing on the public’s right to access information about legal abortion services in New York. Justice Harry Blackmun agreed, and the Supreme Court’s majority opinion embraced Morrison’s listener-rights argument, creating a precedent for expanding First Amendment protections.21
+
+#### Buoyed by the success in Bigelow, Morrison turned to another consumer-focused case in Virginia, this one involving prescription drug prices. Lynn Jordan, who had undergone a hysterectomy and relied on multiple medications, wanted to challenge laws prohibiting pharmacies from advertising drug prices. At the time, about thirty-four states had similar restrictions, justified on the grounds that price advertising would erode the “professionalism” of pharmacists.22 In July 1973, Morrison, on behalf of the Public Citizen Litigation Group, filed a federal lawsuit against the Virginia Board of Pharmacy on behalf of Jordan and others, arguing that these laws denied consumers access to vital information. “The Federal Trade Commission had demonstrated conclusively that the prices of prescription drugs in those states were higher than it was elsewhere,” Morrison pointed out. Surveys from the 1970s revealed dramatic price variations across the country, sometimes exceeding 1,200 percent.23
+
+#### Consumer advocates argued that state-imposed limits on price transparency only made the problem worse, hurting everyday people who relied on these medications.
+
+#### When Virginia defended its advertising ban in the Supreme Court by
+
+#### claiming that commercial speech wasn’t protected under the First Amendment, Morrison reframed the case around the rights of listeners, arguing that consumers had their own constitutional “right to know” the information being withheld. By focusing on how the ban deprived the audience of vital information, he argued that commercial speech was just as deserving of First Amendment protection as any other form of speech because it empowered consumers to make better decisions.24 Again, Morrison’s argument resonated with Justice Blackmun, who delivered the Supreme Court’s ruling in May 1976. Blackmun wrote, “We further hold that so-called commercial speech is not wholly outside the protection of the First and Fourteenth Amendments. The individual consumer and society, in general, may have strong interests in the free flow of commercial information.”25
+
+#### The ruling was celebrated as a major win for consumer rights and a triumph for Ralph Nader’s movement. Reporting from the steps of the Supreme Court, Fred Graham of CBS News noted, “Today’s decision is also expected to spell the end of laws against advertising the price of eyeglasses and funerals, and perhaps advertising by doctors, dentists, and maybe even lawyers.”26
+
+#### Beneath the surface, however, this seemingly clear victory for the underdog set the stage for an ironic twist. The same reasoning that empowered consumers to shop around and save money would soon be used to empower corporations to assert their own First Amendment rights. The law of unintended consequences was about to play out, with a pivotal assist from none other than Justice Lewis Powell.
+
+#### Powell, who had previously attacked Ralph Nader in his now-famous Powell Memo as one of the most dangerous figures in America, was hardly an ally of Public Citizen. He firmly rejected Morrison’s First Amendment listeners’ rights theory, writing in his notes during deliberations on the pharmacy case that “there is no Const[itutional] right to know.” To Powell, the First Amendment existed to protect the speaker, not the audience, and he saw the advertising restrictions on businesses, particularly pharmacists, as especially troubling.27
+
+#### In the end, Powell joined the majority in striking down the ban on drug price advertising. But what began as a triumph for consumers was about to become a cornerstone of corporate influence, paving the way for a new and powerful interpretation of free speech rights. Powell’s strategic pivot would turn this seemingly unrelated case into yet another step in the master plan.
+
+#### The Buckley case looms large in the history of campaign finance law. But there’s another lesser-known case that truly laid the groundwork for decisions
+
+#### like Citizens United decades later: Bellotti. Formally known as First National Bank of Boston v. Bellotti, this case featured none other than Powell playing a leading role. It marked the culmination of a series of Supreme Court decisions in the 1970s that reshaped campaign finance law and enshrined corporate rights under the First Amendment.
+
+#### To understand Bellotti, it’s helpful to briefly revisit the rulings that paved its way. First, there was Buckley v. Valeo, which declared that spending money in campaigns was a constitutionally protected form of speech. As Chief Justice Warren Burger stated in the majority opinion: “The court holds that the expenditure limitations are violative of First Amendment guarantees and they are unconstitutional.” Then, just a few years later, the court ruled in Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council that businesses had at least some of the same First Amendment protections as individuals. “We further hold that so-called commercial speech is not wholly outside the protection of the First and Fourteenth Amendments,” announced Justice Harry Blackmun.28
+
+#### By the time Bellotti reached the court in 1977, the master planners were poised to solidify their strategy. This wasn’t just another ripple in the judicial landscape—it was a seismic shift.
+
+#### The story began in Massachusetts, where the state legislature passed a law barring corporations from spending money to influence ballot measures, unless the measure directly affected their business.29 At first glance, the law seemed like a straightforward reform to ensure fairness in the democratic process. But in 1976, lawmakers proposed a constitutional amendment that would introduce a graduated income tax, raising taxes on the wealthy.
+
+#### This proposed tax infuriated powerful executives like Richard Hill, the head of First National Bank of Boston. Although Hill and others could still spend their personal wealth opposing the measure, the restriction on corporate funds felt, to them, like an unjust muzzle. When Massachusetts Attorney General Francis X. Bellotti told First National that the bank’s campaign spending would break the new law and that he planned to enforce it, Hill filed a lawsuit against Bellotti and the state.
+
+#### Hill argued that the Massachusetts law barring corporations from using their treasuries to influence ballot initiatives (unless those initiatives directly affected them) violated the First Amendment, claiming it unjustly restricted corporations from speaking out on ballot measures. The Massachusetts Supreme Court sided against him, ruling that the restriction was constitutional.30 Unwilling to back down, Hill and his allies appealed to the U.S. Supreme Court, bolstered by a cascade of amicus briefs. Among the filers were the U.S. Chamber of
+
+#### Commerce and the Pacific Legal Foundation—two organizations born from Powell Memo-inspired organizing.31 (It’s worth noting that Powell himself had recommended this exact strategy in his memo, urging corporations to mimic the left’s use of amicus briefs to influence court decisions.)
+
+#### The stakes in First National Bank of Boston v. Bellotti were immense. The central question was whether corporations should be treated like people under the First Amendment, entitled to the same free speech rights in political matters. Representing Hill and the corporate side was Francis Fox, who leaned heavily on the language of Buckley v. Valeo. “Money is speech,” Fox argued. “And speech is protected unless and until it comes up against a compelling state purpose and carefully drafted legislation which serves that purpose.”32
+
+#### Defending the Massachusetts law was a young Assistant Attorney General named Thomas Kiley, who maintained that corporations were not natural persons and therefore did not have First Amendment rights. “They may be restricted to the protections contained in their charters,” Kiley asserted, emphasizing that corporations existed as legal constructs, not independent entities with constitutional guarantees.33
+
+#### After hearing arguments in Bellotti, the justices met in private conference to discuss the case. In his book We the Corporations, UCLA law professor Adam Winkler recounts what happened behind closed doors, noting that only one justice, Byron “Whizzer” White, took the position that corporations had no political speech rights at all and believed Massachusetts’s law should be upheld in its entirety. Most of the justices, however, took a narrower approach. They felt the Massachusetts law should allow corporations greater flexibility to demonstrate how specific ballot measures affected their business interests— such as their ability to attract top executives—but they were not prepared to declare that corporations have the same free speech rights as individuals.34 Only one justice pushed for that sweeping position: Lewis Powell.
+
+### Powell’s Corporate Rights Doctrine
+
+#### To understand Powell’s worldview on this issue, it’s worth revisiting a moment from late 1972, just weeks before Powell took his seat on the Supreme Court. At a private dinner held in his honor by the Forum Club in Richmond, Virginia, Powell was celebrated by a group of businessmen from State Planters Bank/UVB—long standing clients of his law firm, Hunton & Williams. As they toasted Powell and gave speeches in his honor, the evening was mostly jovial and celebratory. But Powell’s own remarks, captured in an audio recording, took on a
+
+#### more thoughtful tone.35
+
+#### Throughout a lawyer’s career, Powell explained to his peers, they often represent numerous individuals and, at times, corporations, even if they may not fully sympathize with them. Sometimes, they advocate for business interests whose public value they might even question. “Our system provides for and indeed depends upon the right of every individual—and every corporate enterprise—to be represented by counsel whose duty it is to do the best he can to see that justice is done for that individual, or that entity.”
+
+#### It’s worth pausing on this statement, a rare moment of introspection in an otherwise raucous evening. Powell’s remarks revealed the heart of his worldview: a belief that corporations and individuals were equally entitled to legal rights and protections. For Powell, there was no meaningful distinction between the two under the law. This perspective would prove pivotal in shaping his approach to corporate personhood and the role of businesses in society during his time on the Supreme Court.
+
+#### By the time it came to decide Bellotti in 1978, Powell had fully embraced this worldview. While his colleagues leaned toward a narrower ruling, Powell pushed forcefully for a broader decision. He wanted the court to declare outright that corporations should enjoy the same First Amendment protections as individuals, free to spend their money on any political matter without government interference. Initially, Powell stood alone in that view, and Justice William Brennan was assigned to draft the majority opinion in favor of a narrower ruling. However, Brennan experienced a crisis of confidence. He realized that leaving the broader question unresolved would likely invite future litigation. Justice Brennan circulated a typed memo to his colleagues, expressing his struggle to write a narrow opinion that would avoid addressing the broader constitutional question. “Corporate spending as a corrupting influence in the political process has long been a national concern and has produced numerous corrupt practices acts, federal and state, ever since Theodore Roosevelt some seventy-five years ago urged their passage,” he wrote. He warned that striking down Massachusetts’s law could jeopardize the constitutionality of campaign finance laws nationwide, which had long been justified as safeguards against political corruption. Concerned that his approach lacked majority support, he asked his fellow justices to confirm their positions, noting that if most disagreed, the opinion should be reassigned.36
+
+#### This unexpected development was Powell’s golden opportunity. In the
+
+#### margins of Brennan’s letter to the justices, Powell scribbled, “Wow!” with an exclamation point (see Figure 4).37 Sensing his moment, Powell volunteered to write the majority opinion. He seized on the court’s recent ruling in Virginia State Board of Pharmacy, reminding his colleagues that they had already held that the public had a right to hear corporate speech.38 By that logic, Powell argued, Massachusetts voters also had a right to hear what corporations like First National Bank had to say about ballot measures.
+
+#### It worked. Powell swayed just enough justices to form a slim 5–4 majority. In his opinion, Powell declared: “The First Amendment’s primary concern, and therefore, the court’s concern, always has been the preservation of free and uninhibited dissemination of information and ideas.” He went further, stating that this principle held true “whether the speech comes from a corporation or an individual.”39
+
+#### The Bellotti decision was a turning point, establishing the principle that corporations had First Amendment speech rights similar to individuals. Though not fully appreciated at the time, it set a precedent that in an interview legal scholar Adam Winkler explained, “would be very, very influential and completely transform American jurisprudence over time.”40
+
+Figure 4. In an internal letter, Justice Brennan withdrew from drafting a majority opinion that could undermine campaign finance rules. Lewis Powell, scribbling “wow” in the margins, seized the chance to
+write a ruling that expanded corporate political speech as a right. (Washington and Lee University.)
+
+#### (Decades later, that idea resurfaced in the words of former Massachusetts governor and Bain Capital cofounder Mitt Romney, who famously responded to a heckler: “Corporations are people, my friend.”)41
+
+#### By the late 1970s, corporate money was pouring into politics. Political Action Committees (PACs), once mainly used by labor unions, had become powerful tools for corporations to bundle donations, boost business-friendly lawmakers, and target opponents. Between 1974 and 1980, the number of PACs quadrupled, with corporate-affiliated PACs accounting for almost half.42
+
+#### This surge reflected the vision first strategized in gatherings of the Powell Memo Task Force and advanced by allies like President Gerald Ford, who had lobbied to carve loopholes into the 1974 FECA amendments (see Chapter 3). These changes allowed government contractors—and, by extension, large multinational corporations represented by the Chamber of Commerce—to
+
+#### donate to federal elections and helped supercharge groups like the Business-Industry Political Action Committee (BIPAC). Meanwhile, Bellotti built on Buckley by striking down limits on corporate spending in ballot initiatives, further affirming corporate political rights.
+
+#### Although PACs were still subject to disclosure rules and spending restrictions, corporations—with their far deeper pockets than unions— were better positioned to take advantage. Between 1976 and 1978 alone, corporate PAC spending jumped by 128 percent, compared to just 24 percent for labor PACs. By the 1980s, corporate PACs were rivaling labor PACs in contributions to Democratic incumbents.43
+
+#### The floodgates were open, and the master planners’ vision was well underway. But not everyone was content to let this system stand unchallenged. Among the critics was a surprising figure—a conservative Republican senator from Arizona named John McCain. Burned by his own involvement in a campaign finance scandal, McCain would dedicate his political career to taking on what he called “an elaborate influence-peddling scheme in which both parties conspire to sell the country to the highest bidder.”44
+
+#### That’s where our story heads next.
+
+# The Maverick
+
+#### On April 2, 1987 on a windy spring evening in Washington, DC, the air felt heavy, as though a storm was about to blow in. Ed Gray, chairman of the Federal Home Loan Bank Board, hurried through the halls of the Hart Senate Office Building. A senior senator had summoned him for a private meeting, insisting he come alone. The timing and secrecy of the request set Gray on edge. Most of the Capitol was quiet, its halls emptied as lawmakers headed home for the evening.
+
+#### Gray’s position made him a key player in regulating savings and loans (S&Ls), small banks that had been created during the Great Depression to provide mortgages and manage household savings. In recent years, however, deregulation had allowed S&Ls to venture into riskier investments, leaving many on the brink of collapse. Gray had been pushing for new legislation to reimpose stricter controls, a move that had sparked intense lobbying from industry players like Charles Keating Jr., a Phoenix-based real estate mogul and owner of Lincoln Savings and Loan.1
+
+#### Gray assumed this meeting would involve a discussion about his proposed regulations. Instead, it felt like walking into an ambush. The senator greeted him at the door, leading him into an office adorned with Native American basketry depicting butterflies, turtles, and birds. Inside, three other senators waited.
+
+#### Years later, testifying before the U.S. Senate Ethics Committee, Gray recounted the unnerving experience. “I sat down,” he said. “Directly across from me was Senator DeConcini. To his right was Senator McCain. To his left, Senator Cranston. Then to my right, closest to me, was Senator Glenn.”2
+
+#### The senators—Democrat Dennis DeConcini of Arizona, Republican John McCain of Arizona, Democrat Alan Cranston of California, and Democrat John Glenn of Ohio—were formidable figures. From the outset, Gray noticed McCain seemed visibly uncomfortable. “Senator McCain said, ‘Now, we don’t want to do anything that’s improper in this meeting,’” Gray recalled.
+
+#### The reason for the gathering became clear when DeConcini spoke. “Mr. Chairman,” he said, “we’re here to talk about our friend from Lincoln Savings.”3
+
+#### Charles Keating Jr. was no ordinary constituent. A wealthy and influential
+
+#### figure, Keating had been aggressively lobbying to derail Gray’s proposed regulations, which threatened the high-risk investments he relied on to keep his empire afloat.
+
+#### “By the time of our rulemaking,” Gray testified, “Mr. Keating had apparently been lobbying heavily to try to ensure that the rule wouldn’t be applied against Lincoln or that it would be scuttled by a powerful show of force in Congress.”4
+
+#### Gray—in a private, closed-door meeting with no aides, no witnesses, and no record—felt the weight of their presence. “The whole setting was an intimidating one under these circumstances because I had never had a meeting like this before,” he said. “There were only five there—myself and four United States senators. No one else to hear. No one else to know what was said. It was just us. I recognized that immediately.”
+
+#### What could compel four sitting U.S. senators to go to such extraordinary lengths on behalf of a single constituent? The answer was as old as politics itself: money. Keating had donated lavishly to their campaigns and political causes, leveraging his wealth to gain extraordinary access and influence.
+
+#### The Keating Five scandal, as this incident would later be called, became emblematic of the 1980s—a decade defined by big hair, big shoulder pads, and even bigger corruption. The era was a reminder of the dangers that the Supreme Court’s campaign finance rulings of the 1970s had unleashed, raising concerns that American politics had devolved into an open-air auction.
+
+#### Among the senators involved, one would emerge from the scandal forever changed: John McCain. Burned by his association with Keating, McCain would become an unlikely crusader for campaign finance reform, transforming his guilt into a relentless campaign against the corrosive influence of money in politics.
+
+#### “As long as special interests dominate campaigns,” McCain would later say, “they will dominate legislation as well. Until we abolish soft money, Americans will never have a government that works as hard for them as it does for the special interests.”5
+
+#### This is the story of how the lessons of the 1980s shaped the fight to rein in money in politics and how one senator’s reckoning with scandal fueled his transformation into a reformer.6
+
+#### John McCain first captured the national spotlight in October 1967 under harrowing circumstances. While on a bombing mission over North Vietnam, his plane was shot down, and he ejected, breaking his leg and both arms. Captured by the North Vietnamese, McCain endured over five years of torture and
+
+#### imprisonment in the infamous “Hanoi Hilton.” Despite his injuries and the brutal treatment, McCain gained a reputation for bravery and principle, refusing early release unless every prisoner captured before him was freed as well. His steadfastness made headlines when he was finally released in 1973 as part of a broader prisoner exchange.
+
+#### ABC Evening News captured the dramatic homecoming: “Among them, an admiral’s son, Lieutenant Commander John McCain.”7
+
+#### McCain’s lineage, as the son and grandson of U.S. Navy admirals, only added to the aura surrounding him. After his return, McCain continued his military service, eventually becoming the Navy’s liaison to the U.S. Senate. It was during this period that he had his first brush with politics, a world that would soon become his next calling.
+
+#### In 1982, McCain ran for Congress to represent Arizona’s 1st District, despite having no deep ties to the state beyond his wife, Cindy, and her relatives. McCain had recently moved to Arizona to be closer to Cindy’s influential family, who owned a lucrative Anheuser-Busch beer distributorship. While his outsider status was a liability, McCain had three significant advantages.
+
+#### First, his campaign had access to the financial resources of Cindy’s wealthy father, who helped bankroll his bid. Second, McCain enjoyed the backing of Darrow Tully, the influential publisher of The Arizona Republic. Finally, McCain had the support of several powerful figures, including Phoenix businessman Charles Keating Jr.8
+
+#### These factors propelled McCain through a tough Republican primary to a general election victory. He served two terms in the House before running for the Senate in 1986 to replace conservative icon Barry Goldwater.
+
+#### McCain’s Senate campaign leaned heavily on patriotic imagery and retail politics, including a whistle-stop tour by rail. In campaign ads, McCain waved from train platforms, held his baby daughter, and even conducted a patriotic band.9 The messaging was clear: McCain was a man of the people, rooted in family and tradition, ready to lead Arizona into the future.
+
+#### But running such a campaign was not cheap. As television and radio ads became central to winning elections, the cost of campaigning soared. By 1986, Senate candidates collectively spent nearly $190 million, with more than a third of that—$64 million—going to broadcast advertising.10 As a result, candidates like McCain found themselves in a perpetual chase for cash.
+
+#### “It was this nonstop chase for money,” recalled Mark Buse, who began working for McCain in 1983 and eventually became his chief of staff. “If you could be up on TV in prime time and on radio during drive time, it was what
+
+#### you needed. And that was getting more and more expensive.”11
+
+#### McCain’s campaign raised nearly $2.6 million, about five times what his Democratic opponent managed. Among McCain’s contributors was Keating, who had supported McCain in all his previous campaigns. Over the course of three elections, Keating donated $112,000 to McCain’s efforts—about $320,000 in today’s money.12
+
+#### Keating, a former lawyer turned real estate tycoon, epitomized the wealth-chasing ethos of the 1980s. After becoming owner of Lincoln Savings and Loan Association in 1984, Keating began cultivating relationships with influential politicians, including McCain. He invited McCain and his family to his luxurious home in the Bahamas, flying them there on private planes—perks that would later come under scrutiny during a Senate ethics investigation.
+
+#### When later asked by the Senate Ethics Committee whether he saw any issues with accepting such hospitality from Keating, McCain defended himself. “I did not have any reservations about having friends, nor do I have reservations about having friends who contribute to my political campaigns,” McCain testified. “The key answer to your question is whether or not I would do anything improper for a friend of mine, and the record clearly says I refused to do so.”13
+
+#### Still, McCain’s close relationship with Keating would come back to haunt him.
+
+#### In 1986, federal regulators began to scrutinize Lincoln Savings and Loan Association more closely. The bank’s rapid growth and high-risk ventures had set off alarms. For Keating, the stakes were enormous, and he knew just what to do: Call in favors from his five Senate allies.
+
+#### Keating funneled a total of $1.3 million to the five senators, who in turn pressured federal regulators to ease up on his business. As a major employer in their states and a generous campaign donor, he insisted he had every right to ask for help from his Senate friends.14 After all, what were political contributions for if not to secure access? As we learned earlier, that “help” involved pressuring Ed Gray to back off regulations that would have curbed the kind of risky investments Lincoln was making.
+
+#### Gray testified later, “Then Senator DeConcini said, ‘We’re very concerned about this regulation of yours. We’d like you to withdraw it until we can find out whether it’s constitutional.’”15
+
+#### The pressure didn’t stop with Gray. Just a week after the senators met with him, all five convened with federal bank regulators in San Francisco, urging them to go easy on Lincoln Savings and Loan. The senators framed their argument as defending a constituent’s interests, claiming that cracking down on
+
+#### Lincoln could harm the local economy. But the regulators saw things differently. They recommended a federal takeover, citing Lincoln’s dangerous over-investment in speculative ventures.16
+
+#### Yet nothing happened. The political pressure slowed the regulators’ efforts, allowing Lincoln to continue business as usual for nearly two more years.
+
+#### By the time Lincoln Savings and Loan finally collapsed, the damage was catastrophic. Roughly twenty-three thousand customers lost their investments, including many retirees who had entrusted their life savings to the institution. This was just one chapter in the broader Savings and Loan Crisis, a financial debacle that saw nearly a third of America’s savings and loan institutions fail between 1986 and 1995.17
+
+#### As CBS Evening News reported, “This week, runs on privately insured savings and loan associations in Maryland. Seventy-one S&Ls closed down in Ohio, and before that, runs on institutions in four other states.”18
+
+#### Lincoln’s collapse stood out for its staggering cost. After federal regulators took over the bank, which held $6 billion in insured deposits, taxpayers ultimately spent almost $3.5 billion to cover the losses—much of it tied to risky real estate deals and junk bonds. The scale of the bailout was made worse by the government’s delay in intervening—delays influenced by the Keating Five’s pressure campaign.
+
+#### By October 1989, Lincoln’s failure had become a full-blown scandal. The watchdog group Common Cause called for a Senate Ethics Committee investigation into the links between Charles Keating and the five senators who had intervened on his behalf.19
+
+#### Keating, for his part, didn’t exactly make things easier for his Senate allies. When asked whether his campaign contributions had influenced the senators’ actions, he famously replied, “I want to say in the most forceful way I can: I certainly hope so.”20
+
+#### The scandal was particularly explosive because it implicated high-profile figures from both parties: astronaut-turned-Democratic Senator John Glenn and Vietnam War hero-turned-Republican Senator John McCain. For McCain, the ordeal was devastating.
+
+#### “It was horrible for him,” recalled Buse. “He prided himself on doing the right thing. You could tell it bothered him and upset him. His integrity was being questioned.”21
+
+#### McCain’s office was inundated with angry letters from constituents who had followed the scandal in the news. “We got letters saying, ‘Why did you do this? This is wrong. What do you have to say about this?’” Buse said.
+
+#### McCain also endured public humiliation during a call-in show on C-SPAN, where an Arizona voter skewered him live on air: “It’s like Barry Goldwater told me about you one time: The only reason you got there was for the money.”22
+
+#### The Senate Ethics Committee launched a nearly two-year investigation into the Keating Five, holding televised hearings where McCain was forced to testify. “I’m glad to have the opportunity to fully and publicly account for my relationship with Charles Keating and my conduct,” McCain said during his testimony.23
+
+#### Ultimately, the Ethics Committee cleared McCain of criminal wrongdoing but criticized his “poor judgment.” For McCain, it was a close call—one that could have ended his political career. Instead, he confronted the scandal head-on. During his 1992 reelection campaign, he acknowledged his mistakes, telling reporters, “It was a very serious mistake on my part. The appearance of a meeting with five senators was bad and wrong, and I agonized over it at the time.”24
+
+#### Still, even as McCain sought redemption, he couldn’t escape the campaign finance system that had enabled the scandal. To remain politically viable, he had to keep raising money, which meant courting the same corporate interests that had become synonymous with political corruption.
+
+#### “John would talk a lot about looking back at the Nixon scandals,” Buse said. “He would always say, ‘People were walking around with valises full of money.’”25
+
+#### The parallels between Watergate and the post-Buckley era were hard to ignore. But McCain began to ask himself whether this system—the ecosystem the master planners had created—was fixable.
+
+#### By the mid-1990s, McCain had transformed from a politician tainted by the Keating Five scandal into a crusader determined to reform the campaign finance system. As corruption in politics grew more entrenched, McCain’s mission to wrest control of government away from special interests became central to his political brand.
+
+#### The system he fought against wasn’t merely riddled with corruption—it had been systematically fortified over decades through laws, loopholes, and court rulings. Foundational reforms such as the Federal Election Campaign Act (FECA) had been undermined by key decisions like Buckley in 1976 and Bellotti in 1978, which tied the concepts of money and corporate rights to the First Amendment protections afforded to individuals. Then, in 1979, Congress amended FECA again, loosening disclosure requirements and allowing national
+
+#### political parties to raise unlimited funds for vaguely defined “party-building activities.”26
+
+#### On the surface, these activities seemed harmless—get-out-the-vote drives and other grassroots efforts to support political engagement. In reality, the changes created a gaping loophole that allowed committees associated with the two major political parties—Democrats and Republicans—to rake in “soft money” from corporations and unions. This money couldn’t legally be used to directly promote candidates, but the line between legitimate party-building and candidate-focused spending was razor-thin.27
+
+#### Trevor Potter, a campaign finance expert who served as general counsel to McCain’s presidential campaigns and is now president of the Campaign Legal Center, explained how this work-around functioned: Corporations would give money directly to party committees, which used it in federal elections while claiming compliance with the law because the funds weren’t “for candidates.”28
+
+#### As chair of the Federal Election Commission (FEC) in the early nineties, Potter witnessed firsthand what he described as a “make-believe world,” a shadow system where influence was bought under the guise of supporting broader party efforts.
+
+#### The problem was exacerbated by two other loopholes. The Buckley decision had introduced the concept of “independent expenditures,” allowing unlimited spending on elections as long as it wasn’t coordinated with candidates. Meanwhile, ads known as “issue advocacy” could skirt regulation by avoiding certain “magic words” like “vote for” or “vote against.”29 This loophole, buried in a footnote of the Buckley ruling, unleashed a wave of thinly veiled campaign ads that stopped just short of explicitly endorsing or opposing candidates.
+
+#### Potter illustrated how this worked: Money poured into ads aired right before elections with messages like, “Candidate Smith has voted twice to raise your taxes and let murderers out of jail. Call Candidate Smith and tell him you disagree.”30
+
+#### A game-changing example was the infamous Willie Horton ad from the 1988 presidential election, which attacked Democratic candidate Michael Dukakis for a prison furlough program he approved as governor of Massachusetts. The ad featured a grainy mugshot of an African American man with an unkempt beard.
+
+#### With chilling narration, it declared: “Dukakis not only opposes the death penalty, he allowed first-degree murderers to have weekend passes from prison. One was Willie Horton, who murdered a boy in a robbery, stabbing him nineteen times. Despite a life sentence, Horton received ten weekend passes
+
+#### from prison. Horton fled, kidnapped a young couple, stabbing the man and repeatedly raping his girlfriend.”31
+
+#### The ad never explicitly urged, “Vote for George H.W. Bush” or “Vote against Dukakis.” Instead, it ended with the ominous words on screen: “Dukakis On Crime.”
+
+#### This ad helped shift the course of the election.32 Often funded by untraceable money, ads like this became standard in the political landscape. They were devastatingly effective, allowing vast sums of supposedly “independent” spending to flow unchecked into elections.
+
+#### By the early 1990s, this system had become the political norm. Members of Congress routinely raised millions by offering access to donors willing to pay top dollar for face time. Invitations to events promised meetings with key committee chairs in exchange for hefty contributions to party committees. These weren’t social gatherings— they were transactional opportunities for donors to present their agendas directly to lawmakers.
+
+#### Potter recalled how invitations openly advertised access: “Come speak to the leader or the committee chair of the Tax Writing Committee—$10,000 for breakfast. Or give $50,000 to the RNC and gain access to leadership retreats.” Donations often ensured protection for contributors. In one instance, when discussing a bill to regulate tobacco companies, a Republican leader reportedly said, “We can’t bring that up—they just gave us a huge contribution.”33
+
+#### Companies donated in exchange for protection, with congressional leaders sometimes openly acknowledging that certain bills couldn’t move forward because they might jeopardize a donor relationship. For McCain, the system wasn’t so different from the kind of corruption that had defined the Nixon era —it was simply more sophisticated.
+
+#### By 1995, McCain decided to act. Joining forces with Democratic Senator Russ Feingold of Wisconsin, he introduced the Senate Campaign Finance Reform Act. “This legislation is intended to help restore the public’s faith in the Congress and the electoral system,” McCain declared on the Senate floor.34 The bill aimed to curb soft money, eliminate PAC influence in federal elections, and strengthen spending limits.
+
+#### Despite the urgency of the issue, McCain and Feingold’s bill failed to gain traction. It was voted down in 1996, only to be resurrected amid new spectacles that exposed just how corrupted the system had become. Scandals involving “selling access” soon reignited public outrage, including revelations about how the Lincoln Bedroom had been used as a fundraising tool during President Bill Clinton’s reelection campaign.
+
+#### “The Lincoln Bedroom was never sold,” President Clinton claimed in a press conference. “That was one more false story we have had to endure.”35 Yet documents—some in the president’s own handwriting— revealed that major donor contributions often coincided with invitations to stay overnight at the White House.36
+
+#### By the late 1990s, public frustration with the status quo had reached a boiling point. Polls showed that nearly 90 percent of Americans supported overhauling campaign finance laws or better enforcing existing ones.37 Seizing on this momentum, McCain and Feingold reintroduced their bill in 1997. But once again, the legislation failed, stymied by fierce opposition led by Senator Mitch McConnell, nicknamed the “Darth Vader of campaign finance reform.” McConnell argued that restricting money was equivalent to restricting free speech, echoing arguments made by Ralph Winter in the Buckley case. However, another motive for McConnell was his belief that more donor money gave Republicans a critical edge in winning the Senate—and above all, McConnell liked to win. He filled the Congressional Record with letters from the ACLU claiming that McCain-Feingold violated the First Amendment.38 The bill died after it failed to garner the sixty votes needed to defeat a McConnell filibuster.
+
+#### By this point, McCain had spent three years fighting for reform, alienating party leadership and corporate donors in the process. For most politicians, repeated failures like this would have been reason enough to abandon ship. But McCain was nothing if not stubborn. In 1999, he announced his candidacy for the Republican presidential nomination.
+
+#### His campaign advisers urged him to focus on the economy, but McCain had made up his mind—campaign finance reform would be a cornerstone of his platform. He set out to challenge what he called “the Iron Triangle”: special interests, campaign finance, and lobbying.39
+
+#### To the surprise of his staff, McCain’s anti-corruption message struck a nerve, particularly in New Hampshire, where town hall crowds responded with unexpected enthusiasm. “The opponents of campaign finance reform will tell you the voters, particularly Republican voters, don’t care about this issue. They are wrong,” McCain declared, drawing loud applause. He railed against corruption, famously quipping, “The Lincoln Bedroom has become a Motel Six, where the president serves as a bellhop.”40
+
+#### But if McCain was running against the fat cats and the political elite, he faced a formidable symbol of both in his main opponent for the GOP nomination: George W. Bush. Though he cultivated a down-home, salt-of-the-earth image as Texas governor, Bush was the son of a former president, the
+
+#### grandson of a U.S. senator, a scion of an elite New England family, and a millionaire in his own right. Backed by an unprecedented network of high-dollar donors, Bush’s campaign had created a fundraising machine known as “Pioneers.” Each Pioneer committed to raising at least $100,000 by soliciting contributions from their associates, helping Bush amass a record-breaking $25 million by mid-March 2000.41 McCain sought to frame Bush as the embodiment of the corruption he was fighting against, accusing him of letting donors stay overnight at the governor’s mansion in Austin. Bush countered by accusing McCain of playing the same game. “You talk a lot about the Iron Triangle, and you’re ringing it like a dinner bell with all of those fundraisers with lobbyists in Washington, D.C,” Bush said.42
+
+#### For all the money Bush was raising, he was also spending at a frantic pace to fend off McCain, whose anti-corruption message had powered him to a stunning upset victory in the New Hampshire primary. By the fall of 1999, the Bush campaign had already burned through nearly $70 million—just to win the Republican nomination. And that didn’t include the money outside groups were covertly spending on his behalf.43
+
+Figure 5. Still from a March 2000 news report on ads attacking John McCain, “paid for by Republicans for
+Clean Air,” a mysterious group funded by a wealthy George W. Bush ally. (NBC Evening News.)
+
+### No Coordination
+
+#### Just days before the pivotal GOP primaries in 2000, a shadowy group called Republicans for Clean Air began airing attack ads against John McCain in key states. The commercials accused McCain of opposing solar energy and praised George W. Bush’s environmental record.
+
+#### “Last year, John McCain voted against solar and renewable energy,” a voice said over footage of belching smokestacks.
+
+#### McCain’s campaign denounced the ads as a “dirty trick” tied to Bush’s operation. Bush vehemently denied any connection.
+
+#### The truth later emerged: Texas billionaire Sam Wyly, a longtime Bush ally, had bankrolled the $2.5 million ad buy through shell groups and a PAC called American Dream. A conveniently timed radio ad in New York attacked McCain for voting against breast cancer research funding, just as Bush appeared at a local breast cancer forum.
+
+#### Trevor Potter, McCain’s campaign lawyer, bitterly recalled it as a “phony organization funded by a pair of wealthy Texas billionaires,” exploiting the “independent expenditure” loophole McCain had long warned about. Under campaign finance law, such coordination would have made the ads illegal.
+
+#### “We had no knowledge whatsoever that Sam Wyly was going to run this ad,” Bush insisted.
+
+#### The episode exposed a bitter irony: the man who had spent years fighting soft money’s corrupting influence became its victim— providing real-time proof of why reform was needed. After suspending his campaign, McCain pushed legislation requiring tax-exempt political groups known as 527s to fully to fully disclose their donors, laying the groundwork for the 2002 Bipartisan Campaign Reform Act and later reform efforts.
+
+#### Despite his defeat, McCain’s campaign had reignited a national conversation about campaign finance reform. He had proven that the issue resonated deeply with voters across the political spectrum. “The experience left McCain more determined than ever to reform the campaign finance laws,” Potter recalled.
+
+#### When McCain returned to the Senate in 2001, he and Feingold reintroduced their bill, now branded as the Bipartisan Campaign Reform Act (BCRA). At yet another press conference announcing yet another attempt at reform legislation,
+
+#### McCain sounded an all-too-familiar refrain: “Today we confront yet again a very serious challenge to our political system, and it will take the best efforts of every public-spirited American to defeat it. We must pass campaign finance reform legislation.”44 The bill sought to ban soft money, increase transparency, and regulate issue ads. In short, it pushed for everything the master planners despised—radical ideas like “disclosure” and “spending limits.”
+
+#### McCain was closer than ever to achieving his goal, but the path ahead for BCRA would be anything but easy. Powerbrokers in both parties were deeply resistant to the legislation, as were the corporate and union donors who relied on the very loopholes McCain sought to close.
+
+#### The Republican and Democratic National Committees were particularly reliant on unregulated “soft money” to fund their TV ad campaigns, or money that couldn’t legally be used to promote candidates but could be used for party-building. In the 2000 presidential election alone, the two parties spent nearly $80 million on political ads, with the majority of the funds coming from soft money.45 Without these contributions, campaigns risked grinding to a halt. While voters overwhelmingly supported reform, McCain’s efforts alienated Washington’s power brokers, who had grown comfortable benefiting from a system that practically institutionalized influence peddling.
+
+#### McCain knew he had to navigate the particular dynamics in Congress: Republican leaders publicly opposed BCRA, but Democratic leaders weren’t much better and were looking for ways to quietly sabotage reform while avoiding any public blame.46
+
+#### But McCain’s efforts to whip up votes became bolstered by events outside Washington: the collapse of the energy giant Enron in the fall of 2001. One of the largest and most politically connected corporations in the country, Enron became the latest symbol of unchecked corporate influence and Wall Street run amok. Enron’s fraudulent accounting practices had led to one of the largest bankruptcies in history, wiping out thousands of jobs and pensions. The company’s CEO, Ken Lay—known to then-President George W. Bush as “Kenny Boy”—was revealed to be one of Bush’s earliest donors and a Pioneer fundraiser, pledging to raise at least $100,000 for his campaign. Lay’s cozy relationship with Bush, including personal letters and Christmas cards and Hootie and the Blowfish CDs exchanged, allowed the CEO to push for policies favorable to Enron.47 This all fueled public outrage.
+
+#### McCain pointed to the Enron debacle as further evidence of the need for reform. “This isn’t just a financial scandal,” he argued on The Charlie Rose Show.
+
+#### “Millions of dollars in so-called soft money from Enron executives are having an effect.”48 By February 2002, polls showed that over 70 percent of Americans supported new campaign finance legislation.49 McCain had enough votes for a simple majority in the Senate, but he knew he would face a formidable challenge from the Darth Vader of campaign finance reform, Senator Mitch McConnell.
+
+#### McConnell vowed to use every tool at his disposal to block BCRA. As the Senate prepared to vote, McConnell delivered a lengthy speech claiming the bill violated the First Amendment and denying that money corrupted politics. “You cannot have corruption unless someone is corrupt,” McConnell declared. “At no time has any member of either body offered evidence of even the slightest hint of corruption.”50
+
+#### McConnell’s timing couldn’t have been worse. His remarks came as Ohio Congressman James Traficant faced federal corruption charges, including bribery and racketeering. Shortly after McConnell’s speech, the flamboyant nine-term Democrat was convicted on ten felony counts.51 Public frustration with Washington’s pay-to-play culture was palpable.
+
+#### On March 20, 2002, with senators under pressure from their constituents, BCRA narrowly survived McConnell’s filibuster, passing the Senate with exactly sixty votes. Historians would place this new legislation in the same “win” column52 as the Tillman Act of 1907 and FECA in the 1970s—a moment when the American political system sought to self-correct against out-of-control corruption. Afterward, McCain expressed his gratitude to his allies. “I’m very happy,” he said. “I feel good. And I think we have a lot of other reforming to do.” 53
+
+#### When McCain ended his primary campaign in 2000, Bush said he supported the legislation. But when it came time to sign BCRA into law President George W. Bush did so quietly on March 27, 2002, avoiding a public ceremony. His administration’s press release included a notable caveat: “When individual freedoms are restricted, questions arise under the First Amendment. I also have reservations about the constitutionality of the broad ban on issue advertising.”54
+
+#### The language was eerily reminiscent of President Gerald Ford’s statement after reluctantly signing post-Watergate campaign finance reforms in 1974. It was a clear signal to opponents like McConnell that they had a green light to challenge the law in court.
+
+#### McConnell wasted no time. He filed a lawsuit against the Federal Election Commission, arguing that the law violated free speech protections. McConnell’s legal challenge attracted a coalition of strange bedfellows, including the National Rifle Association, the ACLU, the U.S. Chamber of Commerce, and the National
+
+#### Right to Life Committee.55
+
+#### The legal showdown over BCRA began in a district court in Washington, D.C., where McCain’s team emerged victorious. But McConnell and his allies weren’t about to concede. They quickly appealed, sending the case to the Supreme Court, where Chief Justice William Rehnquist presided over a bench of nine justices. Seven of them had been appointed by Republican presidents— Nixon, Ford, Reagan, and George H.W. Bush. The other two, appointed by Bill Clinton, offered a glimmer of hope for McCain’s side.
+
+#### McConnell’s team of plaintiffs was represented by a formidable legal lineup dubbed the “Dream Team.”56 Floyd Abrams, known for defending The New York Times in the Pentagon Papers case, brought a storied history of First Amendment advocacy. James Bopp, a conservative activist who would later play a key role in Citizens United (see Chapter 8), was another essential player. Leading the charge was Kenneth Starr, infamous for his investigations into Bill Clinton (and later a member of Donald Trump’s legal team during his first impeachment). Starr opened oral arguments by framing BCRA as an overreach: “A significant diminution in speech and associational activity by parties, activity that lies at the very core of the First Amendment.”57
+
+#### The defense, however, had Roger Witten, the Watergate prosecutor with deep experience in campaign finance law, and Seth Waxman, the former solicitor general under Clinton. Waxman was no stranger to high-stakes legal battles—McConnell v. Federal Election Commission marked his thirty-fifth appearance before the Supreme Court.
+
+#### Witten had anticipated McConnell’s strategy well in advance. He and McCain had worked to create a robust legislative record, knowing the court would scrutinize what lawmakers said about BCRA during its passage. Witten recalled, “We beefed up the legislative history by writing speeches for the senators and congressmen to give, putting into the record facts that we thought we would want to rely on in the court litigation.”58 The record was bolstered with studies, polling data, and evidence supporting the need for reform.
+
+#### Witten and Waxman both understood that Starr’s argument would echo the familiar refrain from Buckley v. Valeo: Money equals speech, and limiting money in politics therefore restricts speech.
+
+#### Waxman countered with an argument rooted in the core principles of democracy. “The imperative of a representative democracy is to retain the confidence of the individual citizens with whom we all share the franchise—that their vote counts, that big money doesn’t call the tune,” he argued.59
+
+#### As the justices questioned both sides, their final stance was unclear. A 1996
+
+#### ruling that struck down limits on soft money had cast doubt on the court’s willingness to uphold BCRA.60 Nevertheless, hopes remained high.
+
+#### Finally, on December 10, 2003, the court issued its decision. In a narrow 5– 4 vote, the justices upheld the key provisions of BCRA, including the ban on soft money and limits on sham issue ads. Chief Justice Rehnquist summarized the majority opinion, stating that the law addressed “Congress’s legitimate concerns with preventing the actual and apparent corruption threatened by large soft money contributions and preserving the integrity of the federal election process.”61
+
+#### The ruling represented a significant victory for McCain and his allies. By affirming the need for limits on money in politics, the court acknowledged that unchecked financial influence eroded public trust in democracy. It was a high-water mark for campaign finance reform—a moment when those fighting for a cleaner political system had reason to celebrate.
+
+#### But even amid the triumph, Roger Witten sounded a note of caution. “We had foreboding for sure,” he admitted. “We didn’t know whether it would be sooner or later, but we thought the empire would strike back.”62
+
+#### The ruling dealt a clear blow to the master planners’ decades-long effort to equate money with free speech. For now, the reformers had won. But the question lingered: What could possibly reverse this hard-fought progress?
+
+#### The answer would come in time. The empire had already begun plotting its next move.
+
+# The Machine
+
+#### In 2024 the U.S. Supreme Court became a fixture of controversy, making headlines with a steady stream of bombshell rulings and revelations about the justices themselves. Conservative decisions reshaped significant aspects of American life: expanding gun rights, overturning the constitutional right to abortion, blocking President Biden’s student loan forgiveness program, and flexing the power of a solidly conservative majority on an ideologically divided court.
+
+#### These rulings alone would make waves, but ethical controversies surrounding the justices compounded public unease. Reports of lavish gifts, extravagant vacations, and private jet flights financed by billionaire donors— often with vested interests in cases before the court—paint a troubling picture. Justice Clarence Thomas has faced particular scrutiny for accepting undisclosed luxury trips and accommodations paid for by megadonor Harlan Crow, whose largesse appears far from incidental.1
+
+#### Such revelations reinforce a perception of the court as a body increasingly detached from public accountability, acting as both an ideological force and a political player. The scandals and decisions collectively feel like a relentless reminder of the court’s profound power and the ways it has veered toward serving elite interests over democratic principles.
+
+#### But how did we get here? To understand the Supreme Court’s transformation into this conservative powerhouse, it helps to step back into a time when its ideological trajectory wasn’t so predictable. In the 1990s, the court was far from the lockstep conservative entity it is today. It was, in fact, a source of frustration for right-wing activists, who viewed it as squishy and unreliable despite decades of Republican presidential appointments.
+
+#### This discontent was on display in July 2000 during a regional public affairs show called Capitol Conversation. In this now-dusty recording, a guest—a corporate lawyer with a mild demeanor—was asked to evaluate the Supreme Court’s recent term. Dressed in a dark suit with a conservative haircut, he embodied the standard image of a seasoned litigator for big business clients. His assessment reflected the thinking of the conservative legal movement: “Taking
+
+#### this term as a whole, I think the most important thing it did was make a compelling case that we do not have a very conservative Supreme Court.”2
+
+#### When the host pressed him, pointing out that seven of the nine justices had been appointed by Republican presidents, the lawyer shrugged. “It’s an old story that the appointees, once they’re on the court, they tend to go their own way.”
+
+#### This “old story” of ideological drift among Republican-appointed justices— from Warren Burger to Harry Blackmun—was a persistent thorn in the side of conservative activists.3 To these master planners, the problem wasn’t merely winning elections or crafting airtight lawsuits; they had to fundamentally alter the judicial system by ensuring that future appointees were fully committed to their ideological vision. Anything less risked undermining their broader goals: disempowering workers, deregulating the economy, and dismantling campaign finance reform.
+
+#### With the 2000 presidential race heating up, the lawyer was asked how a George W. Bush presidency might reshape the court compared to an Al Gore presidency. He was cautious, noting, “It’s hard to tell because you never know if the nominees they select are going to carry out any particular point of view or if, as has been the case with many nominees in the past, they chart a different course.” Still, he acknowledged the stakes. The Supreme Court’s future would hinge on who filled seats when aging justices like John Paul Stevens or William Rehnquist stepped down. “And who is appointed in their place, it could well make a difference,” he explained.4
+
+#### The lawyer’s comments would prove prescient. Within five years, that same corporate lawyer guest—John Roberts—was no longer speculating about judicial appointments. He had become the judicial drama’s central protagonist, nominated by President George W. Bush to serve as Chief Justice of the Supreme Court.
+
+#### During his confirmation hearings in 2005, Roberts portrayed himself as a neutral arbiter of the law. “Judges and justices are servants of the law, not the other way around,” he famously declared. To drive home the point, he deployed an analogy that would define his public persona: “Judges are like umpires— umpires don’t make the rules; they apply them.”5
+
+#### Roberts’s all-American analogy of impartiality was designed to allay fears that his court would become a partisan tool. It was a calculated narrative. In truth, by the time of his confirmation, Roberts represented the culmination of a decades-long effort by conservative operatives to reshape the judiciary from within.
+
+#### In this chapter, we’ll explore how the master planners built the infrastructure
+
+#### for this judicial takeover. Through a series of events— and a trove of previously unreleased communications—we’ll see how an obscure college debate society transformed into a legal juggernaut, how operatives were strategically placed inside the White House, and how the groundwork was laid for a new Supreme Court. The Roberts court didn’t emerge out of nowhere—it was the result of a deliberate and methodical strategy to alter the very fabric of American law.
+
+#### Less than a year before Roberts’s television appearance, several Republican-appointed justices had upheld state-level campaign contribution limits.6 During oral arguments in Nixon v. Shrink Missouri Government PAC, Justice Sandra Day O’Connor articulated the corrosive effects of soft corruption—the idea that large contributions could buy disproportionate influence. “I will give this money,” she said, imagining a donor’s perspective, “and expect in return that if and when I ever call this particular official, if the official is elected, they’ll pay attention to me.”7
+
+#### O’Connor wasn’t alone. Chief Justice William Rehnquist, David Souter, and John Paul Stevens—all Republican appointees—joined her in upholding these limits. Stevens even went a step further in a concurring opinion, declaring, “Money is property—it is not speech.”8 For the master planners, such pronouncements were heresy. Their grand strategy depended on dismantling barriers to corporate and wealthy donors wielding unchecked influence in politics.
+
+#### Rulings like these from “wayward” Republican justices compounded the conservative backlash. Jeffrey Toobin, a legal analyst and author of several books that cover the inner-working of the Supreme Court, summarized the right’s growing discontent: “David Souter, John Paul Stevens, Sandra Day O’Connor, Anthony Kennedy—all of them had been appointed by Republican presidents, and yet Roe v. Wade was still the law of the land. That was a tremendous source of frustration on the right.”9 Souter, in particular, became a symbol of betrayal for conservatives, as his tenure veered toward positions supporting civil liberties, reproductive rights, and campaign finance regulations. By the early 2000s, conservatives had adopted a rallying cry: “No More Souters.”10
+
+#### The phrase encapsulated a central question for the movement: How could they ensure future justices wouldn’t drift from the conservative agenda? How could they install more committed ideologues, like Clarence Thomas, who were steadfast conservatives determined to reshape the status quo?
+
+#### Roberts’s rapid ascent from corporate lawyer in 2000 to chief justice of the
+
+#### United States in 2005 might appear to be an overnight success, but nothing about it was random. As this story has shown time and again, nothing in the master planners’ playbook was left to chance. His rise was the product of a meticulous scheme launched decades earlier.
+
+#### The 1971 Powell Memo identified the judiciary as “the most important instrument for social, economic, and political change.” Following Powell’s guidance, conservative activists spent the 1980s and 1990s building a network of well-funded think tanks and academic institutions to reshape American law. Chief among them was a group that has become synonymous with conservative legal power: the Federalist Society.
+
+#### Founded in 1982 on elite law school campuses, the Federalist Society nurtured conservative law students, championing conservative and libertarian legal theories like “constitutional originalism.”11 At the time, such ideas were considered fringe within mainstream legal academia.12 With millions of dollars in support from prominent conservative donors such as John M. Olin, Richard Mellon Scaife, and the Koch brothers, the organization expanded rapidly.13 By the late 1980s, it had hundreds of chapters across law schools and a growing roster of alumni in influential roles. The Federalist Society had become a breeding ground for conservative legal talent. It wasn’t just a debate club; it was an ideological pipeline.
+
+#### The Reagan administration saw the Federalist Society’s potential early on. Addressing the group in 1988, Reagan praised their role in “transforming the operations of government . . . not only in transforming the departments and agencies and even the federal judiciary, but also in changing the terms of national debate.”14
+
+#### Reagan’s Attorney General, Edwin Meese, was an early advisor to the Federalist Society. Meese was obsessed with installing conservative judges on the federal bench.15 From his perch at the Justice Department, he succeeded in getting Antonin Scalia appointed to the Supreme Court in 1986. A year later, when another vacancy arose, the administration nominated another conservative legal icon: Robert Bork. A Federalist Society favorite, Bork had made a career of opposing post-Watergate campaign finance reforms.
+
+#### However, he was best known to the public, and familiar to our readers, as Nixon’s hatchet man during the Saturday Night Massacre, and his confirmation process quickly turned into a political firestorm. Democrats only had to cite Bork’s own writings and speeches to paint him as an ideological extremist. Senator Ted Kennedy delivered one of the most memorable rebukes, declaring, “In Robert Bork’s America, there is no room at the inn for Blacks and no place
+
+#### in the Constitution for women.”16 The Senate ultimately rejected Bork’s nomination, making him the first Supreme Court nominee to be voted down in nearly two decades.
+
+#### “I think those are most unfair characterizations of my views,” Bork replied testily during one hearing.
+
+#### The Bork debacle could have remained a minor footnote in Supreme Court history, but what followed turned it into a watershed moment. For the conservative legal movement, Bork became a martyr, and his defeat a rallying cry. His name soon entered the political lexicon, giving rise to the term “to be Borked”—a verb meaning to be unfairly attacked for holding conservative beliefs. Ed Meese later described the Bork affair as a catalyzing moment for the conservative legal movement.17
+
+#### Determined to prevent another Borking, conservatives refined their playbook for future judicial confirmation battles. They sought nominees who could present moderate, polished personas during Senate hearings but remain unwavering in their conservative principles once confirmed. Clarence Thomas, nominated to the Supreme Court in 1991, became the first major test of this strategy.
+
+#### Thomas, a Federalist Society stalwart, had already outlined the movement’s broader ambitions. Speaking at a Federalist Society symposium in 1988, he described their mission as extending beyond legal arguments and litigation. It was, he declared, a “political struggle” aimed at using the courts as a vehicle for advancing conservative activism.18 However, his nomination quickly faced Senate scrutiny after Anita Hill, an Oklahoma law professor who had worked for him at the Equal Employment Opportunity Commission, accused him of sexual harassment.19
+
+#### This time, conservatives didn’t wait to be Borked. Instead, they launched aggressive, well-funded campaigns to preempt Democratic opposition.
+
+### The Thomas Ad Blitz
+
+#### Just ahead of Clarence Thomas’s confirmation hearings in the fall of 1991, an outfit The Washington Post described as a “grass-roots conservative lobbying group” aired a blistering TV ad targeting three Senate Democrats: Joe Biden, Ted Kennedy, and Alan Cranston. The ad attacked their ethics, highlighting Kennedy’s controversies, Biden’s plagiarism issues, and Cranston’s involvement in the Keating Five scandals, and provocatively asked, “How many of these liberal
+
+#### Democrats could themselves pass ethical scrutiny?”20
+
+#### The ad’s unusually combative tone for a judicial confirmation fight triggered swift backlash. Both Thomas and the White House rushed to disavow the spot, calling it “reprehensible” and “sleazy.” The so-called “grassroots” group behind the ad? It was Citizens United—the same organization that would later be at the center of the landmark Citizens United case.
+
+#### Pro-Thomas television ads aired in Washington and in senators’ home states, attacking “liberal special interests and the soft-on-crime crowd” and urging voters to pressure their Democratic senators to support Thomas.21
+
+#### When the hearings shifted to Professor Hill’s allegations of sexual harassment, Thomas framed himself as a victim of unjust persecution, much like Bork. “This is a circus. It is a national disgrace,” Thomas declared, calling the process a “high-tech lynching for uppity Blacks.”22
+
+#### Conservatives’ campaign worked. Despite Democratic control of the Senate, Thomas was confirmed in a narrow 52–48 vote.
+
+#### One of the activists who worked on Thomas’s confirmation was Leonard Leo, an ambitious twenty-five-year-old from New Jersey who had formed his own Federalist Society chapter at Cornell. Leo had first befriended Thomas while clerking for a judge, and the searing experience of the Thomas’s confirmation solidified his commitment to reshaping the judiciary.23 He soon took a job with the Federalist Society, where he focused on recruiting and grooming conservative lawyers. As Leo later explained in a Federalist Society video, “We start with young, talented law students, move them through our campus chapters, integrate them into our lawyers’ chapters, and provide a community that’s the backbone for finding opportunities to foster the application of our principles.”24
+
+#### But Senate Democrats, chastened by the liberal backlash over allowing Thomas’s confirmation, took a harder stance. In 1992, they blocked most of George H.W. Bush’s judicial nominees, including a young John Roberts, whose first nomination for a federal judgeship never even received a hearing.25
+
+#### Later that year, Bill Clinton defeated Bush, giving Democrats control of the White House. With Republicans now on defense, the conservative legal movement shifted its focus to blocking Clinton’s judicial appointments and laying the groundwork for the future.
+
+#### But the Federalist Society wasn’t just playing defense—it was building a long-term strategy. Designed as a pipeline to power, its mission was to place
+
+#### right-wing lawyers in key government positions, from judicial nominees to embedded figures in Democratic administrations. The goal was clear: influence judicial appointments at every level, from state courts to the Supreme Court.
+
+#### During this period, the organization strategically positioned young conservative lawyers in prestigious clerkships, high-profile law firms, and influential think tanks—ensuring they would be ready to step into key government roles the moment Republicans regained power.26
+
+#### That opportunity arrived in 2000 under the most contentious of circumstances. The conservative legal machine was primed and ready, and the state of Florida was at the center of it all.
+
+#### The 2000 presidential election presented the master planners with a golden opportunity: John McCain, their campaign finance nemesis, had been defeated in the Republican primary, clearing the path for George W. Bush—a candidate who signaled his commitment to reshaping the judiciary. Throughout his campaign, Bush reassured the conservative legal movement that he would appoint judges aligned with their ideology. “I don’t believe in liberal activist judges,” Bush declared. “I believe in strict constructionists. And those are the kinds of judges I will appoint.”27
+
+#### All he had to do was win the election. But as history shows, that proved to be anything but straightforward. From the left, another familiar figure entered the fray: Ralph Nader. Running as the Green Party’s candidate, Nader attracted enough young liberal voters to help push the race between Bush and Al Gore into a dead heat.
+
+#### By nightfall on Election Day, chaos erupted. Initially, CNN called Florida for Gore—only to reverse course hours later.
+
+#### “Stand by . . . it’s too close to call,” the anchor announced.28 With the margin razor-thin, attention quickly zeroed in on just a few key counties that would determine the outcome for the whole country. In the middle of the night, election officials in Palm Beach County decided to conduct a full hand recount of more than four hundred thousand ballots. Sensing the high stakes, conservative lawyers and GOP staffers descended on Tallahassee to insert themselves into the process. Terms like “hanging chad” entered the national lexicon as both sides fiercely contested the validity of individual ballots. At one point, recounts had narrowed Bush’s unofficial lead over Gore to just three hundred votes. Seizing on the confusion, conservative operatives denounced the recount process as deeply flawed and demanded that it be stopped—culminating in an aggressive demonstration later dubbed the “Brooks Brothers Riot.”
+
+#### One of the lawyers who answered the call was John Roberts, then earning over a million dollars a year as a partner at the corporate law firm Hogan & Hartson in Washington, D.C. A prominent litigator, Roberts aided the Bush campaign’s lawsuit to stop the recount, a case that ultimately made its way to the United States Supreme Court.29
+
+#### In an historic 5–4 decision, the court’s Republican appointees sided with Bush. The ruling in Bush v. Gore halted the Florida recount, effectively making Bush president despite his losing the national popular vote. Critics immediately questioned the court’s impartiality, warning that its decision had undermined its independence. With Bush now poised to nominate future justices, Democrats braced for confirmation battles ahead.
+
+#### After Bush was inaugurated in January 2001, Leonard Leo, now a vice president of the Federalist Society, wasted no time ensuring that he and his fellow conservatives would dominate the conversation on judicial appointments. One of the administration’s first moves was to sideline the American Bar Association (ABA), stripping it of its long-held role in vetting judicial candidates.30 For years, conservatives had resented the ABA, particularly after it declined to endorse Bork’s nomination to the Supreme Court.
+
+#### Senator Orrin Hatch summarized the grudge: “There have been times in the past where I’ve wished that the ABA had no role in this process because they’ve done such a lousy job. They’ve done a partisan job.” Hatch added, “One of the future presidents of the ABA definitely did some real dirt to Robert Bork.”31
+
+#### But this wasn’t just about settling old scores. Conservatives had a larger goal: to guarantee that judicial nominees were ideologically pure. Lisa Graves, a former Senate Judiciary staffer, explained, “By the time George W. Bush came into power, the Federalist Society had spent years attacking the ABA, trying to discredit its role, which is really about merit selection.” Graves, now a researcher focused on exposing the influence of dark money on the Supreme Court, said, “Instead of merit evaluation, what got substituted in was, ‘Are you a true believer? Are you one of us? Are you going to basically advance this extreme agenda on the court?’”32
+
+#### With the ABA out of the way, the Bush administration unveiled its first list of judicial nominees. Among the names was none other the lawyer who had helped Bush stop the recount in Florida: John Roberts.
+
+#### “Roberts had sort of ‘judicial stardust’ around him practically from the moment he graduated from law school,” explained Jeffrey Toobin.33 Roberts had the perfect resume for a Republican judicial nominee: stints in the Reagan White House and the solicitor general’s office under George H.W. Bush, plus a
+
+#### track record of arguing high-profile cases before the Supreme Court on behalf of corporate clients. He was tapped for a judgeship on the powerful D.C. Court of Appeals.
+
+#### If Clarence Thomas had been the Federalist Society’s original conservative machine, Roberts was an upgraded model: polished, personable, and adaptable, but equally committed to the mission of challenging judicial liberalism. As a young lawyer in the Reagan administration, Roberts was described as a “key foot soldier” in conservative efforts to narrow and weaken the Voting Rights Act through the courts. In 1983, as a White House attorney, he backed a proposed term limit for federal judges and went further, criticizing the courts for their lack of accountability after rulings against Reagan’s deregulation agenda, Congress’s legislative veto, and abortion restrictions—echoing the conservative view that the judiciary had grown too powerful.34
+
+#### Later, as lawyer for corporate interest groups, Roberts worked to weaken the Americans with Disabilities Act and helped the U.S. Chamber of Commerce dismantle prescription drug programs for the uninsured.35 Roberts was a perfect match for the conservative legal movement’s vision of the judiciary.
+
+#### At just forty-six, Roberts was also the ideal age to begin a long judicial career. This time, unlike in 1992 when Democrats blocked his nomination, the political dynamics favored Roberts: Republicans controlled the White House and the Senate.
+
+#### Placing Roberts and other arch-conservatives on the lower courts would move the master planners one step closer to their ultimate goal of dominating the Supreme Court. But just two weeks after his nomination, a bombshell dropped in Vermont.
+
+#### In May 2001, Republican Senator Jim Jeffords announced he was leaving the GOP to become an independent, citing concerns about the party’s growing extremism, particularly its judicial agenda. “I can see more and more instances where I would disagree with the president on very fundamental issues—the issue of choice, the direction of the judiciary,” Jeffords told a cheering crowd.36
+
+#### Jeffords’s defection handed control of the Senate to the Democrats. Newly empowered, Senate Majority Leader Tom Daschle refused to move forward with several of Bush’s arch-conservative judicial nominees, including Roberts. “It is very critical that judicial nominees, especially for the appeals and Supreme Court positions, are people of moderate philosophical temperament,” Daschle said.37
+
+#### Roberts and others were stuck in limbo. For conservatives, this was a major setback, but they still had a card to play: the bully pulpit of the White House.
+
+#### Bush used every opportunity to pressure the Senate. “Ours is a system that relies on an independent court system,” Bush said at a press conference. “When there are vacancies, the American people suffer. I call upon the Senate to approve—at least give hearings to—the people we’ve sent up.”38
+
+#### Vice President Dick Cheney made the rounds on TV, singling out Roberts and Miguel Estrada, another nominee, as “superbly qualified” candidates being unfairly blocked by Democrats.
+
+#### In the aftermath of 9/11, as the so-called “War on Terror” dominated American media and politics, the administration’s intense focus on lower court nominations might have seemed strange to the casual observer. Why was the White House so fixated on judicial appointments during a time of national crisis?
+
+#### Because the Federalist Society and the conservative legal movement weren’t just lobbying from the outside—they had embedded themselves within the Bush administration. They were working the levers of power from the inside. And at the heart of this effort was a master planner known by his initials: BK.
+
+#### Behind the scenes, the conservative legal movement’s frustration with Senate Democrats’ obstruction of judicial nominations had reached a boiling point ahead of the 2002 midterms.39 Internal emails from the Bush administration provided a revealing window into the intensity of this moment. In a September 2002 exchange, Don Willett, an official in Bush’s Department of Justice, described the mounting pressure from influential activists and figures like Leo of the Federalist Society. “Bottom-line: There was much bellyaching,” Willett wrote. “Kay Daly, Leonard Leo particularly were giving me an earful.”40
+
+#### The emails made clear that Leo and his allies were demanding an aggressive response to the Democrats’ delays.41 Willett recounted how conservative activists—backed by enormous financial resources—were “pleading for a high-profile, jaw-dropping presidential act of some kind,” rather than a mild expression of frustration. Their rhetoric had grown extreme, with Willett noting in the email chain (see Figure 6) that this coalition of outside advocates wanted to abandon all deals with Democrats and was ready for “Defcon 1 retaliation.” He quoted them as saying, “We want bashed kneecaps and blood.”42 (A request for comment from Willett, now a federal judge on the Fifth Circuit Court of Appeals, received no response.)
+
+#### This was a high-stakes test of whether the conservative legal movement could successfully leverage its investment in reshaping the judiciary. The Powell Memo’s blueprint for transforming the judiciary had been decades in the
+
+#### making. Now, with Senate Democrats blocking nominees, including John Roberts, the master planners demanded action. This internal pressure helped explain why President George W. Bush elevated judicial confirmations to a central issue in the lead-up to the midterms.
+
+Figure 6. A 2002 email exchange among Bush White House legal staff overseeing conservative judicial nominations reported backlash from activists and funders frustrated by stalled confirmations. (National
+Archives.)
+
+#### At the heart of the administration’s judicial push was a key political operative: Brett Kavanaugh. (Yes, the same Brett Kavanaugh who was later appointed to the Supreme Court by President Donald Trump.) Kavanaugh, a young and ambitious lawyer, had been deeply embedded in the conservative legal movement from the start of his career. As a protégé of Ken Starr, Kavanaugh played a significant role in the Starr investigation of President Bill Clinton, even serving as a main author of the Starr Report. Like John Roberts, Kavanaugh had worked on the 2000 Florida recount that secured Bush’s presidency.43 After the election, Kavanaugh joined the White House Counsel’s Office, where he focused on judicial appointments and collaborated closely with the Department of Justice’s Office of Legal Policy, a division originally established under Reagan’s Attorney General Ed Meese.44
+
+#### Emails from Kavanaugh’s tenure in the White House revealed his deep
+
+#### connections to Leo and other Federalist Society figures.45 Kavanaugh frequently referenced Leo in his correspondence, writing lines like, “Leonard Leo is working on that,” “I talked to Leonard,” or “Leonard L will follow up.” Just before Bush announced his slate of judicial nominees in 2001, Kavanaugh requested that White House officials send Leo a binder of materials. In another email, a White House colleague noted that Leo and his staff would be “helping coordinate outside coalition activity regarding judicial nominations.”46
+
+#### These emails highlighted Leo’s central role in the administration’s judicial strategy. They also revealed his particular interest in how the judiciary impacted corporate interests. In one email, Leo pitched presentations on “Business and Courts” to industry groups, with attachments emphasizing “business interests,” “business case examples,” and the importance of “business certainty.”47
+
+#### At the same time, former Reagan and Bush administration lawyer C. Boyden Gray launched a new group, the Committee for Justice, to advocate for conservative judicial nominees and attack Senate Democrats opposing them. Gray, a Federalist Society stalwart, reportedly founded the group in 2002 at the urging of Karl Rove and Senate Republican Trent Lott.48 The Committee for Justice was stacked with corporate lobbyists representing banks, telecom companies, defense contractors, and pharmaceutical firms. It became a critical player in reshaping the courts, airing ads targeting Democrats who blocked conservative judicial nominees.
+
+#### While the Federalist Society officially maintained that it was merely an academic forum for legal debate, its deep involvement in judicial nominations told a different story. In early 2001, Leo even wrote a letter to White House Counsel Alberto Gonzales claiming, “The Federalist Society leaves political agendas and advocacy to other groups and individuals” and does “not recommend nominees or candidates for public office.” While he admitted that Federalist Society members “often have tried to provide lists of people worth considering,” he emphasized that they spoke as individuals, not on behalf of the organization.49
+
+#### However, his email correspondence with the White House revealed a starkly different reality. Leo was referenced repeatedly as a key player in judicial nominations: “Leonard Leo is finding a helpful conduit. . . .” “Leonard Leo . . . might know some generous donor. . . .” “Leonard Leo might have something helpful. . . .” 50 Far from a neutral academic society, the Federalist Society had become deeply embedded in the Bush administration’s judicial strategy, with Leo acting as a bridge between the White House, conservative activists, and corporate donors.
+
+#### For his part, Kavanaugh’s role extended far beyond Leo. Emails showed that he was connected to the broader conservative legal movement and media ecosystem. Sifting through Kavanaugh’s correspondence, one finds evidence of meetings with people like Paul Weyrich of the Heritage Foundation and anti-tax crusader Grover Norquist. He also participated in “conference calls with talking heads and conservative leaders” that included prominent media figures like Sean Hannity and Rush Limbaugh. Kavanaugh attended events such as Ted Olson’s annual Federalist Society barbecue and maintained one-on-one contact with Ed Meese. He even corresponded with Ginni Thomas, Clarence Thomas’s wife, who served as a liaison between the White House and the Heritage Foundation.51
+
+#### Leo once likened judicial confirmation campaigns to military operations, complete with “troops, tanks, air, and ground support.”52 And like any war, this one required substantial funding. After Bush signed the McCain-Feingold Act in March 2002, political operatives began finding creative ways to raise money, including using the tax code to create tax-exempt groups capable of collecting soft money. These groups were the precursors to super PACs and other dark-money organizations.
+
+#### One such group was Progress for America, led by the former director of the Bush-Cheney 2000 campaign. The Washington Post described it as a group that “raised millions of dollars, which it used to promote Bush’s agenda of tax cuts, energy legislation, conservative judicial appointments, and free trade.”53
+
+#### White House emails showed Progress for America tightly integrated into the administration’s judicial nomination efforts. The group funded PR campaigns that included direct mail, op-eds, talk radio appearances, and interviews aimed at promoting Bush’s judicial picks. For example, the group coordinated talking points for conservative law professor John Eastman before his appearance on The O’Reilly Factor to discuss judicial appointments to the Ninth Circuit.54
+
+#### As the 2002 midterms approached, the Bush administration’s intense focus on judicial nominations became clear. The president repeatedly highlighted the issue at events, making it a centerpiece of his messaging. At campaign stops, Bush spoke about the need to confirm his judges, framing it as essential to the functioning of the judiciary. He lamented the delays caused by the Democrat-controlled Senate, telling reporters, “I’ve worked hard to name well-qualified jurists. And I can’t get the politics of the United States Senate to be set aside for the good of the judiciary. One reason we need to change the Senate is to make sure the well-qualified judges I have named and nominated get approved to the benches all across America.”55
+
+#### Bush even devoted his final radio address before the election to the issue. A New York Times headline captured the significance: “Bush Places Senate’s Delays on Judicial Appointees at Core of Campaigning.”56
+
+#### When the votes on election night were counted, Republicans celebrated a resounding victory. They recaptured the Senate and expanded their majority in the House. Norquist gloated on a television talk show, saying, “That lock that the hard left in the Democratic Party exercised on judges, that’s over. Those judges will come out of committee, and they’ll be voted on the floor. . . . The President will now get his judges through.”57
+
+#### While Democrats appeared outmaneuvered, conservatives were determined to press their advantage. Shortly after the midterms, Willett, a key figure in the administration’s judicial strategy, organized a retreat for the Judicial Confirmation Working Group at the Turf Valley Resort, a luxurious property in Maryland featuring a golf course, a pro shop, and a European-style spa. Willett’s goal was to craft a solid plan for “how best we should flex our regained majority muscle” in the judicial nomination process.58
+
+#### By the retreat’s conclusion, the group had produced a document called the Judicial Confirmation Action Plan. Though much of the plan remains redacted, it laid out a comprehensive strategy to push the Bush administration’s judicial agenda. This wasn’t just about selecting candidates; it was about mounting a full-scale public relations campaign to pressure Congress into confirming as many conservative judges as possible.59
+
+#### This effort soon bore fruit. After the midterm elections, Bush renominated John Roberts and other arch-conservative judicial candidates. This time, with Republicans controlling the Senate, Roberts finally received the confirmation hearing that had eluded him during Bush’s first two years in office.
+
+#### At his hearing, Republican lawmakers worked to depict the nominee as an impartial figure, using Roberts’s favorite analogy of a baseball umpire. “Are you willing to commit to assuming a new role and a different role, and that is as an impartial umpire of the law?” Senator John Cornyn asked. Roberts replied, “Yes, I am, Senator. There’s no role for advocacy with respect to personal beliefs or views on the part of a judge. The judge is bound to follow Supreme Court precedent. Personal views, personal ideology—those have no role to play.”60
+
+#### Despite opposition from Democratic senators and groups like the Alliance for Justice, which saw Roberts as part of a broader effort to pack the courts with Federalist Society extremists, the White House judicial machine was doubling down. Bush devoted a national radio address to hammering Democrats, accusing them of creating a “vacancy crisis in the courts.” He urged the Senate
+
+#### to provide “up or down floor votes on all judicial nominees.”61
+
+#### On May 1, 2003, the White House orchestrated one of the most theatrical moments of the George W. Bush presidency. Aboard a Navy fighter plane, Bush landed on the deck of the USS Abraham Lincoln, an aircraft carrier returning from nearly ten months in the Persian Gulf. Clad in a flight suit and bulging cod piece, Bush strode across the deck in a scene straight out of a bad Hollywood blockbuster.
+
+#### NBC’s Tom Brokaw narrated the scene: “And as if it were made for television, because it is, here now is the President of the United States as he walks across the deck with two thousand sailors and officers on board for his address to the nation on the recently completed war in Iraq.”62
+
+#### Less than two months after he’d ordered the U.S. military to overwhelm Baghdad with a “shock and awe” bombing campaign, the president’s approval ratings had soared to stratospheric levels. Standing before an enormous “Mission Accomplished” banner, Bush delivered a speech to a nationally televised audience. “Major combat operations in Iraq have ended,” he declared. “In the battle of Iraq, the United States and our allies have prevailed.”
+
+#### The statement turned out to be wildly premature—the war in Iraq dragged on for years—but the staged moment provided Bush with a victory lap. And as the media marveled at his flight-deck bravado, Bush was already pivoting to another battle.
+
+#### That same day, a federal court rejected a conservative challenge to the McCain-Feingold law.63 This setback was a stark reminder of the conservative legal movement’s lingering frustration: “squishy” judges who refused to fully embrace their agenda, including the plan to dismantle campaign finance restrictions. Leaving the aircraft carrier, Bush returned to Washington to intensify his other war—the one to reshape the judiciary.
+
+#### A week later, on May 8, 2003, the conservative legal movement secured a major victory. After years of stalling and delays, the Senate confirmed John Roberts to the D.C. Circuit without a single vote of opposition.64 Roberts, meticulously crafted as an arch-conservative while presenting as a moderate, was now poised to serve as a judicial Trojan horse.
+
+#### Yet, Roberts’s confirmation was only the beginning. While Senate Democrats had capitulated on Roberts and a slate of other nominees, they continued to block two key conservative picks. The day after Roberts’s confirmation, Bush escalated the fight with a high-profile event in the Rose Garden.
+
+#### “The bitterness and partisanship that have taken over the judicial confirmation process also threaten judicial independence,” Bush declared. “Some senators have tried to force nominees to take positions on controversial issues before they even take the bench. This is contrary to the constitutional design of a separate and independent judicial branch.”65
+
+#### The Rose Garden audience that day included a who’s who of the conservative legal movement—Republican senators, Federalist Society leaders, and other key operatives. Among them were Leo and Jay Sekulow, a lawyer representing the Christian right.66 This coalition sought to use Roberts’s confirmation as a springboard, turning judicial nominations from a niche concern for right-wing activists into a rallying cry for mainstream Republican voters.67
+
+#### In line with their messaging strategy, Bush cast the issue as a crisis. “Vacancies on the bench and overcrowded court dockets are causing delays for citizens seeking justice,” he said. “The judicial confirmation process is broken, and it must be fixed for the good of the country.”68
+
+#### The ultimate goal was clear: replace Senate Democrats with Republicans who would rubber-stamp conservative judicial picks and intimidate any remaining opposition into submission.
+
+#### The judicial war was accelerating, moving inexorably toward the master planners’ ultimate objective: control of the Supreme Court. Achieving this required an escalation of resources, including vast sums of money to wage a campaign of “shock and awe” that would sway public opinion and crush Democratic resistance. They soon found such a target in a prominent Senate Democrat from South Dakota.
+
+# Shock and Awe
+
+#### For Democrats, the early 2000s were an unrelenting barrage. The Bush administration’s right-wing economic policies, the fallout from 9/11, the wars in Afghanistan and Iraq, and the Patriot Act—all these crises left the opposition party reeling. Amid this political storm, Senate Democratic leader Tom Daschle stood as their most visible fighter. Calm, sharp, and articulate, Daschle was a steady presence on television and the Senate floor, clashing with Bush over tax cuts for the wealthy, corporate accountability, and national security.
+
+#### Daschle took aim at Bush’s economic policies, criticized the administration’s refusal to hold corporate wrongdoers accountable, and condemned the president’s post-9/11 rhetoric, which portrayed Democrats as soft on terrorism. At a press conference, Daschle bristled at Bush’s accusations that the Democratic-controlled Senate was not interested in the security of the American people. “Not interested in the security of the American people?” Daschle said. “You tell Senator Inouye he’s not interested in the security of the American people. You tell those who fought in Vietnam and World War II they’re not interested in the security of the American people. That is outrageous. Outrageous!”1
+
+#### For Republicans, Daschle’s defiance was a thorn in their side. But for the conservative legal movement, he was a far more significant obstacle. Daschle had become the most visible barrier to their long-term goal of remaking the judiciary. He was instrumental in blocking many of Bush’s judicial nominees, including John Roberts, whose nomination to the D.C. Circuit had been delayed for two years. Even after Republicans gained control of the Senate following the 2002 midterms, Daschle and his Democratic caucus managed to stall other Federalist Society– approved judicial candidates.2
+
+#### Daschle’s biggest vulnerability was that he wasn’t from a deep-blue state where voters would applaud his battles with the Bush administration. He hailed from South Dakota, a state that was increasingly Republican. In 2000, Bush had won South Dakota with 60 percent of the vote. By 2004, the master planners saw an opening to strike at the heart of the Democratic opposition by targeting
+
+#### Daschle in his reelection campaign. It seemed like a tall order—in all of American history, it’s extremely rare for
+
+#### a Senate’s party leader to lose their reelection bids.3 The GOP’s weapon of choice was a well-groomed Republican challenger named John Thune. A corporate lobbyist and former high school basketball star, Thune had also served as South Dakota’s lone representative in the U.S. House.4 Thune was young, charismatic, and willing to carry the master planners’ message. During debates, he repeatedly attacked Daschle for blocking Bush’s judicial nominees. “The floor of the United States Senate has been turned into the killing field for a lot of good nominees,” Thune charged during one debate. When Daschle protested, calling the claim untrue, Thune doubled down. “It absolutely is true, and you can check the record.”5
+
+#### Thune’s campaign leaned heavily on the judicial issue, supported by a barrage of negative ads funded by the oligarch-backed Club for Growth, the National Rifle Association, and the U.S. Chamber of Commerce.6 One particularly memorable football-themed ad branded Daschle as “Tom ‘the blocking machine’ Daschle. Crushing laws. Fighting progress.”7
+
+#### Thune didn’t shy away from laying bare the stakes. During another debate, he made it clear that the conservative legal movement’s goal wasn’t just filling judicial vacancies—it was about building a pipeline to the Supreme Court. “The reason that Tom and his allies don’t want to allow votes on good nominees to the appellate courts,” Thune argued, “is that the appellate court nominees are the people who end up being nominees to the Supreme Court.”8
+
+#### The race was a nail-biter, but when the results came in, the master planners had achieved the unthinkable. Daschle became the first Senate party leader in a half century to lose a reelection bid. Republicans celebrated the victory as a major milestone. Thune later reflected on the campaign, highlighting how the judicial issue had resonated with voters. “Early on in the campaign, I’d talk about openings on the Supreme Court or getting these appellate nominees confirmed, and people would kind of look at you like, ‘Who cares?’ Toward the end of the campaign, that statement would be one of the biggest applause lines.”9
+
+#### By unseating the leader of the opposition party, the conservative legal movement sent a clear message to Washington: block Federalist Society judicial nominees at your peril.
+
+#### That same night, the master planners delivered an even louder message to the nation. At the top of the ticket, George W. Bush narrowly defeated Democratic candidate John Kerry, securing a second term. Emboldened,
+
+#### conservatives wasted no time launching its next offensive. In early 2005, Brian McCabe, president of Progress for America, announced an extensive media blitz to pressure the Senate into approving Bush’s judicial nominees. “We are here to launch a $3.3 million advertising and grassroots campaign to ensure that President Bush’s slate of well-qualified judges receive an up-or-down vote on the floor of the United States Senate,” McCabe declared at a press conference.10
+
+#### The pressure worked. In May 2005, a bipartisan group of senators known as the “Gang of 14” brokered an agreement that Democrats would stop using the filibuster for judicial nominations, reserving it only for “extraordinary circumstances.” Announced by Senator John McCain, the deal defused the GOP’s threat to invoke the “nuclear option” by allowing judicial filibusters only under this vague standard—one that left Democrats with little recourse to stop the confirmation of ultraconservative judges.11 Among the seven Democrats and seven Republicans in the group were senators from states targeted by Progress for America’s multimillion-dollar ad campaign, including Democrats Ben Nelson of Nebraska and Mark Pryor of Arkansas. In the name of bipartisanship, they had relinquished their final tool for resisting the master planners’ judicial takeover.
+
+#### By mid-2005, the pieces were in place. Republicans controlled the Senate, conservative Democrats were cowed, and the Federalist Society’s handpicked judges were waiting in the wings. Everything was unfolding as planned, meticulously orchestrated years earlier at strategy retreats and backroom meetings. The stage was set for the final showdown.
+
+#### Then, as if on cue, came the bombshell that changed everything. On July 1, 2005, Justice Sandra Day O’Connor stunned the nation by announcing her retirement from the Supreme Court citing a desire to spend more time with her family.12 The master planners’ moment had arrived. For the first time in eleven years, the Supreme Court was in play.
+
+#### O’Connor’s departure wasn’t just significant because it gave Bush his first chance to appoint a Supreme Court justice. It was also monumental because O’Connor, a Republican appointee, had been a crucial swing vote who sometimes defied the conservative master planners on issues like campaign finance. Her departure presented an unprecedented opportunity: Bush could replace this unpredictable centrist with a hardened ideological jurist and reshape the court for a generation.
+
+#### For Leonard Leo, Brett Kavanaugh, and the other Federalist Society– aligned activists who had plotted their strategies in meetings and retreats, this was the moment they had been preparing for.13 And the nominee they had in
+
+#### mind was one they had fought to place on the lower courts just two years earlier: John Roberts.
+
+#### In a nationally televised announcement, Bush laid out the stakes and introduced his choice. “A nominee to that court must be a person of superb credentials and the highest integrity,” he said. “I have found such a person in Judge John Roberts.”14
+
+#### Roberts, once a corporate lawyer who represented some of the nation’s wealthiest companies and institutions, was cast as a public servant of unmatched virtue. Bush framed Roberts’s past not as a career defined by working for powerful interests—such as his efforts to kill a program aimed at lowering prescription drug prices—but as a noble service to justice.15 “John Roberts has devoted his entire professional life to the cause of justice and is widely admired for his intellect, his sound judgment, and personal decency,” Bush declared.16
+
+#### For corporate America, Roberts’s nomination was a dream come true. One lawyer gushed to the Los Angeles Times that Roberts was “the go-to lawyer for the business community” and “definitely is a friend of the chamber.”17 The U.S. Chamber of Commerce formally endorsed Roberts, praising his advocacy for “the nation’s leading businesses on matters ranging from the supremacy of federal law to the proper interpretation of the Americans with Disabilities Act.”18
+
+#### In the weeks before Roberts’s nomination, the chamber’s partner organization, the National Association of Manufacturers (NAM), had created a new committee of executives to “vet any White House nominee based on his or her business rulings.” Roberts, with his track record of representing companies on regulatory matters, quickly drew interest in corporate circles. For the first time in its 110-year history, NAM jumped into a Supreme Court confirmation battle and officially endorsed Roberts.19
+
+#### Liberal groups attempted to push back, highlighting Roberts’s social conservatism, his short tenure as a judge, and his ties to the Federalist Society.20
+
+#### But Roberts employed a classic strategy, perfected decades earlier by Lewis Powell: the judicial bait-and-switch. To paraphrase longtime GOP judicial confirmation insider Ed Whelan, the key was to appear conservative enough to earn the nomination but moderate enough to secure confirmation.21
+
+### Definitely Not a Member
+
+#### When Roberts was nominated to the Supreme Court in 2005, news outlets reported his membership in the Federalist Society—
+
+#### unsurprising, given how closely his formative years aligned with the rise of the conservative legal movement. The White House and Roberts’s defenders denied the claim and demanded corrections, which several major outlets issued. However, The Washington Post later uncovered a 1997–1998 Federalist Society leadership directory listing Roberts as a steering committee member.22 Internal White House emails revealed an urgent effort to craft talking points to explain the contradiction, which a spokesman later recited verbatim at a press conference.23 When pressed by a reporter, Press Secretary Scott McClellan said Roberts had “no recollection” of such membership or of paying dues to the Federalist Society, though he “has participated in events and panel discussions.”24
+
+#### Others invoked a talking point, credited to Leo, that being listed as a steering committee member did not necessarily mean one was a member of the Federalist Society. Such Fight Club-esque wordplay strained credulity. Still, it offered just enough plausible deniability for Roberts’s supporters to dismiss criticism as hysterical overreaction by liberals. In this way, Roberts preserved his carefully crafted image as a mildly conservative, nonideological judge.
+
+#### In the media, Roberts was praised for his decorum, intelligence, and moderation. Political analyst Mark Shields called the rollout “a grand slam,” while columnist David Brooks noted that even congressional liberals were complimentary of Roberts. “It’s all positive. It’s been a love fest,” he said.25
+
+#### Behind the scenes, however, the master planners were capitalizing on the support of big donors to ensure Roberts’s confirmation. The dark money group Progress for America launched a nationwide ad campaign, framing Roberts as the judicial equivalent of a founding father. “The President nominated George Washington for the Supreme Court,” one ad mockingly claimed. “Democrats immediately attacked Washington for his environmental record of chopping down cherry trees.”26
+
+#### The summer of 2005 was chaotic. The Iraq War spiraled into a bloody civil conflict, Hurricane Katrina devastated New Orleans, and the Bush administration staggered under the weight of mounting crises. Yet amid the turmoil, the judicial confirmation machine worked at full tilt to prepare Roberts.
+
+#### Then, out of nowhere, another bombshell hit: Chief Justice William Rehnquist died of thyroid cancer after thirty-three years on the court.27 The White House moved swiftly. Within weeks, Roberts’s nomination was shifted from O’Connor’s replacement to that of Chief Justice. The strategy for his
+
+#### confirmation remained the same: Roberts depicted himself as an apolitical umpire. “If I am confirmed, I will confront every case with an open mind,” Roberts testified. “It’s my job to call balls and strikes, and not to pitch or bat.”28
+
+#### The Senate was mostly convinced. On September 29, 2005, Roberts was confirmed as Chief Justice with unanimous Republican support and backing from half of Senate Democrats—including every Democratic member of the Gang of 14 except Daniel Inouye of Hawaii.29 For many Democrats from Republican-leaning states, opposing a Bush Supreme Court nominee risked turning them into takedown targets like Tom Daschle.
+
+#### Daschle’s successor as minority leader, Harry Reid, had announced in a Senate floor speech that he would vote no on Roberts, citing memos Roberts had written during the Reagan years, which Reid believed reflected troubling views on women’s and civil rights. But Reid seemed equally concerned with pushing back against the perception that Democrats were obstructionists contributing to “incivility” in Washington. He noted that Democrats had chosen not to use available procedural roadblocks and emphasized what party leaders had conveyed to the president: “We want the next nominee not to be extreme.”30
+
+#### With Roberts now installed as Chief Justice, Democrats appeared to hope that by playing nice, they might influence President Bush to choose a more moderate nominee for the next vacancy.31 And, for a brief moment, it seemed Bush might oblige. But the Federalist Society—and its relentless judicial confirmation machine—had other plans.
+
+#### The day John Roberts was confirmed as Chief Justice, Progress for America launched a new TV ad celebrating Democrats who had voted for him and pressuring them to support Bush’s next pick. The ad praised bipartisan cooperation and urged the Senate to “put politics aside” and “give the next nominee a fair up-or-down vote.”32
+
+#### The master planners were elated by Roberts. He was a resounding success of their years-long strategy. But the next vacancy represented an even greater opportunity. This pick could fundamentally reshape the court, and they assumed Bush would select another Federalist Society favorite to further their agenda.
+
+#### But then Bush, their steadfast ally, threw a wrench into the gears. At the urging of his wife, Laura, Bush shocked his supporters by nominating Harriet Miers, the White House counsel and a longtime associate and friend. Miers, who hailed from the president’s home state of Texas, had no prior judicial experience but had served the president in several key positions over the years.33
+
+#### The announcement landed like lead balloon for the conservative legal movement. Leo was reportedly left “literally speechless.”34 Conservative media figures were far more vocal. David Frum, Bush’s former speechwriter, described the conservative response as ranging from “disappointment to dismay.”35
+
+#### Rush Limbaugh joined the chorus, pressing Vice President Dick Cheney on-air. “Do you know what her judicial philosophy is? How can the president’s supporters be convinced that it parallels the philosophy of Antonin Scalia or Clarence Thomas, as the president had promised during campaigns?” he asked. Cheney’s attempt at reassurance—“I’m confident she has a conservative judicial philosophy that you would be comfortable with, Rush”—did little to quell the doubts.36
+
+#### Some went so far as to call Miers “Souter in a skirt,” referencing David Souter’s perceived betrayal of conservative principles.37 The backlash quickly moved beyond conservative media and into mainstream news, with columnist Bill Kristol arguing that Supreme Court nominations deserved more scrutiny than personal appointments: “This is a lifetime appointment. And I think it’s somewhat inappropriate, really, to pick your personal lawyer.”
+
+#### While critics painted Miers as an unqualified crony, the truth was more complicated. Miers was no amateur. As White House counsel, she had served as the president’s chief legal adviser and had built a career as a corporate attorney representing giants like Microsoft and Disney. She had even spearheaded conservative efforts to limit lawsuits against corporations.38 The White House recruited Nathan Hecht, an ultraconservative judge on the Texas Supreme Court, to defend Miers in the media. In dozens of interviews, he called Miers “very conservative,” a lawyer’s lawyer who “shares the President’s values.”39 But she lacked one crucial qualification: she was not a product of the Federalist Society’s ideological pipeline.
+
+#### Critics seized on her testimony from a 1989 Dallas case, where she had stated she would not belong to a politically charged organization like the Federalist Society.40 Ironically, the same White House that had downplayed Roberts’s Federalist Society ties just weeks earlier now tried to spin Miers as a supporter of the group. McClellan highlighted her “participation in events” and noted that she was “proud” to work with attorneys who were Federalist Society members.41
+
+#### The master planners faced a choice: trust Bush’s judgment or fight his nomination. Waging war against their own president was a risky move. But if they succeeded, it would send a powerful message to all future presidents that defiance of the conservative legal movement at their peril. They chose war.
+
+#### Leading the charge was none other than Robert Bork—the conservative legal movement icon whose own failed Supreme Court nomination gave rise to the term “Borking.” He published a scathing Wall Street Journal op-ed titled “Slouching Towards Miers,” in which he called the nomination “a disaster.” He told NPR, “I don’t think [Miers is] the person you would pick for the Supreme Court, but more importantly, I think this deals a blow to the conservative legal movement that’s been building up for twenty years and now has a great many people who are qualified for the court but all of whom have been passed over.” Bork said.42
+
+### The Miers Meltdown
+
+#### Inside the Bush administration, White House staffer Brett Kavanaugh and his colleagues began to panic. Bork’s anti-Miers op-ed would “cause major reverberations among conservatives,” Kavanaugh warned in an email.43 In an early October 2005 email, Kavanaugh flagged a conservative blog post to colleagues, saying it raised an issue that needed to be “explained ASAP.” The blog pointed to a media report claiming that Harriet Miers, when asked by a senator to name her favorite Supreme Court justice, had answered “Warren.” The senator then asked whether she meant Earl Warren, the liberal icon, or Warren Burger. Miers clarified that she meant Warren Burger.44
+
+#### Kavanaugh’s reaction was blistering: “That’s a disaster. An utter disaster. If it’s Warren, we have an uber-problem.” If Miers meant Earl Warren, that was a major red flag, Kavanaugh wrote, but even choosing the more conservative Warren Burger suggested a weak or questionable judicial philosophy—one that could alarm even staunch conservative allies. “I had just started to calm down about this nomination,” Kavanaugh continued. “But this is simply terrible. I can’t imagine that any other SCOTUS candidate on the Right would pick Burger (and certainly not Warren!) as their favorite justice. This nomination must be withdrawn.”45
+
+#### Soon, conservative dark money groups turned their firepower on Miers. Ads appeared on TV: “Even the best leaders make mistakes. Conservatives support President Bush. But not Supreme Court nominee Harriet Miers.”46
+
+#### Republican senators felt the heat. Bill Frist and Mitch McConnell visited the White House to warn Bush that Miers’s nomination was in serious trouble. Under pressure from all sides, Miers withdrew her nomination.47
+
+#### Although the White House insisted she had not been forced out, Miers had been effectively Borked—Borked from within. Republican Senator Arlen Specter acknowledged the overwhelming power of the conservative legal movement and its advocacy groups: “There was a decisive imbalance in the public forum, with the case for Ms. Miers not heard because of the heavy decibel level against her.”
+
+#### The Los Angeles Times captured the moment with a headline that read, “Right Stares Down White House, and Wins.”48 By sinking Miers’s nomination, the conservative legal movement and its donors showcased their dominance over the Republican Party and their ability to dictate the direction of the judiciary.
+
+#### President Bush quickly got the message: His base expected he pick an established conservative judge. With Miers out of the picture, he nominated Samuel Alito, a federal judge from New Jersey, to replace Justice O’Connor.
+
+#### For the conservative legal movement, Alito was a perfect choice. As a young man, Alito had been inspired by William F. Buckley Jr. and had grown into a committed Goldwater and Reagan Republican. Most importantly he was a proud, card-carrying member of the Federalist Society.49
+
+#### Conservative groups wasted no time rallying behind him. Progress for America launched a $400,000 advertising blitz over just nine days, targeting senators in swing states. One ad (see Figure 7) celebrated Alito as “fair-minded, committed to apolitical judging, and wedded to no ideological agenda other than restraint.”50
+
+#### In the months leading up to Alito’s confirmation hearings, the judicial confirmation machine executed a carefully choreographed two-part strategy, partly crafted by Kavanaugh.51 First, Alito stayed quiet on the most contentious issue, abortion. Then, during his confirmation hearings, he carefully sidestepped controversy by emphasizing respect for precedent. “I certainly agree that Roe and Casey and all of the other decisions in this line are precedents of the Supreme Court, and they are entitled to respect under the doctrine of stare decisis,” Alito testified.52
+
+#### Meanwhile, the White House and its allies launched a full-court press to secure Samuel Alito’s confirmation, pressuring key senators—particularly the “Gang of 14” moderate Republicans like Olympia Snowe and Susan Collins—to ensure they had the political cover to vote in his favor. Their aim was clear: make a Democratic filibuster impossible.
+
+Figure 7. A 2006 political ad from the conservative 527 group Progress for America, part of a campaign to pressure senators to confirm Samuel Alito to the Supreme Court. (Fox News.)
+
+#### Alito’s supporters deployed a familiar strategy, framing him as a neutral arbiter rather than an ideological crusader. “Like Chief Justice Roberts, it appears that Judge Alito tries to act like an umpire, calling the balls and strikes, rather than advocating a particular outcome,” Senator Chuck Grassley assured during the hearings.53
+
+#### Democratic Senator Ben Nelson of Nebraska—one of the Gang of 14 who brokered a truce on judicial filibusters—echoed this sentiment, explaining why Democrats were unlikely to block Alito’s nomination. “He’s told me that he has no plans to take an agenda to the bench with him, that all he wants to do is decide cases,” Nelson said. “I asked him directly, ‘There are those who fear you’ll come to the bench with a hammer and chisel, chipping away at settled cases like Roe v. Wade.’ And he assured me that he wouldn’t do that.”54 (And how’d that work out?)
+
+#### Democrats tried to scrutinize Alito’s record, zeroing in on his past membership in a conservative Princeton alumni group that had criticized efforts to diversify admissions while reducing legacy preferences.55 But when Senator Ted Kennedy pressed him on the issue during the confirmation hearings, Alito
+
+#### deflected. “As indicated in your ’85 job application,” Kennedy said, “you’re a member
+
+#### of the Federalist Society and a member of the Concerned Alumni of Princeton University, a conservative alumni group.”
+
+#### “I have no specific recollection of joining the organization,” Alito replied.56
+
+#### The hearings did little to derail his momentum. With Republicans controlling the Senate, Alito’s confirmation felt inevitable.
+
+#### Democratic resistance, once formidable enough to stall Bush’s lower-court nominees, had dissipated. The last significant effort came in early 2006 when Senator John Kerry, the party’s defeated 2004 presidential nominee, made a desperate call to filibuster Alito’s nomination.
+
+#### “I know it’s an uphill battle. I’ve heard my colleagues, many of them,” Kerry said. “Reserve your gunpowder for the future, they say. But what is the future if it changes so dramatically at this moment? What happens to those who count on us to stand up and protect them now, not later? This is the choice for the court now.”57
+
+#### Kerry’s plea fell flat. Many Democrats agreed that Alito would push the court further to the right but they hesitated to take a stand. Years of bruising fights over judicial filibusters had left the party divided and wary. Democratic senators from Republican-leaning states, mindful of what happened to Tom Daschle, were reluctant to risk their political futures. Two senators had already pledged to vote for Alito, and others firmly opposed Kerry’s filibuster effort.
+
+#### The conservative legal movement, emboldened by past victories, relished the moment. Kavanaugh even joked in an email that when South Dakota Senator Tim Johnson—a Democrat—announced his support for Alito, he was “Refusing to be Daschled.”58 What began as conservatives lamenting being “Borked” had now evolved into them proudly boasting about making Democrats “Daschled.”
+
+#### In the end, Kerry’s filibuster effort drew only twenty-four supporters. Alito was confirmed by a comfortable margin of 58–42.
+
+#### Alito’s confirmation in January 2006 marked a watershed moment for the master planners. In just seven months, they had successfully replaced Chief Justice William Rehnquist and Justice Sandra Day O’Connor with John Roberts and Samuel Alito, reshaping the Supreme Court’s ideological makeup. The court, which had recently upheld the McCain-Feingold campaign finance law, was now poised to revisit—and potentially dismantle—key rulings on campaign finance and anti-corruption laws.
+
+#### Months later, the Federalist Society celebrated its triumphs with a gala
+
+#### commemorating the twentieth anniversary of Justice Antonin Scalia’s Supreme Court appointment. No longer hiding its influence, the society embraced its role as the conservative legal movement’s nerve center. Leo, the evening’s emcee, delivered a tongue-in-cheek acknowledgment: “It is a pleasure to stand before 1,500 of the most little-known and elusive members of that secret society or conspiracy we call the Federalist Society. Thanks so very much for your support. You may pick up your subpoenas on the way out.”59
+
+#### The conservative movement’s momentum didn’t stop with the Supreme Court. Within a week of Alito’s confirmation, Kavanaugh— long a trusted operative for the master planners, as we’ve seen—was nominated to fill a vacant seat on the D.C. Circuit, the same bench that Roberts had just left.
+
+#### Kavanaugh’s earlier nomination had been blocked during the Democrats’ last stand against Bush’s judicial picks. Liberal watchdogs had labeled him “an ideological warrior for the extreme right wing” whose legal career was defined by partisan and ideological pursuits.60 But in the wake of the Alito confirmation, Senate Democrats lacked the will to filibuster or stall his nomination. With minimal resistance, Kavanaugh was confirmed by a wide margin, paving his own path to the Supreme Court.61
+
+#### Despite Roberts’s and Alito’s confirmations marking a hostile takeover of the judiciary, liberals in 2006 were not yet consumed with dread.
+
+#### Many took solace in the fact that Justice Anthony Kennedy remained the court’s swing vote, occasionally siding with the liberal bloc on key issues.
+
+#### But while liberals pinned their hopes on Kennedy, a conservative campaign finance lawyer in a modest office far from Washington was hatching a plan that would forever change the legal landscape—a plan centered on a film called Hillary: The Movie.
+
+# Going Big
+
+#### When we reached out to attorney James Bopp Jr. for an interview, he invited us to Terre Haute, Indiana, where his office was housed in a repurposed turn-of-the-century bank. The storefront law office exuded the charm small-town country lawyer, but the walls of his wood-paneled office told a different story. Framed mementos of a storied legal career were everywhere: a letter from Ronald Reagan, a photo with Dick Cheney, and, most prominently, a cover of the ABA Journal featuring Bopp under the headline “The Big Bopper.”1
+
+#### “To be on the front cover of the ABA Journal,” Bopp told us with a smile, “it’s like being an athlete on the cover of Sports Illustrated.”2
+
+#### At seventy-six, James Bopp—grandfatherly in his blue sweater and khakis— may not seem like a mastermind behind the effort that allowed wealthy oligarchs to funnel billions into politics. Yet, as the lawyer who has filed more campaign finance cases than anyone in the nation, Bopp’s impact on America’s political and legal landscape is large.3
+
+#### Terre Haute, with its ornate courthouse and quiet downtown streets, feels far removed from the sleek offices of big law firms in New York and Washington, D.C. The town resembles many Midwestern locales whose golden eras had passed. Why had Bopp chosen to stay in such a seemingly remote place, far from the corridors of power?
+
+#### “Well, I’m a third-generation Bopp in Terre Haute,” he explained. “I’ve stayed here because of the culture. Married, had three daughters. We wanted a relatively conservative cultural environment. And even though Terre Haute at the time was two-to-one Democrat, culturally it was conservative.”4
+
+#### Bopp’s family wasn’t particularly political, though his father, a doctor, held firm views on certain issues. “He believed deeply in the Hippocratic oath—‘a physician shall do no harm,’” Bopp recalled. “He always thought abortion was unethical.”
+
+#### Bopp’s political awakening began in the 1960s. As a junior high student, he started reading works by conservative thinkers like William F. Buckley Jr. and Barry Goldwater. “I developed a lot of my conservative philosophy before I even got to high school,” he said.
+
+#### In the tumult of the late 1960s, Bopp saw himself as something of a contrarian. While many young people joined the left’s protest movements, Bopp stood apart. There were no conservative high school teachers or professors when he attended the University of Iowa. “We were the ones fighting the establishment,” he said. “We were out of step with the general culture. And that was fine with me.”
+
+#### After earning his law degree in Florida, Bopp returned to Terre Haute and briefly worked in the Indiana Attorney General’s office. His focus wasn’t initially on campaign finance—it was abortion that drew his fervent attention. His big break came in 1978 when he became general counsel for the National Right to Life Committee (NRLC).
+
+#### At the time, the NRLC was building a lobbying apparatus to challenge Roe v. Wade, the 1973 Supreme Court decision that legalized abortion. They faced an uphill battle: public opinion was overwhelmingly in favor of legal abortion. Bopp quickly identified a weakness in their strategy: the organization lacked a political action committee (PAC).5
+
+#### “They needed to become more aggressively involved in political activity,” Bopp explained. “And one way to do that was to contribute to candidates.”6
+
+#### In 1980, the NRLC faced a setback when the Federal Election Commission (FEC) ruled that its voter guides endorsing anti-abortion candidates violated the Federal Election Campaign Act’s rules on political spending by outside groups.7 For Bopp, this was a turning point. He realized that campaign finance restrictions weren’t just bureaucratic hurdles—they were active barriers to achieving the NRLC’s ultimate goal of overturning Roe v. Wade.
+
+#### Bopp saw a clear path forward: remove the onerous rules of the campaign finance system to allow the anti-abortion movement to freely spend money on elections, elect politicians who shared their goals, and ensure that those politicians appointed anti-choice judges to the bench. It was a long game, but Bopp had a strategy.
+
+#### To link the causes of abortion and campaign finance deregulation, Bopp turned to an unlikely source of inspiration: Thurgood Marshall, the civil rights legend who had spearheaded the NAACP’s legal strategy to overturn segregation laws. Marshall’s campaign against Plessy v. Ferguson culminated in the landmark Brown v. Board of Education ruling, which dismantled “separate but equal.” Bopp studied Marshall’s approach intently, seeing parallels between the NAACP’s struggle for racial justice and his own crusade against abortion and campaign finance restrictions.
+
+#### It might seem paradoxical that an anti-choice conservative lawyer like Bopp
+
+#### would model his work on one of the most staunchly liberal justices in Supreme Court history, but the playbook was proven. “Marshall’s strategy was to chip away at Plessy piece by piece, building a foundation for the court to eventually overturn it,” Bopp later explained. “I realized we could do the same with campaign finance laws.”
+
+#### Bopp began filing lawsuits—dozens of them—challenging campaign finance restrictions in every possible context. Some cases fizzled out; others gained traction in lower courts. Every suit was a potential stepping stone, a way to test arguments, refine tactics, and nudge the judiciary closer to his vision of deregulated campaign spending. And his eyes never strayed from the ultimate prize: the Supreme Court.
+
+#### “I can’t make the Supreme Court do anything,” Bopp acknowledged in our interview. “But to persuade them, I need to present a case they’ll want to hear— a case that gives them options. If they’re willing, they can go big.”
+
+#### Out of his blitz of litigation, the vehicle that would finally deliver the big win was an unlikely one: an obscure political documentary titled Hillary: The Movie, produced by a little-known group called Citizens United.
+
+#### But before Citizens United became a landmark decision in 2010, Bopp had made it his mission to understand the justices inside and out. He immersed himself in their ideologies, judicial temperaments, and decision-making patterns, tailoring his arguments to their preferences and vulnerabilities.
+
+#### With Samuel Alito’s replacement of Sandra Day O’Connor in 2006, the Supreme Court had undergone a dramatic transformation, shifting decisively to the right. For Bopp, this seismic change presented an unprecedented opportunity to dismantle decades of campaign finance regulations in one decisive stroke.
+
+#### One justice in particular became the focus of Bopp’s attention: Anthony Kennedy. Appointed to the court in 1988, Kennedy gained a reputation as a moderate conservative in contrast to ideological flamethrowers like Clarence Thomas and Antonin Scalia. As a swing vote, Kennedy wielded outsized influence, particularly in landmark rulings on gay rights, abortion, criminal justice, and affirmative action. While he occasionally aligned with the court’s liberal wing on these contentious issues, his broader track record of rulings was largely conservative.8
+
+#### Crucially, Kennedy held strongly personal beliefs about the First Amendment, viewing it as a near-sacred pillar of individual freedom. As with any case before the Supreme Court, winning wasn’t just about knowing the law —it was about knowing your audience. Bopp recognized that if he could craft the right case, one that appealed to Kennedy’s First Amendment absolutism,
+
+#### there was a real chance to rewrite the rules of American democracy.
+
+#### Anthony Kennedy’s story begins in mid-twentieth-century Sacramento, California, a city that resembled the fictional Hill Valley from Back to the Future —bustling, idyllic, and full of white picket fences. But beneath its charm lay California’s version of a political swamp. As the state capital, Sacramento teemed with lobbyists, politicians, and a steady flow of money greasing deals over everything from water to redevelopment.
+
+#### Kennedy’s father was at the center of this world. A powerful lawyer and lobbyist, he ran a thriving business of influence-peddling focused on the state legislature. When Kennedy’s father died of a heart attack in 1963, twenty-seven-year-old Anthony took over the firm.
+
+#### In his early career as a lobbyist, Kennedy quickly earned a reputation for his skill in distributing campaign money to legislators on behalf of his clients.9 Among his contemporaries was Ed Meese, a reoccurring figure in conservative movement10 and a close ally of a certain B-movie actor turned archconservative governor of California: Ronald Reagan.
+
+#### While the U.S. Chamber of Commerce was holding secret meetings in 1973 to strategize about implementing the Powell Memo, its California branch was actively working to translate those ideas into policy. One major project involved backing Reagan’s “Economic Bill of Rights,” an anti-tax ballot measure steeped in Powell Memo rhetoric. And the person who helped Reagan draft that proposal? Anthony Kennedy.11
+
+#### CBS News described the measure as “the most revolutionary and complicated tax reform ever to be submitted to a vote of the people.”12
+
+#### Proposition 1 aimed to slash state income taxes, cap state spending based on income growth, and severely restrict the legislature’s ability to impose new taxes without voter approval. The revolutionary scope of the plan failed to move voters; the proposition was defeated by hundreds of thousands of votes.
+
+#### But Reagan, ever loyal to his allies, ensured Kennedy’s career wouldn’t stall. He recommended Kennedy to President Gerald Ford, who appointed him to a federal appellate judgeship in 1975. At just thirty-eight years old, Kennedy became the youngest federal appellate judge in the country.13
+
+#### On the bench, Kennedy quickly developed a reputation for being mild-mannered, polite, and pragmatic. While undeniably conservative, he leaned toward a libertarian philosophy that emphasized individual freedoms and preferred narrow, case-by-case decisions over sweeping ideological rulings.14 By the late 1980s, he was recognized as a leader of a conservative minority on the
+
+#### more liberal Ninth Circuit Court of Appeals. Then came 1987, when journalist Bill Moyers broadcast an interview with
+
+#### Justice Lewis Powell, who by now had served on the Supreme Court for fifteen years. Powell admitted his health was failing and that he was keeping an open mind about retirement. “At the moment, I have no present plans,” Powell said.15 The very next day, Powell announced he was stepping down, setting off a political frenzy. His departure gave President Reagan the chance to nominate a new justice.
+
+#### Reagan’s first pick to fill Powell’s seat was none other than conservative icon Robert Bork.16 But as we explored in Chapter 6, Senate Democrats fiercely opposed Bork’s nomination, ultimately rejecting him. Reagan’s next choice, Douglas Ginsburg, seemed promising. Ginsburg had led the Reagan administration’s deregulation agenda, weakened antitrust enforcement, and had recently spoken at a Federalist Society event.17 However, Ginsburg’s nomination unraveled in a quintessentially 1980s scandal when he admitted to having smoked marijuana in the 1960s and ’70s.18 Conservative Republicans urged Reagan to withdraw Ginsburg’s nomination, leaving the president zero-for-two in his efforts to replace Powell. (A historical repeat of the position Richard Nixon was in during the early 1970s.)
+
+#### With the clock ticking and political capital waning, Reagan turned to a safer choice: his old Sacramento ally, Anthony Kennedy. Asked why Kennedy wasn’t his first choice, Reagan quipped, “We came down to a final three, and all three were so close and so well-qualified, you could have almost thrown a dart.”
+
+#### Unlike Bork or Ginsburg, Kennedy’s nomination was controversy-free. He was widely seen as the “nice guy” alternative to Bork’s combative demeanor and Ginsburg’s youthful indiscretions.
+
+#### Even Kennedy’s past as a lobbyist in Sacramento didn’t raise red flags. Instead, Republican senators like Orrin Hatch praised his experience. “I see you as a person with experience as an eminent lawyer, as a person who has worked as a lobbyist, as a person who might have a great deal of ability on that court to bring about consensus,” Hatch said during Kennedy’s confirmation hearing.19
+
+#### This time, Senate Democrats offered no resistance. Kennedy was unanimously confirmed on February 3, 1988.20 At his swearing-in ceremony, Reagan drew a parallel between Kennedy and the justice he was replacing. “One of the great gentlemen of the American judiciary, a justice widely acclaimed for his decency and fairness: Justice Lewis Powell,” Reagan said.
+
+#### When Anthony Kennedy joined the Supreme Court, he began to carve out a moderate profile, particularly on social issues. In 1992, he coauthored the
+
+#### majority opinion in Planned Parenthood v. Casey, which reaffirmed Roe v. Wade while allowing for certain abortion restrictions.21 The ruling cemented Kennedy’s image as a centrist willing to straddle ideological lines.
+
+#### But all the while, Kennedy—who had once handed out campaign money as a corporate lobbyist—was sending subtle signals to the master planners. In 1990, he dissented in Austin v. Michigan Chamber of Commerce, a case that upheld a state law barring corporations from using treasury funds to support political campaigns.22 Kennedy argued against such restrictions, framing them as an infringement on free speech. He also voted to allow political parties to make unlimited expenditures on behalf of their congressional candidates, so long as they didn’t coordinate directly with those campaigns.23 Later, he dissented in the case you read about in Chapter 7, where the court upheld provisions of the McCain-Feingold campaign finance law.
+
+#### For most of his first seventeen years on the court, however, Kennedy kept a relatively low profile. But his quiet presence on the bench took on seismic importance when Sandra Day O’Connor and William Rehnquist were replaced by John Roberts and Samuel Alito.
+
+#### Suddenly, Anthony Kennedy found himself in a uniquely powerful position. With four liberal justices and four solid conservatives, Kennedy’s vote became the swing vote, capable of deciding the most contentious issues of the day.
+
+#### By the late 2000s, the media had fully embraced Kennedy’s role as the court’s kingmaker. News reports highlighted him as “the swing vote” in a divided court,” as “a moderate conservative whose votes on high-stakes cases are close to impossible to predict,” and “the man in the middle, the right-leaning justice who often swings left on some of the most hot-button cases.”24
+
+#### For many liberals, Kennedy’s rulings with liberal justices on LGBTQ issues, habeas corpus, and abortion rights seemed like a bulwark against the court swinging too far to the right.25
+
+#### But conservative legal strategists like Bopp knew better. They understood that Kennedy’s vote was up for grabs under the right conditions. Cases began flooding the docket, brought by those hoping to sway him and capitalize on the new conservative majority. It was as if every right-wing legal mind lined up, case in hand, eager to have their moment with the court’s most powerful man of the moment.
+
+#### For Bopp, this opportunity came in the form of a case that he described as “absolutely critical”: Federal Election Commission v. Wisconsin Right to Life.26 Heard by the Supreme Court just after John Roberts and Samuel Alito joined the bench, it presented the perfect moment for Bopp to test the inclinations of the
+
+#### new conservative majority—and Kennedy, the pivotal swing vote. In 2004, the anti-abortion group Wisconsin Right to Life had contacted
+
+#### Bopp with a dilemma. They wanted to pressure Wisconsin’s two Democratic senators not to filibuster judicial nominees during an upcoming confirmation vote.27 One of those senators, Russ Feingold— the coauthor of the McCain-Feingold campaign finance law—was particularly vulnerable, as he was up for reelection that year.
+
+#### To apply pressure, Wisconsin Right to Life began airing TV ads stating, “There are a lot of judicial nominees out there who can’t go to work,” and urging viewers to “Contact Senators Feingold and Kohl and tell them to oppose the filibuster.”28
+
+#### These ads fell within the “blackout period” imposed by McCain-Feingold, which prohibited certain types of election-related advocacy within sixty days of a general election. Because the ads named Senator Feingold, they were considered electioneering and thus subject to regulation under the law.29
+
+#### Bopp filed a lawsuit, arguing that these restrictions violated free speech. The case reached the Supreme Court, and on April 25, 2007, Bopp argued
+
+#### before a bench now comprised of Roberts and Alito. The central issue was whether the Wisconsin Right to Life ads constituted legitimate “issue advocacy” or covert electioneering. Justice John Paul Stevens pressed Bopp on whether the ads were genuinely intended to influence Senator Feingold’s stance on filibusters. Bopp confirmed that this was the case, explaining that the purpose of the ads was to lobby the senator ahead of the upcoming vote. Stevens, unconvinced, asked if such an effort was realistic. Bopp insisted it was. “Grassroots lobbying can change minds,” he said.30
+
+#### At this point, Anthony Kennedy interjected: “Is that called democracy?” “We are hopeful, Your Honor,” Bopp responded. With Kennedy as the key swing vote, the court’s conservative majority
+
+#### ultimately sided with Bopp. The narrow ruling held that Wisconsin Right to Life’s ads did not constitute “express political advocacy” because they didn’t explicitly tell viewers to vote for or against a candidate. This decision exempted the ads from McCain-Feingold’s restrictions.31
+
+#### Chief Justice John Roberts, once again deploying his umpire analogy, wrote in the majority opinion: “Discussion of issues cannot be suppressed simply because the issues may also be pertinent in an election. Where the First Amendment is implicated, the tie goes to the speaker, not the censor.”32
+
+#### In plain terms, the Roberts court had overturned a significant portion of McCain-Feingold just four years after the Rehnquist court had upheld it. For
+
+#### Bopp and the conservative legal movement, this was their Empire Strikes Back moment.
+
+#### The ruling became known as the “magic words case.” Rhode Island Senator Sheldon Whitehouse, a critic of dark money in politics, explains the ruling’s far-reaching implications:
+
+#### “That was the case where the Supreme Court decided what the magic words were. If you used them in an ad, it became a political ad subject to regulation. But if you didn’t, you could claim it was issue advocacy. You weren’t telling voters to vote against Senator Whitehouse. You were just urging them to call Senator Whitehouse and ask why he was a thieving, dirty, puppy-hating, anti-American scoundrel.”
+
+#### The decision created a loophole, enabling unregulated, anonymous “issue ads” to flood the airwaves, all under the guise of public education rather than electioneering. “The effect on the airwaves is the same,” Whitehouse says, “but if you don’t use the magic words about vote or elect, this whole new avenue opens up for dirty political TV advertising.”33
+
+#### For Bopp, the case was a critical victory—not just because it struck a blow to McCain-Feingold, but because it provided insight into the Roberts court’s leanings on campaign finance. It also revealed something important: a concurrence penned by archconservative Justice Antonin Scalia, who argued that the court should have gone further and struck down McCain-Feingold’s restrictions on unlimited corporate spending entirely.34
+
+#### Scalia’s concurrence was joined by Clarence Thomas—unsurprising given his hardline stance. But the third signature was the most intriguing. Anthony Kennedy, the former corporate lobbyist from Sacramento, had signed on.
+
+#### To Bopp, this was a flashing neon signal. Kennedy, like Lewis Powell decades earlier, could be swayed to go big. With the right case, Bopp believed, Kennedy could help deliver the conservative movement’s ultimate prize: the dismantling of decades of campaign finance restrictions in one fell swoop.
+
+#### In early 2007 Bopp was at work in his modest Terre Haute office when his phone rang. On the line was David Bossie, a conservative activist with a provocative proposition.35
+
+#### “I’m working on a movie called Hillary: The Movie,” Bossie told Bopp. Hillary Clinton, then a U.S. Senator from New York, had recently announced her candidacy for president, and Bossie and his funders were eager to go on the attack.
+
+#### Bossie had a history with high-profile political controversies. Back in 1992,
+
+#### he had worked for a nonprofit founded by the creators of the infamous Willie Horton ad, which had influenced the 1988 presidential election36 (see Chapter 5). The same group also aired ads supporting Clarence Thomas during his contentious Supreme Court confirmation hearings (see Chapter 6). By 2000, Bossie had ascended to the presidency of this nonprofit, known as Citizens United.37
+
+#### Hillary: The Movie was ostensibly a “documentary,” but in reality, it was a ninety-minute anti-Clinton screed filled with ominous music and damning accusations, all funded by undisclosed donors.38
+
+#### “She’s deceitful,” the narrator declared in one clip. “She’ll make up any story, lie about anything, as long as it serves her purpose of the moment. I can’t think of any other politician in history who has shown such disrespect and contempt for the Constitution and the rule of law as Hillary.”39
+
+#### Bossie explained that he wanted to broadcast the film during the 2008 election cycle but needed Bopp’s expertise to sidestep the legal minefield created by McCain-Feingold campaign finance laws. Bopp recalled that Bossie needed help in two key areas:
+
+#### First, Bossie asked Bopp to review the movie’s script to ensure it didn’t explicitly urge viewers to vote for or against a candidate, which would trigger McCain-Feingold’s prohibitions. Second, Bossie wanted to avoid filing a disclosure report revealing who was funding the film.
+
+#### “The report would have required him to reveal his donors,” Bopp explained. “And people wouldn’t want to contribute if they were going to be outed as funding an anti-Hillary movie.”40
+
+#### This secrecy was central to Bossie’s strategy, and Hillary: The Movie did little to hold back its animosity toward Clinton.
+
+#### “I knew Richard Nixon. And I’ll tell you: she’s no Richard Nixon— she’s worse,” laughed one of the people interviewed in the film. Other voices chimed in with a litany of descriptors: Ruthless. Vindictive. Venal. Sneaky. Ideological. Intolerant. Liar.
+
+#### For Bopp, the project wasn’t just an opportunity to attack Clinton; it was a chance to test the boundaries of campaign finance laws. His plan borrowed from his success in Wisconsin Right to Life. Using arguments honed in that case, he designed a legal strategy aimed at appealing to the new conservative majority on the Supreme Court.41 He hoped this case would become the crowning achievement of his career—a potential Brown v. Board of Education for deregulating campaign finance.42
+
+#### Citizens United had faced legal trouble before.43 The group had produced
+
+#### several so-called documentaries, but federal election regulators repeatedly ruled that they were overtly political and subject to McCain-Feingold restrictions. Bopp anticipated similar pushback for Hillary: The Movie.
+
+#### Instead of waiting for the FEC to come after Bossie, Bopp took a proactive approach. He went to a lower court to request a declaratory judgment—a preemptive ruling that would allow Citizens United to air the movie leading up to the 2008 primaries.44 It was a bold move, reminiscent of the Powell Memo’s advice to carefully select test cases. But it also showcased Bopp’s chutzpah: using this obscure movie to essentially manufacture a case out of thin air as a preemptive attack.
+
+#### As he expected, the lower court didn’t bite. It ruled that Hillary: The Movie was clearly a form of electioneering and subject to campaign finance restrictions.45 But for Bopp, that rejection was the real victory: it gave him a pathway to appeal the case to the Supreme Court, where the Roberts court awaited.46
+
+#### By August 2008, the case—now known as Citizens United v. Federal Election Commission—was before the high court.47 Although Clinton had already lost the Democratic primary to Barack Obama, the stakes for this case extended far beyond the 2008 election.
+
+#### When the court agreed to hear the case that fall,48 Bossie decided to part ways with Bopp.49 Instead, he hired Ted Olson, a prominent conservative lawyer with a formidable reputation to present their case in oral arguments. A founding member of the Federalist Society and the legal architect of Bush v. Gore, Olson brought gravitas and a polished courtroom presence that Bossie felt Bopp lacked.50
+
+#### Olson reframed Bopp’s argument, portraying Hillary: The Movie as a piece of “documentary” journalism rather than a blatant political ad. He argued that the McCain-Feingold Act wasn’t designed to restrict films distributed through video-on-demand services and that the government couldn’t prove the movie posed any threat of corruption.51
+
+#### “Mr. Chief Justice, and may it please the court,” Olson began. “Participation in the political process is the First Amendment’s most fundamental guarantee. Yet that freedom is being smothered by one of the most complicated, expensive, and incomprehensible regulatory regimes ever invented by the administrative state.”
+
+#### Olson insisted that Hillary: The Movie was robust political debate protected by the First Amendment. He even downplayed its aggressive messaging, despite its clear focus on painting Clinton as unfit for office. Justice David Souter
+
+#### wasn’t convinced. Reading a series of quotes from the film, he pressed Olson: “Doesn’t this one fall into campaign advocacy?”
+
+#### The conservative justices, however, were less interested in whether Hillary: The Movie constituted campaign advocacy and more focused on transforming the case into a larger referendum on campaign finance restrictions. Justice Kennedy floated increasingly abstract hypotheticals, asking whether restrictions could apply to books or satellite-transmitted e-books.
+
+#### “Your position is that under the Constitution, the advertising for this book or the sale for the book itself could be prohibited within . . . the 60/30-day period?” Kennedy asked.52
+
+#### The government’s lawyer, Malcolm L. Stewart, replied: “If the book contained the functional equivalent of express advocacy, that is.” He tried to redirect the conversation back to the questions at hand—whether corporations could anonymously funnel money from their coffers into election communications without restriction.53 But the conservative justices had already reframed the debate as a First Amendment question over book banning.54
+
+#### This wasn’t the case Bopp had initially crafted, nor the arguments Olson presented, but it was exactly what the master planners on the court needed: a platform to begin dismantling campaign finance laws under the guise of defending free speech.
+
+#### After an hour of increasingly esoteric questions and hypothetical scenarios, oral arguments concluded.55
+
+#### As the Supreme Court justices began their deliberations on Citizens United v. Federal Election Commission, the already strange and unexpected case took a dramatic turn behind the scenes. After oral arguments in March 2009, the justices held their initial private conference to cast preliminary votes. Predictably, the vote split along ideological lines: the four liberal justices opposed Citizens United’s arguments, while the five conservative justices— including Justice Anthony Kennedy—favored exempting Hillary: The Movie from McCain-Feingold’s restrictions.
+
+#### Chief Justice Roberts initially began drafting a narrow opinion to reflect this consensus. His draft focused on the case’s specific facts, arguing that McCain-Feingold did not apply to the Citizens United documentary. However, Kennedy, never one to shy away from sweeping declarations, circulated a draft proposing a much broader ruling. Kennedy’s concurrence argued for invalidating campaign finance restrictions on independent groups like Citizens United altogether.56
+
+#### When Roberts and the other conservative justices reviewed Kennedy’s draft, they found it so compelling that Roberts scrapped his narrower opinion.
+
+#### Instead, he handed the reins to Kennedy to write the majority opinion, signaling a willingness to go beyond the case’s original scope and reshape campaign finance law entirely.
+
+#### But this shift triggered alarm among the court’s liberals. Justice David Souter, the bogeyman of the conservative legal movement and target of the “No More Souters” slogan, was outraged when he saw what Roberts and Kennedy were up to. Souter drafted a blistering dissent, attacking not only the logic and conclusions reached by the majority in their retooled opinion but the intellectual dishonesty of their approach. He reportedly accused his colleagues of using Citizens United as a pretext to advance an ideological agenda far beyond the smaller scope of questions presented by the case.
+
+#### Souter’s dissent, however, would never see the light of day. Shortly after completing his draft, Souter announced his retirement from the
+
+#### court, effective at the end of the term in June 2009. Roberts seized the opportunity to reset the Citizens United case entirely. Rather than issuing a decision, he delayed the ruling and scheduled a rare reargument for the fall.57 By doing so, Roberts ensured that Souter’s dissent would never be published as part of the official record and gave the court time to refocus the case around the broader constitutional questions Kennedy had raised. (To this day, Souter’s dissent still remains secret to the public.)58
+
+#### The decision to order reargument was a highly unusual move. The court instructed lawyers from both sides to submit new briefs addressing fundamental constitutional questions that extended well beyond the case’s original scope. This was no longer just about a documentary few had seen or whether certain words could be used in election-year ads. Now the stakes were much higher: Did corporations have a First Amendment right to spend unlimited money in elections, so long as the spending was “independent” and not directly coordinated with candidates? By signaling its intent to tackle such sweeping issues, the court was positioning itself to deliver a truly transformative decision.59
+
+#### By the time the case returned for reargument in the fall, Justice Souter was gone, replaced by Obama appointee Sonia Sotomayor. Citizens United and Olson, following the Chief Justice’s instruction, had meanwhile reframed the case in even more expansive terms.60
+
+#### “Robust debate about candidates for elective office is the most fundamental value protected by the First Amendment’s guarantee of free speech,” Olson declared in his opening argument. He resurrected the free speech arguments from earlier landmark cases like Buckley v. Valeo and Lewis Powell’s ruling in
+
+#### First National Bank of Boston v. Bellotti, insisting that money is a form of protected speech and that corporations have a constitutional right to engage in unlimited election spending.
+
+#### Olson dismissed the idea that corporate spending could corrupt the political process. “There is no evidence,” he claimed, “that independent expenditures by corporations lead to quid pro quo corruption or even the appearance of corruption.”
+
+#### Critics of the court’s direction were surprised and alarmed. Senator John McCain, the coauthor of the very campaign finance law at stake, expressed his disbelief. “I was rather disappointed in some of the justices’ apparent naivety as to how corporate and union and unlimited money affects the legislative process,” McCain told reporters. “Does anyone believe that the rights of average citizens to be heard in Washington would not be overridden by massive, unlimited campaign contributions from corporations and unions?”61
+
+#### McCain was right: nobody believed that. But for the master planners behind Citizens United, drowning out the voices of average citizens was the point. The case wasn’t about ensuring fair and open elections; it was about deregulating the campaign finance system to consolidate power among corporations and oligarchs.
+
+#### Advocates for reform, including McCain and his cosponsor, Russ Feingold, warned that a decision for Citizens United would essentially turn American democracy into a corporate free-for-all. Public officials would become de facto employees of their largest donors, and elections would be determined by who could spend the most money. The question loomed: was the Roberts court radical enough to go that far?
+
+#### On January 21, 2010, Justice Anthony Kennedy provided the answer. Delivering the majority opinion in Citizens just over four months after the case’s reargument, Kennedy began by citing precedents like Austin v. Michigan Chamber of Commerce and McConnell v. FEC 62 only to dismantle them in this decision.
+
+#### “The court has recognized that First Amendment protection extends to corporations,” Kennedy wrote, explaining why the court’s majority had chosen to issue a sweeping ruling. “If the First Amendment has any force, it prohibits Congress from fining or jailing citizens or associations of citizens for simply engaging in political speech.” Kennedy argued that upholding Austin would permit the government to ban corporations and unions from expressing political views through any medium—even books. “Political speech is indispensable to decision making in a democracy,” he asserted, “and this is no less true because the speech comes from a corporation rather than an individual.”63
+
+#### This was the radical doctrine of “corporations as people” on steroids, building directly on the foundation Lewis Powell had laid in his Bellotti ruling. But the opinion went even further. It claimed that political spending only corrupted the democratic process when it involved an explicit quid pro quo. According to Kennedy, other forms of political influence—like the kind Kennedy himself had facilitated as a young lobbyist in Sacramento—were not corrupt.64
+
+#### “Campaign donors may have influence over or access to elected officials,” Kennedy wrote, “but that does not mean those officials are corrupt.” Then came the line that cemented Kennedy’s legacy: “Independent expenditures, including those made by corporations, do not give rise to corruption or the appearance of corruption.”
+
+#### The implications were staggering. Kennedy effectively declared that when corporations spent millions to support a candidate, it posed no risk of corruption—or even appearance of it—when the recipients later returned the favor by doing the corporate donor’s bidding legislatively.
+
+#### Justice John Paul Stevens wrote the dissent on behalf of the court’s liberal justices.65 While less fiery than the infamous draft dissent by Justice David Souter, Stevens’s critique was scathing and stretched to ninety pages.66
+
+#### “As one of the joint authors of the opinion in McConnell, I must emphatically disagree with today’s law-changing decision,” Stevens wrote. He pointed out that until Sandra Day O’Connor and William Rehnquist were replaced by Roberts and Alito, the court had consistently upheld restrictions on corporate spending in elections.
+
+#### “The court has the point exactly backwards,” Stevens argued. He contended that the Founding Fathers viewed corporations with caution, regulating them in the public interest and conceptualizing free speech as an individual right. “Even if we thought the freedom of speech was intended to describe any entity that could print pamphlets and newspapers,” Stevens wrote, “it is doubtful the framers believed this principle could be used to insulate corporations from even modest restrictions on electioneering expenditures.”
+
+#### Stevens concluded with a powerful rebuke: “While American democracy is still imperfect, few outside the majority of this court would have thought its flaws included a shortage of corporate money in politics.” After speaking for twenty minutes—double the length of Kennedy’s remarks—Stevens stepped away, delivering a “mic drop” moment in Supreme Court history.
+
+#### David Bossie, the president of Citizens United, was ecstatic. “It’s a monumental victory for Citizens United,” he proclaimed, “and, more
+
+#### importantly, for the First Amendment and the fundamental rights of people to participate in the political process and the marketplace of ideas—whether you’re an individual, a corporation, or a union. You can now participate fully and freely in the election process.”67
+
+#### Senator Sheldon Whitehouse had the opposite reaction. “I was watching the Supreme Court buy into a notion about that political world that I knew to be false,” he later recalled. “They applied a conceptual paradigm over politics that is complete and utter nonsense.”68
+
+#### President Obama condemned the ruling. Less than a week after the decision, Obama addressed the issue during his State of the Union speech.69 “Last week, the Supreme Court reversed a century of law that I believe will open the floodgates for special interests—including foreign corporations—to spend without limit in our elections,” Obama warned.
+
+#### The Capitol chamber was divided: while many stood to applaud, the justices sat stone-faced. Justice Samuel Alito could be seen shaking his head and mouthing, “Not true.”70
+
+#### While much of the country reacted with outrage, the conservative movement seemed eerily prepared for the decision. Immediately after the ruling, conservative and business interest groups filed the paperwork to establish dozens of unregulated dark money organizations.71 Among them was Liberty Central, a new lobbying group founded by Ginni Thomas, wife of Justice Clarence Thomas.72 Weeks before the Citizens United ruling was publicly announced, the 501(c)(4) group had filed its incorporation paperwork (see Figure 8), presciently ready to capitalize on the decision.73 Among the conservative activists listed as directors of this new entity was Leonard Leo of the Federalist Society.74
+
+#### Appearing on Fox News that spring, Ginni Thomas described Liberty Central as “America’s public square,” claiming it would “inspire, listen, [and] activate ordinary citizens to secure the blessings of liberty.” What she didn’t mention was the organization’s initial $500,000 in funding, which came from the Thomases’ favorite billionaire benefactor, Harlan Crow.75
+
+#### A study comparing the 2006 and 2010 midterms found that groups previously barred from advertising in 2006 made up 72 percent of spending on political advertisements just four years later. The impact of Citizens United was swift: nonprofit 501(c) groups that didn’t disclose their donors spent $134 million in the 2010 cycle—accounting for 47 percent of all outside political spending.76
+
+#### For the master planners, the Citizens United ruling wasn’t the end; it was a stepping stone to even bigger ambitions. Of course, you might wonder: If your movement’s half-century goal is to completely deregulate the campaign finance system and legalize the buying of elections so that a handful of anonymous big spenders could dominate politics— what more could you possibly want after Citizens United?
+
+Figure 8. While Citizens United was under consideration, Ginni Thomas filed to create a 501(c)(4)—the kind of dark money nonprofit the ruling would soon enable. Leonard Leo was listed as a director. (Virginia
+State Corporation Commission.)
+
+#### One hint of their ambitions came in a concurring opinion attached to the Citizens United decision, written by the justice later revealed to have been secretly wined, dined, and lavished with gifts by billionaires: Clarence Thomas. Thomas argued that the ruling didn’t go far enough. “This court should invalidate mandatory disclosure and reporting requirements,” he wrote.77
+
+#### It was a clear signal of where the master planners intended to go next: Beyond campaign donations, to making corruption itself virtually untouchable
+
+#### by the law.
+
+# The Heist
+
+#### When the Citizens United decision was announced, James Bopp wasn’t in his office in landlocked Terre Haute. Instead, he was on a sunny Florida beach, basking in what he considered the greatest triumph of his career. Though Bopp had been sidelined as counsel before the case was argued and reargued, his relentless strategy of filing cases on behalf of conservative groups had borne fruit. He had engineered a case that led the Supreme Court to deliver a world-changing decision—one that obliterated decades of hard-fought campaign finance laws.
+
+#### Sitting on the beach with a printout of the court’s 176-page ruling, Bopp marveled at how Justice Anthony Kennedy’s majority opinion had gone even further than he had imagined. The court had fully embraced the idea that corporations enjoy the same free speech rights as individuals, that spending money in elections was an exercise of those rights, and that unlimited political spending was permissible as long as it was done independently, not directly coordinated with a candidate’s campaign.
+
+#### “It was like 100 percent,” Bopp later recalled. “They covered every base; they checked every box. Analytically, it was just as sound as could be, in my view of the law.”1
+
+#### But Bopp’s elation was tempered by disappointment. Near the end of the ruling, the court upheld disclosure requirements—the very provisions Citizens United’s David Bossie had initially asked Bopp to help circumvent. Bossie’s goal hadn’t just been to air a glorified anti-Hillary campaign ad during an election; he had also sought to shield the identities of the ad’s funders from public scrutiny.
+
+#### Justice Kennedy, however, defended disclosure as a mechanism for transparency in elections. “We reject Citizens United’s challenge to the disclaimer and disclosure provisions,” Kennedy wrote. “Those mechanisms provide information to the electorate. The resulting transparency enables the electorate to make informed decisions and give proper weight to different speakers and different messages.”2
+
+#### Bopp was unimpressed. “I got the impression that they just were worn out, and they just got as far as they were willing to go,” he said of the conservative
+
+#### majority. “They were just exhausted from doing the major work, and when they got to that, it was like, ‘Oh well, whatever. We’ll just uphold the disclosures.’”
+
+#### Yet one line in Kennedy’s opinion caught Bopp’s attention and rekindled his hope. Kennedy cited precedent that disclosure laws could be challenged if a group demonstrated a “reasonable probability” that revealing contributors’ names would expose them to “threats, harassment, or reprisals from either government officials or private parties.”3
+
+#### For Bopp, this was the opening he needed. When God closes a door, He opens a window, as the saying goes—and Bopp already had a case poised to climb through that window.
+
+#### That case was Doe v. Reed, which came before the Supreme Court in 2010, just months after the Citizens United ruling. It originated in Washington State, where, in 2009, lawmakers had expanded domestic partnership rights for same-sex couples—a move seen as a precursor to legalizing gay marriage.
+
+#### A group called Protect Marriage Washington opposed the legislation and gathered signatures to force a public referendum to overturn the law. Under Washington’s transparency laws, all government documents are public unless specifically exempted by the legislature, which meant the names of petition signers could be disclosed to anyone who requested them.4 When a fight erupted over certifying the petition, Protect Marriage Washington filed a lawsuit to block the release of the signatures. Their lead attorney was, of course, James Bopp.5
+
+#### Though voters approved the domestic partnership law in the fall of 2009, rendering the referendum effort moot, Bopp pursued the case to the Supreme Court. His real goal was much bigger. If he could convince the court that disclosing petition signatures violated the First Amendment, it could serve as a stepping stone to argue that all political disclosure laws, including donor transparency requirements, were unconstitutional.
+
+#### “No person should suffer harassment for participating in our political system,” Bopp argued during oral arguments before the court.6 “The First Amendment protects citizens from intimidation resulting from compelled disclosure of their identity and beliefs and their private associations.”
+
+#### Bopp’s position was clear: he believed that donors should be allowed to participate in political discourse while remaining entirely anonymous. But this time, the court was not persuaded—even the staunchly conservative Justice Antonin Scalia pushed back.
+
+#### “For the first century of our existence, even voting was public—you either did it by raising your hand or by voice, or later, with a ballot that was visibly red
+
+#### or blue so people knew which party you were voting for,” Scalia noted. “The fact is, running a democracy takes a certain amount of civic courage.”
+
+#### Bopp argued that the problem wasn’t criticism but government-mandated disclosure. Scalia dismissed this argument with biting sarcasm. “Oh, this is such a touchy-feely, oh-so-sensitive . . .” Scalia said, drawing laughter from the courtroom. “You can’t run a democracy this way, with everybody being afraid of having their political positions known.”
+
+#### In the end, the court ruled 8–1 to uphold Washington’s disclosure laws. The lone dissent came from Clarence Thomas, who argued that the transparency measures severely burdened the First Amendment and “chill participation in the referendum process.”
+
+#### For Bopp, Doe v. Reed was a rare loss, but it amounted to little more than a speed bump in his decades-long campaign to dismantle campaign finance laws. As always, Bopp was just one player in the master planners’ much larger scheme to reshape American democracy by eliminating the safeguards of transparency and anti-corruption statutes.
+
+#### The effectiveness of their audacious strategy over the prior decades was now unmistakable. The post-Watergate campaign finance reforms had been gutted. Money was deemed constitutionally protected speech, and corporations secured the right to spend unlimited amounts on elections.
+
+#### With the Citizens United ruling empowering them further, the master planners set their sights on the final big score: dismantling the remaining campaign finance laws, normalizing secrecy, and legalizing corruption.
+
+#### Executing the next part in their plan required coordination. Like a Hollywood heist, it unfolded in three key steps. First, disable the surveillance system so dark money could flow freely. Second, disarm the last remaining campaign finance enforcers. Third, ensure the getaway— make it nearly impossible for prosecutors to bring charges against those exploiting the system.
+
+#### The first step? Disable the surveillance system, which in this heist was represented by disclosure laws—those pesky rules that required transparency from political donors. While the Supreme Court had upheld disclosure laws in Citizens United and later in Doe v. Reed, the master planners recognized that eliminating them was essential for their scheme.
+
+#### To understand the stakes, it’s crucial to grasp what the government was trying to regulate. After Citizens United, billionaires and oligarchs increasingly funneled their money through shadowy charities, so-called social welfare organizations, and other opaque nonprofits, using these 501(c)(4) entities to influence elections and policy in secret. Reformers directed their focus at the state level.7
+
+#### In California, Attorney General Kamala Harris pushed to enforce rules requiring nonprofit groups to submit lists of their major funders, known as a Schedule B, alongside their annual tax filings. These rules were akin to security cameras at a bank—tools designed to ensure that charities and social welfare nonprofits weren’t committing fraud or functioning as political organizations in disguise. In 2010, the California Department of Justice sent thousands of deficiency letters to nonprofits that failed to comply.8 While many groups cooperated, others resisted—especially the master planners, who were determined to block any efforts that might expose their donor networks.
+
+#### In 2015, Americans for Prosperity (AFP)—the tax-exempt conservative political organization set up by billionaire brothers David and Charles Koch— filed a lawsuit against the California Attorney General’s office. Officially, the AFPs “charity” wing described itself as being “devoted to education and training about the principles of a free and open society, including free markets, civil liberties, immigration reform, and constitutionally limited government.”9 In practice, it operated as the central hub of the Koch’s expansive political machine and dark money powerhouse for far-right causes.10
+
+#### The Koch network argued that requiring Schedule B donor disclosures violated the First Amendment, claiming it would deter contributions and expose donors to potential retaliation and harassment. The federal appeals court in California rejected these claims, ruling that the disclosure requirements were both legal and necessary.
+
+#### Refusing to concede, the master planners escalated their battle to the Supreme Court. Support for their cause poured in from groups inspired by the Powell Memo, such as the Cato Institute and the Pacific Legal Foundation.11 By 2021, these groups had successfully lobbied the court to hear the case, now renamed Americans for Prosperity Foundation v. Bonta.
+
+#### Senator Sheldon Whitehouse watched closely as Americans for Prosperity petitioned the Supreme Court to hear its case. “We counted fifty dark money-funded front groups filing amicus briefs saying, ‘Take this case, take this case,’” Whitehouse recalled. “Even in very big cases, we usually only see a dozen or so of these phony front groups coming in. Fifty was a blaring signal to the Federalist Society justices on the court: ‘This is huge for us. We need this. Let’s get this done.’”12
+
+#### By 2021, the configuration of the Supreme Court itself was no longer the same as when Antonin Scalia had defended disclosure laws. Scalia and Ruth Bader Ginsburg had passed away and pro-disclosure Anthony Kennedy had retired. Meanwhile, the Judicial Crisis Network (JCN), closely tied to Federalist
+
+#### Society cochair Leonard Leo, had spent millions from anonymous donors to block Obama’s Merrick Garland nomination and secure Trump’s picks—Brett Kavanaugh, Neil Gorsuch, and Amy Coney Barrett—cementing a 6–3 conservative supermajority.13
+
+#### During oral arguments, the newly fortified conservative bloc immediately questioned whether the public truly had a right to know who was funding political influence campaigns. Clarence Thomas, long known for his silence on the bench, spoke up with a hypothetical question that revealed his leanings: “Do you think it would be reasonable,” he asked, “for someone who wants to make a substantial contribution to an organization accused of being racist, homophobic, or white supremacist to fear they would be chilled from donating because they have no confidence their contribution will be kept confidential?”14
+
+#### The implications were clear: Thomas suggested that exposing wealthy donors to public scrutiny was a greater threat than the unchecked influence of dark money.
+
+#### Meanwhile, Americans for Prosperity’s lawyers leaned on a surprising historical precedent: the 1958 Supreme Court case NAACP v. Alabama.15 At the time, Alabama’s segregationist Attorney General John Patterson had openly targeted the civil rights organization, blaming the group for racial tensions and vowing to drive it out of the state. Patterson demanded that the NAACP disclose its membership lists, which would have exposed its members to harassment, violence, and intimidation.
+
+#### “[The NAACP] caused all the trouble between the races that we’ve had in Alabama,” Patterson bragged in a speech. “We were successful about two years ago in putting the NAACP out of business and running them out of state. It’s the race agitators that cause us the trouble.”16
+
+#### The court found that NAACP members faced constant threats from racist groups and officials who sought to silence them through intimidation, violence, and lawsuits. In a landmark decision, the Supreme Court ruled in the NAACP’s favor, determining that the Fourteenth Amendment’s due process clause protected both their right to privacy and their right to associate with organizations dedicated to the “advancement of beliefs and ideas.”17
+
+#### Sixty-three years later, AFP insisted that disclosure laws could expose their donors to harassment and thus violated their First Amendment rights. Clarence Thomas echoed this argument in court, quoting from the NAACP’s 1958 brief, which had been submitted by Thurgood Marshall. “The right of anonymity is an incident of a civilized society and a necessary adjunct to freedom of association and to full and free expression in a democratic state. What do you think of that?
+
+#### Is there such a right?”18
+
+#### The government’s lawyer responded that these disclosure laws did not constitute an assault on “free expression.”19 The rules required only confidential disclosure to California’s Attorney General and the IRS; donor lists were not made public.
+
+#### But the court’s conservative majority sided with Americans for Prosperity. The Roberts-Alito court ruled that California’s requirement for nonprofit groups to disclose their major donors placed an unconstitutional burden on donors’ rights to free association.20 They accepted the argument that such transparency could lead to harassment, concluding that the First Amendment outweighed the state’s interest in preventing fraud and ensuring accountability.
+
+#### Why did the justices decide as they did in Americans for Prosperity v. Bonta? Fordham Law professor Zephyr Teachout suggests their reasoning stemmed from both ideological loyalty to the master plan and a subtler, more personal allegiance to their social circles.21 Many justices, she argues, have private relationships with the same billionaires and millionaires who oppose transparency—not just in political spending but in the luxurious gifts and favors they’ve bestowed upon the court’s members.
+
+#### During this time, Justice Samuel Alito had been taking undisclosed luxury fishing trips to Alaska, paid for by Republican billionaire donors, including hedge fund manager Paul Singer, who later had business before the court. Justice Clarence Thomas, meanwhile, had long been the recipient of extravagant gifts, private jet rides, and lavish vacations courtesy of his close friend, billionaire Harlan Crow.
+
+#### In light of these connections, the court’s decision in AFP v. Bonta effectively equated the rights of today’s billionaire political financiers with those of civil rights activists risking their lives in the Jim Crow South. The ruling created a de facto constitutional right for tax-exempt nonprofit political organizations to influence elections, legislation, and politicians—while keeping the sources of their money entirely hidden. The impact was swift: other states quickly rescinded their own rules requiring donor disclosure, leaving regulators even more powerless to monitor the flow of dark money in politics.22
+
+#### With this decision, Step 1 of the post-Citizens United heist of democracy was complete. The “security cameras” of donor disclosure laws were dismantled, leaving campaign finance regulators in the dark.
+
+#### While the Supreme Court was gutting disclosure requirements for nonprofit political groups at the state level, the master planners also had turned their
+
+#### attention to another key agency empowered to enforce what remained of campaign finance laws: the Internal Revenue Service (IRS). In the post-Citizens United era, the IRS was one of the few entities still tasked with ensuring that tax-exempt groups weren’t abusing their nonprofit status to funnel anonymous money into politics. To the master planners, the IRS wasn’t just a nuisance—it was a threat that needed to be neutralized.
+
+#### The focus on the IRS wasn’t new. For decades, conservatives had vilified the agency, portraying it as a symbol of big government overreach.23 In a 1985 national address, Ronald Reagan declared, “We must radically change the structure of a tax system that still treats our earnings as the personal property of the Internal Revenue Service.”24 But for the master planners, the IRS wasn’t just the tax man—it was one of the last enforcers standing between them and total campaign finance deregulation.
+
+#### To understand why the IRS was central to the master planners’ goals, it helps to revisit the technically complicated history and role of 501(c) (4) organizations in the tax code.25 Nonprofits were first established as a legal category in 1913 with the passage of the Revenue Act, which created the federal income tax. The law established “charitable” as a purpose that is exempt from federal income tax”26 and later it was codified as “any civic league or organization not organized for profit, but operated exclusively for the promotion of social welfare.”27 These organizations were originally conceived as social welfare groups serving the common good—think volunteer fire departments or environmental organizations like the Sierra Club. (In addition, the Chamber of Commerce lobbied hard to make sure business leagues and civic groups would be included in this this type of tax exemption status.28)
+
+#### Under the original tax code, these groups enjoyed tax-exempt status but were required to “operate exclusively for the promotion of social welfare,” with political activities such as lobbying, campaign donations and electioneering prohibited.29
+
+#### In 1959, a quiet but consequential change occurred within the IRS under the Eisenhower administration.30 The agency reinterpreted the word “exclusively” in the tax code—meant to limit nonprofit groups’ activities to social welfare causes—to mean “primarily.”31 This subtle but significant shift in a single word opened a loophole, allowing nonprofits to engage in political activities as long as they could argue such efforts were not their primary purpose.32 The effect was that groups originally envisioned as classic charities—local volunteer fire departments, environmental organizations like the Sierra Club, or national
+
+#### advocacy groups like the National Right to Life Committee—could now dabble in lobbying, supporting candidates, and other overtly political activities while maintaining their tax-exempt status.33
+
+#### This change paved the way for groups like the Koch brothers’ powerful political nonprofits to obtain tax exemptions while operating as de facto political machines. Over decades this reinterpretation opened the door for politically motivated organizations to masquerade as social welfare groups, giving them a patina of legitimacy and financial advantages.34 (And that’s why overtly political groups like Americans for Prosperity or the anti-abortion National Right to Life Committee don’t have to pay any taxes.35)
+
+#### The Citizens United ruling in January 2010 not only opened the floodgates for unlimited corporate and union spending on elections, it also provided a massive boost to the influence of 501(c)(4) organizations. In the months following the decision, applications for 501(c) (4) status doubled.36 While the ruling upheld existing donor disclosure laws, it did not mandate the creation of new ones to address the ruling’s implications. Wealthy donors began channeling vast sums of money into these groups, which became vehicles for anonymous political spending.
+
+#### These anonymously funded 501(c)(4) groups then poured their resources into so-called “issue” ads, the kind of ubiquitous and insidious messaging that has become a staple of modern elections. The ads followed a familiar formula:
+
+#### “Senator Baldwin voted against funding to keep violent criminals in jail . . .” “Senator Rosen voted with President Biden to allow taxpayer handouts to illegals . . .” “Senator Warnock voted to allow wasteful spending that caused inflation . . .” “Representative Slotkin voted to allow COVID relief to fund out-of-state luxuries. Tell her to stop the wasteful spending . . .”37
+
+#### These elections would mark the beginning of an era of unprecedented outside spending, fueled by the networks built in the wake of Citizens United. One such network, overseen by Karl Rove, President George W. Bush’s former political strategist, raised an estimated $250 million to flood the airwaves with ads in the final weeks of the 2010 campaign. “Most of this money is coming from big fat cat donors, wealthy donors, and it’s not being disclosed,” one NBC reporter noted at the time.38
+
+#### This sudden surged of dark money groups tipped off some lawmakers, who sounded the alarm. The chairman of the Senate Finance Committee sent a letter to the IRS urging the agency to review the legitimacy of these newly formed organizations.39
+
+#### Amid the avalanche of applications for 501(c)(4) status, the IRS began attempting to identify which groups warranted further scrutiny to ensure they adhered to the rules for tax exemption.40
+
+#### Short-staffed and overwhelmed, employees at the IRS’s Cincinnati office devised a crude solution: they created a “Be on the Lookout” (BOLO) list to flag groups for additional scrutiny.41
+
+#### If a group’s name included terms like “Tea Party” or “Patriot,” or if its stated mission involved opposition to government spending or the Affordable Care Act, the IRS flagged it for review.42 This method wasn’t particularly sophisticated, but it was an attempt to ensure that political influence machines weren’t exploiting the tax code to gain undue financial advantages.43
+
+#### Unsurprisingly, the IRS’s attempts to enforce the rules became a lightning rod for conservative outrage. After Republicans won control of Congress in 2010,44 they launched an aggressive campaign to discredit the agency.45
+
+#### Accusations of political bias against conservative groups dominated the headlines, culminating in a Treasury Department report in 2013 that revealed some IRS employees had indeed flagged right-leaning organizations for extra scrutiny. Republicans seized on the report, framing it as evidence of government overreach.46
+
+#### The scandal quickly spiraled. The head of the IRS division responsible for granting 501(c)(4) designations was forced to resign. IRS Commissioner Lois Lerner was placed on administrative leave and issued a public apology.47 During subsequent congressional hearings, she invoked the Fifth Amendment and refused to answer questions, fueling suspicion.48 Democrats and Republicans alike called for her removal, and she ultimately resigned under pressure.49
+
+#### President Obama faced intense criticism, issuing a public statement condemning the IRS’s actions and calling for a full investigation.
+
+#### “I’ve reviewed the Treasury Department watchdog’s report, and the misconduct that it uncovered is inexcusable. It’s inexcusable, and Americans are right to be angry about it, and I am angry about it,” Obama said during a press conference. “The government generally has to conduct itself in a way that is true to the public trust. That’s especially true for the IRS.”50
+
+#### Meanwhile, Republican leaders, including Senate Minority Leader Mitch
+
+#### McConnell, leaned into the controversy, likening it to Nixon-era abuses of power. “Who knew about it and how high it went?” McConnell demanded, echoing Watergate-era rhetoric.51
+
+#### This language wasn’t coincidental. Republicans gleefully accused the Obama administration of “Nixonian” behavior.52 Nixon, you might recall, had deployed the IRS against his enemies such as Common Cause,53 a tactic cited during the Watergate hearings.54 Here, in 2013, Republicans invoked the analogy to revive Tea Party anger.
+
+#### After a Tea Party rally in front of the U.S. Capitol, a reporter asked Representative Michele Bachmann, “Is this Watergate all over again?”
+
+#### “This is far worse than Watergate,” Bachmann replied. “This isn’t an enemy list; these are direct actions taken against Americans who sought to exercise their free speech rights.”55
+
+#### Yet, unlike Nixon, the Obama White House had no involvement in initiating the IRS effort.56 Subsequent investigations revealed that left-leaning groups, including those with terms like “progressive” or “medical marijuana” in their names,57 were also flagged for review.58 The employee who initiated the BOLO list was a self-identified conservative, and no groups—conservative or liberal—were ultimately denied tax-exempt status.59
+
+#### But the truth didn’t matter. After this manufactured scandal, Congress began inserting language into the federal budget to block the IRS from spending funds to investigate whether 501(c)(4) groups were truly operating for “social welfare.”60
+
+#### All of this was part of a broader plan. The master planners aimed not merely to halt IRS scrutiny of their new dark money groups but to eliminate such scrutiny altogether.
+
+#### Republicans continued to evoke the narrative of “the Obama administration’s IRS scandal” in 2018 when, under the Trump administration, the Treasury Department and IRS announced that tax-exempt organizations would no longer need to disclose their largest donors, even to the IRS.61
+
+#### “The agency slow-walked the applications of groups that appeared conservative, including some of my own constituents,” Senate Majority Leader Mitch McConnell declared on the Senate floor, celebrating the rule change and reiterating claims that the IRS was an out-of-control agency targeting nonprofit groups for exercising their First Amendment rights. “Donors and groups faced unusually aggressive questioning, unreasonable deadlines, followed by unreasonable delays. This was federal authorities using the weaponry of
+
+#### government to punish Americans for supporting speech they didn’t like.”62
+
+#### The 2018 rule change meant that while public charities like 501(c) (3)s and political organizations like 527s still had to disclose their donors, 501(c)(4)s were exempted.63 These groups could now engage in extensive political advocacy without revealing their funding sources— not even to the government.
+
+#### Meanwhile, the IRS has been so weakened that its ability to act as even a minor check on campaign finance abuse is nearly nonexistent. Between 2010 and 2021, the agency’s budget was slashed by 19 percent, and its staff was reduced by nearly a quarter.64
+
+#### Republican lawmakers openly boasted that the cuts were intended to hobble the agency.
+
+#### “We deliberately lowered the IRS funding to a level to make them think twice about what they are doing and why they are doing it,” Florida Republican Ander Crenshaw bragged during a House subcommittee hearing.65
+
+#### Step 2: The IRS had been effectively neutralized.66 Audits of wealthy individuals and corporations also plummeted, allowing billions in unpaid taxes to go uncollected. Those savings flowed into the newly deregulated dark money machine, creating a cost-effective feedback loop of unchecked influence.
+
+#### One of the master planners’ greatest tricks was convincing the courts—and the nation—that corruption doesn’t exist, or at least that it doesn’t count as illegal behavior. With disclosure laws gutted and the IRS effectively neutralized, their final move was to ensure that even blatant corruption could slip through the legal cracks. This was the getaway plan: redefining corruption so narrowly that it became almost impossible to prosecute. Bribery, fraud, kickbacks, and self-dealing—what most people consider classic corruption—were systematically reinterpreted as something far more benign in the eyes of the law.
+
+#### Step 3 unfolded through a series of Supreme Court cases, each one more staggering than the last. The first involved one of the country’s most infamous white-collar criminals: former Enron CEO Jeffrey Skilling.67
+
+#### Skilling had presided over one of the largest corporate collapses in U.S. history.68 As recounted in Chapter 5, in the early 2000s, Enron’s fraudulent practices wiped out billions of dollars in shareholder value and obliterated the retirement savings of countless employees.69 It was a scandal that galvanized public anger and helped lay the groundwork for John McCain’s campaign finance reforms.70 A jury in Houston convicted Skilling on multiple charges of fraud and conspiracy, and he received a harsh twenty-four-year prison
+
+#### sentence71—a rarity for a white-collar criminal case.72 When Skilling appealed, a federal court in Texas upheld his conviction.73
+
+#### Just when it seemed like the high-profile case was closed, the Supreme Court under Chief Justice John Roberts stepped in to hear Skilling’s case.74 This was just five weeks after the 2010 Citizens United ruling, and the case became a beacon of hope for elite members of the business and political class fearful of facing similar consequences for their actions. Skilling’s lawyers didn’t argue that he was innocent of fraud; instead, they contended that the anti-corruption law requiring corporate executives to provide “honest services” was too broad.75
+
+#### “We think it’s particularly vague as applied to anything beyond the narrow category of bribes and kickbacks,” Skilling’s lawyer argued before the court.
+
+#### Their argument was bolstered by amicus briefs from Powell Memo– adjacent groups like the Pacific Legal Foundation76 and the U.S. Chamber of Commerce.77 The chamber went so far as to claim that the threat of prosecution for corruption might “deter legitimate business dealings.”
+
+#### Justice Antonin Scalia was sympathetic to this line of reasoning. He expressed concern that the law allowed for criminal prosecution based on something as subjective as “intent to deceive.”
+
+#### “An intent to deceive can be the basis for terminating a contract— [that] there’s been fraud in the inducement or something of that sort—so I know I’m liable to have the contract terminated, and maybe [subject to] damages for the contract.” Scalia mused. “But you’re saying that, oh yeah, you can also go to jail for years because [of that]. It’s very vague.”78
+
+#### The court ultimately issued a unanimous decision, with liberal Justice Ruth Bader Ginsburg writing the opinion.79 Justices ruled that the “honest services” law applied only to explicit bribes and kickbacks, effectively nullifying a major part of Skilling’s conviction. Because Skilling’s actions did not involve such explicit exchanges, the court concluded he had not committed honest services fraud.
+
+#### This decision significantly narrowed the reach of anti-corruption statutes, echoing the same logic Justice Kennedy and the conservative majority had used in Citizens United to define corruption as only explicit quid pro quo exchanges.80
+
+#### By redefining the law, the court effectively stripped federal prosecutors of a critical tool for holding corporate executives accountable.81
+
+#### This was not a constitutional issue like Citizens United but rather a statutory one. Legal scholar Zephyr Teachout notes that rather than interpreting the law as Congress had written it, the justices seemed to impose their own vision of
+
+#### what the law should have been.82
+
+#### “They’re not doing serious statutory interpretation,” Teachout explained. “They’re not looking at the text, the context, or the history of the law. That’s a clue that something very strange is happening.”83
+
+#### Indeed, the Supreme Court’s decision in Skilling v. United States sent a clear signal: the law’s primary concern wasn’t the victims of white-collar crime but the discomfort of those accused of committing it. For Enron’s defrauded employees and retirees, the ruling was a slap in the face. It helped Skilling negotiate a reduced sentence, leaving many victims dismayed at the lack of accountability. 84
+
+#### The message was clear: greed, fraud, and corruption weren’t the real problems. The true danger, in the court’s view, came from those overzealous do-gooders who sought to police such behavior too aggressively.85
+
+#### But the Skilling case was just the opening act. The next chapter in this judicial rollback of anti-corruption laws involved a case so brazen and sleazy it seemed impossible to justify: the political corruption scandal surrounding Republican Bob McDonnell.
+
+#### McDonnell was a polished, telegenic ex-military officer who, in 2009, ascended to the governorship of Virginia, a key swing state.86 He was a rising star in the Republican Party, and just a few weeks into his term, he delivered the GOP’s response to President Obama’s first State of the Union address.87
+
+#### Casting himself as an opponent of corruption, McDonnell declared, “Our solutions aren’t thousand-page bills that no one has fully read, after being crafted behind closed doors with special interests.” His image as a clean-cut reformer quickly earned him national attention. By 2010, McDonnell chaired the Republican Governors Association88 and was touted as a potential vice-presidential or presidential contender.89
+
+#### But McDonnell’s boy-scout image unraveled when prosecutors revealed the governor and his wife, Maureen, had been engaging in behavior that looked suspiciously like classic political corruption. In 2014, the McDonnells stood trial for accepting $175,000 in gifts and loans from a businessman peddling a tobacco-based dietary supplement.90 In exchange, McDonnell had used his office to help the businessman promote and legitimize the product.91
+
+#### Prosecutors showed how the McDonnells went to great lengths to conceal the $50,000 loan, the $20,000 shopping spree at Oscar de la Renta and Louis Vuitton, and the golf outings and equipment lavished upon them.92 The pièce de résistance was a $6,500 Rolex engraved with “Robert F. McDonnell, 71st Governor of Virginia.” (McDonnell later claimed he didn’t realize the watch was
+
+#### real—or a bribe.93 Jurors, presented with photos of McDonnell proudly wearing the Rolex, were not convinced.)
+
+#### Testimony revealed that McDonnell had hosted events at the governor’s mansion, arranged meetings with state officials, and otherwise leveraged his position to benefit his benefactor’s business interests. To the jury, this was an open-and-shut case of public corruption. The McDonnells were convicted on eleven counts, including bribery and corruption.94
+
+#### But then came the Supreme Court to the rescue. The Roberts court agreed to hear McDonnell’s appeal, setting the stage for a ruling that would narrow federal anti-corruption laws even further.
+
+#### During oral arguments in 2016, Chief Justice John Roberts voiced skepticism about the prosecution’s definition of an “official act,” which was central to McDonnell’s conviction. “Given the difficulty that we’re having in settling on what these words in the statute mean,” Roberts said, “there is an argument in the Petitioner’s brief that . . . the statute is unconstitutionally vague.”95
+
+#### McDonnell’s lawyers leaned heavily on precedents set by Citizens United and Jeff Skilling’s case, arguing that federal corruption laws should only apply to explicit quid pro quo exchanges of money for official actions.96
+
+#### Justice Stephen Breyer, often a voice of moderation, expressed concern that federal bribery laws might be overly broad.97 “We need some protection on both sides, even though the line won’t be perfect,” Breyer said. “And it will fail to catch some crooks.”
+
+#### Roberts highlighted an amicus brief filed collectively by dozens of former Democratic and Republican government officials,98 who argued that upholding McDonnell’s conviction would “criminalize the routine practice by public officials of giving access to their constituents.”99 He portrayed the brief as a rare bipartisan consensus, though most signatories were deeply entrenched in the small world of corporate lobbying and government influence.100 Other briefs supporting McDonnell (see Figure 9) were filed by Christian right attorney Jay Sekulow,101 Citizens United architect James Bopp,102 and even Hunton & Williams LLP, the Virginia law firm of Lewis Powell,103 author of the infamous Powell Memo.
+
+#### In retrospect, there seemed to be an unspoken subtext to the case: don’t find McDonnell guilty under this law, or we, your elite comrades, might also be seen as violating it.104 (At the time the Supreme Court heard McDonnell’s case, it was later revealed that some of the justices had themselves been accepting
+
+#### lavish gifts from billionaires: Justice Samuel Alito had taken undisclosed luxury fishing trips funded by donors with cases before the court, while Justice Clarence Thomas had received years of extravagant gifts from his billionaire benefactor, Harlan Crow.)105
+
+#### When the unanimous decision was handed down in 2016, Roberts clarified that the court wasn’t concerned with McDonnell’s lavish lifestyle or the unsavory optics of the case. “There’s no doubt that this case is distasteful; it may be worse than that,” Roberts wrote. “But our concern is not with tales of Ferraris, Rolexes, and designer clothing. It is instead with the broader legal implications of the government’s boundless interpretation of the federal bribery statute.”106
+
+Figure 9. Photos from former Gov. Bob McDonnell’s corruption case, shown with amicus briefs that aided the Supreme Court in overturning his conviction. (U.S. Courts.)
+
+#### The justices didn’t challenge prosecutors’ assertion that McDonnell took money and gifts and tried to hide it.107 Rather, both liberal and conservative
+
+#### justices zeroed in on the definition of quid pro quo, the Latin term for “this for that.”
+
+#### The Supreme Court ruled that McDonnell’s actions didn’t constitute “official acts” under federal bribery laws. In essence, the decision narrowed the definition of quid pro quo. Politicians could accept luxury gifts, as long as the favors they provided in return were limited to arranging meetings, hosting events, or granting access—actions the court deemed insufficiently “official” to qualify as corruption.108
+
+#### Roberts insisted that the decision was a “circumscribed interpretation” of the law that aligned with recent precedents and still left “ample room for prosecuting corruption.” 109 However, the unanimous ruling quickly sent ripples through the criminal justice system. Critics argued that vacating McDonnell’s conviction would pave the way for public officials to enrich themselves through secret gifts and payments.110
+
+#### Previously open-and-shut corruption cases began collapsing in the wake of the McDonnell ruling.111 Citing the precedent, a federal appeals panel swiftly reversed the 2015 corruption conviction of New York State Senator Dean Skelos.112 Similarly, the conviction of former Louisiana Congressman William Jefferson—caught on FBI surveillance video accepting a briefcase stuffed with $100,000 outside a Washington-area hotel—was also tossed.113
+
+#### “McDonnell said you can buy influence all you want,” noted David DeVillers, a former federal prosecutor and Trump-appointed U.S. Attorney with decades of experience prosecuting organized crime and political corruption cases. “You can buy someone a yacht so long as there’s no quid pro quo or official act tied to it. Then it’s not a federal crime.”114
+
+#### The court could have stopped there, but with Trump appointees Neil Gorsuch, Brett Kavanaugh, and Amy Coney Barrett solidifying a 6–3 conservative supermajority, the justices were just getting started. Next on their docket were cases that functioned as get-out-of-jail-free cards for political operatives tied to two of the most scandal-plagued figures in American politics.
+
+#### In Kelly v. United States, the Supreme Court overturned the convictions of aides to New Jersey Governor Chris Christie involved in the infamous Bridgegate scandal, where lanes on the George Washington Bridge were closed as political retaliation against a local mayor. The court ruled in 2020 that corruption laws didn’t apply because the act—shutting down a bridge—didn’t involve money or property.115 By narrowing the scope of bribery law yet again, the court effectively decriminalized an egregious abuse of power.
+
+#### Then in 2023, the court vacated the corruption convictions of two men connected to New York Governor Andrew Cuomo—one a former aide, the other a campaign donor.116 Both had been implicated in bid-rigging schemes,117
+
+#### but the court’s rulings once again weakened federal anti-corruption statutes.118
+
+#### With federal bribery laws now suffering a death by a thousand cuts, it might have seemed there was little left for the Roberts court to undermine. But the justices weren’t finished. Their magnum opus arrived in Snyder v. United States.119
+
+#### At the heart of the in 2024 Snyder case was section 666 of the federal anti-corruption statute, which makes it a crime for public officials to accept “anything of value” as a reward for or influence on decisions in their government role. Everyone agrees that the law criminalizes quid-pro-quo bribery—like handing cash to a politician in exchange for a favor they promised. But what the Supreme Court was mulling over is whether this law also covers so-called gratuities—rewards given after the fact as a thank-you for something of value.
+
+#### The case centered on James Snyder, a small-town Indiana mayor who awarded a $1 million municipal contract to a trucking company that later paid him $13,000 in “consulting fees.” Prosecutors argued that the payment was a thinly veiled bribe, made after Snyder had secured the contract.120 Convicted on corruption charges in 2021, Snyder appealed his case to the corruption-blind Supreme Court in August 2023.
+
+#### As in McDonnell’s case, a chorus of conservative groups filed amicus briefs in support of Snyder, including none other than Bopp. His brief argued that section 666 “criminalizes many forms of speech and association,” framing the prosecution of bribery as a First Amendment violation.121
+
+#### In oral arguments, Snyder’s lawyers focused on the idea that since the payment came after the contract was awarded, it was a “gratuity” rather than a bribe.122 Justice Neil Gorsuch latched onto the argument, suggesting that federal prosecutors risked criminalizing innocuous gifts. “How does somebody who accepts a gift card to the Cheesecake Factory know whether it falls on the wrongfulness side of the equation?” Gorsuch asked, spinning an absurd hypothetical that bore no resemblance to the defendant’s real-world $13,000 payment.
+
+#### Justice Samuel Alito went even further, reinterpreting the anti-corruption statute to imply that prosecutors or juries were incapable of distinguishing between innocuous gifts and payments given with corrupt intent. “Well, I am concerned about the breadth of your interpretation,” he asked to the government’s lawyer. “And it all seems to rest on the understanding of
+
+#### ‘corruptly.’ The person who gives a reward simply because that person is grateful may not know what the ethics rules are with respect to the recipient of this reward.”123
+
+#### In a 6–3 opinion, the Supreme Court reversed James Snyder’s conviction, creating a new legal precedent that federal anti-corruption laws permit after-the-fact payments for government favors.124 In essence, the court ruled that a “gratuity” was not bribery and, therefore, not illegal.
+
+#### The impact of this ruling in 2024 was swift. Snyder, a small-town mayor in northern Indiana, may have been a relatively minor figure—a small-time grifter. But just across the Illinois border, in corruption-famous Chicago, the Snyder decision loomed large over major public corruption cases.
+
+#### Among those potentially affected are executives and lobbyists for energy giant ComEd, convicted of conspiring to bribe former Illinois House Speaker Michael Madigan; former alderman Ed Burke, convicted of racketeering, bribery, and extortion; and even former Democratic governor Rod Blagojevich.125 Snyder’s case cast doubt on whether these high-profile convictions would stand.126
+
+#### Far from leaving “ample room for prosecuting corruption,” as Chief Justice Roberts had once claimed, these decisions have sent an unmistakable message to prosecutors: don’t bother. Attempts to bring corruption cases now face almost insurmountable legal hurdles, as evidenced by new data showing a dramatic drop in corruption convictions nationwide.
+
+#### Since the Citizens United ruling and the subsequent erosion of anti-corruption laws that began with Enron’s Jeff Skilling, corruption prosecutions have plummeted. Between 2003 and 2022, successful prosecutions dropped by 49 percent.127 Official corruption cases involving bribery, graft, and conflicts of interest are now at their lowest levels in thirty-five years.128
+
+#### And the ripple effects continue to grow. In 2023, a jury convicted former Ohio House Speaker Larry Householder of
+
+#### taking a $61 million bribe in exchange for passing a billion-dollar bailout for the utility company FirstEnergy. FirstEnergy admitted to bribing Householder, and he was sentenced to twenty years in prison for orchestrating the largest bribery scheme in Ohio’s history.129
+
+#### But now, Householder’s attorneys are appealing.130 Their central argument? That his conviction relied on undisclosed campaign contributions, which they claim are protected by federal law and the First Amendment under the logic of Citizens United.131 They argue that prosecuting him violates freedom of speech
+
+#### protections and that the bribe payments was within his rights.132
+
+#### In the grand heist of American democracy, the court rulings explicitly legalizing bribery were the ultimate getaway. Politicians, lobbyists, and billionaires can now trade favors, influence public policy, and even effectively buy court rulings with virtual impunity. The message from the Roberts court is clear: the era of accountability painstakingly erected after Watergate is fully over.
+
+# High Water
+
+#### In the spring of 2024, after Donald Trump secured the Republican nomination for president, he hosted a gathering of top lobbyists and executives from the oil and gas industry at his Mar-a-Lago resort.1 The private dinner, held in a room overlooking the ocean, became a textbook example of the quid pro quo corruption that the Supreme Court has redefined out of existence.
+
+#### Here’s the quid: Trump explicitly asked the fossil fuel executives to raise $1 billion for his campaign, reportedly shocking several attendees with his bluntness.2 And the quo? Trump promised to reverse dozens of President Biden’s environmental rules and approve specific gas export permits that these companies had long sought.3 (Indeed, after taking office, Trump quickly began delivering on that promise, launching one of the most sweeping rollbacks of environmental regulations in U.S. history, including undoing Biden-era limits on emissions from power plants.)4
+
+#### On the Democratic side, media moguls like Barry Diller and Silicon Valley billionaire Reid Hoffman, who donated millions to Kamala Harris’s campaign, reportedly lobbied Harris to replace Lina Khan as head of the Federal Trade Commission because Khan was aggressively enforcing antitrust laws against corporations and oligarchs.5 These weren’t grassroots donors advocating for democratic ideals; they were wealthy individuals treating elections as investments, complete with expectations of returns. At this point, it’s less a campaign and more an auction.
+
+#### So what is all this money buying? Not just legislation, court rulings, and regulations—but also silence.
+
+#### Consider the world around us: more than half of working-age Americans struggle to pay for health care, even with insurance.6 Roughly half of Americans aged fifty-five to sixty-six have no retirement savings.7 More than 137 million Americans live in areas with unhealthy levels of air pollution—a number that has risen by 2.1 million over the past year.8 The U.S. child poverty rate has more than doubled.9 Between 2018 and 2020, U.S. life expectancy saw its steepest
+
+#### decline since World War II.10
+
+#### Amid this preventable dysfunction and mounting problems, the reaction from many elected officials is little more than complicity. They know that fighting back against the billionaire class risks financial annihilation in their next election.
+
+#### Corruption doesn’t end with elected lawmakers; it infects those appointed to interpret and enforce the laws as well—the judiciary. Despite damning revelations about Supreme Court justices accepting lavish gifts and trips from billionaires, Republicans in Congress blocked legislation to establish an enforceable code of conduct for justices—the only federal officials without one.11
+
+#### Meanwhile, the court’s conservative majority took its defense of political corruption even further. In a 2024 decision, the court astoundingly endorsed Donald Trump’s claim of “absolute immunity,” ruling that presidents are immune from criminal prosecution for official acts.12
+
+#### This ruling starkly contradicted what Justices Roberts, Alito, and Kavanaugh stated during their confirmation hearings:
+
+#### “No one is above the law under our system, and that includes the president,” Roberts assured in 2005.13
+
+#### “I don’t think the president is above the law,” Alito declared in 2006.14
+
+#### “Under the Constitution, the president is not above the law,” Kavanaugh said in 2018.15
+
+#### The immunity ruling is just one piece of a larger, more insidious strategy. As corruption scandals pile up, the masterminds behind the fifty-year plan are using new tools and resources to cement their control. In 2022, investigative reporting by The Lever revealed that Barre Seid, a secretive conservative industrialist, donated $1.6 billion to Leonard Leo (see Figure 10), who you will remember as the cochair of the Federalist Society and architect of the right-wing judicial takeover.16 This remains the largest known political advocacy donation in U.S. history.
+
+#### For his part, Leo has funneled hundreds of millions of dollars into a labyrinthine network of tax-exempt organizations supporting conservative judicial campaigns and initiatives. These secretive entities are intentionally difficult to track. Recent filings reveal that the Marble Freedom Trust, where Leo serves as trustee and chair, has transferred tens of millions of dollars to the Concord Fund. The Concord Fund, also known as the Judicial Crisis Network,
+
+#### has in turn paid millions to Leo’s for-profit business. Between July 2022 and June 2023, the Concord Fund received approximately $52.8 million. During the same period, from May 2022 to April 2023, the Marble Freedom Trust reported giving $55.5 million to the Concord Fund.17
+
+#### In a 2024 interview, Leo outlined an agenda chillingly reminiscent of the Powell Memo: to infiltrate and control the “chokepoints” of society. He described plans to continue leveraging control of the courts through lawsuits and to expand recruitment pipelines for loyalists who could establish “beachheads” in areas like news, entertainment, business, finance, and education.18 Leo said the goal is to ensure the conservative movement permeates every aspect of culture, government, and social life. But for Leo, this is just the “tip of the spear” in an overall effort to fundamentally change the nature of democracy in America.
+
+#### This is the master planners’ world now. But the story isn’t over. As corruption threatens to destroy democracy, the
+
+#### critical question remains: What will it take to forge a different path?
+
+Figure 10. Business and tax records revealed a secret $1.6 billion transfer from a Chicago businessman to a trust controlled by Leonard Leo, who was helping fund a powerful dark money network in politics and the
+courts. (IRS; Illinois Secretary of State.)
+
+#### Fred Wertheimer has spent decades fighting to limit the influence of money in politics, a crusade he describes as both essential and unending. Recalling the words of his old boss, John Gardner, who founded Common Cause, Wertheimer explains: “Reform is not for the short-winded; it’s a long, long battle. This is about power. And money equals power. And money is never going to give up on trying to exercise power. So what you can do is curb it. You can limit it. But then you have to be ready to fight again.”19
+
+#### Wertheimer was one of the key figures at Common Cause in the early 1970s, helping to push for post-Watergate reforms that shamed President Richard Nixon into signing the first significant campaign finance legislation in half a century. His perspective reflects the cyclical nature of reform efforts: “It’s a continuum,” he says. “You fight for as long as you’re in the game, and then someone comes along and picks up, and they do the fighting.”
+
+#### Wertheimer’s view underscores a pattern that has repeated throughout American history: corruption leads to scandal, scandal sparks backlash, and backlash brings reform—at least for a time. Going back to the Gilded Age, this scandal/backlash/reform cycle has played out in America for more than a century. In the mid-1970s, as the Watergate-era reforms ushered in new rules promoting transparency and accountability, the cultural mood was captured by a film that seemed to foresee the master planners’ endgame.20
+
+#### Network, Sidney Lumet’s 1976 satire of the TV news industry, offered a sardonic vision of a world dominated by corporate power. In one pivotal scene, a corporate executive lectures a disgruntled newscaster, delivering a monologue that feels chillingly prophetic:
+
+#### “There is no America. There is no democracy. There is only IBM and ITT and AT&T and Dupont, Dow, Union Carbide, and Exxon,” the executive says, cynically. “Those are the nations of the world today. The world is a college of corporations inexorably determined by the immutable bylaws of business. The world is a business, Mr. Beale.”
+
+#### Howard Beale, the film’s central figure, had become a folk hero by broadcasting harsh truths to a disillusioned public. In one famous on-air tirade, he declares: “We know things are bad—worse than bad. They’re crazy! It’s like everything everywhere is going crazy, so we don’t go out anymore!”
+
+#### Beale’s call to action resonates as powerfully today as it did nearly fifty years ago. “You’ve got to get mad,” he urges his viewers. “You’ve got to say, ‘I’m a human being, God damn it! My life has value!’” He exhorts people to fling open their windows and scream: “I’m mad as hell, and I’m not going to take this anymore!”
+
+#### In the movie, ordinary people take up the call, collectively shouting out their
+
+#### windows into the night. The scene is a vivid depiction of anger transformed into collective resistance.
+
+#### In 2025, it’s tempting to believe we’re on the verge of the “backlash and reform” phase of the cycle Wertheimer described—the “mad as hell” stage where a new generation rises to challenge the entrenched systems of corruption and inequality. Just as the Progressive Era reformers of the early twentieth century and the post-Watergate activists of the 1970s fought their battles, perhaps the current moment will inspire another wave of transformative change.
+
+#### But here in real life, screaming out your window—or giving in to despair— won’t be enough to stop the master planners. These are people who see democracy as an obstacle to be dismantled, a system to be gamed in service of their ultimate vision: a world where power is consolidated in their hands, and society operates as one giant business they control.
+
+#### Real change requires more than catharsis. It demands sustained, strategic action from those willing to confront the problem head-on. Fortunately, the fight never ended for some—and for many others, it’s just getting started.
+
+#### The fight for transparency in campaign finance—the idea that citizens should at least know who is spending money to influence elections— continues to face intense resistance.
+
+#### Following Citizens United, Senator Sheldon Whitehouse introduced the DISCLOSE Act, a bill designed to shine a light on political spending by requiring any group spending more than $10,000 to trace contributions back to their original sources.21 “At that level, you really are buying influence,” Whitehouse argued. “It’s important for voters to understand what’s going on in their political world around them.”
+
+#### Democrats rallied behind the DISCLOSE Act, which passed the House in June 2010 but was blocked by a Republican filibuster in the Senate. Mitch McConnell, leading the opposition, dismissed the bill as partisan overreach. “This DISCLOSE Act is not about reform,” McConnell claimed. “It’s nothing more than Democrats sitting behind closed doors with special interests, choosing which favored groups they want to speak in the 2010 elections.”22
+
+#### Subsequent efforts to pass updated versions of the DISCLOSE Act also failed, most recently, in 2022.23
+
+#### Despite years of advocacy, progress has been incremental. Whitehouse and reform advocates have managed to unite every Senate Democrat in support of the bill, a significant milestone. But Senate Republicans, led by Mitch McConnell, remain steadfast in their obstruction, blocking the legislation and
+
+#### shielding the identities of wealthy donors funneling vast sums into dark money organizations.24
+
+#### The impact of dark money has metastasized beyond Washington, seeping into state and local elections. In places like Tucson, Denver, and Kansas City, voters are asking who is behind the influx of money flooding school board and county commissioner races. Billionaires and corporations are no longer content to influence presidential elections; they’re targeting local contests to shape policy at every level. Even the most thorough state campaign finance laws often hit dead ends due to loopholes meticulously crafted by the master planners. A Lansing, Michigan, news outlet summed it up: “Just who is pumping money into secret nonprofit funds linked to Lansing lawmakers? And what’s all that money being used for?”25
+
+#### Yet there are glimmers of hope, especially at the state level. Arizona, a longtime swing state and home to campaign finance reform
+
+#### champion John McCain, has seen its fair share of dark money battles.26 Utility companies have used secret funds to sway elections for regulatory officials,27
+
+#### and in 2016, Arizona Republicans gutted the state’s campaign spending disclosure law.28 Fed up, former Phoenix mayor and Arizona Attorney General Terry Goddard decided to fight back.
+
+#### “Arizona voters have a right to know who is contributing to political advertising,” Goddard declared. “So much of what we’re seeing on TV and in our mailboxes is mysterious—paid for by some coward who’s hiding and doesn’t want us to know who’s funding these ads.”29
+
+#### Goddard spearheaded a ballot initiative to impose dark-money disclosure laws, requiring organizations running political ads to reveal their major donors. The campaign faced repeated setbacks: a legal challenge derailed the effort in 2018, the COVID-19 pandemic halted progress in 2020, and another lawsuit in 2022 sought to block the initiative from appearing on the ballot.30 Arizona’s Republican Governor Doug Ducey even filed a brief arguing that Arizona voters shouldn’t be allowed to vote on the issue.
+
+#### Despite these obstacles, Goddard’s campaign prevailed. Proposition 211 made it to the ballot, requiring any group spending more than $5,000 on political ads to disclose its donors. When the votes were tallied, Prop 211 passed with overwhelming bipartisan support—72 percent of voters approved the measure.31
+
+#### But, as expected, the master planners struck back. Americans for Prosperity (AFP), the Koch network’s flagship dark money group, filed a lawsuit to block the initiative’s implementation.32 Resurrecting the same arguments they made in
+
+#### their Supreme Court case challenging California’s disclosure rules (see Chapter 9), AFP claimed that transparency violated their donors’ First Amendment rights. because such requirements opened them up to similar persecution as faced by NAACP workers in the South.33
+
+#### For now, AFP’s efforts have been thwarted by lower courts, but they are appealing the case, aiming to push it up to the Roberts Supreme Court.34 As Goddard noted in a local interview, the stakes couldn’t be higher. “The Koch organization and the folks behind Americans for Prosperity are the biggest dogs on the porch, and they want to protect their franchise, which is a dark money franchise,” he said. “They think they can ultimately weasel this up to the Supreme Court.”35
+
+#### While the outcome remains uncertain, Arizona’s fight highlights how states and cities can resist the tide of corruption even as Washington gridlocks.36
+
+#### Transparency, however, is not a panacea. Deterrence—through criminal prosecutions—is also essential. Here, too, there are some signs of progress.
+
+#### Despite the Supreme Court’s efforts to weaken federal bribery laws, some prosecutors continue to pursue high-profile corruption cases. Former New Jersey Senator Bob Menendez was convicted of bribery and obstruction after federal agents discovered over $480,000 in cash as well as gold bars hidden in his home. In January 2025, he was sentenced to eleven years in prison.37
+
+#### Despite the Roberts court’s narrowing of anti-corruption statutes, some accountability is still possible. In fact, public corruption prosecutions have ticked up slightly in the past year—a modest but encouraging sign.38
+
+#### Yet the long-term challenge remains: any convictions from these cases can be appealed to the same Supreme Court that has repeatedly undercut federal bribery laws. Addressing this systemic vulnerability requires bold reforms, including expanding the court and instituting term limits for justices.
+
+#### Both ideas are gaining traction. Congressional Democrats have introduced legislation to expand the court from nine justices to thirteen.39 Proposals to impose term limits on Supreme Court justices are also on the table.40 Polls show that a majority of Americans support both measures, but Senate Republicans continue to block any meaningful reform.41
+
+#### The ultimate reform to curb the influence of big money in politics would be overturning Citizens United. But given the current composition of the Supreme Court, that prospect is unlikely—at least through judicial means.
+
+#### There is, however, another path: a constitutional amendment. Since 2014, lawmakers in Congress have introduced measures to formally overturn Citizens
+
+#### United.42
+
+#### Admittedly, amending the Constitution is an arduous process. It requires approval from thirty-eight states. But this effort isn’t starting from scratch. Already, twenty-two states and 842 local governments have called for such an amendment through ballot measures or legislative resolutions43—including Republican-leaning states like Montana and West Virginia.44
+
+#### Even so, the odds of achieving a constitutional amendment are slim. That leaves us with another option: public financing of elections.
+
+#### While the term “public financing of elections” might sound abstract or overly technical, the concept is straightforward. Essentially, the government provides funding to candidates so they can run competitive campaigns without relying on private donations, which often come with strings attached.45 These systems typically involve mechanisms like matching funds, which incentivize candidates to seek small-dollar contributions—say, $250 or less—instead of chasing large donations from wealthy donors.
+
+#### Another model is the “Clean Elections” program used in states like Arizona, Connecticut, and Maine. In these programs, candidates can receive full public funding for their campaigns if they agree to abide by an overall spending limit.46
+
+#### These ideas aren’t radical or new. Teddy Roosevelt first proposed public financing in an annual message to Congress in 1907. If Congress allocated public funds to cover the legitimate expenses of major political parties, “[t]he need for collecting large campaign funds would vanish,” Roosevelt said.47 He also advocated for limits on individual donations to prevent undue influence. After Watergate, the U.S. implemented a public financing system for presidential elections, which remained effective for decades. Today, similar systems exist in fourteen states—including swing states like Arizona, Maine, and Florida—as well as in many cities.48 In the past fifty years, Congress nearly passed public financing for all congressional and Senate races three times.
+
+#### In 1973, the Senate passed a public financing bill, but it was blocked by the Democratic-controlled House.49
+
+#### In 1992, Congress passed another public financing bill, but Mitch McConnell, then a rising Republican powerbroker, derided it as a partisan scheme. “This measure benefits the Democratic Party at the expense of the Republican Party,” McConnell said, predicting a presidential veto.50 President George H.W. Bush followed through, vetoing the bill, and McConnell’s allies sustained it.51
+
+#### More recently, the House passed a public financing measure as part of a
+
+#### larger reform bill, but once again, McConnell blocked it in the Senate.52
+
+#### Critics often frame public financing as wasteful spending—a “taxpayer handout to politicians.” A Florida news segment once declared, “The attack ad you don’t like? There’s a chance you helped pay for it. Florida taxpayers have already shelled out more than $5 million this year to publicly finance political campaigns.”53
+
+#### On the surface, that sounds outrageous. But think about it more deeply: the current system is far worse.
+
+#### If the public doesn’t finance campaigns, someone else will—and that “someone” will have their own interests at heart. Letting billionaires and corporations bankroll every election means letting the master planners buy a government tailored to their priorities, not ours. That’s the system we have now —a privately financed government.
+
+#### A 2014 Princeton study captured this dynamic perfectly: “The preferences of the average American appear to have only a minuscule, near-zero, statistically nonsignificant impact upon public policy.”54 The findings show that in the U.S., the majority of people don’t actually decide policy—when their views clash with economic elites or powerful interest groups, they usually lose, and even when big majorities want change, the system’s built-in bias toward the status quo keeps it from happening.
+
+#### For the master planners, this system is perfect. They love it—so much so that they fiercely oppose any reforms that would loosen their stranglehold on political power.
+
+#### Which raises an important question: If reforms like disclosure laws, public financing, and tougher anti-corruption enforcement are so obvious and necessary, why haven’t they been implemented? Is it just the master planners’ obstruction, or is something deeper at play?
+
+# Biden Our Time
+
+#### David Sirota
+
+#### In August 2024, American politics was on fire. Donald Trump had just survived an assassination attempt. Joe Biden had dropped out of the presidential race. Kamala Harris had been installed at the top of the Democratic ticket. It was chaos—a level of madness that begged to be witnessed firsthand. So I packed my bag and decided to dive into the circus at the Democratic National Convention in Chicago.
+
+#### It was a last-minute trip, and I hadn’t planned much. But somehow, I managed to wrangle my way into places you don’t see on TV—the private parties where the real conversations happen. One night, I found myself at a “clean power happy hour” in Chicago’s Salt Shed concert venue. The headliner? Wyclef Jean. The sponsors? A roster of climate groups and, curiously, corporate logos—the American Gas Association and the Nuclear Energy Institute—that made me wonder how “clean” this power really was.
+
+#### I know Chicago pretty well. I went to college just outside of it, worked my first newspaper job there, attended my first Democratic convention in the city back in 1996, and cut my political teeth working against a billionaire candidate in a congressional race on the north side of the city. It’s also where I got my first taste of Chicago’s infamous political culture.
+
+#### When people hear “Chicago-style corruption,” they picture smoke-filled back rooms and shady envelopes stuffed with cash. But here’s the thing— corruption today isn’t that messy. The first thing I noticed at the 2024 DNC was how polished and professionalized corruption has become. It’s not dirty envelopes anymore; it’s glossy sponsorships, corporate branding, and systematic influence. It’s mechanized, sanitized, corporatized—a new immersive style of corruption for the master-planners’ era. And it’s all right there for anyone willing to look.
+
+#### At the DNC, corporations didn’t just sponsor events—they owned them. The Democratic cloakroom was “brought to you by Microsoft.” Giant billboards thanked FedEx, Reynolds (yes, the tobacco company), and Blue Cross Blue Shield, among others.
+
+#### One event, ironically billed as celebrating “Power to the Voters,” featured a
+
+#### sign listing sponsors like the Edison Electric Institute—a notorious utility lobby that has spent decades blocking legal limits on CO2 emissions from power plants and spreading misinformation about CO2 emissions.1 This wasn’t about power to voters; it was about consolidating power for corporations and billionaires—the real stakeholders in modern American politics. This is the result of deregulated campaign finance and legalized corruption: a system where elections are openly bought, not won.
+
+#### What struck me most wasn’t just how pervasive this corporate dominance was—it was also how normal it felt. Standing there, sipping an overpriced IPA, I realized nobody seemed bothered. Not the politicians, not the donors, not even me. That’s how corruption gets normalized. You stop noticing it. And if you point it out, you’re the crazy one.
+
+#### For a moment, I wondered if maybe I was the crazy one. Maybe it would be easier to just let go, stop caring, and surrender to the master planners’ matrix. Ignorance is bliss, right?
+
+#### But not everyone at the DNC had succumbed to that blissful ignorance. As I sulked around the convention hall one night, I heard a voice I hadn’t expected to hear. A voice I remembered from those prescription drug bus trips I took years ago. Bernie Sanders.
+
+#### “We need an economy that works for all of us, not just the billionaire class,” Sanders bellowed. “Get big money out of our political process!”2 His words were aimed directly at the lobbyists and donors in the luxury boxes above the convention floor.
+
+#### “Billionaires in both parties should not be able to buy elections, including primary elections,” he declared.
+
+#### And then, finally, a solution: “For the sake of our democracy, we must overturn the disastrous Citizens United Supreme Court decision and move toward public funding of elections!”
+
+#### For a minute, I felt a foreign, strange feeling I hadn’t experienced in a long time. Was it “Joy!” as the Harris campaign catchphrase promised?
+
+#### No, not exactly. Maybe it was closer to Barack Obama’s brand of “Hope”—“Hope in the face of difficulty, hope in the face of uncertainty.”
+
+#### But the feeling didn’t last. The next speaker after Bernie was J.B. Pritzker, who spent $350 million of his Hyatt Hotel fortune to buy the Illinois governorship. Minutes after Sanders decried billionaires buying elections, Pritzker delivered the line of the night: “Donald Trump thinks we should trust him on the economy because he claims to be very rich. But take it from an actual billionaire—Trump is rich in only one thing: stupidity!”3
+
+#### The crowd roared with applause at the billionaire reference. My brief hope evaporated.
+
+#### Pritzker’s speech was followed by remarks from a former credit card industry CEO reassuring donors that Kamala Harris “understands that government must work in partnership with the business community.”4 Then Kamala Harris’s brother-in-law, Uber executive Tony West, delivered vague promises that she would “fight for you.”5
+
+#### What was happening on the Republican side wasn’t better. The richest man in the world had launched a super PAC to bankroll Trump’s reelection campaign, promising the billionaire even more government contracts if he won.6 Trump couldn’t stop himself from bragging at a rally: “I love Elon Musk. Do we love him? I love him. He gives me $45 million a month!”7
+
+#### When I left the convention center in Chicago, I departed not with joy or hope, but with questions. Which future will we choose at this fork in the road? Will it be a future where we’ve had enough and fight to reduce the power of billionaires, corporations, and master planners? Or will it be a future where we keep cheering for the billionaires as the master plan continues?
+
+#### In the spring of 2005—just before the Supreme Court of Sandra Day O’Connor and William Rehnquist transformed into the court of John Roberts and Samuel Alito—the writer David Foster Wallace delivered a now-famous commencement speech.8
+
+#### “There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says, ‘Morning, boys. How’s the water?’ And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes, ‘What the hell is water?’” Wallace said.
+
+#### The parable hit me hard when I first heard it. Back then, I was in my post-D.C. phase of disillusionment after five years swimming in the swamp of Washington, as I mentioned in the first chapter. The story stuck with me because it spoke to something fundamental about our world: as Wallace explained, it’s about “simple awareness; awareness of what is so real and essential, so hidden in plain sight all around us, all the time, that we have to keep reminding ourselves over and over: This is water. This is water.”
+
+#### I’ve been thinking about that speech a lot as we’ve reported this book over the last few years. It’s on my mind because corruption is our society’s water. It surrounds us so completely, so constantly, that it’s easy to forget it’s even there.
+
+#### That’s why, when I heard Governor Pritzker’s line about being “an actual
+
+#### billionaire” at the 2024 Democratic Convention—and the crowd’s wild cheering —it made me want to walk straight into Lake Michigan and never come back. If you’ve read this far into this book, I’m guessing you’ve felt the same way at some point.
+
+#### But my bigger worry is that the master planners have done something more insidious than flooding the system with money: they’ve captured our very psychology. If corruption is the water in Wallace’s speech, we’re becoming a society that vilifies anyone who dares mention it.
+
+#### I saw the beginnings of this trend in 2020, during Bernie Sanders’s presidential campaign, when I worked as his speechwriter. In the lead-up to the Iowa caucuses, all the campaigns were doing what campaigns do— drawing contrasts between their candidates and their opponents. Our team enlisted Zephyr Teachout, the law professor and anti-corruption advocate you heard from in Chapter 9, to publish an op-ed about Joe Biden.9 The piece detailed Biden’s well-documented ties to corporate donors and the policies he’d pushed that helped those donors at the expense of working Americans.10
+
+#### The op-ed was factual and blunt. Teachout wrote: “Middle-class Joe has perfected the art of taking big contributions, then representing his corporate donors at the cost of middle- and working-class Americans.” It noted Biden’s history with MBNA, the credit card company that earned him the nickname “The Senator from MBNA.”11 In a 2008 interview, NBC’s Tom Brokaw had pressed Biden on this very topic: “You received $214,000 in campaign contributions from the company and its employees while fighting for a bankruptcy bill they wanted.”12
+
+#### But this wasn’t 1973 or 2008, when calling out corruption was still considered newsworthy. By 2020, the master planners had successfully normalized pay-to-play politics, so when Teachout’s op-ed came out, it wasn’t Biden who faced a firestorm—it was Teachout and Bernie.
+
+#### The media quickly framed it as an attack. MSNBC’s Katy Tur grilled Bernie’s press secretary, Briahna Joy Gray: “Does the campaign believe Joe Biden has a corruption problem? What the article is describing is the fact that Joe Biden has made deals with Republicans . . . but is that corrupt?”13
+
+#### No one disputed the facts in Teachout’s piece. The problem, it seemed, was that calling corruption “corruption” was too rude, too impolite for modern politics. The Biden campaign capitalized on this framing, accusing Bernie of fostering a “toxic” environment, echoing criticism from his 2016 run against Hillary Clinton.
+
+#### This was Bernie’s moment—his chance to have a Howard Beale–style
+
+#### primal scream, to elevate pay-to-play corruption into the centerpiece of the presidential race. Instead, he went on national TV and apologized. “It is absolutely not my view that Joe is corrupt in any way, and I’m sorry that that op-ed appeared,” he said.14
+
+#### I was crushed. A lot of us were crushed. If even Bernie Sanders—the face of the anti-Citizens United movement—couldn’t call corruption by its name, who could?
+
+#### Of course, the political class and press corps collectively exhaled with relief when Bernie’s apology reinforced the norms of “civil discourse.” Hooray for civility! I’m sure the master planners were thrilled that the other c-word— corruption—had been effectively banished from the political lexicon.
+
+#### But the effort to turn corruption into an unspeakable word didn’t stop there. It escalated.
+
+#### Two years later, in the 2022 Texas gubernatorial race, Democratic candidate Beto O’Rourke became the next high-profile figure to find himself under fire for calling out corruption. A central theme of O’Rourke’s campaign was accountability for the deadly 2021 winter power outages in Texas, which left millions freezing and without electricity during an unprecedented cold snap.15
+
+#### O’Rourke placed the blame squarely on Governor Greg Abbott and pointed to how natural gas companies made billions of dollars in profit during the crisis.
+
+#### One company, in particular, was at the center of O’Rourke’s criticism: Energy Transfer Partners, a Dallas-based energy giant that raked in $2.4 billion in profit during the disaster. O’Rourke noted that the company’s CEO, Kelcy Warren, had donated $1 million to Abbott’s campaign shortly thereafter. All of that was factual.
+
+#### But facts didn’t stop Warren from suing O’Rourke for defamation, demanding $1 million in damages.16 In his sixteen-page lawsuit, Warren claimed that O’Rourke’s comments were not just the typical generalized accusations of corruption that get thrown around in politics. Instead, Warren argued, O’Rourke was making specific allegations about “a particular person, a particular campaign contribution . . . and a particular purported favor done in exchange for the contribution.”
+
+#### The case was ultimately dismissed a year later,17 but the damage was already done. You might think, “No harm, no foul,” right? Wrong. This wasn’t just about trying to win a lawsuit—it was about sending a message. The Beto case took the trend that started with Bernie’s 2020 apology and dialed it up: calling out corruption wouldn’t just get you criticized—it could get you sued by a billionaire. Even if you win, you might end up buried in legal bills, exhausted,
+
+#### and silenced. And the attempt to erase corruption from political discourse is still
+
+#### escalating. In early 2024, after failing to advance in California’s U.S. Senate race, Congresswoman Katie Porter claimed that billionaires had rigged the election against her. In a social media post thanking her supporters, she wrote, “We had the establishment running scared— withstanding 3 to 1 in TV spending and an onslaught of billionaires spending millions to rig this election.”18
+
+#### Porter wasn’t wrong. A super PAC funded by crypto billionaires had spent $10 million against her.19 She was massively outspent, and being outspent often sways elections.20
+
+#### But simply stating the obvious set off a firestorm. Porter faced a backlash, not just from her Republican critics, but from her own party. Fellow Democrats piled on, outraged over her use of the phrase “rig the election.”21
+
+#### Porter clarified that she wasn’t pulling a Trump and alleging voter fraud or denying the results. “I said ‘rigged by billionaires’ and our politics are—in fact— manipulated by big dark money,” Porter said. “Defending democracy means calling that out. At no time have I ever undermined the vote count and election process in CA, which are beyond reproach.”22 But that didn’t matter. The media, supposedly the public’s watchdog against corruption, turned its guns on her.23 Headlines slammed Porter, and CNN’s Jake Tapper joined the dogpile. “Let me just state,” Tapper chuckled, “that’s . . . not what rigging an election is.”24
+
+#### The whole thing reeked of a deliberate attempt to control the narrative, as Porter’s Democratic opponent, Adam Schiff, made clear.
+
+#### “No Democrat should be using that language,” he scolded. “The Democratic Party quickly said, ‘Hey, you don’t go there.’”
+
+#### It was slimy, grotesque—and it worked. Porter reiterated that “big money does influence our elections. Outcomes are manipulated and distorted. When you have people coming in, spending millions and millions of dollars at the last minute.”25
+
+#### But ultimately, she backtracked and apologized. “I wish I had chosen a different word,” she said.
+
+#### Yeah . . . I have an additional wish. I wish we could talk honestly about corruption, rather than apologizing or tiptoeing around it every time someone gets offended.
+
+#### Because if we can’t talk about it—if we can’t name it—we’ll never rein it in. We’ll never implement the reforms we’ve discussed. And the master planners’ heist will go on forever.
+
+#### In the spring of 2022, President Joe Biden held a White House press conference to discuss a light and breezy topic: the future of American democracy.
+
+#### “I want to speak with you very briefly about a vote in Congress this week that addresses a serious problem facing our democracy, in my view,” he began.
+
+#### Biden then pointed to recent bombshell reporting from journalists at The Lever, ProPublica, and The New York Times. The exposé revealed the largest dark money transfer in American history—a staggering $1.6 billion funneled into the Federalist Society leader Leonard Leo’s network, as we discussed earlier in this book. “The public only found out about this $1.6 billion transfer because someone tipped off some of your reporters,” Biden said. “Otherwise, we still wouldn’t know about it. But now we know, and there’s something we can do about it.”26
+
+#### Biden used the moment to advocate for the DISCLOSE Act, legislation that would force the disclosure of the dark money currently drowning Washington.
+
+#### “Get it on my desk right away,” he urged, his tone resolute. He even invoked John McCain, the Republican senator who famously led
+
+#### campaign finance reform efforts in the aftermath of Watergate. “Getting dark money out of our politics has been a bipartisan issue in the
+
+#### past,” Biden said. “My deceased friend, John McCain, spent a lot of time fighting for campaign finance reform. For him, it was a matter of fundamental fairness. And he was 100 percent right about that. Ultimately, this comes down to public trust. Dark money erodes public trust. We need to protect public trust.”
+
+#### When this happened, a lot of people contacted me to congratulate The Lever team for the reporting that Biden had cited. But honestly? I kind of rolled my eyes at the speech. I had made up my mind about Joe Biden a long time ago. For my entire adult life, I had viewed him as Mr. Corruption—the Senator from MBNA who had been the credit card industry’s closest ally in Washington.
+
+#### But as we wrapped up two years of research for this book, I stumbled across some old tape that stopped me in my tracks. It forced me to confront difficult questions I couldn’t shake.
+
+#### It was 1973. Watergate was raging, the Powell Memo was gaining traction, and a young Joe Biden was at the Cleveland City Club delivering one of his first speeches as a U.S. Senator. At just twenty-nine years old, Biden had somehow pulled off an unthinkable upset, defeating a two-term incumbent in Delaware.27
+
+#### He had arrived on the national stage, and now he was telling a room full of powerbrokers, donors, and elites something they probably didn’t want to hear.
+
+#### “Inherent in the system that we have to run for elective office is corruption
+
+#### within the law,” Biden declared.28
+
+#### His words weren’t vague platitudes—they were a candid indictment of the role money plays in politics. “We’re not going to begin to make an encroachment on moral wrongdoing in government until we elect men and women to office who are their own men and women,” he continued, “unfettered by influence from interest groups, whether they be business or labor, until they don’t have to come back to you and beg for money to run.”
+
+#### Biden spoke about his own long-shot campaign, reflecting on how he had managed to win without the backing of major donors. “When I started, if big corporations, big labor, or big wealthy individuals—or big anybody—came along and said, ‘Here, Biden, we want to contribute $20,000 to you,’ I probably would have taken it,” he admitted.
+
+#### But he didn’t take it, and that experience informed his belief in a clear solution: public financing of elections. Later that same year, Biden helped add a public financing provision to a campaign finance reform bill that passed the Senate (though it ultimately died in the House).29 At a PBS event shortly after, Biden elaborated on the corrosive influence of money in politics.30
+
+#### “The system does produce corruption,” he said. “I think implicit in the system is corruption. When, in fact, whether or not you can run for public office —and it costs a great deal of money to run for the United States Senate, even for a small state like Delaware—you have to go to those people who have money. They always want something.”
+
+#### Biden warned that this dynamic threatened to transform America into an oligarchy, in which a handful of wealthy donors controlled the entire political process. He called it “degrading” to have to seek money from individuals who know they hold the keys to your campaign’s survival. “The question is,” Biden asked, “how long is the American public going to put up with a small group of men and organizations determining the political process?”
+
+#### I didn’t expect to end this book thinking about Joe Biden. But hearing this tape decades later, I couldn’t help but wonder: What happened to that Joe Biden?
+
+#### Biden’s career has spanned the entire fifty-year history of the master plan. Hearing him in the 1970s talk about corruption as an intrinsic feature of our political system lends a layer of authenticity to his White House speech about the DISCLOSE Act. It’s a reminder that Biden hasn’t just been a witness to this era—he’s been both a participant and, at times, a critic.
+
+#### But it also raises a deeper question: How does a politician who can speak such blunt and taboo truths about corruption also manage to swim so
+
+#### comfortably within that corrupt system for so long? What does that contradiction mean?
+
+#### What does it mean that there’s the Joe Biden who said in the 1970s that the system “does produce corruption,” and fifty years later, the Joe Biden who stood at a White House podium and lamented, “There’s too much money that flows in the shadows to influence our elections”?31
+
+#### And yet, there’s also the Joe Biden whose son Hunter got millions in shady consulting fees from companies looking for access. The same Joe Biden who received hundreds of thousands of dollars in campaign contributions from companies whose legislative priorities he often supported.
+
+#### And there’s the Joe Biden who, in 2019, reassured big donors at a private fundraiser that “nobody’s standard of living will change, nothing will fundamentally change” under his presidency.32
+
+#### What does it all mean? The cynic in me says it means nothing more than that Biden is a career
+
+#### politician who occasionally says the right things about corruption to score points but ultimately got swallowed by the system. Once the Senator from MBNA, always the Senator from MBNA.
+
+#### And maybe that’s true. I’m not here to convince you what to think about Joe Biden.
+
+#### But maybe two things can be true at the same time. Maybe Biden’s contradictions reveal a bigger truth—not just about him, but
+
+#### about the system and our responsibility to force change. Maybe Biden is the older fish in David Foster Wallace’s parable, asking,
+
+#### “How’s the water?” His story suggests that even people inside the system can see the corruption all around them, lament how it’s destroying the country, and genuinely want to fix it—but they can’t do it alone. They can’t do it if the rest of us keep swimming along, silently accepting it all, not even noticing the water.
+
+#### It’s on us to stop giving politicians a pass when they sell out and to stop letting them off the hook just because we like them or voted for them. It’s on us to create enough pressure—enough righteous anger—to force change.
+
+#### Biden himself seemed to acknowledge this dynamic in a speech he gave in 2015, late in the Obama administration. Speaking to a room full of young people, he posed a rhetorical question: “If you could do only one single thing . . . to increase fairness, equity, and opportunity, what would it be?”33
+
+#### He didn’t hesitate to answer his own question in what sounded like a plea— almost a cry for help—from deep within the swamp.
+
+#### “Get private money out of the political process,” he said.
+
+# Afterword
+
+#### We released the final episode of The Master Plan podcast— Chapter 11 in this book—a week before the election that returned Donald Trump to the presidency. If the 1970s were a turning point toward cleaning up political corruption with laws like FECA, the past months have felt like a grim bookend, as the last remaining guardrails against corruption are dismantled. The billionaire influence, institutional collapse, and unchecked grifting that have unfolded in Trump 2.0 are not just political chaos; they are the logical conclusion of a fifty-year campaign to legalize elite corruption in American public life.
+
+#### As always, we continued following the money. The freewheeling excesses of the 2024 political campaigns would have been an unimaginable delight to the CREEP operatives who labored in secret to secure money for Nixon’s reelection effort. Today’s equivalent to those undisclosed briefcases full of cash is what we now call dark money: spending funneled through shell companies and nonprofits that aren’t legally required to name their contributors. Since Citizens United, these organizations have injected at least $4.3 billion into federal elections, according to the Brennan Center. In 2024 alone, dark money groups spent a record-shattering $1.9 billion, mostly funneled through Super PACs, to influence races across the country.
+
+#### In terms of total campaign funding, Kamala Harris racked up almost $2 billion, with nearly half coming from outside groups. Trump raised less overall, but his campaign relied more heavily on mega-donors. Over two-thirds of his $1.4 billion in fundraising came from Super PACs and independent committees.
+
+#### The biggest donor by far was Elon Musk. Rather than operating in the shadows like the old guard of wealthy funders, Musk practically live-streamed the $291 million that he poured into backing Trump and Republican candidates. Close behind was Timothy Mellon, heir to the Mellon fortune and a political donor in the mold of his relative, Richard Mellon Scaife. (Like other hard-right ideologues that we detailed in Chapter 4, Scaife’s seed funding of conservative think tanks helped establish the intellectual and legal foundation for this moment.)
+
+#### 2024 was also a banner year for lobbyists, with spending reaching a new high of $4.5 billion. Helping lead the charge was the U.S. Chamber of Commerce and its subsidiary groups, like the Institute for Legal Reform, which spent more than $76 million advancing the interests of its corporate members. Once Trump
+
+#### secured a second term, however, personalized influence-peddling superseded traditional lobbying, as CEOs took pilgrimages to Mar-a-Lago seeking favorable treatment on regulations, mergers, and federal contracts. The timing was perfect: just months earlier, a 6–3 Supreme Court ruling struck down the Chevron doctrine, hobbling the power of federal agencies to implement regulations and opening a new world of opportunity to rewrite the rules.
+
+#### The January 20 inauguration featured a made-for-TV lineup of Silicon Valley billionaires flanking Trump—including Musk, Meta’s Mark Zuckerberg, Amazon’s Jeff Bezos, and Google CEO Sundar Pichai—in a spectacle that left little doubt about whose interests the new administration would serve. Trump’s cabinet picks completed the scene: a motley mix of media personalities, vapid loyalists, corporate lobbyists, and industry CEOs, all now charged with overseeing the very institutions designed to hold them accountable.
+
+#### Since returning to the White House, Trump has built a crypto-fueled pay-to-play machine that only a former casino owner could love. The crypto industry injected more than 17 million dollars into a pro-Trump PAC and an inauguration fund, and in return, the man who once called crypto “a scam” swiftly rolled back Biden-era regulations. His eponymous meme coin, $TRUMP, has generated hundreds of millions in trading fees for Trump’s family and allies. Corporations have taken the hint: one trucking logistics firm, Freight Technologies, said it would invest in $20 million worth of Trump Coin, in the hopes of gaining an inside track at influencing his tariff policy. Top buyers in the cryptocurrency, who reportedly purchased an estimated $148 million, were rewarded with invites to an “intimate private dinner” with the president at Trump National Golf Course. Meanwhile, a crypto venture founded by Trump and his sons, World Liberty Financial, launched its own stablecoin, which helped finance a $2 billion investment in Binance. The deal effectively gave Trump a cut, just as regulators backed off enforcement actions against the exchange.
+
+#### This emerging crypto empire had ethics experts struggling to name a more egregious example of a president using the office for personal gain—until, perhaps, when Trump accepted a $400 million luxury jet as a gift from Qatar. The Boeing 747 appeared to violate the Constitution’s Foreign Emoluments Clause and it presented a minefield littered with conflicts of interest: Qatar is a lobbying force in the U.S. and the country is a former client of both Attorney General Pam Bondi and the public affairs firm where White House Chief of Staff Susie Wiles previously worked.
+
+#### There is one thing you can say about 2025: the pretense is gone. Corruption is out in the open. Elon Musk candidly acknowledged as much during one of his
+
+#### public, anti-Trump tantrums, which took place after leaving his White House role in late spring. Musk posted on X: “Without me, Trump would have lost the election, Dems would control the House, and the Republicans would be 51-49 in the Senate.”
+
+#### Many journalists fixated on the fallout between the president and his billionaire patron, breathlessly speculating about the drama coming out of D.C. But perhaps the most striking admission came from Musk, saying the quiet part out loud: billionaires now treat American elections like auctions—the more you spend, the more results you can expect.
+
+#### As Trump settled into his second term, it became clear: this was not a drill. The darkest timeline we envisioned in the podcast was coming to fruition. Corruption had not only been normalized—it was now operating like a professional enterprise. In addition to his pardons for participants of the January 6th insurrection, Trump pardoned 60 other people, many of whom were former politicians convicted of corruption. One in five pardons, according to ABC News, went to individuals with financial or political ties to Trump himself.
+
+#### In Chapter 9, we traced how the U.S. Supreme Court, beginning with cases like Skilling and McDonnell, steadily narrowed the scope of federal anti-corruption laws. Today, that task has shifted from the Roberts Court to the executive branch, where the current administration is actively working to co-opt and weaken any institutions tasked with investigating and prosecuting corruption.
+
+#### Trump’s Attorney General Pam Bondi gutted the Justice Department’s Public Integrity Section, which specializes in targeting public corruption, scuttling cases and reassigning staff. Years-long investigations collapsed.
+
+#### Then you have Trump’s directive for the Justice Department to halt investigations under the Foreign Corrupt Practices Act of 1977. Born from post-Watergate revelations of American companies bribing foreign officials, the FCPA became one of the world’s most powerful anti-corruption tools. Within the first six months of Trump’s second term, the DOJ dropped about half of its active cases and reassigned investigators elsewhere. Trump’s executive order criticized the 1977 law as too “overexpansive and unpredictable,” claiming it penalizes American citizens and businesses for “routine business practices in other nations.” For Trump, however, legitimizing political bribery within international business not only helps U.S. firms “compete” in corrupt markets— it also helps insulate his own self-dealing from future accountability.
+
+#### It’s not just about enabling bribery overseas; U.S. politicians at home may now feel safer and emboldened to treat public office as a marketplace for personal gain. In a stunning move, Trump officials forced federal prosecutors to
+
+#### drop the sprawling corruption case against New York City Mayor Eric Adams, which was widely viewed as a political trade to secure his loyalty to Trump. U.S. Attorney Danielle Sassoon, a Republican, resigned in protest, and legal experts compared the incident to Nixon’s Saturday Night Massacre (see Chapter 1).
+
+#### What would the author of the infamous Powell Memo make of all this? On one hand, it’s hard to imagine the genteel Lewis F. Powell embracing someone like Trump—a convicted felon with a record of grift and demagoguery, elected on a wave of anti-elite, populist rage. A steadfast believer in the rule of law, Powell sided with his fellow justices in the 1974 Nixon Tapes case, ruling against the president who appointed him. As a judge, Powell would likely be horrified by Trump’s actions, including the pardons of January 6th rioters and the push for unchecked presidential power.
+
+#### On the other hand, Powell might recognize this moment as the full realization of the vision he first outlined in 1971, his manifesto that captured the imagination of the besieged American businessman. The attacks on universities, the press, and regulatory agencies—and the elevation of “free enterprise” above democratic norms—all echo Powell’s original call to arms. The playbook that began with his 1971 confidential memo has reached its most climactic chapter.
+
+#### Case in point: Project 2025, a policy bible assembled by the Heritage Foundation, reads like the Powell Memo amplified by decades of right-wing infrastructure. Although initially disavowed by Trump during the campaign, the 900-page book is now being systematically implemented by one of its key architects, Russell Vought, whom Trump reappointed as Director of the Office of Management and Budget.
+
+#### The plan’s first target in the federal bureaucracy was independent oversight. Musk’s so-called Department of Government Efficiency (DOGE) quickly moved against congressionally created agencies (e.g., the CFPB, EPA, FTC) to disable their regulatory functions through mass firings, contract cancellations, and the capture of key operational systems.
+
+#### The GOP-controlled Congress of 2025 has effectively become an extension of the president’s will, leaving the courts tasked with holding the line. But the same master planners from Chapters 8 and 9, emboldened by years of wins, are returning to the Supreme Court with a case first filed for then–Senate candidate J.D. Vance. They’re invoking Citizens United’s free speech precedent to try to strike down one of FECA’s last remaining spending limits—this time on political parties. Ongoing efforts in the courts by conservative groups have been reinforced by a White House that appears to relish undermining judicial authority. Meanwhile, the right-wing Supreme Court supermajority has signaled a willingness to sacrifice the power of the judiciary itself in order to advance
+
+#### Trump’s agenda, as evidenced by a June ruling that limits federal judges’ power to issue nationwide injunctions. Together, these forces have reshaped the system and raised alarming questions about whether the courts can still function as a meaningful check on power.
+
+#### In his farewell address, President Biden warned, “Today, an oligarchy is taking shape in America of extreme wealth, power, and influence that literally threatens our entire democracy.”
+
+#### Terms like oligarchy and kleptocracy, once reserved for descriptions of failed foreign states, entered mainstream American political discourse as accurate descriptions of our own political and economic system.
+
+#### That linguistic shift was evident earlier in 2025, when Sen. Bernie Sanders and Rep. Alexandria Ocasio-Cortez launched the Fighting Oligarchy tour, a series of campaign-style events that drew massive crowds. In mid-June, the No Kings protests were attended by an estimated 4 to 6 million people across the country.
+
+#### The pretense is gone. This book cannot say whether we are at the darkest hour, just before dawn,
+
+#### or simply sliding deeper into a new, more overt era of corrupt authoritarianism. History shows that reform comes not from single breakthroughs; it comes from persistent pressure that builds until the time is right. At the time of this writing, efforts to resist the master plan are taking root across the country.
+
+#### In June 2025, the Arizona Democratic Party passed a resolution to ban billionaire and corporate spending in its primaries. Dubbed the “People’s Primary,” it aims to block, as much as legally possible, the use of private wealth to buy influence. Later that month, Bernie Sanders and seven Senate colleagues called on the Democratic National Committee to cut ties with billionaire donors and ban super PACs and dark money in Democratic primaries. “The American people are disgusted with a corrupt political system,” they wrote in a letter to Senate Minority Leader Chuck Schumer and DNC Chair Ken Martin. “They want change. We can make change.”
+
+#### In deep-red Montana, a cross-partisan group of reformers introduced The Montana Plan, a 2026 ballot measure to ban corporate and dark money. The initiative would not regulate spending; it would outright deny corporations the legal power to spend on state elections at all. Advocates believe this novel legal approach aligns with Supreme Court precedent and could offer a new state-by-state strategy to challenge Citizens United.
+
+#### These may seem like long shots. But the same could be said of activists at other critical junctures in American history. Backlashes to corruption have always begun with people who were ignored, mocked, or dismissed and
+
+#### eyerolled—before those people secured landmark achievements. In late June 2025, New York City’s mayoral race saw a stunning upset when
+
+#### 33-year-old State Assembly member Zohran Mamdani defeated Andrew Cuomo in the Democratic primary. As a democratic socialist running on public housing, fare-free transit, and taxing the wealthy, Mamdani surged past the former Governor despite being outspent nearly 4 to 1. The scandal-plagued Cuomo’s (see Chapter 9) attempt at a political comeback was funded by real estate moguls, Wall Street interests, and billionaires like Michael Bloomberg and Bill Ackman. The super PAC backing him, Fix the City, raised a $25 million war chest, making it the largest outside spender in New York City’s election history, and a force behind a blitz of anti-Mamdani attack ads.
+
+#### Mamdani’s win was possible, in part, due to New York City’s public financing program, which matches small-dollar donations, and which in 2024 expanded statewide. He drew the most individual donors of any candidate and quickly reached the program’s $8 million campaign cap. In an interview with The Lever before the vote, Mamdani said the public match was critical for candidates like himself because it “allows for the amplification of the voice of ordinary New Yorkers, as opposed to the billionaires who have grown used to buying our elections.” As we write, Mamdani still faces a general election in November 2025, but his primary has already shown that grassroots campaigns can break through the wall of big money and corruption when the right rules are in place.
+
+#### Time and again, in moments that seemed hopeless, people have risen to rebalance the system. They did not rely on a single scheme devised in a smoke-filled room full of cash, but on countless campaigns and actions that restored accountability and reinvigorated democracy.
+
+#### In his memo more than fifty years ago, Lewis Powell catalyzed a movement by insisting that “business and the enterprise system are in deep trouble, and the hour is late.”
+
+#### Now, it is the system of democracy that is in deep trouble. And the hour is late.
+
+#### But our hour is not yet past.
+
+# Chronology
+
+#### 1907: The Tillman Act becomes the first federal law banning corporate contributions to political campaigns.
+
+#### 1910: The Federal Corrupt Practices Act becomes the first federal law requiring public disclosure of campaign finances.
+
+#### 1922: The Teapot Dome Scandal, a major political bribery scandal involving oil reserves and government officials, is made public.
+
+#### 1924: The Revenue Act introduces tax provisions allowing wealthy donors to bypass limits on charitable deductions.
+
+#### 1925: Amendments to the Federal Corrupt Practices Act expand disclosure rules but lack enforcement mechanisms.
+
+#### 1958: In NAACP v. Alabama, the Supreme Court rules that forced disclosure of NAACP membership lists violates the Fourteenth Amendment.
+
+#### 1959: IRS Rule Change for 501(c)(4) Nonprofits loosens restrictions, allowing nonprofits to engage in some political activity.
+
+#### 1971: Lewis F. Powell Jr. writes Attack on the American Free Enterprise System (August).
+
+#### 1971: Nixon nominates Powell to the Supreme Court (October). 1972: The Federal Election Campaign Act (FECA) is signed into law by Nixon
+
+#### (February). 1972: FECA’s donor disclosure rules take effect (April). 1972: Watergate break-in at the Democratic National Committee headquarters
+
+#### (June). 1972: The Powell Memo is revealed by nationally syndicated columnist Jack
+
+#### Anderson (September). 1972: Nixon is reelected in a landslide (November). 1973: Watergate hearings begin in the U.S. Senate (May). 1973: The U.S. Chamber of Commerce officially endorses the Powell Memo as
+
+#### strategy (November).
+
+#### 1974: Richard Nixon resigns in the wake of Watergate (August). 1974: Amendments to FECA strengthen campaign finance laws, creating the
+
+#### Federal Election Commission. 1976: In Buckley v. Valeo, the Supreme Court rules that spending money on one’s
+
+#### own campaign is a form of protected speech, striking down parts of FECA. 1978: With First National Bank of Boston v. Bellotti, the Supreme Court strikes
+
+#### down state restrictions on corporate political spending. 1982: The Federalist Society is founded, advancing a conservative legal
+
+#### movement. 1987: Robert Bork’s Supreme Court nomination is rejected; Anthony Kennedy
+
+#### is later confirmed. 1989: In the Keating Five scandal, five U.S. senators are accused of improperly
+
+#### intervening on behalf of a savings and loan executive. 1990: In Austin v. Michigan Chamber of Commerce, the Supreme Court upholds
+
+#### limits on corporate political spending. 2002: Bipartisan Campaign Reform Act (McCain-Feingold) restricts soft money
+
+#### donations and corporate-funded political ads. 2003: With McConnell v. FEC, the Supreme Court upholds most of McCain-
+
+#### Feingold’s provisions. 2005: John G. Roberts confirmed as Chief Justice of the U.S. Supreme Court
+
+#### (September). 2005: Harriet Miers withdraws from Supreme Court nomination after
+
+#### conservative opposition (October). 2006: Samuel Alito confirmed to the Supreme Court (January). 2007: With FEC v. Wisconsin Right to Life, the Supreme Court weakens
+
+#### restrictions on corporate-funded election ads. 2010: With Citizens United v. FEC, the Supreme Court overturns restrictions on
+
+#### corporate and union election spending (January). 2010: In Skilling v. United States, the Supreme Court narrows the definition of
+
+#### “honest services fraud,” weakening anti-corruption laws (June). 2014: With McCutcheon v. FEC, the Supreme Court strikes down aggregate limits
+
+#### on individual campaign donations.
+
+#### 2016: In McDonnell v. United States, the Supreme Court overturns former Virginia Gov. Bob McDonnell’s corruption conviction, further narrowing bribery laws.
+
+#### 2020: Amy Coney Barrett is confirmed to the Supreme Court, cementing a 6–3 conservative supermajority alongside Trump appointees Neil Gorsuch and Brett Kavanaugh.
+
+#### 2021: With Americans for Prosperity Foundation v. Bonta, the Supreme Court strikes down California’s nonprofit donor disclosure rule.
+
+#### 2023: The Heritage Foundation publishes Project 2025, outlining a conservative policy agenda for a second Trump term.
+
+#### 2024: With Snyder v. United States, the Supreme Court overturns the fraud conviction of an Indiana mayor, further limiting public corruption prosecutions.
+
+# Cast of Characters
+
+#### Floyd Abrams – First Amendment lawyer who defended corporate political spending in Citizens United.
+
+#### Roger Ailes – Nixon’s media consultant; later the founding CEO of Fox News. Joe Biden – Longtime U.S. senator and U.S. president (2021–2025), central to
+
+#### debates on money in politics. John Bolton – Neoconservative political figure who co-authored a campaign
+
+#### finance booklet and later advised Bush and Trump. Robert Bork – Nixon’s Solicitor General, played a role in the Saturday Night
+
+#### Massacre, later a failed Supreme Court nominee. David Bossie – Conservative activist who led Citizens United’s challenge that
+
+#### dismantled campaign finance limits. James Bopp Jr. – Lawyer who spearheaded efforts to dismantle campaign
+
+#### finance regulations, including Citizens United. James Buckley – Conservative senator whose lawsuit led to a Supreme Court
+
+#### ruling weakening campaign finance laws. William F. Buckley Jr. – Leading conservative intellectual and media figure
+
+#### who championed free-market ideology. George W. Bush – U.S. president (2001–2009), appointed conservative justices
+
+#### and opposed campaign finance restrictions. William J. Baroody Sr. – American Enterprise Institute president who
+
+#### coordinated corporate-backed policy initiatives. John Connally – Nixon’s Treasury Secretary, orchestrated the 1971 milk price-
+
+#### fixing scandal to secure campaign donations. Joseph Coors – Beer magnate who bankrolled right-wing think tanks and legal
+
+#### groups, including the Heritage Foundation. Archibald Cox – Watergate special prosecutor fired by Nixon in the “Saturday
+
+#### Night Massacre.” Walter Cronkite – CBS News anchor whose reporting shaped public
+
+#### perception of Watergate and corporate influence.
+
+#### Harlan Crow – Billionaire and major Republican donor who secretly funded luxury gifts for Clarence Thomas.
+
+#### Barton A. Cummings – Advertising executive who led the Ad Council’s nationwide public service initiative promoting American capitalism.
+
+#### Joseph F. Cullman III – Philip Morris CEO who worked with Powell to fight tobacco regulations.
+
+#### Tom Daschle – Former Senate Democratic leader who opposed Republican judicial nominees before losing re-election.
+
+#### Dennis DeConcini – Arizona senator implicated in the Keating Five scandal for aiding a savings and loan executive.
+
+#### Elizabeth Drew – Journalist who chronicled Nixon’s presidency and the Watergate scandal.
+
+#### John Ehrlichman – Nixon’s top domestic policy advisor, helped cover up Watergate.
+
+#### Sam Ervin – Senator who chaired the Watergate investigation, exposing Nixon’s corruption.
+
+#### Gerald Ford – U.S. president (1974–1977), signed post-Watergate campaign finance reforms but his administration later supported rolling back parts of the law.
+
+#### John Gardner – Founder of Common Cause, led efforts for campaign finance reform after Watergate.
+
+#### Terry Goddard – Former Arizona attorney general who led the push for Prop 211, a landmark dark money disclosure law.
+
+#### Barry Goldwater – Conservative senator and 1964 presidential candidate who helped shape the modern right.
+
+#### Ed Gray – Financial regulator who exposed industry efforts to weaken corporate oversight.
+
+#### H.R. Haldeman – Nixon’s chief of staff, deeply involved in Watergate. Orrin Hatch – Republican senator who championed corporate interests and
+
+#### shaped the conservative judicial landscape. J. Edgar Hoover – Longtime FBI director who kept files on political activists
+
+#### and corresponded with Powell.
+
+#### John A. Howard – Rockford College president and conservative activist who mobilized business leaders to push Powell Memo policies.
+
+#### Lyndon B. Johnson – U.S. president (1963–1969), pushed for campaign finance reform but was deeply tied to big-money politics.
+
+#### Charles Keating Jr. – Financier at the center of the savings and loan crisis, whose donations sparked a major corruption scandal.
+
+#### Charles Koch – Billionaire industrialist who built a vast network of think tanks and advocacy groups to promote radical free-market policies.
+
+#### Leonard Leo – Federalist Society leader who orchestrated the right-wing judicial takeover.
+
+#### G. Gordon Liddy – Nixon operative and CREEP lawyer who planned the Watergate break-in and helped funnel secret corporate donations.
+
+#### John McCain – Arizona senator and campaign finance reform advocate behind McCain-Feingold.
+
+#### Mitch McConnell – Senate Republican leader and longtime opponent of campaign finance laws.
+
+#### Bob McDonnell – Former Virginia governor whose corruption conviction was overturned by the Supreme Court.
+
+#### Harriet Miers – Bush’s failed Supreme Court nominee, criticized for lacking Federalist Society ties.
+
+#### Alan Morrison – Public interest lawyer who argued consumer advocacy cases before the Supreme Court.
+
+#### Ralph Nader – Consumer advocate whose activism against corporate abuses inspired the Powell Memo’s counteroffensive.
+
+#### Richard Nixon – U.S. president (1969–1974), expanded corporate influence in politics before resigning after Watergate.
+
+#### John Merrill Olin – Industrialist who heavily funded legal efforts to reshape the judiciary and deregulate business.
+
+#### Ted Olson – Conservative lawyer who argued Citizens United, expanding corporate election spending rights.
+
+#### Ronald Reagan – U.S. president (1981–1989), accelerated deregulation and pro-business policies.
+
+#### Bernie Sanders – U.S. senator from Vermont, leading progressive voice for campaign finance reform.
+
+#### Richard Mellon Scaife – Billionaire heir who bankrolled right-wing think tanks like Heritage Foundation and Federalist Society.
+
+#### Jay Sekulow – Christian right lawyer who helped Bush place conservative judges on the federal bench.
+
+#### Jeffrey Skilling – Former Enron CEO convicted in a fraud scandal, with his case partially overturned by the Supreme Court.
+
+#### James Snyder – Former Indiana mayor whose fraud conviction was overturned in a Supreme Court ruling that weakened anti-corruption laws.
+
+#### Ken Starr – Prosecutor known for investigating Bill Clinton, later involved in cases supporting corporate-friendly rulings.
+
+#### Jimmy Stewart – Hollywood actor who became a public face for pro-business messaging campaigns.
+
+#### Eugene B. Sydnor Jr. – U.S. Chamber of Commerce leader who helped distribute the Powell Memo.
+
+#### Virginia “Ginni” Thomas – Conservative activist and wife of Justice Clarence Thomas.
+
+#### Fred Wertheimer – Advocate for stricter campaign finance laws, fought against corporate influence in elections.
+
+#### Sheldon Whitehouse – U.S. senator from Rhode Island, outspoken on exposing dark money in politics.
+
+#### William G. Whyte – U.S. Steel lobbyist and chair of the Powell Memo Task Force.
+
+#### Don Willett – Bush administration official who helped place Federalist Society judges on the courts, now a federal judge.
+
+#### Ralph Winter – Conservative law professor who argued against campaign spending limits in Buckley v. Valeo by equating money with speech.
+
+#### Roger Witten – Key legal figure in campaign finance, worked to defend restrictions on corporate political spending.
+
+#### Rose Mary Woods – Nixon’s secretary, infamous for the 18.5-minute Watergate tape gap and for storing Nixon’s secret donor list.
+
+#### SCOTUS
+
+#### Samuel Alito – Justice (2006–present), a key conservative voice behind the ruling that overturned Roe v. Wade.
+
+#### Harry A. Blackmun – Justice (1970–1994), wrote the majority opinion in Roe v. Wade.
+
+#### Neil Gorsuch – Justice (2017–present), Trump appointee and textualist conservative.
+
+#### Brett Kavanaugh – Justice (2018–present), Trump appointee and conservative. As a White House lawyer under George W. Bush, he was a main player in efforts to appoint Federalist Society–aligned judges.
+
+#### Anthony M. Kennedy – Justice (1988–2018), authored the Citizens United ruling, allowing unlimited corporate election spending.
+
+#### Sandra Day O’Connor – Justice (1981–2006), the first woman on the court, a key swing vote.
+
+#### Lewis F. Powell Jr. – Justice (1972–1987), author of the Powell Memo, expanded corporate influence through rulings like Bellotti, which paved the way for Citizens United.
+
+#### William H. Rehnquist – Justice (1972–1986), later Chief Justice (1986– 2005), moved the court in a conservative direction.
+
+#### John G. Roberts, Jr. – Chief Justice (2005–present), shaped key rulings on campaign finance, previously a Reagan administration lawyer and corporate attorney.
+
+#### Antonin Scalia – Justice (1986–2016), a staunch conservative and originalist. Clarence Thomas – Justice (1991–present), known for his deeply conservative
+
+#### rulings.
+
+Figure 11. The U.S. Chamber’s Powell Memo Task Force member list, published in a special November 1973 issue of Washington Report, marking the culmination of the group’s 1972-73 work. See Chapter 3.
+(Northern Illinois University.)
+Figure 12. Seating chart from a 1974 meeting at the U.S. Chamber’s D.C. headquarters—one of several sessions focused on implementing the Powell Memo Task Force’s plan.1 See Chapter 3. (Northern Illinois
+University.)
+
+# Bibliography
+
+#### Baker, Peter. Days of Fire: Bush and Cheney in the White House. Knopf Doubleday Publishing Group, 2014.
+
+#### Binstein, Michael, and Charles Bowden. Trust Me: Charles Keating and the Missing Billions. Random House, 1993.
+
+#### Decker, Jefferson. The Other Rights Revolution: Conservative Lawyers and the Remaking of American Government. Oxford University Press, 2016.
+
+#### Glickman, Lawrence B. Free Enterprise: An American History. Yale University Press, 2019.
+
+#### Hasen, Richard L. “The Untold Drafting History of Buckley v. Valeo.” Loyola-LA Public Law Research Working Paper 2002-15 (2002). papers.ssrn.com/abstract=320828.
+
+#### Hasen, Richard L. “The Nine Lives of Buckley v. Valeo.” In First Amendment Stories (Law Stories), edited by Richard W. Garnett and Andrew Koppelman. Foundation Press, 2011. papers.ssrn.com/sol3/papers.cfm? abstract\_id=1593253.
+
+#### Hollis-Brusky, Amanda. Ideas with Consequences: The Federalist Society and the Conservative Counterrevolution. Oxford: Oxford University Press, 2015.
+
+#### Jeffries, John C. Justice Lewis F. Powell, Jr. C. Scribner’s Sons, 1994. Katz, Alyssa. The Influence Machine: The U.S. Chamber of Commerce and the Corporate
+
+#### Capture of American Life. Random House Publishing Group, 2015. Mayer, Jane. Dark Money: The Hidden History of the Billionaires Behind the Rise of the
+
+#### Radical Right. Knopf Doubleday Publishing Group, 2017. Mutch, Robert. Campaigns, Congress, and Courts: The Making of Federal Campaign
+
+#### Finance Law. Bloomsbury Academic, 1988. Mutch, Robert. Buying the Vote: A History of Campaign Finance Reform. Oxford
+
+#### University Press, 2014. Neuborne, Burt. Campaign Finance Reform & the Constitution: A Critical Look at
+
+#### Buckley v. Valeo. Brennan Center for Justice, 1998. Simon, Donald J. “Beyond Post-Watergate Reform: Putting an End to the Soft
+
+#### Money System.” Journal of Legislation 24, no. 2 (1998): 167. Southworth, Ann. Big Money Unleashed: The Campaign to Deregulate Election Spending.
+
+#### University of Chicago Press, 2024. Teachout, Zephyr. Corruption in America: From Benjamin Franklin’s Snuff Box to
+
+#### Citizens United. Harvard University Press, 2016. Toobin, Jeffrey. The Nine: Inside the Secret World of the Supreme Court. Knopf
+
+#### Doubleday Publishing Group, 2008. Whitehouse, Sheldon, and Jennifer Mueller. The Scheme: How the Right Wing Used
+
+#### Dark Money to Capture the Supreme Court. New Press, 2023. Winkler, Adam. We the Corporations: How American Businesses Won Their Civil Rights.
+
+#### WW Norton, 2018.
+
+# Notes
+
+### Introduction
+
+1. Tom Winter, Sarah Fitzpatrick, Chloe Atkins and Laura Strickler, “Analysis of Hunter Biden’s Hard Drive Shows He, His Firm Took $11 Million from 2013 to 2018,” NBC News, May 19, 2022, nbcnews.com/politics/national-security/analysis-hunter-bidens-hard-drive-shows-firm-took-11-million-20132018-rcna29462. 2. “‘Quid Pro Quo:’ Trump Vowed to Gut Climate Laws in Exchange for $1B from Oil Bosses,” MSNBC, May 10, 2024, youtube.com/watch?v=vImlxYSxq1Q.
+2. The Matrix, directed by Lana Wachowski and Lilly Wachowski, performances by Keanu Reeves, Laurence Fishburne, and Carrie-Anne Moss, Warner Bros., 1999, at 00:24:10. 4. Robert Frank, “American Billionaires Spent a Record $880 Million on the U.S. Midterm Elections,” CNBC News, Nov. 3, 2022, www.cnbc.com/2022/11/03/american-billionaires-spent-a-record-880-million-on-the-us-midterm-elections-.html.
+3. “2020 Campaign Spending Expected to Hit $11 Billion.” CNBC News, October 15, 2020, www.cnbc.com/video/2020/10/15/2020-campaign-spending-expected-to-hit-11-billion.html. 6. “Who Is Barre Seid? Secretive Tycoon Gives Record $1.6 Billion to Fund GOP Takeover of the Courts,” Democracy Now! Aug. 25, 2022, youtube.com/watch?v=TlEmOdmDQR0. (See Chapter 10, Figure 10.)
+4. “Bernie Takes a Bus Ride: Rep. Sanders Is the First Member of Congress to Bring Americans to Canada to Buy Prescription Drugs,” Sanders Institute, July 7, 1999, sandersinstitute.org/event/bernie-takesa-bus-ride-rep-sanders-is-the-first-member-of-congress-to-bring-americans-to-canada-to-buy-prescription-drugs. 8. “WCAX News Report on Vermonters Purchasing Prescription Drugs in Canada – 1999,” WCAX News, YouTube, www.youtube.com/watch?v=R933-XfnigQ&t=11s.
+5. Brian Schweitzer, “Montana Senatorial Debate,” C-SPAN, October 10, 2000, www.c-span.org/video/? 159728-1/montana-senatorial-debate. 10. U.S. International Trade Commission, Pricing of Prescription Drugs, (U.S. International Trade Commission, 2000), p. 46, www.usitc.gov/publications/docs/pubs/332/PUB3333.PDF.
+6. Robert Pear, “In a Turnaround, White House Kills Drug-Import Plan,” The New York Times, December 27, 2000, nytimes.com/2000/12/27/us/in-a-turnaround-white-house-kills-drug-import-plan.html. 12. “Congress Prescription Drug,” CBS News, December 27, 2000, Vanderbilt Television News Archive, no. 391607.
+7. Aimee Picchi, “Drugmakers Hiking Prices for More Than 700 Medications, Including Ozempic and Mounjaro,” CBS News, January 18, 2024, cbsnews.com/news/ozempic-mounjaro-price-increase-2024. 14. “Prescription Drug Prices Continue to Rise,” TMJ4 News, January 13, 2022, YouTube, youtube.com/watch?v=01YIQpY4Puc.
+8. NELP, “Report: Workers Lose Billions in Wages Thanks to Corporate Campaign to Block Local Minimum Wage Increases,” National Employment Law Project, July 3, 2019, nelp.org/report-workers-lose-billions-wages-thanks-corporate-campaign-block-local-minimum-wage-increases. 16. Andrew Kenny, “Rent Control Fails Legislature,” Colorado Public Radio, April 25, 2023,
+   cpr.org/2023/04/25/rent-control-fails-legislature.
+9. Dan Witters, “Benchmarking Healthcare Affordability and Perceived Value,” Gallup Blog, March 31, 2022, news.gallup.com/opinion/gallup/390425/benchmarking-healthcare-affordability-perceived-value.aspx. 18. “Industry Profile: Insurance,” OpenSecrets.org, accessed February 1, 2025, opensecrets.org/federal-lobbying/industries/summary?cycle=2024&id=F09.
+10. “Oil and Gas Recipients 2023 to 2024 Cycle,” OpenSecrets.org, accessed February 1, 2025, opensecrets.org/industries/summary?cycle=2024&ind=E01. 20. James Pogue, “Inside the New Right, Where Peter Thiel Is Placing His Biggest Bets,” Vanity Fair, April 20, 2022, vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets. The article describes the New Right as “not a part of the conservative movement as most people in America would understand it. . . . It is a project to overthrow the thrust of progress, at least such as liberals understand the word.”
+
+### Chapter 1
+
+1. “On This Day in 1964, LBJ Calls for War on Poverty in America,” Michigan Advance, January 8, 2024, michiganadvance.com.
+2. Richard Nixon, “Address to the Nation on the War in Vietnam,” The American Presidency Project, November 3, 1969, presidency.ucsb.edu/documents/address-the-nation-the-war-vietnam. 3. Richard Nixon, “Statement on Signing the Voting Rights Act Amendments of 1970,” The American Presidency Project, June 22, 1970, presidency.ucsb.edu/documents/statement-signing-the-votingrights-act-amendments-1970.
+3. Meeting among Richard Nixon, John Connally, John Ehrlichman, et al., “Watergate Tapes: Conversation 472-021,” March 23, 1971, p. 4, Richard Nixon Presidential Library and Museum, nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/watergate/wspf/472-021.pdf. 5. “The Presidency: Secret White House Tapes,” Miller Center of Public Affairs, millercenter.org/thepresidency/secret-white-house-tapes/about-nixons-secret-white-house-tapes. Between 1971 and 1973, Nixon secretly recorded roughly 3,700 hours of conversations and meetings in five different locations.
+4. “Watergate Tapes: Conversation 472-021,” p. 5, Richard Nixon Presidential Library and Museum. 7. Ben A. Franklin, “Nader Suit on Milk Prices Links White House to Deal,” The New York Times, January 25, 1972, nytimes.com/1972/01/25/archives/nader-suit-on-milk-prices-links-white-house-to-deal-nader-suit-on.html.
+5. “Watergate Tapes: Conversation 472-022,” Richard Nixon Presidential Library and Museum, 3:40 audio, easynixon.org/tapes/472-022. 9. George Lardner Jr. and Walter Pincus, “Milk Scandal in the Nixon White House,” The Washington Post, October 30, 1997, washingtonpost.com/wp-srv/national/longterm/nixon/103097milk.htm.
+6. “Staff of Watergate Links Milk Prices to Nixon Aid,” The New York Times, June 1, 1974, nytimes.com/1974/06/01/archives/staff-of-watergate-links-milk-prices-to-nixon-aid-written-by.html. 11. Select Committee on Presidential Campaign Activities: Final Report, U.S. Senate, 1973, p. 7965.
+7. “Milk and Money: Flood of Cash to Help Nixon Campaign Follows Hike in Dairy Supports,” The Wall Street Journal, September 27, 1971.
+8. “Milking Dollars for Nixon,” The Washington Post, September 27, 1971.
+9. “Nixon Campaign / Dairy Contributions,” CBS Evening News for Monday, September 27, 1971, Vanderbilt University News Archive, no. 219444. 15. “Peace, Little Girl” (“Daisy” Ad), September 7, 1964, Tony Schwartz Collection, Library of Congress Packard Campus for Audio Visual Conservation, blogs.loc.gov/now-see-hear/2016/09/daisy-the-most-effective-political-commercial-ever/.
+10. Richard Nixon, “A Conversation with the President,” interviewed by Howard K. Smith, American Broadcasting Company, March 22, 1971, The American Presidency Project, presidency.ucsb.edu/node/241112. 17. “Campaign Spending: Major Reform Bill Neared Passage,” CQ Almanac, 1971, p. 7, library.cqpress. com/cqalmanac/document.php?id=cqal71-1252749. A special assistant to Nixon had met with Rep. John B. Anderson (D-IL), who was sponsoring legislation to impose limits on campaign spending. During their conversation, the Nixon aide reportedly “told Anderson to throw out specific limits on campaign spending and endorse” a watered-down plan.
+11. Memo from John Dean to Charles Colson, “Subject: Election Reform,” May 6, 1971, National Archives, Watergate Special Prosecutor’s Files, Records of the Executive Assistant, Records Relating to Principal Witnesses or Defendants, box 15.11(C)(N). 19. U.S. House Vote #322 on S. 382, To Promote Fair Practices in the Conduct of Election Campaigns for Federal Political Office, January 19, 1972, govtrack.us/congress/votes/92-1972/h322; U.S. Senate Vote on S. 382, To Pass S. 382, August 5, 1971, govtrack.us/congress/votes/92-1971/s182.
+12. Richard Nixon, “Statement on Signing the Federal Election Campaign Act of 1971,” February 7, 1972, The American Presidency Project, presidency.ucsb.edu/node/255035. 21. Lyndon Johnson, “Letter from the President to the Senate and House,” May 26, 1966, The American Presidency Project, presidency.ucsb.edu/node/238931.
+13. “Thirty Minutes With . . . Ehrlichman,” September 7, 1972, Library of Congress, American Archive of Public Broadcasting, NPACT, americanarchive.org/catalog/cpb-aacip-512-959c53g76r. 23. “Investigations: Bobby’s High Life,” Time, November 8, 1963, time.com/archive/6832004/investigations-bobbys-high-life.
+14. “John D. Ehrlichman (White House Special Files: Staff Member and Office Files),” Richard Nixon Presidential Library and Museum, nixonlibrary.gov/finding-aids/john-d-ehrlichman-white-housespecial-files-staff-member-and-office-files. In response to the publication of the Pentagon Papers, John Ehrlichman helped the White House create a special unit known as “the Plumbers” in 1971—a group that would later carry out the Watergate break-in. He was indicted in 1974 for conspiracy and obstruction of justice and served eighteen months in prison. 25. Sylvie Douglas, “Planet Money: Suitcases, Secret Lists, and Citizens United,” NPR, July 1, 2022, npr.org/transcripts/1109345948.
+15. “Dirty Money,” The New York Times, June 7, 1973, nytimes.com/1973/07/22/archives/dirty-money-money-cont.html. 27. Martin Waldron, “Texas Jury Suspends Inquiry on Watergate Break-In; Funds Traced by 2,” The New York Times, June 29, 1973, nytimes.com/1973/06/29/archives/texas-jury-suspends-inquiry-on-watergate-breakin-funds-traced-by-2.html.
+16. Anthony Ripley, “Secret Lists of Early Donors to Nixon on Way to Prosecutors,” The New York Times, June 23, 1973, nytimes.com/1973/06/23/archives/secret-lists-of-early-donors-to-nixon-on-way-to-prosecutors-extent.html.
+17. “Hughes’s Blank Checks,” The New York Times, January 10, 1974, nytimes.com/1974/01/10/archives/hughess-blank-checks.html. According to sworn testimony, a Howard Hughes representative gave Nixon’s reelection committee signed blank checks, which G. Gordon Liddy’s secretary, Sally Harmony, later filled in.
+18. Senate Select Committee on Presidential Campaign Activities, Final Report of the Senate Select Committee on Presidential Campaign Activities, Report No. 93-981 (June1974), p. 564, senate.gov/about/resources/pdf/watergate-final-report-1974.pdf. 31. Federal Bureau of Investigation, Watergate Summary Part 01, File No. 139-4089, FBI Records: The Vault, vault.fbi.gov/watergate/Watergate%20Summary%20Part%2001/view, 73. An internal FBI report to J. Edgar Hoover in 1974 described a plan proposed by Liddy for the CREEP, which “allegedly included both legal and illegal activities including electronic surveillance of various potential political opponents.”
+19. Joshua Zeitz, “G. Gordon Liddy: Watergate’s Most Colorful Character,” Politico, December 27, 2021, politico.com/news/magazine/2021/12/27/2021-obituary-gordon-liddy-520597. 33. G. Gordon Liddy, “Federal Electoral Reform Act,” memo to John Dean, January 12, 1972, National Archives; “Dirty Money,” The New York Times, p. 3. On January 12, 1972, Gordon Liddy sent a memo to John Dean outlining a strategy to maximize contributions during the gap between the last reporting deadline under the old law (March 10) and the implementation of new regulations on April 7.
+20. Ben A. Franklin, “Party Fundraisers Rush to Beat New Tough Law,” The New York Times, March 26, 1972. The article describes a letter sent from Los Angeles by Thomas P. Pike, a businessman and past Nixon donor, that openly discussed ways to bypass public disclosure requirements for campaign contributions, “which,” it said, “we all naturally want to avoid.” 35. Julian E. Zelizer, “Seeds of Cynicism: The Struggle over Campaign Finance, 1956–1974,” Journal of Policy History 14, no. 1 (2002): 73–111, doi.org/10.1353/jph.2002.0006. Page 95 notes that while some Democrats complied with a Common Cause challenge and disclosed financial information before April 7, presidential candidates Wilbur Mills, Henry Jackson, and Richard Nixon declined to do so.
+21. Bob Woodward and Carl Bernstein, “The First Woodward and Bernstein Story on the Watergate Scandal,” Washington Post, June 13, 2022, washingtonpost.com/history/2022/06/13/first-woodward-bernstein-watergate-scandal/. 37. Melvin Urofsky, “Campaign Finance Reform Before 1971 from Money and Free Speech-Campaign Finance Reform and the Courts (The University Press of Kansas, 2005), p. 54. The report discusses Common Cause and Watergate.
+22. Oval Office Transcripts: Subject Logs, Tape 772, Conversation 3 (772-003), August 26, 2016, Richard Nixon Presidential Library and Museum, nixonlibrary.gov/sites/default/files/forresearchers/find/tapes/finding\_aids/tapesubjectlogs/oval772.pdf. 39. John Gardner and Richard Dreyfuss, “John Gardner: Uncommon American,” John W. Gardner’s Catalog, Stanford University Exhibits, exhibits.stanford.edu/john\_w\_gardner/catalog/wh794nr8651.
+23. Joshua Fried, “An Uncommon Man,” Stanford Magazine, stanfordmag.org/contents/an-uncommon-man. “If you’ve attended an open city-council meeting or driven a car with air-pollution controls—thank John Gardner.” 41. “Campaign ’72: Republican Financials,” CBS News, September 6, 1972, Vanderbilt Television News Archive, no. 2251.
+24. “Gardner Unit Gives Plan on Monitoring Spending,” The New York Times, March 31, 1972, nytimes.com/1972/03/31/archives/gardner-unit-gives-plan-on-monitoring-spending.html. 43. The Almanac of American Politics (CQ Press), library.cqpress.com/cqalmanac/document.php?id=cqal71-
+26. Fred Wertheimer, interview by Jared Jacang Maher, July 5, 2023. 45. Zelizer, “Seeds of Cynicism,” p. 96.
+27. Zelizer, “Seeds of Cynicism,” p. 95 47. Fred Wertheimer, “Mentor to the World,” The Washington Post, February 18, 2002, washingtonpost.com/archive/opinions/2002/02/19/mentor-to-the-world/3569d737-5eb4-4a31-a322-64c838580c47/.
+28. “Campaign ’72 – Rep. Fin. Disclosures,” ABC News, November 3, 1972, Vanderbilt Television News Archive, no. 18660. 49. John P. MacKenzie and Morton Mintz, “GOP Agrees to List Some Gifts, Names,” Washington Post, November 2, 1972, The Harold Weisberg Archive, Digital Collection, http://jfk.hood.edu/Collection/Weisberg-Watergate%20Files/Civil%20Suits%20-%20Common%20Cause/Common%2011.pdf.
+29. “A Secret Nixon-Donor List Held by Aide to President,” The New York Times, June 16, 1973, nytimes.com/1973/06/16/archives/a-secret-nixondonor-list-held-by-aide-to-president.html. 51. Rosemary’s Baby, written by Ira Levin and Roman Polanski, directed by Roman Polanski, 1968.
+30. Michael Jensen, “Nixon Drive May Have Got $15 Million in Illegal Corporate Gifts,” The New York Times, August 24, 1973, nytimes.com/1973/08/24/archives/nixon-drive-may-have-got-15-illegal-corporate-gifts-up-to-15.html. 53. “Secret Lists of Early Donors to Nixon on Way to Prosecutors,” The New York Times, June 23, 1973, nytimes.com/1973/06/23/archives/secret-lists-of-early-donors-to-nixon-on-way-to-prosecutors-extent.html. “The lists, 1½ inches thick, show contributions of $1,000 or more; the total is believed to be $19.6‐million.”
+31. “White House: Campaign Controversy: Rosemary Woods,” CBS News, June 14, 1973, Vanderbilt Television News Archive, no. 229004. 55. “Watergate Timeline: From the Crime to the Consequences,” AP News, June 17, 2022, apnews.com/article/john-dean-richard-nixon-government-and-politics-crime-c7a7b99cca7c685cfc239f5e08b53378. Failed burglary happened June 17, 1972.
+32. “Cox Speaks on Appointment as Watergate Prosecutor,” AP News Archive, May 18, 1973, YouTube, youtube.com/watch?v=k2kPc4VZEYc. 57. “Watergate Explained,” Richard Nixon Presidential Library and Museum, nixonfoundation.org/watergate-explained/.
+33. EW Kenworthy, “The Extraordinary I.T.T. Affair,” The New York Times, December 16, 1973, nytimes.com/1973/12/16/archives/whats-good-for-a-corporate-giant-may-not-be-good-for-everybody-else.html. 59. Ciara Torres-Spelliscy, “Got Corruption? Nixon’s Milk Money,” Brennan Center for Justice, October 21, 2013, brennancenter.org/our-work/analysis-opinion/got-corruption-nixons-milk-money.
+34. Michael Jensen, “Gulf Oil Illegally Donated $100,000 to Nixon in ’72,” The New York Times, August 11, 1973, nytimes.com/1973/08/11/archives/gulf-oil-illegally-donated-100000-to-nixon-in-72-enormous-pressure.html. 61. “Defense Concern and Chairman Fined in Illegal Campaign Gift Law,” The New York Times, May 2, 1974, nytimes.com/1974/05/02/archives/defense-concern-and-chairman-fined-in-illegal-campaign-gift-
+    law.html.
+35. “Phillips Pleads Guilty to Illegal Nixon Contribution,” The New York Times, December 5, 1973, nytimes.com/1973/12/05/archives/phillips-pleads-guilty-to-illegal-nixon-contribution.html. 63. Michael Jensen, “Gulf Oil Illegally Donated $100,000 to Nixon in ’72,” nytimes.com/1973/08/11/archives/gulf-oil-illegally-donated-100000-to-nixon-in-72-enormous-pressure.html
+36. Robert Lindsey, “Hammer Enters 2d Guilty Plea: Chief of Occidental Admits Illegal Donations,” The New York Times, March 5, 1976, www.nytimes.com/1976/03/05/archives/hammer-enters-2d-guilty-pleas-chief-of-occidental-admits-illegal.html. 65. Roger Witten, interview by Laura Krantz, September 25, 2023.
+37. Robert Mutch, Campaigns, Congress, and Courts: The Making of Federal Campaign Finance Law (Bloomsbury Academic, 1988), p. 28. 67. Roger Witten, interview, September 25, 2023.
+38. “Election ’72: Illegal Contributions,” ABC News, October 17, 1973, Vanderbilt Television News Archive, no. 23330. 69. Michael Jensen, “What Has Been Disclosed May Be the Smallest Part,” The New York Times, September 14, 1975, nytimes.com/1975/09/14/archives/what-has-been-disclosed-may-be-the-smallest-part-corporate.html.
+39. Richard Nixon, speech, November 17, 1973, YouTube, youtube.com/watch?v=sh163n1lJ4M. 71. “1973 Watergate Hearings; Part 3 of 4,” July 17, 1973, Library of Congress, American Archive of Public Broadcasting, americanarchive.org/catalog/cpb-aacip-512-610vq2sx2c. Excerpt at 1:01:45.
+40. “The Most Important Problem Survey,” The Gallup Poll, 1973, 186. 73. Robert Mutch, Campaigns, Congress, and Courts: The Making of Federal Campaign Finance Law, p. 87–88.
+41. “Advocates: Should the Federal Government Subsidize Political Campaigns and Limit Individual Contributions?,” February 7, 1974, American Archives of Public Broadcasting, GBH Archives, WGBH Open Vault, openvault.wgbh.org/catalog/V\_036A8212AFA94893A7DA5907D8412F6E#at\_903.044\_s. 75. Gerald Ford, “Statement on the Federal Campaign Act Amendments of 1974,” The American Presidency Project, October 15, 1974, presidency.ucsb.edu/documents/statement-the-federal-campaign-act-amendments-1974.
+42. Fred Wertheimer, interview by Jared Jacang Maher, July 5, 2023.
+
+### Chapter 2
+
+1. Phillip Morris Directors Luncheon in Honor of Lewis F. Powell, Jr: Original Cast Album, Starring Walter Cronkite & Joseph F. Cullman 3rd, December 17, 1971, New York, Powell Archive, Washington and Lee University School of Law. Received by the archives in 1996; donated by Justice Powell. 2. You Are There, TV series, featuring Walter Cronkite, 1953–1972, IMDb, imdb.com/title/tt0045458/.
+2. Radio Script, Title Unknown, Philip Morris Records, Master Settlement Agreement, December 1971, Truth Tobacco Industry Documents, University of California San Francisco Library, industrydocuments.ucsf.edu/docs/#id=hsbb0114. 4. Phillip Morris Directors Luncheon, Powell Archive, Washington and Lee University.
+3. “Speech of Joseph F. Cullman, 3rd at Annual Philip Morris Christmas Luncheon,” December 1971,
+   Truth Tobacco Industry Documents, UCSF Library, p. 17, industrydocuments.ucsf.edu/docs/#id=lqbc0040. 6. Lewis Powell, letter to Joseph F. Cullman, December 16, 1971, Powell Archive, Washington and Lee University, box 284, folder 15, “Philip Morris.” 7. Lewis F. Powell Board Biography, Philip Morris Records, UCSF Library, industrydocuments.ucsf.edu/docs/pjgn0217.
+4. Radio Reports on Powell Confirmation, audio tape, November 1971, Powell Archive, Washington and Lee University, box 860, reel 7, side 1. 9. Ray McAllister, “The Southern Gentleman,” ABA Journal 74, no. 4 (1988): 48–52, jstor.org/stable/20759843.
+5. Title Unknown, radio documentary on the U.S. Supreme Court, April 1978, Powell Archive, Washington and Lee University, box 860, reel 11, side 1. 11. “Justice Lewis Powell’s Retirement from the Supreme Court,” ABC Nightline, June 26, 1987, Vanderbilt Television News Archive, no. 657247.
+6. “The MacNeil/Lehrer NewsHour,” June 26, 1987, NewsHour Productions, American Archive of Public Broadcasting, americanarchive.org/catalog/cpb-aacip-507-rn3028q973. 13. Sheldon Whitehouse, “The Scheme Speech 1: The Powell Report,” speech to the U.S. Senate, May 2021, YouTube video, youtube.com/watch?v=mAplGu1RxPg.
+7. “Dick Van Dyke: Trump as President Will Lead to War,” CNN, 3:45, posted by CNN on YouTube on June 3, 2016, youtube.com/watch?v=jJoMRL4i7ns. 15. John C. Jeffries Jr., Justice Lewis F. Powell, Jr. (New York: Charles Scribner’s Sons, 1994).
+8. Joan Biskupic and Fred Barbash, “Retired Justice Lewis Powell Dies at 90,” The Washington Post, August 26, 1998, washingtonpost.com/wp-srv/national/longterm/supcourt/stories/powell082698.htm 17. Lewis F. Powell Jr., letter to Buckley, Jeffries, and Owens, November 12, 1973, Powell Archive, Washington and Lee University School of Law. Powell asserts that the memorandum came about unexpectedly and was not initially intended for circulation.
+9. “Powell Archives History,” Washington and Lee University, law.wlu.edu/powell-archives/about/powell-archives-history. 19. John C. Jeffries, Justice Lewis F. Powell, Jr.
+10. Jennifer Mitchell, interview by Jared Jacang Maher, October 15, 2023. 21. Todd C. Peppers, “Did You Hear the One About Chief Justice Burger and the Itinerant Litigant? Behind-the-Scenes Humor at the Supreme Court,” Green Bag 15, no. 1 (Autumn 2011): 26, greenbag.org/v15n1/v15n1\_articles\_peppers.pdf.
+11. Lewis Powell, Interposition Draft, 16 rpm audio recording, March 29, 1956, Powell Archive, Washington and Lee University School of Law, box 861, tape 1, side 1. 23. “A Tribute to Lewis F. Powell, Jr,” 56 Wash. & Lee L. Rev. 3 (1999), Washington and Lee University School of Law, scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1532&context=wlulr.
+12. Anne Hobson Freeman, The Style of a Law Firm: Eight Gentlemen from Virginia (Richmond: William Byrd Press, 1989). 25. Couch, Robert M., “A Tribute to Lewis F. Powell, Jr.,” Washington and Lee Law Review, Vol. 56 (1999), p. 29.
+13. John C. Jeffries, Justice Lewis F. Powell, Jr., p. 188.
+14. John C. Jeffries, Justice Lewis F. Powell, Jr., p. 172. 28. John C. Jeffries, Justice Lewis F. Powell, Jr., p. 221.
+15. Lawrence B. Glickman, “A Memo That Changed the Course of History,” in Free Enterprise: An American History (New Haven: Yale University Press, 2019). 30. “Justice Powell—For Business, a Friend in Court,” The New York Times, March 14, 1976.
+16. “Powell ‘Fight’ Shaping Up As No Contest,” The Observer, October 29, 1971, University of Notre Dame Archives, p. 7, archives.nd.edu/observer/1971-10-29\_v06\_036.pdf. 32. Lewis F. Powell Jr., letter to John J. Adams, Powell Archive, Washington and Lee University School of Law, box 284, folder 15, “Philip Morris Correspondence, General – May 1971–Jan 1972.”
+17. Joseph F. Cullman III, interview on Face the Nation, CBS News, January 3, 1971. During the interview, Cullman, then chairman of Philip Morris, stated that “some women prefer having smaller babies” when asked about the effects of smoking during pregnancy. In 2006, Cullman was charged with racketeering by the U.S. Attorney, with the indictment citing this appearance and his role in activities targeting the American Cancer Society. 34. Lewis Powell, letter to Joseph F. Cullman, May 19, 1970, Truth Tobacco Industry Documents, UCSF Library, industrydocuments.ucsf.edu/docs/rkld0131.
+18. Lewis F. Powell, letter to John J. Adams, June 1, 1971, Powell Archives, Washington and Lee University School of Law, Box 284, Folder 15. 36. Motion to Intervene, The Tobacco Institute, in the case Larus & Brother Company, Inc. (Philip Morris) v. Federal Communications Commission, December 23, 1970, Truth Tobacco Industry Documents, UCSF Library, industrydocuments.ucsf.edu/tobacco/.
+19. Tobacco Institute, “Justifications – 1971 Tobacco Institute Budget Requests: Public Relations Projects ($1,204,050)”, Truth Tobacco Industry Documents, UCSF Library, industrydocuments.ucsf.edu/docs/gpmd0131. 38. “25-Year History of Racketeering Lawsuit Against Tobacco Industry,” American Cancer Society Action Network, American Cancer Society, updated November 8, 2024, fightcancer.org/sites/default/files/history\_of\_doj\_rico\_lawsuit\_fact\_sheet\_final\_11.08.24.pdf.
+20. Cummings, “The Cigarette Controversy,” Cancer Epidemiology, Biomarkers & Prevention, vol. 16, iss. 6, (2007). 40. James Bowling, letter to George Weisman, cc: Joseph F. Cullman III, “RE: Political Public Relations Policy,” June 29, 1971, Truth Tobacco Industry Documents, UCSF Library, industrydocuments.ucsf.edu/tobacco. In the letter, Bowling compared the tobacco industry’s treatment to “McCarthyism” and urged Philip Morris to adopt messaging strategies that could build political influence and media sympathy, emphasizing the need for broader press support beyond figures like James Kilpatrick.
+21. Jack Goldsmith, “J. Edgar Hoover and the FBI’s Influence,” The Atlantic, November 22, 2022, theatlantic.com/magazine/archive/2022/12/j-edgar-hoover-fbi-influence/671900/ 42. J. Edgar Hoover and Lewis F. Powell Jr., letters regarding President Nixon’s reappointment of Hoover as FBI Director, December 18, 1968, FBI Records: The Vault, vault.fbi.gov/. The correspondence notes that Powell was on the FBI’s “Special Correspondents List” and includes a copy of a speech Powell gave addressing the activities of the New Left.
+22. Lewis F. Powell Jr., letter to the Freedom Foundation, “Freedom Foundation,” January 22, 1969, Powell Archive, Washington and Lee University School of Law, box 9, folder 29. In the letter, Powell
+    requested a copy of the Foundation’s study on “Confrontation Politics.”
+23. Cartha D. DeLoach, letter to Lewis F. Powell, January 30, 1969, Powell Archive, Washington and Lee University School of Law, box 8, folder 14. DeLoach, then a top aide to FBI Director Hoover, shared intelligence on the funding sources of U.S. radicals and suggested Powell read Abbie Hoffman’s Revolution for the Hell of It for “insights into the New Leftist mentality.” 45. Lewis F. Powell Jr., Commencement Address, University of Florida, audio recording, April 23, 1965, Powell Archive, Washington and Lee University School of Law, box 860, reel 1, side 1.
+24. Lewis F. Powell Jr., “The Attack on American Institutions,” address at the Southern Industrial Relations Conference, audio recording, July 15, 1970, Powell Archive, Washington and Lee University School of Law. scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi? article=1008&context=powellspeeches. 47. William Ruder, letter to Lewis F. Powell Jr., May 3, 1971, Powell Archive, Washington and Lee University School of Law, box 284, folder 15. Ruder reflects on a recent meeting with Powell and shares concern about the lack of clear responsibility for defending the free enterprise system.
+25. “Ruder Finn,” Tobacco Tactics, University of Bath, December 23, 2020, tobaccotactics.org/article/ruder-finn/. 49. Lewis F. Powell Jr., “Attack on American Free Enterprise System,” August 23, 1971, Powell Archives, Washington and Lee University School of Law, scholarlycommons.law.wlu.edu/powellmemo/.
+26. “Nader’s Raiders Is Their Name, and Whistle‐Blowing Is Their Game,” The New York Times, March 21, 1971, nytimes.com/1971/03/21/archives/stop-in-the-public-interest-stop-in-the-public-interest.html. 51. “Nader’s Raiders,” CBS Evening News, March 28, 1971, Vanderbilt Television News Archive, no. 215780.
+27. Gore Vidal, “The Best Man/’72,” Esquire, June 1971, classic.esquire.com/article/1971/6/1/the-best-man72. 53. R. Armstrong, “The Passion That Rules Ralph Nader,” Fortune, May 1971. A copy of this article with underlined passages by Lewis F. Powell Jr. is held in the Powell Archive, Washington and Lee University School of Law.
+28. Eugene B. Sydnor, letter to Lewis F. Powell Jr., October 3, 1972, Powell Archive, Washington and Lee University School of Law. Sydnor enclosed a letter and editorial he had submitted to the Richmond Times-Dispatch defending Powell against Jack Anderson’s column on the memo, which he characterized as a “smear” and described his role in helping Powell prepare the document for the U.S. Chamber of Commerce. 55. Eugene B. Sydnor, letter to Lewis F. Powell Jr., May 21, 1971, Powell Archive, Washington and Lee University School of Law. In the letter, written three months before Powell drafted his memo, Sydnor references two Wall Street Journal articles that echoed concerns he and Powell had recently discussed. He also notes their intention to raise these issues with Archie Davis and Arch Booth, then president of the U.S. Chamber of Commerce.
+29. Lewis F. Powell Jr., “Attack on American Free Enterprise System,” August 23, 1971. 57. Richard M. Nixon and Lewis F. Powell Jr., telephone conversation, October 19, 1971, 7:49 p.m., White House Tapes, Conversation 011-153, Richard Nixon Presidential Library and Museum, nixonlibrary.gov/white-house-tapes/011/conversation-011-153.
+30. S. Sidney Ulmer and John A. Stookey, “Nixon’s Legacy to the Supreme Court: A Statistical Analysis of Judicial Behavior,” Florida State University Law Review 3, no. 3 (1975): 331, ir.law.fsu.edu/lr/vol3/iss3/1.
+31. “Nixon and the Supreme Court,” Richard Nixon Presidential Library and Museum, September 22, 2021, nixonlibrary.gov/news/nixon-and-supreme-court.
+32. John C. Jeffries, Justice Lewis F. Powell, Jr., 223-224. 61. “Inquiry on Fortas Described in Book,” The New York Times, April 17, 1972, nytimes.com/1972/04/17/archives/inquiry-on-fortas-described-in-book-author-tells-of-nixon-action.html. The article reports that the Nixon administration applied strategic, indirect pressure—including leaks, public hints of investigation, and backchannel political coordination—to push Justice Abe Fortas into resigning from the Supreme Court without formal legal action.
+33. “Haynsworth,” Washington Post, April 9, 1979, washingtonpost.com/archive/politics/1979/04/09/haynsworth/aec0afe5-b55c-4a5a-ae0c-e401102678f0; “Carswell Disavows ’48 Speech Backing White Supremacy,” New York Times, January 22, 1970, nytimes.com/1970/01/22/archives/carswell-disavows-48-speech-backing-white-supremacy-judge-disavows.html. 63. Richard Nixon, letter to Lewis F. Powell Jr., October 26, 1970, Powell Archive, Washington and Lee University School of Law, box 16, folder 2. In the letter, President Nixon praised Powell’s recent speech, “The Attack on American Institutions.”
+34. John C. Jeffries, Justice Lewis F. Powell, Jr., 219-220. 65. “Richard Nixon and Ronald W. Reagan on 26 October 1971,” Conversation 013-008, in Presidential Recordings Digital Edition: Nixon Telephone Tapes, 1971, ed. Ken Hughes (Charlottesville: University of Virginia Press, 2014–), prde.upress.virginia.edu/conversations/4002192.
+35. Radio Reports on Powell Nomination and Confirmation, Rehnquist Controversy, November 1971, audio recording, Powell Archives, Washington and Lee University School of Law, box 860, reel 7, side 1. 67. Background Report Files of Lewis F. Powell Jr., October 22, 1971, Federal Bureau of Investigation, FBI Records: The Vault, Lewis Powell – 1 of 10, vault.fbi.gov/.
+36. Adam Winkler, interview by Laura Krantz, October 17, 2023. 69. Jack Anderson, “FBI Missed Blueprint by Powell,” The Washington Post, September 29, 1972.
+37. Henry Capello, letter to the editor of The Washington Post, September 29, 1972, Powell Archives, Washington and Lee University School of Law. One of dozens of similar letters, Capello’s—written in his role as General Counsel of the National Small Business Association—denounced Jack Anderson’s column on Lewis Powell as an “unwarranted smear” filled with “distorted sensationalism” and defended the right of the business community to advocate in “the courts, quasi-judicial bodies, and legislatures on the same basis as labor, the radicals, criminals, and kooks.” 71. “The Lewis Powell Memorandum,” Congressional Record, October 10, 1972, 34456–34581. In this entry, Senator Harry Byrd of Virginia delivers a speech to Congress defending his longtime friend Justice Lewis F. Powell Jr.’s memorandum.
+38. James J. Kilpatrick, “Citizen Powell Handed Down a Good Opinion,” October 8, 1972, syndicated column, FBI Records: The Vault, vault.fbi.gov/. In the column, Kilpatrick argued that Jack Anderson’s attack on Powell had unintentionally amplified the reach of the memorandum, noting that “[b]usinessmen are besieging the Chamber with requests for copies of the text.” 73. “Retired Justice Lewis Powell Dies at 90,” The Washington Post, August 26, 1998, washingtonpost.com/wp-srv/national/longterm/supcourt/stories/powell082698.htm.
+39. Sheldon Whitehouse, interview by Ula Kulpa, March 12, 2024. 75. Robert Reich, “How the Corporate Takeover of American Politics Began,” December 13, 2022,
+    YouTube, youtube.com/watch?v=bbbgfnpJN9w.
+
+### Chapter 3
+
+1. WARM 590 AM Radio Broadcast (Scranton), radio transcript, January 16, 1973, Powell Archives, Washington and Lee University.
+2. Lewis F. Powell Jr., letter to Eugene Sydnor, May 8, 1973, Powell Archives, Washington and Lee University School of Law. Powell notes his judicial position limits his public involvement, writing, “In view of my present ‘sterilization’ as a judge, the enclosed letter should have been written to you.” 3. Kuhlman Fluehr, letter to Lewis F. Powell Jr., March 13, 1975, Powell Archives, Washington and Lee University School of Law. Fluehr, a vice president at the Michigan-based Kuhlman Corporation, described how his company was distributing copies of the Powell Memorandum, organizing executive workshops with firms like “Eaton, Amway, and Whirlpool,” and launching fundraising initiatives inspired by its ideas.
+3. Agenda, Political Action Subcommittee of the Task Force on the Powell Memorandum, Public Affairs Committee Meeting of the U.S. Chamber of Commerce, Lake Buena Vista, Florida (Disney World), March 29, 1973, John A. Howard Papers, Northern Illinois University, box 142, folder 4. 5. William F. Leonard, letter to John M. Olin, “The Powell Memorandum,” March 23, 1973, John A. Howard Papers, Northern Illinois University, box 142, folder 4. Writing just prior to the U.S. Chamber meeting at Disney World, Leonard notes he serves on the Chamber’s committee and its Powell Memorandum Task Force, “both headed by Bill Whyte, Washington Representative for US Steel and highly respected in the corporate community as the Dean of the Corporate Washington Establishment.”
+4. William S. Lowe, letter to William G. Whyte, December 15, 1972, William J. Baroody Sr. Papers, Library of Congress, box 88, folder 6. As president of the U.S. Chamber of Commerce, Lowe formally invited Whyte to chair the Task Force on the Powell Memorandum, emphasizing the memo’s urgency by writing, “[T]he very survival of the system is at stake.” 7. “Business Response to the Powell Memorandum,” Washington Report 12, no. 24 (November 26, 1973), p. 6, John A. Howard Papers, Northern Illinois University, box 129, folder 9. The report includes a list of Task Force members on page 6.
+5. Agenda, Task Force on the Powell Memorandum, March 29, 1973. 9. White House Memorandum, “President – Personal Prior Travel Records,” September 29, 1976, Philip Buchen Files, Gerald R. Ford Presidential Library, box 50, folder, p. 19. The memo records that on March 29, 1973, President and Mrs. Ford departed National Airport for Orlando, Florida. They were met by Bill Whyte and stayed at the Polynesian Village, where Ford was “the luncheon speaker on the final day of three-day meeting of the Public Affairs Committee of the U.S. Chamber of Commerce.”
+6. “Agenda,” Political Action Subcommittee, March 29, 1973. 11. Robert Mutch, Campaigns, Congress, and Courts (New York: Praeger, 1988). Mutch notes that several members of the Ford administration were dissatisfied with the 1974 campaign finance amendments and according to then–Solicitor General Robert H. Bork, the Justice Department seriously considered opposing parts of the legislation.
+7. William F. Leonard, letter to Olin, March 23, 1973. 13. Gregory Elinson, “Shifting Coalitions: Business Power, Partisan Politics, and the Rise of the Regulatory State,” (PhD dissertation, University of California Berkeley, 2015), eScholarship, escholarship. org/uc/item/77r7x2x9, 95. Elinson describes how, in 1978, the Chamber of Commerce, in collaboration with NAM and USC’s Study of Free Enterprise, launched a series of conferences to promote the use of political action committees. Business leader Justin Dart emphasized the importance of PACs, warning that
+   any company without one was “either apathetic, unintelligent, or [had] a death wish.” (Dart was member of the Chamber’s Powell Memo committee.)
+8. “Business Response to the Powell Memorandum,” Washington Report 12, no. 24 (November 26, 1973), p. 6, John A. Howard Papers, Northern Illinois University, Box 129, Folder 9. The report includes a list of Task Force members on page 6. 15. Joseph J. Fanelli, President of the Business-Industry Political Action Committee, Defends the Role of PACs in Campaigns, videocassette, 1983, VID\_1973418\_B46\_ID04, Chamber of Commerce of the United States.
+9. Arch N. Booth to William J. Baroody Sr., January 11, 1974, William J. Baroody Sr. Papers, Library of Congress, Box 88, Folder 6. 17. Charles Zeneah, letter to Lewis F. Powell Jr., March 7, 1974, Powell Archives, Washington and Lee University School of Law. Writing as a corporate public relations executive at Ethyl Corporation, Zeneah requested permission to republish the Powell Memorandum in the 1974 edition of the widely distributed Ethyl Digest, “to give your challenging analysis additional exposure to government leaders, the news media, and the general public.”
+10. “Business Response to the Powell Memorandum,” Washington Report, p. 2. 19. William B. Lambert, letter to Lewis F. Powell Jr., May 2, 1973, Powell Archives, Washington and Lee University School of Law, box 4, folder 36. Lambert, president of the Dayton-based Lambert Corporation, told Powell that members of the Young Presidents’ Organization were already working to put the 1971 memo into action. He described recent meetings with business leaders, foundation heads, and college presidents in Dallas, and highlighted a parallel effort led by Alcoa chairman John D. Harper through the Council of Better Business Bureaus. An upcoming meeting was planned in Valley Forge, Pennsylvania.
+11. John A. Howard, letter to John M. Olin, April 2, 1973, John A. Howard Papers, Northern Illinois University, box 119, folder 3. Howard updated industrialist John M. Olin on efforts to organize around the Powell Memorandum and highlighted the potential of Roger Ailes—the former TV producer and Nixon campaign consultant—who was then giving presentations through his firm, Ailes & Associates. 21. Tentative list of those attending Freedoms Foundation (of Valley Forge) Meeting on the Powell Memo on June 4–5, 1973, June 5, 1973, John A. Howard Papers, Northern Illinois University, box 142, folder 4. Page 2 shows Ailes attending June Valley Forge meeting as well as Bryce Harlow (Procter & Gamble), Lee Hamilton (President, National Association of Manufacturers), and Leo Beebe (Director, Council of Better Business Bureaus).
+12. Stanhope Gould, “Coors Brews the News,” Columbia Journalism Review 13, no. 6 (March/April 1975): 27, archive.org/details/sim\_columbia-journalism-review\_march-april-1975\_13\_6/mode/2up. 23. Arthur R. Taylor to Charles H. Crutchfield, August 13, 1974, and Charles H. Crutchfield to John A. Howard, August 16, 1974, John A. Howard Papers, Northern Illinois University, box 129, folder 9.
+13. Charles H. Crutchfield, “Spokesman Role for Chief Executive Officers—Interpreting Business,” November 1974, presented to U.S. Chamber’s Committee for Business Overview, John A. Howard Papers, Northern Illinois University, box 129, folder 9. 25. Speak Up, film, 1975, FILM\_1993230\_FC459, Chamber of Commerce of the United States Photographs and Audiovisual Materials (Accession 1993.230), Audiovisual Collections and Digital Initiatives Department, Hagley Museum and Library, digital.hagley.org/FILM\_1993230\_FC459.
+14. Kim Phillips-Fein, Invisible Hands: The Businessmen’s Crusade to Undermine Democracy (New York: W.W. Norton, 2009), p. 162. On that page, Phillips-Fein quotes John M. Olin as writing, “The Powell memorandum gives reason for a well-organized effort to reestablish the validity and importance of the American free enterprise system.”
+15. Charles G. Koch, “Anti-Capitalism and Business,” seminar presented at the Institute for Humane Studies, Dallas, TX, April 27, 1974.
+16. Mehrsa Baradaran, The Quiet Coup (Random House, 2024), p. 88. Baradaran writes that “Reading the Powell memo led Richard Scaife, the Pittsburgh-based billionaire and supporter of anti-Clinton movements, to begin funding right-wing foundations, the cause to which he would devote the rest of his life and fortune.” Evidence of early Scaife family involvement can also be found in archival correspondence: See John A. Howard, letter to R. Daniel McMichael of the Scaife Family Charitable Trusts, April 2, 1973, John A. Howard Papers, Northern Illinois University, box 119, folder 3. For details on Scaife’s role in funding the launch of ALEC and The Heritage Foundation, see Mayer, Dark Money, pages 110 and 122. 29. Lee Edwards, The Power of Ideas: The Heritage Foundation at 25 Years (Jameson Books, 1997).
+17. Kwasi Gyamfi Asiedu, “J.D. Vance Wrote the Foreword for Project 2025 Kevin Roberts’ Upcoming Book,” Austin American-Statesman, August 16, 2024, statesman.com/story/news/politics/politifact/2024/08/16/jd-vance-wrote-foreword-for-project-2025-kevin-roberts-upcoming-book/74818770007/. 31. William B. Lambert, letters to Lewis F. Powell Jr., May 2, 1973, Powell Archives, Washington and Lee University School of Law, box 4, folder 36.
+18. William B. Lambert, letters to William J. Baroody, 1974–1975, William J. Baroody Sr. Papers, Library of Congress, box 96, folder 6, “National Center for Responsible Enterprise, 1974–1975.” In the correspondence with AEI’s Baroody, Lambert outlines the efforts of the NCRE, an Ohio-based initiative inspired by the Powell Memorandum, which aimed to engage and educate Midwestern business leaders through seminars, manuals, and presentations. 33. “Business Mounts Consumer Drive,” The New York Times, March 11, 1973, nytimes.com/1973/03/11/archives/business-mounts-consumer-drive-performance-crucial-sophistication.html. The article reported that the Council of Better Business Bureaus launched a national public relations campaign to boost consumer trust in American business. A central initiative was the Committee for Constructive Consumerism, chaired by Henry Ford II and involving over 1,200 business leaders. The committee aimed to counter negative perceptions of American business “by distributing consumer information through radio, television, and printed literature” and offering speakers to “schools, civic groups, and business organizations.” For Ethyl, see earlier note: Zeneah, letter to Powell, March 7, 1974.
+19. Leonard E. Read, diary entry, September 10, 1975, FEE Seminar Papers, Foundation for Economic Education, Winnebago Political Action Committee event, September 12–14, 1975, fee.org. In the entry, Read describes a lengthy discussion with members of the National Center for Responsible Enterprise focused on the Powell Memorandum. In Texas, Leon B. Blair, head of the Texas Bureau for Economic Understanding, requested permission to reprint more than 10,000 copies of the Powell Memorandum for distribution in public high schools to teach the principles and benefits of the free enterprise system. See Leon B. Blair, letter to Lewis F. Powell Jr., September 8, 1975, Powell Archives, Washington and Lee University School of Law. 35. Kuhlman Fluehr, letter to Lewis F. Powell Jr., March 13, 1975, Powell Archives, Washington and Lee University. Fluehr expressed concern over the scattered nature of pro-business advocacy efforts inspired by the Powell Memorandum. He noted the “proliferation and duplication of uncoordinated endeavor . . . carried on by virtually innumerable institutes, foundations, centers, councils, etc.,” and described being “perplexed and, in fact, disturbed” by the lack of coordination among them.
+20. Gerald R. Ford, “President Gerald R. Ford’s Proclamation 4311, Granting a Pardon to Richard Nixon,” September 8, 1974, Ford Library Museum, fordlibrarymuseum.gov/library/speeches/740061.asp.
+21. Seating chart for the Committee on Business Overview Meeting of the U.S. Chamber of Commerce, November 12, 1974, John A. Howard Papers, Northern Illinois University, box 129, folder 10c, 1. See image in Figure 12.
+22. William G. Whyte, “Implementation of Recommendations of the Task Force on the Powell Memorandum,” November 1973–November 1974, John A. Howard Papers, Northern Illinois University, box 129, folder 10c, 3. 39. Whyte, “Implementation of Recommendations,” 13, slides 60-61.
+23. Whyte, “Implementation of Recommendations,” 5, slide 12. 41. William D. Lutz, “‘The American Economic System’: The Gospel According to the Advertising Council,” College English 38, no. 8 (1977): 860–65. doi.org/10.2307/375958.
+24. Barton A. Cummings, address to the Milwaukee Advertising Club, April 26, 1973, Barton Cummings Papers, Smithsonian Institution, Archives Center, box 1, folder 17B: Untitled. Three years before the launch of the American Economic System campaign, Cummings—then chairman of the American Advertising Federation and Compton Advertising—gave a speech echoing, point by point, the themes of the Powell Memorandum, warning that the survival of the free enterprise system was at risk. He criticized attacks on capitalism from the pulpit, academia, and the media, citing Ralph Nader, George McGovern, and Abbie Hoffman as examples of “controlists” seeking to dominate the business community through excessive regulation. 43. Louis M. Kohlmeier, “The Babel of Economic Advertising,” The New York Times, September 19, 1976, nytimes.com/1976/09/19/archives/the-babel-of-economic-advertising.html.
+25. American Economic System: Who Makes It Work?, video PSA, 1976, Ad Council, University of Illinois Archives, Ad Council Historical Spots, box 1, cassette 3. 45. Finding Solutions, film, 1983, Ad Council, University of Illinois Archives, Ad Council Historical Collection, box 1, cassette 1.
+26. “The Most Successful Introduction of a Public Service Campaign in Ad Council History,” Status Report on the American Economic System PSA Campaign, 1977, University of Illinois Archives, Ad Council: Historical File 1941–1997, box 60; Advertising Council: Free Enterprise’s Effective Communications Machine, pamphlet, 1980s, University of Illinois Archives, Ad Council: Special Publications 1952–2006, box 1. 47. Gregory Elinson, “Shifting Coalitions: Business Power, Partisan Politics, and the Rise of the Regulatory State” (PhD dissertation, University of California, Berkeley, 2015), p. 101, escholarship.org/uc/item/77r7x2x9.
+27. Jefferson Decker, The Other Rights Revolution: Conservative Lawyers and the Remaking of America (Oxford University Press, 2016), chap. 3. 49. Viewpoint with Ronald Reagan, Program 75-12, audio recording, June 1, 1975, Hoover Institution Library and Archives, Ronald Reagan Radio Commentary Sound Recordings 1967–1980, box 3.
+28. Photocopy, “The Powell Memorandum,” Washington Report (1972), U.S. Chamber of Commerce, American Heritage Center, University of Wyoming, James G. Watt Papers, 1958–2013, box 7, folder 4, “Mountain States Legal Foundation, 1979–1981.” 51. The American Album, 1976, Hagley Digital Archives, FILM 1993230 FC314, Chamber of Commerce of the United States Photographs and Audiovisual Materials (Accession 1993.230), Hagley Museum and Library. This short film, narrated by actor Jimmy Stewart and produced by the U.S. Chamber of Commerce for the U.S. Bicentennial, warned that expanding federal programs and regulations was steering the country toward socialism.
+
+### Chapter 4
+
+1. Gerald R. Ford, Statement by the President, The White House, October 15, 1974, Philip Buchen Files, Gerald R. Ford Presidential Library, box 40, folder “Federal Election Campaign Act Amendments – 1974.” 2. Richard Hasen, interview by Laura Krantz, November 21, 2023.
+2. Charles W. Colson, “Memorandum from Charles Colson to John Dean, with Attached Original ‘Master List’ of the ‘First Enemies List,’” September 9, 1971, UNC Libraries, accessed April 3, 2025, exhibits.lib.unc.edu/items/show/7922. 4. Frank Lynn, “Agnew Indirectly Endorses Buckley at Luncheon Here,” The New York Times, October 6, 1970, timesmachine.nytimes.com/timesmachine/1970/10/06/78173885.html?pageNumber=43. At a fundraising luncheon attended primarily by Republicans, Vice President Spiro Agnew expressed support for Conservative Party candidate James Buckley in his campaign against Republican nominee Charles Goodell. The event attracted prominent conservative donors, including corporate executives, bankers, and the former U.S. ambassador to Italy.
+3. Robert D. McFaden, “James L. Buckley, 100, Conservative Senator in Liberal New York, Dies,” The New York Times, August 18, 2023, nytimes.com/2023/08/18/nyregion/james-buckley-dead.html. Buckley’s unexpected 1970 victory in liberal New York made him the first third-party candidate elected to the U.S. Senate since Robert M. LaFollette Jr. won on the Progressive ticket in 1940. 6. Buckley v. Valeo, Federal Election Commission, accessed December 2024, fec.gov/legal-resources/courtcases/buckley-v-valeo/. Senator James L. Buckley and others filed suit challenging the constitutionality of the 1974 amendments to the Federal Election Campaign Act and the Presidential Election Campaign Fund Act. They argued the laws violated their First Amendment rights to free association and their Fifth Amendment rights to equal protection.
+4. Richard Hasen, interview, November 21, 2023. 8. Ann Southworth, Big Money Unleashed: The Campaign to Deregulate Election Spending (University of Chicago Press, 2024), pp. 42–43.
+5. Christine Woodside, “How ‘Little House on the Prairie’ Built Modern Conservatism,” Politico, September 11, 2016, politico.com/magazine/story/2016/09/little-house-on-the-prairie-conservatism-214237/. 10. Ralph K. Winter Jr., in association with John R. Bolton, “Campaign Financing and Political Freedom,” American Enterprise Institute for Policy Research, October 18, 1973, aei.org/research-products/report/campaign-financing-and-political-freedom/.
+6. Winter, “Campaign Financing and Political Freedom,” p. 19 12. Richard L. Hasen, “The Nine Lives of Buckley v. Valeo,” in First Amendment Stories, ed. Richard W. Garnett and Andrew Koppelman (New York: Foundation Press, 2010), Loyola-LA Legal Studies Paper No. 2010-15, April 20, 2010, ssrn.com/abstract=1593253.
+7. Buckley v. Valeo, 424 U.S. 1 (1976), case summary, vLex, case-law.vlex.com/vid/buckley-v-valeo-no-887977004. 14. Ann Southworth, Big Money Unleashed, 40–41.
+8. Marty Lederman, “The Return of the Robert Bork Dueling Briefs Strategy,” SCOTUSblog, March 17, 2014, scotusblog.com/2014/03/commentary-the-return-of-the-robert-bork-dueling-briefs-strategy-buckley-v-valeo-susan-b-anthony-list-and-ohio-attorney-general-dewine. 16. Brice M. Clagett and John R. Bolton, “Buckley v. Valeo, Its Aftermath, and Its Prospects: The Constitutionality of Government Restraints on Political Campaign Financing,” Vanderbilt Law Review 29 (1976): 1327–1390, scholarship.law.vanderbilt.edu/cgi/viewcontent.cgi?article=3166&context=vlr.
+9. Archibald Cox, Buckley v. Valeo, Oral Argument, November 10, 1975, 424 U.S. 1 (1976), Oyez, oyez. org/cases/1975/75-436.
+10. Buckley v. Valeo 424 U.S. 1 (1976), Opinion Announcement, January 30, 1976, Oyez, oyez.org/cases/1975/75-436. 19. Bigelow v. Virginia 421 U.S. 809 (1975), argued December 18, 1974, decided June 16, 1975, Oyez, oyez.org/cases/1974/73-1309.
+11. Alan Morrison, interview by Laura Krantz, October 10, 2023. 21. Bigelow v. Virginia, 421 U.S. 809 (1975), Opinion of the Court by Justice Harry Blackmun, June 16, 1975, Justia, supreme.justia.com/cases/federal/us/421/809/#tab-opinion-1951369.
+12. “Woman’s Drive for Drug-Price Ads Ends Victoriously,” The New York Times, May 25, 1976, nytimes.com/1976/05/25/archives/womans-drive-for-drugprice-ads-ends-victoriously-after-2-years.html. 23. Virginia State Board of Pharmacy v. Virginia Citizens Consumer Council, 425 U.S. 748 (1976), Justia, supreme.justia.com/cases/federal/us/425/748/#T11. The Court referenced consumer surveys in footnote 11 to support its reasoning about the value of price advertising.
+13. Alan B. Morrison, “How We Got the Commercial Speech Doctrine: An Originalist’s Recollections,” Case Western Reserve Law Review 54, no. 4 (2004): 1199, scholarlycommons.law.case.edu/caselrev/vol54/iss4/8. 25. Va. Pharmacy Bd. v. Va. Consumer Council, 425 U.S. 748 (1976), Opinion of the Court by Justice Harry Blackmun, Justia, supreme.justia.com/cases/federal/us/425/748/#tab-opinion-1951725.
+14. “Supreme Court/Drug Ad,” CBS Evening News, May 24, 1976, Vanderbilt Television News Archive, no. 231340. 27. Adam Winkler, “The Corporation’s Justice” in We the Corporations: How American Businesses Won Their Civil Rights (W.W. Norton, 2018), 298. Winkler cites Powell’s personal notes from the case (Powell Conference Notes, November 14, 1975, Virginia State Board of Pharmacy Case File, Powell Archives, Washington and Lee University School of Law).
+15. Buckley v. Valeo, Opinion of the Court, 1975; Va. Pharmacy Bd. v. Va. Consumer Council, Opinion of the Court, 1976. 29. First National Bank of Boston v. Bellotti, Federal Election Commission, accessed April 4, 2024, fec.gov/legal-resources/court-cases/first-national-bank-of-boston-v-bellotti/. The law let banks and corporations spend money on ballot campaigns if the issue directly affected their “property, business, or assets.” But it also made clear that questions about personal taxes didn’t count as affecting a corporation’s business.
+16. The First National Bank of Boston & Others v. Attorney General & Others, Massachusetts Supreme Judicial Court, June 8, 1976–February 1, 1977, Justia, law.justia.com/cases/massachusetts/supreme-court/volumes/371/371mass773.html. 31. First National Bank of Boston v. Bellotti, 435 U.S. 765 (1978), Syllabus, Library of Congress, tile.loc.gov/storage-services/service/ll/usrep/usrep435/usrep435765/usrep435765.pdf. Footnote on page 767 notes that briefs of amici curiae urging reversal were filed by Associated Industries of Massachusetts, Inc., the U.S. Chamber of Commerce, and the Pacific Legal Foundation.
+17. First National Bank of Boston v. Bellotti, 435 U.S. 765 (1978), Oral Argument, November 9, 1977, Justia, supreme.justia.com/cases/federal/us/435/765/. During oral argument, the bank’s lawyer, Francis H. Fox, told the Court that concerns about the “undue influence of wealth” had already been addressed in Buckley v. Valeo. He asserted that the Court had found it “contrary to the First Amendment” to restrict one group’s speech “in order to enhance the relative voice of another.”
+18. First National Bank of Boston v. Bellotti, Oral Argument, 1977.
+19. Adam Winkler, interview by Laura Krantz, October 17, 2023. 35. Reception and Dinner Honoring Lewis Franklin Powell, Jr., December 17, 1971, Powell Archives, Washington and Lee University School of Law.
+20. Justice William J. Brennan Jr., “Memorandum to the Conference, Re: No. 76-1172,” December 1, 1977, in First National Bank of Boston v. Bellotti case file, Powell Archives, Washington and Lee University School of Law. 37. William Brennan, “Memorandum to the Conference,” p. 3.
+21. Adam Winkler, We the Corporations, pp. 379–83. 39. First National Bank of Boston v. Bellotti, 435 U.S. 765 (1978), Oral Argument, April 26, 1978, Justia, https://supreme.justia.com/cases/federal/us/435/765/.
+22. Adam Winkler, interview by Laura Krantz, October 17, 2023. 41. Ashley Parker, “‘Corporations Are People,’ Romney Tells Iowa Hecklers Angry over His Tax Policy,” The New York Times, August 11, 2011, nytimes.com/2011/08/12/us/politics/12romney.html.
+23. “FEC Records Slight Increase in the Number of PACs,” Federal Election Commission, January 17, 2008, fec.gov/updates/fec-records-slight-increase-in-the-number-of-pacs/. According to the FEC, of the 2,279 PACs federally registered in 1980, 1,107 were corporate-affiliated, compared to just 255 aligned with labor organizations. 43. Edwin M. Epstein, “An Irony of Electoral Reform,” AEI Journal on Government and Society: Regulation 3, no. 3 (1979): 38, cato.org/sites/cato.org/files/serials/files/regulation/1979/5/v3n3-6.pdf; Robert Mutch, Campaigns, Congress and the Courts, 166.
+24. John McCain, “McCain Campaign Speech,” June 30, 1999, C-SPAN, c-span.org/program/campaign-2000/mccain-campaign-speech/97394.
+
+### Chapter 5
+
+1. “Ed Gray,” Understanding the Keating Five, Brown University, keating.ccv.brown.edu/actors/supporting\_cast/Ed-Gray. 2. Edwin Gray testimony, “Savings & Loan Senate Ethics Investigation: Day 2, Part 1,” C-SPAN, c-span.org/video/?15142-1/savings-loan-senate-ethics-investigation-day-2-part-1, at 1:03:55; see also Charles Bowden, Trust Me: Charles Keating and the Missing Billions (Random House, 1993), 284; and Stephen Pizzo, Mary Fricker, and Paul Muolo, Inside Job: The Looting of America’s Savings and Loans (New York: McGraw-Hill, 1989), 290.
+2. “Savings & Loan Senate Ethics Investigation,” C-SPAN; Understanding the Keating Five, Brown University. 4. Gray testimony, “Savings & Loan Senate Ethics Investigation,” C-SPAN, 107:47
+3. John Nichols, “John McCain and Russ Feingold’s Joint Effort to Restore Democracy,” The Nation, August 27, 2018, thenation.com/article/archive/john-mccain-and-russ-feingolds-joint-effort-to-restore-democracy. 6. “Savings and Loan Senate Ethics Investigation,” November 16, 1990, C-SPAN, c-span.org/program/senate-committee/savings-and-loan-senate-ethics-investigation/10345.
+4. “Vietnam/Prisoners of War Release,” ABC Evening News, March 14, 1973, Vanderbilt Television News Archive, no. 24890.
+5. See series of articles by Dan Nowicki and Bill Muller: “John McCain’s American Story,” The Arizona Republic, April 2, 2018, azcentral.com/story/news/politics/arizona/2018/04/02/john-mccain-american-story-arizona-senator-how-we-did-series/471552002; “John McCain’s Marriage, Move to Arizona Helped Launch Political Career,” The Arizona Republic, September 25, 2018; “The Ever-Ambitious John McCain Rises to the U.S. Senate,” The Arizona Republic, September 24, 2018; “John McCain Gets into ‘a Hell of a Mess’ with the Keating Five Scandal,” The Arizona Republic, September 25, 2018.
+6. “1986 John McCain Senate Campaign Ad,” 12News, KPNX-TV, August 26, 2018, 12news.com/video/news/politics/mccain/watch-1986-john-mccain-senate-campaign-ad/75-8232276. 10. Andrew Rosenthal, “Political Marketing on the Air: $97 Million Spent in ’86,” The New York Times, July 14, 1987, nytimes.com/1987/07/14/us/political-marketing-on-the-air-97-million-spent-in-86.html.
+7. Mark Buse, interview by Laura Kranz, May 3, 2024. 12. E.J. Montini, “How Sen. John McCain Picked Charlie Keating’s Pocket,” The Arizona Republic, April 2, 2014, azcentral.com/story/ejmontini/2014/04/02/mccain-keating-lincoln-keating-5-politicsarizona/7215855. McCain took $112,000 in campaign contributions from Keating.
+8. “McCain — Part II of Testimony in Front of Senate Ethics Committee,” Understanding the Keating Five, Brown University, keatingfive.org/videos/McCain%20-%20Part%20II. 14. “The Lincoln Savings and Loan Investigation: Who Is Involved,” The New York Times, November 22, 1989, timesmachine.nytimes.com/timesmachine/1989/11/22/946389.html?pageNumber=34; Richard L. Berke, “Witness Says Keating’s Way Was Buying Access to Five,” The New York Times, December 15, 1990, nytimes.com/1990/12/15/us/witness-says-keating-s-way-was-buying-access-to-five.html; Nathaniel C. Nash, “Showdown Time for Danny Wall,” The New York Times, July 9, 1989, nytimes.com/1989/07/09/business/showdown-time-for-danny-wall.html.
+9. Gray testimony, “Savings & Loan Senate Ethics Investigation,” C-SPAN. 16. “Lincoln Savings Scandal Examined in Hearings,” CQ Almanac 1989 (CQ Press), library.cqpress.com/cqalmanac/document.php?id=cqal89-1138250.
+10. Lincoln Savings and Loan coverage, New York Times and CQ Almanac. 18. “Savings and Loan Crisis,” CBS Evening News, May 15, 1985, Vanderbilt Television News Archive, no. 303562.
+11. Christian Berthelsen, “Keating Pleads Guilty to 4 Counts of Fraud,” The New York Times, April 7, 1999, nytimes.com/1999/04/07/business/keating-pleads-guilty-to-4-counts-of-fraud.html; Charles Babcock, “Common Cause Urges Probe of 5 Senators,” The Washington Post, October 14, 1989, washingtonpost.com/archive/politics/1989/10/14/common-cause-urges-probe-of-5-senators/6195e69f-e026-4c0c-b7dc-e69a4acb713f; “Savings and Loan Scandal,” NBC News, October 13, 1989, Vanderbilt Television News Archive, no. 565243. Tom Brokaw reported that Common Cause was urging the Senate Ethics Committee to investigate campaign contributions from Lincoln S&L to Senators John Glenn, Alan Cranston, Donald Riegle, John McCain, and Dennis DeConcini, all of whom were accused of pressuring regulators before Lincoln S&L collapsed, costing taxpayers billions. 20. Nathaniel C. Nash with Philip Shenon, “Man in Influence, Political Cash Regulation,” The New York Times, November 9, 1989, nytimes.com/1989/11/09/business/man-influence-political-cash-regulation-special-report-savings-debacle-many.html. During the hearings and in media interviews, Keating openly admitted to buying political influence and defended his actions by arguing that financial contributions were the only way business interests could gain a hearing in politics, a defense that left many lawmakers—who had accepted his money—deeply embarrassed.
+12. Mark Buse, interview, May 3, 2024.
+13. “Savings & Loan Senate Ethics Investigation,” C-SPAN, November 16, 1990, c-span.org/video/? 15023-1/savings-loan-senate-ethics-investigation, at 34:32.
+14. “Savings & Loan Senate Ethics Investigation,” C-SPAN, at 4:21. 24. “McCain,” Frontline, PBS, April 17, 2018, Season 2018, pbs.org/wgbh/frontline/documentary/mccain.
+15. Mark Buse, interview, May 3, 2024. 26. Laider P, Turek M., “The Federal Election Campaign Act Amendments of 1979” 90 Stat. 339 (1979). In Paweł Laidler and Maciej Turek, eds., Basic Documents in Federal Campaign Finance Law (Jagiellonian University Press; 2015), 63-67.
+16. McConnell v. Federal Election Commission, 540 U.S. 93, 123–24 n.7 (2003), Legal Information Institute, Cornell Law School, law.cornell.edu/supct/html/02-1674.ZO.html. The Court noted that after Buckley, there was confusion over how to treat contributions aimed at influencing both federal and state elections. Although a literal reading of FECA’s definition of “contribution” would have required such activities to be funded with hard money, from 1977 to 1995 the FEC steadily expanded the use of so-called “soft money”, allowing parties to pay for activities like voter registration, turnout drives, and general party advertising with a mix of federal and soft funds—so long as the ads did not explicitly advocate the election or defeat of a candidate. 28. Trevor Potter, interview by Jared Jacang Maher, October 6, 2023; and interview by Ula Kulpa, March 12, 2024.
+17. Buckley v. Valeo, 424 U.S. 1 (1976), Justia, supreme.justia.com/cases/federal/us/424/1/#T52. In Footnote 52, the Court defined “express advocacy” as messages containing explicit appeals such as “vote for,” “elect,” “support,” “cast your ballot for,” “Smith for Congress,” “vote against,” “defeat,” or “reject.” Communications lacking these specific phrases were considered issue advocacy and fell outside FECA’s spending restrictions. 30. Trevor Potter, interviews.
+18. “Willie Horton, National Security PAC,” 1988, produced by Larry McCarthy, The Living Room Candidate: Presidential Campaign Commercials 1952–2012, Museum of the Moving Image, livingroomcandidate.org/commercials/1988/willie-horton (accessed April 7, 2025). 32. “Both Campaigns Launch Ads on Prison Furlough Issue,” Los Angeles Times, October 22, 1988, latimes.com/archives/la-xpm-1988-10-22-mn-289-story.html; Roger Simon, “How a Murderer and Rapist Became the Bush Campaign’s Most Valuable Player,” The Baltimore Sun, November 11, 1990, baltimoresun.com/news/bs-xpm-1990-11-11-1990315149-story.html.
+19. Trevor Potter, interviews. 34. John McCain, “The Campaign Finance Reform Act of 1995,” Congressional Record — Senate (September 7, 1995), S12831, govinfo.gov/content/pkg/CREC-1995-09-07/pdf/CREC-1995-09-07-pt1-PgS12831.pdf.
+20. “Clinton/Lincoln Bedroom Sale,” NBC Evening News, February 25, 1997, Vanderbilt Television News Archive, no. 617020. 36. Margaret Ebrahim, “Fat Cat Hotel: If You’re One of the Democratic Party’s Big Donors or Fund-Raisers, Your Hotel of Choice Isn’t the Four Seasons or the Ritz-Carlton. It’s the White House,” Newsletter of the Center for Public Integrity, August 1996; “Clinton Coffee Guests Gave DNC $27 Million,” Los Angeles Times, January 28, 1997
+21. “Campaign Fundraising Poll,” March 1997, CBS News, Inter-university Consortium for Political and Social Research, icpsr.umich.edu/web/ICPSR/studies/4488, page 12-13.
+22. Mitch McConnell, debate on S. 1593, “Bipartisan Campaign Reform Act of 1999,” Congressional Record — Senate, vol. 145, no. 139 (October 14, 1999), S12582, congress.gov/congressional-record/volume-145/issue-139/senate-section/article/S12575-1. McConnell argued that the heart of the campaign finance debate was First Amendment freedom of speech and association, claiming that terms like soft money, issue advocacy, and PACs were “nothing more than euphemisms for first-amendment-protected political speech and association means of amplifying one’s voice in this vast nation of 270 million people.”
+23. William Safire, “On Language: Iron Triangle. McCain’s Metaphor vs. the Newly Steeled Bush,” The New York Times, March 12, 2000, archive.nytimes.com/www.nytimes.com/library/magazine/home/20000312mag-onlanguage.html. 40. “Campaign 2000/Campaign Funds,” ABC Evening News, June 30, 1999, Vanderbilt Television News Archive, no. 186993.
+24. Richard Oppel Jr., “Campaign Documents Show Depth of Bush Fund-Raising,” The New York Times, May 5, 2003, nytimes.com/2003/05/05/us/campaign-documents-show-depth-of-bush-fund-raising.html. 42. “Republican Presidential Candidates Debate,” C-SPAN, November 7, 1999, c-span.org/program/public-affairs-event/republican-presidential-candidates-debate/98689.
+25. John Mintz and Ruth Marcus, “Bush’s Costly Victory Erases His Funding Edge,” Washington Post, March 2, 2000, washingtonpost.com/archive/politics/2000/03/09/bushs-costly-victory-erases-his-funding-edge/f7a50246-7ff3-4618-b355-a71710c368d6. 44. Campaign Finance Reform, C-SPAN, January 22, 2001, c-span.org/video/?162064-1/campaign-finance-reform
+26. “2000 Presidential Race First in Modern History Where Political Parties Spend More on TV Ads Than Candidates,” December 11, 2000, Brennan Center for Justice, brennancenter.org/our-work/analysis-opinion/2000-presidential-race-first-modern-history-where-political-parties-spend. 46. Trevor Potter, interviews.
+27. “White House Downplays Bush-Lay Relationship,” NBC News/Associated Press, July 8, 2004, nbcnews.com/id/wbna5395458; “Bush Lay Ties Based on Shared Priorities,” Washington Post, March 23, 2002, washingtonpost.com/archive/politics/2002/03/24/bush-lay-ties-based-on-shared-priorities/83bcef1b-7e59-4bef-a93e-d7700ef1461a. 48. “Senator John McCain,” Charlie Rose, February 12, 2002, at 2:23 min, charlierose.com/videos/9528.
+28. “Seven in 10 Support of New Campaign Finance Legislation,” Gallup, February 13, 2002, news. gallup.com/poll/5329/seven-support-new-campaign-finance-legislation.aspx. 50. “Senate Session,” C-SPAN, March 20, 2002, www.c-span.org/video/?169226-1/senate-session, 4:00:50 to 5:01:56.
+29. “Traficant Guilty of Bribery, Racketeering,” CNN.com, April 12, 2002, www.cnn.com/2002/LAW/04/11/traficant.trial/index.html. A jury found U.S. Rep. James Traficant guilty on all counts in his federal racketeering and corruption trial, convicting him of bribery, tax fraud, racketeering, and forcing aides to do personal chores at his Ohio farm and on his houseboat in D.C. 52. John Cassidy, “How Will Historians Judge John McCain?” The New Yorker, September 4, 2018, www.newyorker.com/news/our-columnists/how-will-historians-judge-john-mccain; Walter Shapiro, “Remembering John McCain’s Campaign Reform Legacy,” Brennan Center for Justice, www.brennancenter.org/our-work/analysis-opinion/remembering-john-mccains-campaign-reform-legacy.
+30. “Senate Campaign Finance Reform/McCain Interview,” CNN Evening News, March 20, 2002, Vanderbilt Television News Archive, no. 698133.
+31. “President Signs Campaign Finance Reform Act: Statement by the President,” The White House, March 27, 2002, georgewbush-whitehouse.archives.gov/news/releases/2002/03/20020327.html.
+32. McConnell v. Federal Election Commission, 540 U.S. 93 (2003), Supreme Court of the United States, Justia, supreme.justia.com/cases/federal/us/540/93. 56. “Opponents of Campaign Finance Reform Vow to Go to Court,” CNN Late Edition with Wolf Blitzer, March 24, 2002, transcripts.cnn.com/show/le/date/2002-03-24/segment/00.
+33. McConnell v. Federal Election Commission, 540 U.S. 93 (2003), Oral Argument (Part 1), September 8, 2003, Oyez, www.oyez.org/cases/2003/02-1674. 58. Roger Witten, interview by Laura Krantz, March 22, 2024.
+34. McConnell v. FEC, Oral Argument, at 1:36:42. 60. “FEC v. Colorado Republican Federal Campaign Committee,” Legal Resources, FEC, accessed April 7, 2025, fec.gov/legal-resources/court-cases/fec-v-colorado-republican-federal-campaign-committee. In 1996, the Supreme Court held that party spending limits could not apply to the Committee’s radio ad, since it was an independent expenditure and not coordinated with a candidate.
+35. Chief Justice Rehnquist, McConnell v. FEC, 540 U.S. 93 (2003), Opinion of the Court, December 10, 2003, supreme.justia.com/cases/federal/us/540/93/#tab-opinion-1961446. 62. Roger Witten, interviews.
+
+### Chapter 6
+
+1. “Other Billionaires Who Have Treated the Supreme Court Justice to Luxury Travel,” ProPublica, August 10, 2023, propublica.org/article/clarence-thomas-other-billionaires-sokol-huizenga-novelly-supreme-court; “Alito Kicks Up Ethics Questions with New Undisclosed Gifts from Billionaire Donors,” Courthouse News, June 21, 2023, courthousenews.com/alito-kicks-up-ethics-questions-with-new-undisclosed-gifts-from-billionaire-donors.
+2. “Capital Conversation,” WFAA-TV (ABC Dallas), July 2, 2000; see “Justices Often Are Not Politically Predictable, Nominee Has Said,” The Washington Post, August 8, 2005, washingtonpost.com/archive/politics/2005/08/08/justices-often-are-not-politically-predictable-nominee-has-said/38414a00-6f63-49a9-a223-6048257a7ed6. 3. Jeffrey Toobin, The Nine: Inside the Secret World of the Supreme Court (New York: Knopf Doubleday Publishing Group, 2008), 7.
+3. “Capital Conversation,” WFAA-TV, July 2, 2000. 5. Roberts Confirmation Hearing Day 1, C-SPAN, September 12, 2005, c-span.org/video/?188437-1/roberts-confirmation-hearing-day-1.
+4. Nixon v. Shrink Missouri Government PAC, 98-963, January 24, 2000, Oyez, oyez.org/cases/1999/98-963. The Supreme Court upheld Missouri’s cap on campaign contributions, extending Buckley v. Valeo’s federal limits to state races. The case began when a candidate challenged the state’s $1,075 donation limit, arguing it violated free speech. The Court rejected the claim, with Justice Stevens writing in his concurrence that “money is property; it is not speech.” 7. Nixon v. Shrink Missouri Government PAC, Oral Argument, October 5, 1999, Oyez.
+5. Nixon v. Shrink, Oyez. 9. Jeffrey Toobin, interview by Jared Jacang Maher, May 7, 2024.
+6. “No More Souters,” Opinion, Wall Street Journal, July 19, 2005, wsj.com/articles/SB112173866457289093.
+7. Introduction to the Federalist Society, film, Federalist Society, August 15, 1986, released on YouTube, April 25, 2019, youtube.com/watch?v=q0AD3TZIm0Q. 12. Saul Cornell, “Originalism’s Historical Problems: The Supreme Court’s Embrace of a Controversial Theory,” Origins: Current Events in Historical Perspective, November 2022. origins.osu.edu/read/originalisms-historical-problems-supreme-courts-embrace-controversial-theory. Accessed April 5, 2025.
+8. Jane Mayer, Dark Money, 134; Supreme Revenge, Frontline/PBS, Frontline, January 2019, pbs.org/wgbh/frontline/interview/michael-avery. 14. “President Reagan Federalist Society Address,” C-SPAN, September 9, 1988, c-span.org/program/white-house-event/president-reagan-federalist-society-address/2475.
+9. William J. Haun, “The Philosopher in Action: A Tribute to the Honorable Edwin Meese III,” Federalist Society Review 13, no. 1 (March 22, 2012), fedsoc.org/fedsoc-review/the-philosopher-in-action-a-tribute-to-the-honorable-edwin-meese-iii. 16. “Bork’s Nomination Is Rejected, 58-42; Reagan Saddened,” New York Times, October 24, 1987, nytimes.com/1987/10/24/politics/borks-nomination-is-rejected-5842-reagan-saddened.html.
+10. The Conservative and Libertarian Legal Movement: A 25 Year Retrospective, The Federalist Society, November 17, 2007, released on April 20, 2011, YouTube, youtube.com/watch?v=2T-huKpEu-c&t=62s, 1:04:52. In an interview, Ed Meese reflected on the 1987 nomination fight, calling it a “pernicious attack on Bob Bork” that became “a perfect storm,” as Democrats had just taken control of the Senate and left-wing interest groups were “spoiling for a scalp.” He described how the process turned “a civil confirmation process into really nothing less than a political campaign,” with television attack ads targeting key senators and personal accusations against Bork that Meese called “vicious” and “untrue.” 18. Clarence Thomas, “The Modern Role of the Privileges or Immunities Clause,” speech at the 1988 National Student Symposium of the Federalist Society, March 4, 1988, posted May 27, 2021, YouTube, https://www.youtube.com/watch?v=n\_cyLDTwPSk. In the speech, a 39-year-old Thomas urged fellow members to recognize that their audience extended beyond lawyers. “Our struggle is not just another piece of litigation or legal technique. This is a political struggle, calling for us to use not only the most just and wisest of arguments, but the most noble as well,” he said. “Ronald Reagan did not move this nation by arguing like a lawyer—and neither did Abraham Lincoln, though he was a fine country lawyer. When we argue for political causes like lawyers, we tend to blame the bulk of our problems on the courts and bureaucracy, and ignore the critical role of Congress.”
+11. “The Thomas Nomination; Thomas Accuser Tells Hearing of Obscene Talk and Advances; Judge Complains of ‘Lynching’,” New York Times, October 12, 1991, nytimes.com/1991/10/12/us/thomas-nomination-thomas-accuser-tells-hearing-obscene-talk-advances-judge.html. 20. Ruth Marcus, “Backers of Thomas Unveil Ad Attacking 3 Democrats,” Washington Post, September 3, 1991, washingtonpost.com/archive/politics/1991/09/04/backers-of-thomasunveil-ad-attacking-3-democrats/a1ba49a6-df5f-47a3-aa10-38af23bf7a4e.
+12. “A Sept. 1991 TV Ad in Support of Clarence Thomas for #SCOTUS,” video, C-SPAN, September 4, 1991, c-span.org/clip/news-conference/a-sept-1991-tv-ad-in-support-of-clarence-thomas-for-scotus/4752812. 22. “Supreme Court/Appointments,” CNN Evening News, November 3, 2004, Vanderbilt Television News Archive, no. 770047.
+13. Robert O’Harrow Jr. and Shawn Boburg, “Federalist Society’s Leonard Leo is Helping Trump Make Courts More Conservative,” Washington Post, May 21, 2019; Andy Kroll, “We Don’t Talk About Leonard:
+    The Man Behind the Right’s Supreme Court Supermajority,” ProPublica, October 11, 2023, propublica.org/article/we-dont-talk-about-leonard-leo-supreme-court-supermajority. 24. Federalist Society’s 25th Anniversary Tribute Video, The Federalist Society, November 13, 2007, YouTube, 7:44, youtube.com/watch?v=PEsxcuP-Sv4. 25. “How Fallout from the Thomas Nomination Will Affect 1992,” Los Angeles Times, October 20, 1991, latimes.com/archives/la-xpm-1991-10-20-op-427-story.html; Marc Thiessen, “How Biden Killed John Roberts’s Nomination in 1992,” American Enterprise Institute, February 26, 2016, aei.org/articles/how-biden-killed-john-robertss-nomination-in-1992.
+14. Martin Garbus, “Hostile Takeover,” The American Prospect, February 20, 2003, prospect.org/features/hostile-takeover/; David Enrich, “How a Corporate Law Firm Led a Political Revolution,” New York Times, August 25, 2022, nytimes.com/2022/08/25/magazine/jones-day-trump.html. 27. “Bush-Gore Presidential Debate 2000,” C-SPAN, October 3, 2000, c-span.org/video/?159295-5/presidential-debate-candidate-focus, 00:29:16.
+15. “CNN: Flashback to 2000, U.S. Presidential Election Recount,” video, CNN, November 7, 2000, posted October 7, 2010, YouTube, youtube.com/watch?v=JEB9hWYMpA0. 29. Jeffrey Toobin, The Nine, 149.
+16. Neil A. Lewis, “White House Ends Bar Association’s Role in Screening Federal Judges,” New York Times, March 23, 2001, nytimes.com/2001/03/23/us/white-house-ends-bar-association-s-role-in-screening-federal-judges.html. 31. “Judicial Appointments/American Bar Association Role Change,” CBS Evening News, March 22, 2001, Vanderbilt Television News Archive, no. 397287.
+17. Lisa Graves, interview by Jared Jacang Maher and Laura Krantz, April 1 and April 8, 2024. 33. Jeffrey Toobin, interview by Jared Jacang Maher, May 7, 2024.
+18. Ari Berman, “Inside John Roberts’ Decades-Long Crusade Against the Voting Rights Act,” Politico, August 10, 2015, politico.com/magazine/story/2015/08/john-roberts-voting-rights-act-121222/; Julia Rock, “When John Roberts Tried to Take Power From the Courts,” The Lever, July 17, 2023, levernews.com/when-john-roberts-tried-to-take-power-from-the\_courts. 35. “A Resume Strong on Business,” Los Angeles Times, July 22, 2005. In private practice, Roberts represented major corporations like Chrysler, Toyota, and NBC, along with industry trade groups. In Toyota v. Williams (2002), he successfully argued that the ADA didn’t require accommodations for a worker with carpal tunnel syndrome; “Pharmaceutical Companies v. Maine,” NBC News, June 2003, nbcnews.com/id/wbna3071010. In a brief for the U.S. Chamber of Commerce, that Maine’s drug pricing law could have broad national impact, though the Court ultimately upheld the law.
+19. “Senator Jeffords Party Affiliation Announcement,” C-SPAN, May 24, 2001, c-span.org/video/? 164445-1/senator-jeffords-party-affiliation-announcement. 37. “Senate Majority Leader News Briefing, Senator Daschle and Representative Gephardt,” March 6, 2002, C-SPAN, c-span.org/video/?168989-1/senate-majority-leader-news-briefing.
+20. “Judicial Nominations Press Conference,” May 9, 2002, C-SPAN, c-span.org/video/?170015-1/judicial-nominations. 39. Neil A. Lewis, “The 2002 Campaign: The Judiciary; Bush Places Senate’s Delays on Judicial Appointees at Core of Campaigning,” New York Times, October 16, 2002, nytimes.com/2002/10/16/us/2002-campaign-judiciary-bush-places-senate-s-delays-judicial-appointees-core.html.
+21. Don Willet to Brett Kavanaugh, “RE: Recap of the Final Owen Conf. Call Tonight,” White House Records Related to Judge Brett M. Kavanaugh, September 5, 2002, National Archives, document REV\_00219854.
+22. Leonard Leo did not respond to requests for an interview or to questions sent by email. 42. Willet to Kavanaugh, “Recap of the Final Owen Conf. Call,” September 5, 2002.
+23. Tamara Keith, “Brett Kavanaugh’s Role in the Starr Investigation and How It Shaped Him,” NPR, August 17, 2018, npr.org/2018/08/17/639670928/brett-kavanaughs-role-in-the-starr-investigation-andhow-it-shaped-him; Joan Biskupic, “Supreme Court Is About to Have 3 Bush v. Gore Alumni Sitting on the Bench,” CNN, October 17, 2020, cnn.com/2020/10/17/politics/bush-v-gore-barrett-kavanaugh-roberts-supreme-court/index.html. 44. William J. Haun, “The Philosopher in Action: A Tribute to the Honorable Edwin Meese III,” Federalist Society, March 22, 2012, fedsoc.org/fedsoc-review/the-philosopher-in-action-a-tribute-to-the-honorable-edwin-meese-iii.
+24. Efforts to contact Brett Kavanaugh for an interview—including emails to his office with specific questions—went unanswered. 46. Emails, White House Records Related to Judge Brett M. Kavanaugh, National Archives. Brett Kavanaugh to multiple recipients, “Re: Estrada Meeting/Wednesday,” August 21, 2002, stating, “. . . there will be a national coalition dedicated solely to Estrada. Leonard Leo is working on that,” document REV 00219291; Kavanaugh to Tim Goeglein, “Re: Fw: Estrada the Big Fix!!,” February 25, 2003, noting that “Leonard L. will follow up,” document REV 00373187; Kavanaugh to Brent D. Greenfield, May 8, 2001, instructing, “please call Leonard Leo at 822-8138 and get him a binder ASAP,” document REV 00175687; Matthew Smith to Brett Kavanaugh, “Re: List of Groups,” May 20, 2003, advising, “please call Joel in Leonard Leo’s office. He is now helping coordinate outside coalition activity regarding judicial nominations,” document REV 00119190.
+25. Leonard Leo to Don Willett, “Re: Business and Courts,” June 7, 2002, attachments forwarded to Brett Kavanaugh and Wendy Keefer, records obtained by Fix the Court, represented by American Oversight, EXT-18-2091-E, U.S. Department of Justice. 48. David Rosenbaum and Lynette Clemetson, “In Battle to Confirm a New Justice, Both Sides Get Ready,” New York Times, July 3, 2005, nytimes.com/2005/07/03/politics/politicsspecial1/in-battle-to-confirm-a-new-justice-both-sides-get.html. In 2002, at the request of Senate Majority Leader Trent Lott, Gray launched the Committee for Justice to rally support for Bush’s future Supreme Court nominees. Drawing on his experience from the Thomas confirmation fight, Gray aimed to build a broad coalition around judicial nominations. According to the article, “One of his targets was the business world, whose deep pockets and effective lobbying machine on regulatory issues could greatly help in any such campaign.”
+26. Leonard A. Leo of the Federalist Society to Alberto Gonzales, letter, April 23, 2001, document REV 00246510, National Archives. 50. Emails, Brett Kavanaugh Records, National Archives, records obtained through American Oversight FOIA EXT-18-2091-A-D. Don Willett to multiple recipients, “RE Owen Restraint Paper,” July 11, 2002; Nathan Sales to multiple recipients, cc Brett Kavanaugh, “RE Estrada Event on Tuesday,” February 14, 2003, noting “Leonard Leo will know. We probably don’t want the Fed Soc paying for it, but he might know some generous donor”; Sales to multiple recipients, “RE: Paez and Berzon’s 9th Cir. Record,” September 21, 2002.
+27. Emails, White House Records Related to Brett Kavanaugh, National Archives. Tim Goeglein to Brett Kavanaugh, “Norquist/Weyrich Plan for Wed.,” January 14, 2002, noting “so glad you can come to Norquist and Weyrich Wednesday in re: a full judges update,” document REV 00089508; Matthew E. Smith to Kavanaugh and others, “Friday, May 11, 2001 - Judicial Nominations,” May 10, 2001, agenda for
+    a “Conference Call with Talking Heads and Conservative Leaders” including Hannity, Limbaugh, Ed Meese, Paul Weyrich, and Rich Lowry; Bradford Berenson to multiple recipients, “Ted Olson’s Federalist Barbecue,” June 26, 2002, document REV 00096029; Kavanaugh to Leonard Leo, “Call this Week,” March 31, 2003, writing “we should try to do a conference call or meeting this week with General Meese about judges,” document REV 00113273; Ginni Thomas to multiple recipients, “Heritage Update,” July 8, 2003. 52. “The Politics of Supreme Court Confirmations and Recommendations for Reform,” Cato Institute, July 2021, cato.org/testimony/perspectives-supreme-court-practitioners-views-confirmation-process#modern-confirmations-are-different-because-the-political-culture-is-different. 53. Thomas B. Edsall, “New Ways to Harness Soft Money in Works,” Washington Post, August 24, 2002.
+28. Emails from Office of Legal Policy, U.S. Department of Justice, records obtained through American Oversight FOIA EXT-18-2091-E. Tracy Washington to Judicial Confirmation Working Group team, “Agenda – Weekly Conference Call,” June 3, 2002, agenda includes item for “PFA Activity” discussion, spreadsheet assigning Progress for America staff to book radio shows and send letters to organizations; Jennifer Oschal to Brett Kavanaugh, Viet Dinh, and others, “FW: O’Reilly Factor,” July 9, 2002, EXT-18-2091-E-000351, noting she worked with John Eastman to prepare talking points for The O’Reilly Factor; “Priscilla Owen Follow-up,” August 6, 2002, document 31\_REV\_00349815. 55. “Federal Judicial Nominations,” C-SPAN, May 3, 2002, c-span.org/video/?169905-1/federal-judicial-nominations.
+29. Neil Lewis, “The 2002 Campaign: The Judiciary; Bush Places Senate’s Delays on Judicial Appointees at Core of Campaigning,” New York Times, October 16, 2002, nytimes.com/2002/10/16/us/2002-campaign-judiciary-bush-places-senate-s-delays-judicial-appointees-core.html. 57. The NewsHour with Jim Lehrer, November 6, 2002, NewsHour Productions, American Archive of Public Broadcasting, accessed April 14, 2025, americanarchive.org/catalog/cpb-aacip-507-5d8nc5sw6z.
+30. Don Willett to multiple recipients, “Judges Break-Out Session,” November 6, 2002, DOJ-18-0706-E-000013. Before the retreat, Willett outlined goals for the nominations discussion, writing that the group should “emerge from these 2 hours with a concrete list of action items.” He also said that C Boyden Gray would address the evolution of the confirmation process from Bush Sr. to Bush Jr. and explain the origins of the Committee for Justice. 59. Viet D. Dinh, Memorandum, “Judicial Confirmation Action Plan,” November 11, 2002, American Oversight, DOJ-18-0706-B-000186. In this post-retreat memo, Dinh outlines an action plan for confirming President Bush’s judicial nominees in the 108th Congress, organizing tasks into immediate, intermediate, and longterm steps, with designated responsibilities for “Congressional Affairs,” “Public Affairs,” and “Coalitions.” The plan details strategies for advancing the administration’s judicial agenda.
+31. Confirmation Hearing on Federal Appointments, Senate Hearing 108-135, Pt. 1, Before the Judiciary, United States Senate, January 29, 2003, congress.gov/108/chrg/shrg89324/CHRG-108shrg89324.htm. 61. George W. Bush, “President’s Weekly Radio Address,” February 22, 2003, George W. Bush White House, georgewbush-whitehouse.archives.gov/news/releases/2003/02/20030222-1.html.
+32. “Mission Accomplished Speech,” NBC Nightly News, May 1, 2003. 63. McConnell v. FEC, Final Judgment, United States District Court for the District of Columbia, May 1, 2003, Campaign Legal Center, campaignlegal.org/document/mcconnell-v-fec-order-final-judgment.
+33. “John G. Roberts, Jr. Biography,” The White House. 65. “Judicial Confirmation Process,” C-SPAN, May 9, 2003, c-span.org/video/?176559-1/judicial-confirmation-process, 22:19.
+34. Brett Kavanaugh to Matthew E. Smith, “Re: Seating,” White House Records Related to Judge Brett M.
+    Kavanaugh, May 8, 2003, National Archives, document REV 00219854. The email concerned VIP seating at a Rose Garden event; Smith noted, “I also think the four coalition leaders should get good seats,” naming Leonard Leo, Jay Sekulow, and C. Boyden Gray among them. Kavanaugh to Leonard Leo, “Re: Fed Soc Invitations,” May 8, 2003, document REV\_00117562. Kavanaugh cautioned Leo, “Federalist Society should NOT be calling people in government (Justice and Senate) to invite them. This is presenting protocol issues at Senate and with DOJ.” 67. Joan Frawley Desmond, “The War Room: What We Have Learned About Confirming Good Judges,” Crisis Magazine, September 1, 2006, crisismagazine.com/vault/the-war-room-what-we-have-learned-about-confirming-good-judges. 68. “Judicial Confirmation Process”, C-SPAN, May 9, 2003, c-span.org/program/white-house-event/judicial-confirmation-process/117547.
+
+### Chapter 7
+
+1. “WRAP Daschle Demands Apology from Bush, President Compares Saddam and Al Qaida,” AP Archive, September 25, 2002, YouTube, youtube.com/watch?v=wyyxlWiftgQ.
+2. Brian Naylo and Ron Elving “Primer: Judicial Nominees and the Senate Filibuster,” NPR, April 5, 2006, npr.org/2005/04/05/4575047/primer-judicial-nominees-and-the-senate-filibuster. According to NPR, of President Bush’s 57 nominees for the U.S. Court of Appeals, 42 were confirmed, but 10 were blocked by Democratic filibusters; Tom Curry, “Originalism at Issue as Washington Girds for Court Battle,” NBC News, November 15, 2004, nbcnews.com/id/wbna6487397. Curry reported that Bush gave Judge William Pryor a recess appointment after Democrats filibustered his nomination, and noted the prominence of conservative judges like Michael McConnell at Federalist Society events; Carl Hulse and David Stout, “Embattled Estrada Withdraws as Nominee for Federal Bench,” New York Times, September 4, 2003, nytimes.com/2003/09/04/politics/embattled-estrada-withdraws-as-nominee-for-federal-bench.html. 3. David Cohen, “Top Leaders Who Lost Reelection,” Politico, June 10, 2014, politico.com/story/2014/06/top-leaders-lost-reelection-107693. According to Cohen, prior to 2004, only five congressional leaders had been defeated in a reelection bid since 1900.
+3. David Brooks, “Meet John Thune,” New York Times, November 12, 2009, nytimes.com/2009/11/13/opinion/13brooks.html; Julia Rock, Jordan Uhl, and Matthew Cunningham-Cook, “Rail Lobbyist Turned Senator Could Block Safety Bill,” Lever News, March 9, 2023, levernews.com/rail-lobbyist-turned-senator-could-block-safety-bill/; “Senator Wasn’t First Member of Thune Family to Gain Fame,” Mitchell Republic, December 30, 2010, mitchellrepublic.com/news/senator-wasnt-first-member-of-thune-family-to-gain-fame. 5. “South Dakota Senate Debate,” C-SPAN, October 12, 2004, c-span.org/video/?183932-1/south-dakota-senate-debate.
+4. Sheryl Gay Stolberg, “Gracious but Defeated, Daschle Makes History,” New York Times, November 4, 2004, nytimes.com/2004/11/04/politics/campaign/gracious-but-defeated-daschle-makes-history.html. John Thune raised over $13 million in his campaign against Tom Daschle. Interest groups including the Club for Growth, the NRA, and the U.S. Chamber of Commerce spent approximately $9 million on ads supporting Thune. Among the top contributors to the Club for Growth was real estate billionaire Harlan Crow. See “527 Committee Detail: Club for Growth, Top Contributions, 2004,” OpenSecrets, opensecrets.org/527s/527cmtedetail\_contribs.php?cycle=2004&ein=522155986. 7. John Thune 2004 Campaign Ad “Blocking Machine,” Congressional Archives, Carl Albert Center, 2004, YouTube, youtube.com/watch?v=o30zZzIH9hc.
+5. “South Dakota Senate Debate,” C-SPAN, September 19, 2004, c-span.org/video/?183579-1/south-
+   dakota-senate-debate.
+6. Cara Hetland, “John Thune: A New Republican Voice in South Dakota,” Minnesota Public Radio News, November 18, 2004, news.minnesota.publicradio.org/features/2004/11/19\_hetlandc\_johnthune/. 10. “Judicial Nominations,” May 2, 2005, C-SPAN, c-span.org/video/?186544-1/judicial-nominations. At a press conference, Progress for America’s Brian McCabe announced the “Up or Down Vote” campaign, a coordinated media effort targeting Democrats opposed judicial nominees Priscilla Owen and Janice Rogers Brown. The campaign included a website, 25 million online ads, outreach to over 10 million email recipients, TV and radio spots in six states, and field operations in fifteen states to pressure senators for confirmation votes.
+7. “Senators Compromise on Filibusters,” CNN, May 24, 2005, cnn.com/2005/POLITICS/05/23/filibuster.fight/index.html; M. Gerhardt & R. Painter, ‘Extraordinary Circumstances’: The Legacy of the Gang of 14 and a Proposal for Judicial Nominations Reform,” University of Richmond Law Review, 46, 4 (2012), https://lawreview.richmond.edu/files/2012/06/Gerhardt-Painter-464.pdf. 12. “Press Release: 07-01-05,” Supreme Court of the United States, July 1, 2005, supremecourt.gov/publicinfo/press/pr\_07-01-05.html. Justice Sandra Day O’Connor announced her retirement in a letter to the president, effective upon the nomination and confirmation of her successor.
+8. Thomas B. Edsall and Dana Milbank, “The Right’s Moment, Years in the Making,” Washington Post, July 3, 2005. 14. “Supreme Court Nomination Announcement,” July 19, 2005, C-SPAN, c-span.org/program/white-house-event/supreme-court-nomination-announcement/144600.
+9. “Pharmaceutical Companies v. Maine,” NBC News, January. 21, 2003, nbcnews.com/id/wbna3071010 16. George W. Bush, “President Announces Judge John Roberts as Supreme Court Nominee: July 19, 2005,” George W. Bush White House, georgewbush-whitehouse.archives.gov/news/releases/2005/07/20050719-7.html
+10. Henry Weinstein, “A Resume Strong on Business,” Los Angeles Times, July 22, 2005. 18. “U.S. Chamber Endorses John Roberts for Supreme Court,” U.S. Chamber of Commerce, press release, August 23, 2005.
+11. “For a High Court Nomination, Business Has Its Own Agenda,” Wall Street Journal, June 28, 2005, wsj.com/articles/SB111990996328270852. 20. David D. Kirkpatrick, “Anxious Liberal Groups Try to Rally Opposition Against Supreme Court,” New York Times, September 2, 2005, nytimes.com/2005/09/02/us/anxious-liberal-groups-try-to-rally-opposition-against-supreme-court.html. Roughly 30 liberal groups, including the NAACP, NARAL Pro-Choice, NOW, Americans United, and MALDEF, publicly called on the Senate to reject Judge John Roberts’s nomination.
+12. Ed Whelan, “Was John Roberts Ever a Member of Federalist Society?,” Confirmation Tales, February 22, 2024, confirmationtales.com/p/roberts-federalist-society. Whelan recalled a Reagan-era colleague’s observation that, after Bork’s failed nomination, many young conservatives believed a future Supreme Court nominee had to be “conservative enough to get nominated and liberal enough to get confirmed”— a mindset that may explain why John Roberts “both participated in various Federalist Society activities and avoided becoming a dues-paying member.” 22. Charles Lane, “Roberts Listed in Federalist Society ‘97-98 Directory,” Washington Post, July 24, 2005, https://wapo.st/4cyT86I.
+13. Nicolle Devenish to Brett Kavanaugh, “Fw: resend Q&A,” July 31, 2005, White House Records,
+    Kavanaugh. Internal email sharing prepared responses for anticipated questions from lawmakers and media during John Roberts’s pre-confirmation meetings on Capitol Hill. Page 6: “Federalist Society Executive Vice President Leonard A. Leo stated that membership in the Federalist Society is not required for an individual to be listed as a member of the Society’s steering committee.” 24. “Supreme Court–Roberts Nomination / Federalist Society,” Fox News with Shepard Smith, July 25, 2005, Vanderbilt Television News Archive, no. 797867. 25. “The NewsHour with Jim Lehrer,” 2005-07-22, American Archive of Public Broadcasting, americanarchive.org/catalog/cpb-aacip-507-mk6542k22g.
+14. “Judicial Nomination Ads,” C-SPAN, July 9, 2005, c-span.org/video/?187577-1/judicial-nomination-ads 27. “Chief Justice William H. Rehnquist Dies at 80,” NPR, September 4, 2005, npr.org/2005/09/04/4132357/chief-justice-william-h-rehnquist-dies-at-80.
+15. “Roberts Confirmation Hearing, Day 1,” C-SPAN, September 12, 2005, c-span.org/program/senate-committee/roberts-confirmation-hearing-day-1/149093. 29. “Roll Call Vote 109-1: Vote 109\_1\_00245,” Senate.gov, September 29, 2005, senate.gov/legislative/LIS/roll\_call\_votes/vote1091/vote\_109\_1\_00245.htm. The Senate confirmed John Roberts 78–22, with 22 of the 44 Democrats voting in favor.
+16. Harry Reid, “Remarks during Senate Session,” C-SPAN, September 29, 2005, at 1:40:40, c-span.org/program/senate-proceeding/senate-session/149085. 31. “Spotlight Turns to Next Court Nominee,” Associated Press, September 23, 2005.
+17. “Supreme Court Political Ad,” C-SPAN, October 1, 2005, c-span.org/program/vignette/supreme-court-political-ad/148022. 33. Edwin Chen, “First Lady, Democratic Leader Helped Pick Miers,” Los Angeles Times, October 4, 2005, latimes.com/archives/la-xpm-2005-oct-04-na-tictoc4-story.html; Wade Goodwyn, “Miers’ Texas Past and Controversy Today,” All Things Considered, NPR, October 17, 2005.
+18. Peter Baker, Days of Fire: Bush and Cheney in the White House (Doubleday, 2013), 420. Baker writes that when the White House informed Leonard Leo that President Bush would soon announce Harriet Miers’s nomination, Leo “was literally speechless.” The person on the other end had to ask, “Leonard, are you there?” 35. The NewsHour with Jim Lehrer, October 10, 2005, American Archive of Public Broadcasting, americanarchive.org/catalog/cpb-aacip-507-f47gq6rr55.
+19. Jeremy Schulman, “Cheney, Limbaugh: Miers Has Conservative Judicial Philosophy You Would Be Comfortable With,” Media Matters, October 3, 2005, mediamatters.org/rush-limbaugh/cheney-limbaugh-miers-has-conservative-judicial-philosophy-you-would-be-comfortable. 37. William Schneider, “A Souter in a Skirt?” The Atlantic, October 2005, theatlantic.com/magazine/archive/2005/10/a-souter-in-a-skirt/304374.
+20. “Business May Get More Days in Court,” Bloomberg Businessweek, October 16, 2005, bloomberg.com/news/articles/2005-10-16/business-may-get-more-days-in-court. Miers supported tort reform and class action limits, earning praise from corporate advocates and groups like the American Tort Reform Association. 39. “Supreme Court / Miers Nomination,” Fox Evening News, October 3, 2005, Vanderbilt Television News Archive, no. 8118280.
+21. Al Kamen, “Miers’s Long-Ago Federalist Slap Still Stings,” Washington Post, October 20, 2005,
+    washingtonpost.com/archive/politics/2005/10/21/mierss-long-ago-federalist-slap-still-stings/ab562d15-5018-4096-8eac-91ec447bd512/. 41. Scott McClellan, “White House Daily Briefing,” October 13, 2005, C-SPAN, at 4:35, c-span.org/video/?189342-1/white-house-daily-briefing. 42. Robert H. Bork, “Slouching Towards Miers,” Wall Street Journal, October 19, 2005, wsj.com/articles/SB112968557638772718; “Robert Bork on Harriet Miers’ High Court Bid,” NPR, October 11, 2005, npr.org/2005/10/11/4954108/robert-bork-on-harriet-miers-high-court-bid.
+22. Brett Kavanaugh Emails to Scott McClellan, Dana M. Perino, and others, “Bork op-ed . . . ,” October 19, 2005, White House Records, George W. Bush Presidential Library and Museum; Brett Kavanaugh to Dan Bartlett, “Re: WASHPOST (Will): Defending The Indefensible,” White House Records, October 22, 2005. In internal correspondence, Kavanaugh warned that Robert Bork’s Wall Street Journal op-ed would “cause major reverberations among conservatives,” especially Bork’s prediction that Miers’s confirmation hearings were unlikely to reveal much more about her judicial philosophy than was already known. In a separate message, Kavanaugh reacted to George F. Will’s sharply critical column on the nomination with brief notes of alarm—“Yikes” and “Ouch.” He called the conservative backlash “predictable” and flagged an upcoming David Broder piece “about how the president’s credibility is entirely on the line when she testifies.” 44. “Miers Makes Rounds on Hill,” Washington Post, October 7, 2005, washingtonpost.com/wp-dyn/content/article/2005/10/06/AR2005100601713.html.
+23. Brett Kavanaugh to William K. Kelley and Dabney Friedrich, “What we are seeing on blogs about Burger reference (and why it needs to be explained asap),” White House Records, October 7, 2005. 46. “Conservative Group Campaigns Against Miers,” Morning Edition, NPR, October 26, 2005, npr.org/2005/10/26/4975159/conservative-group-campaigns-against-miers.
+24. “Harriet Miers Withdraws Nomination to the Supreme Court,” ABC News, October 27, 2005, abcnews.go.com/Politics/video/oct-27-2005-harriet-miers-withdraws-nomination-supreme-57884002. 48. “Right Stares Down the White House and Wins,” Los Angeles Times, October 28, 2005, www.latimes.com/archives/la-xpm-2005-oct-28-na-right28-story.html.
+25. “Alito Rejected Abortion as a Right,” Washington Times, November 14, 2005, washingtontimes.com/news/2005/nov/14/20051114-015136-2101r/; Judicial Society Lauds Alito Nomination,” Associated Press for Fox News, November 2, 2005, foxnews.com/story/judicial-society-lauds-alito-nomination. 50. “Unwavering Bush Ally Acts Quickly on Court Choices,” New York Times, November 14, 2005, nytimes.com/2005/11/14/politics/politicsspecial1/unwavering-bush-ally-actsquickly-on-court-choices.html; “Progress for America Voter Fund Ad, Samuel Alito,” Aired on Fox News, January 9, 2006, Vanderbilt Television News Archive.
+26. Ed Whelan to James Bopp, Leonard Leo, and Brett Kavanaugh, “FW: Elizabeth Blackwell Health Center Case,” October 30, 2005; Brett Kavanaugh to Dana Perino, Scott McClellan, and others, “FW: AP —Alito Called for Justice Department to Use State Case to Attack Roe v. Wade (UPDATE),” November 30, 2005; Dabney Friedrich to Brett Kavanaugh, “Fw: abortion cases description,” October 31, 2005; all in email correspondence, White House Records, Kavanaugh, National Archives. 52. “Alito Confirmation Hearing, Day 3, Part 3,” C-SPAN, January 11, 2006, c-span.org/video/?190503-3/alito-confirmation-hearing-day-3-part-3.
+27. “Alito Confirmation Hearing, Day 1,” C-SPAN, January 8, 2006, c-span.org/program/senate-committee/alito-confirmation-hearing-day-1/152860.
+28. “Gang of 14 Meets on Alito Nomination,” Morning Edition, NPR, November 4, 2005, npr.org/2005/11/04/4989263/gang-of-14-meets-on-alito-nomination.
+29. David D. Kirkpatrick, “From Alito’s Past, a Window on Conservatives at Princeton,” New York Times, November 27, 2005, nytimes.com/2005/11/27/politics/politicsspecial1/from-alitos-past-a-window-on-conservatives-at.html. 56. “Alito Confirmation Hearing, Day 3 Part 2,” C-Span, January 11, 2006, https://www.c-span.org/program/senate-committee/alito-confirmation-hearing-day-3-part-2/152868.
+30. Melissa Block and David Welna, “Kerry Eyes Filibuster Over Alito Nomination,” NPR Illinois, January 27, 2006, nprillinois.org/2006-01-27/kerry-eyes-filibuster-over-alito-nomination. 58. Brett Kavanaugh to William K. Kelley, “FW: AP – Democratic Senator Tim Johnson Will Vote for Alito,” January 26, 2006, White House Records, Kavanaugh, National Archives. Kavanaugh forwarded the article with the comment, “Refusing to be Daschled.”
+31. “Judicial Issues – Federalist Society Twentieth Anniversary Dinner,” November 16, 2006, C-SPAN, c-span.org/video/?195423-1/judicial-issues. 60. Clay Risen, “Other Means,” The New Republic, May 5, 2004.
+32. “Roll Call Vote 109-2: Question: On the Nomination (Confirmation of Brett M. Kavanaugh of Maryland to be U.S. Circuit Judge for the D.C. Circuit),” Senate.gov, May 26, 2006, senate.gov/legislative/LIS/roll\_call\_votes/vote1092/vote\_109\_2\_00159.htm. Kavanaugh was confirmed 57–36, with 7 not voting.
+
+### Chapter 8
+
+1. Terry Carter, “The Big Bopper,” ABA Journal, Nov. 24. 2006, www.abajournal.com/magazine/article/the\_big\_bopper#google\_vignette. 2. Interview with James Bopp Jr., March 13, 2024.
+2. Peter Overby, “The Country Lawyer Shaping Campaign Finance Law,” NPR, June 22, 2011, npr.org/2011/06/22/137318888/the-country-lawyer-shaping-campaign-finance-law. 4. Interview with James Bopp Jr., March 13, 2024.
+3. NRLC Conference Report, NBC News, June 30, 1978, Vanderbilt Television News Archive, no. 499525. 6. Interview with James Bopp Jr., March 13, 2024.
+4. David D. Kirkpatrick, “A Quest to End Spending Rules for Campaigns,” The New York Times, January 24, 2010 www.nytimes.com/2010/01/25/us/politics/25bopp.html. 8. Amelia Thomson-DeVeaux, “Justice Kennedy Wasn’t a Moderate,” FiveThirtyEight, July 3, 2018, https://fivethirtyeight.com/features/justice-kennedy-wasnt-a-moderate.
+5. Douglas Jehl, “A Product of Two Sides of Town: Judge Kennedy’s Roots in Sacramento Go Deep,” Los Angeles Times, December 14, 1987, latimes.com/archives/la-xpm-1987-12-14-mn-19225-story.html. Before his 1975 appointment to the federal bench, Anthony Kennedy worked as a lawyer and lobbyist, cultivating political relationships that eventually drew the attention of then-Governor Ronald Reagan. 10. Jeff Stein, “Officer Ed Meese” The New Republic, October 7, 1981, https://ftp.unz.com/print/NewRepublic-1981oct07.
+6. “California Faces Key Vote Tuesday,” New York Times, November 4, 1973, nytimes.com/1973/11/04/archives/california-faces-key-vote-tuesday-annual-tax-cut-reagan-sees-
+   wide.html; “The Judge Next Door,” Time, November 23, 1987, time.com/archive/6710880/the-judge-next-door; “Kennedy Biography,” Court History, courthistory.tripod.com/kennedy.html. As a legal advisor, Kennedy helped draft and promote California’s 1973 tax initiative, Proposition 1, which—though unsuccessful—laid the groundwork for the later passage of Proposition 13. 12. “California—Proposition I,” CBS News, November 5, 1973, Vanderbilt Television News Archive, no. 226515. 13. “Justice Anthony M. Kennedy,” Oyez, www.oyez.org/justices/anthony\_m\_kennedy.
+7. Anne Jelliff, “Catholic Values, Human Dignity, and the Moral Law in the United States Supreme Court: Justice Anthony Kennedy’s Approach to the Constitution,” Albany Law Review vol. 76, no. 1 (January 1, 2013), albanylawreview.org/article/69647-catholic-values-human-dignity-and-the-moral-lawin-the-united-states-supreme-court-justice-anthony-kennedy-s-approach-to-the-constitution. 15. “In Search of the Constitution; 111; Justice Lewis F. Powell,” Public Affairs Television & Doctoroff Media Group, June 25, 1987, American Archive of Public Broadcasting (GBH and the Library of Congress), Accessed November 29, 2024, americanarchive.org/catalog/cpb-aacip-b826b97a86a.
+8. “President Ronald Reagan’s Message Nominating Robert Bork, July 7, 1987,” Visit the Capitol, www.visitthecapitol.gov/artifact/president-ronald-reagans-message-nominating-robert-bork-associate-justice-us-supreme-court. 17. Barbara Bradley and Mark Clayton, “Ginsburg Would Bring Business Background to Supreme Court: Former Antitrust Chief Staked Out Free-Market Approach to Mergers,” Christian Science Monitor, November 3, 1987, csmonitor.com/1987/1103/aburg.html; “1987 National Student Symposium,” Federalist Society, fedsoc.org/conferences/1987-national-student-symposium; “1987 National Student Symposium, Originalist Theories of Constitutional Interpretation,” Federalist Society’s Chicago Student Chapter, YouTube, youtube.com/watch?v=Qrm-xnYP4Jw.
+9. “Judge Douglas Ginsburg’s Marijuana Use – 1987,” Washington Post, washingtonpost.com/wp-srv/politics/special/clinton/frenzy/ginsburg.htm. Ginsburg withdrew from Supreme Court consideration after admitting to marijuana use during his years as a student and professor. 19. “Senate Judiciary Committee: Anthony Kennedy Confirmation Hearing,” GovInfo, p 191, www.govinfo.gov/content/pkg/GPO-CHRG-KENNEDY/pdf/GPO-CHRG-KENNEDY-5-27-3-3.pdf.
+10. “PN722 — Anthony M. Kennedy — Supreme Court of the United States,” 100th Congress, Congress.gov, www.congress.gov/nomination/100th-congress/722. States, “Confirmed by the Senate by Yea-Nay Vote 97-0.” 21. Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992), Oyez, www.oyez.org/cases/1991/91-744. “In a rare step, the opinion for the Court was crafted and authored by three justices: O’Connor, Kennedy, and Souter.”
+11. Austin v. Michigan Chamber of Commerce, 494 U.S. 652 (1990), Justia, supreme.justia.com/cases/federal/us/494/652/#tab-opinion-1958238. 23. Colorado Republican Federal Campaign Committee v. Federal Election Commission, 518 US 604 (1996), Oyez, https://www.oyez.org/cases/1995/95-489. Conclusion states that “the Court ruled that the First Amendment prohibits the application of the Party Expenditure Provision of the Federal Election Campaign Act of 1971 (FECA) to the kind of expenditure at issue here-an expenditure that the political party has made independently, without coordination with any candidate.”
+12. Dahlia Lithwick, “A Pragmatic Icon,” Slate, December 5, 2023, slate.com/news-and-politics/2023/12/sandra-day-oconnor-remembrance.html; CNN Newsroom, June 27, 2012. 25. “Kennedy: Liberty and Security Can Be Reconciled,” Brennan Center for Justice, June 13, 2008,
+    brennancenter.org/our-work/analysis-opinion/kennedy-liberty-and-security-can-be-reconciled; Planned Parenthood of Southeastern Pennsylvania v. Casey, Oyez, oyez.org/cases/1991/91-744. In Boumediene v. Bush, Justice Kennedy wrote for the majority, affirming the right to habeas corpus for detainees in U.S.controlled territory. In Casey, the Court reaffirmed the essential holding of Roe v. Wade while allowing certain state-level restrictions.
+13. FEC v. Wisconsin Right to Life, 551 U.S. 449 (2007), Justia, supreme.justia.com/cases/federal/us/551/449/. Argued April 25, 2007. Decided June 25, 2007. 27. Interview with James Bopp Jr., March 13, 2024.
+14. “Wisconsin over an Anti-Abortion Group’s Campaign Ad,” Fox News, August 11, 2004, Vanderbilt Television News Archive, no.794762. 29. Interview with James Bopp Jr., March 13, 2024.
+15. Federal Election Commission v. Wisconsin Right to Life, Inc., 551 US 449 (2007), Oyez, www.oyez.org/cases/2006/06-969. See oral arguments on April 2, 2007. 31. Wisconsin Right to Life, Inc. v. FEC, FEC, www.fec.gov/legal-resources/court-cases/wisconsin-right-to-life-inc-v-fec/
+16. Federal Election Commission v. Wisconsin Right to Life, Inc., Oyez, www.oyez.org/cases/2006/06-969. See Roberts’s Oral Announcement of the Opinion on June 25, 2007. 33. Interview with Sheldon Whitehouse, March 12, 2024.
+17. FEC v. Wisconsin Right to Life, 551 US 449 (2007), Justia, supreme.justia.com/cases/federal/us/551/449/#tab-opinion-1962516. 35. Interview with James Bopp Jr., March 13, 2024.
+18. Sean Cockerham, “The Man Behind Willie Horton Ads Has New Target: Hillary Clinton,” McClatchy DC, July 14, 2007, mcclatchydc.com/news/politics-government/article24466504.html. 37. David Bossie did not respond to requests for comment.
+19. Nina Totenberg, “Hillary: The Movie Opens at the Supreme Court,” NPR, March 24, 2009, www.npr.org/2009/03/24/102268208/hillary-the-movie-opens-at-the-supreme-court. 39. “Hillary The Movie: Official Trailer,” Citizens United, YouTube, www.youtube.com/watch? v=BOYcM1z5fTs.
+20. Interview with James Bopp Jr., March 13, 2024. 41. Citizens United v. FEC, FEC, www.fec.gov/legal-resources/court-cases/citizens-united-v-fec.
+21. Interview with James Bopp Jr., March 13, 2024. 43. “Advisory Opinion 2004-30,” FEC, September 10, 2004, www.fec.gov/files/legal/aos/59174.pdf.
+22. Citizens United v. FEC, FEC, www.fec.gov/legal-resources/court-cases/citizens-united-v-fec. 45. Citizens United v. FEC, 558 U.S. 310 (2010), Justia, supreme.justia.com/cases/federal/us/558/310. “The District Court denied Citizens United’s motion for a preliminary injunction, 530 F. Supp. 2d 274 (DC 2008) (per curiam), and then granted the FEC’s motion for summary judgment.”
+23. Citizens United v FEC, Appeal: Jurisdictional Statement, FEC, www.fec.gov/resources/legal-resources/litigation/cu\_sc08\_cu\_juris\_stmt.pdf. 47. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205.
+24. Citizens United v FEC, Appeal Certiorari Granted, November 14, 2008, FEC,
+    www.fec.gov/resources/legal-resources/litigation/cu\_sc08\_order\_juris.pdf.
+25. Citizens United v FEC, Justia, supreme.justia.com/cases/federal/us/558/310. Attorneys: Malcolm L. Stewart (defendants), Elena Kagan (defendants), Seth Waxman (defendants), Ted Olson (plaintiffs), Floyd Abrams (plaintiffs). 50. Marcia Coyle, The Roberts Court: The Struggle for the Constitution (Simon & Schuster, 201), Google Books, books.google.com.au/books? id=HzgBE7xNXsMC&printsec=copyright&redir\_esc=y#v=snippet&q=olson&f=false. “The next day, Bossie went to Mike Boos and suggested replacing Bopp with Olson.”
+26. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205. See March 24, 2009 oral argument. Olson: “The government cannot prove and has not attempted to prove that a 90-minute documentary made available to people who choose affirmatively to receive it, to opt in, by an ideologically oriented small corporation poses any threat of quid pro quo corruption or its appearance.” 52. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205. All of this from March 24, 2009 oral arguments.
+27. Citizens United v. Federal Election Commission, March 24, 2009. Supreme Court transcript, www.supremecourt.gov/pdfs/transcripts/2008/08-205.pdf. 54. IFS Staff, “How the FEC Lost Citizens Unites . . . or So We Think,” Institute for Free Speech, March 25, 2009, www.ifs.org/blog/how-the-fec-lost-citizens-united-or-so-we-think.
+28. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205. All of this from March 24, 2009 oral arguments. 56. Jeffrey Toobin, “Money Unlimited,” The New Yorker, May 14, 2012, www.newyorker.com/magazine/2012/05/21/money-unlimited.
+29. “Justice David H. Souter,” Oyez, www.oyez.org/justices/david\_h\_souter. “Once he was certain no other justices planned to retire in June 2009, Souter announced his retirement and moved back to his beloved New Hampshire, where he resides to this day.” 58. Rick Hasen, “About that Justice Souter Draft Dissent in Citizens United,” Election Law Blog, October 23, 2012, electionlawblog.org/?p=42205.
+30. Jeffrey Toobin, “Money Unlimited,” The New Yorker, May 14, 2012, www.newyorker.com/magazine/2012/05/21/money-unlimited. “So the Chief came up with a strategically ingenious maneuver. He would agree to withdraw Kennedy’s draft majority opinion and put Citizens United down for reargument, in the fall. For the second argument, the Court would write new Questions Presented, which frame a case before argument, and there would be no doubt about the stakes of the case.” 60. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205.
+31. “Andrea Mitchell Reports,” MSNBC, September 9, 2009, Archive.org, archive.org/details/MSNBC\_20090909\_170000\_Andrea\_Mitchell\_Reports/start/1260/end/1320. 62. Citizens United v. Federal Election Commission, Oyez, www.oyez.org/cases/2008/08-205. See Kennedy’s Oral announcement of decision on January 21. 2010: “Austin versus Michigan Chamber of Commerce, one of this Court’s cases, upheld the ban on corporate political speech and as already noted, the McConnell decision in turn relied upon Austin.”
+32. Citizens United v. FEC, Justia, supreme.justia.com/cases/federal/us/558/310/#tab-opinion-1963051. Kennedy: “This confirms Buckley’s reasoning that independent expenditures do not lead to, or create the appearance of, quid pro quo corruption. In fact, there is only scant evidence that independent expenditures even ingratiate.”
+33. Citizens United v. FEC, Justia, supreme.justia.com/cases/federal/us/558/310/. Kennedy: “The fact that speakers may have influence over or access to elected officials does not mean that these officials are corrupt . . .”
+34. Citizens United v. FEC, Justia, supreme.justia.com/cases/federal/us/558/310. 66. David Cohen, “Justice Stevens, Long-Serving Supreme Court Justice, Dies at 99,” Politico, July 16, 2019, www.politico.com/story/2019/07/16/john-paul-stevens-died-justice-obituary-121194.
+35. “Citizens United v. Federal Election Commission Reactions,” C-SPAN, January 21, 2010, 4:45 min, www.c-span.org/video/?291533-1/citizens-united-v-federal-election-commission-reactions.” 68. Interview with Sheldon Whitehouse, March 12, 2024.
+36. Barack Obama, “Remarks by President in State of the Union Address,” Obama White House, January 27, 2010, obamawhitehouse.archives.gov/the-press-office/remarks-president-state-union-address. 70. “Justice Grimaces As Obama Criticizes Court,” AP, YouTube, www.youtube.com/watch? v=k92SerxLWtc. Visible at 0:14.
+37. Anna Massoglia, “‘Dark Money’ in Politics Skyrocketed in the Wake of Citizens United,” OpenSecrets, www.opensecrets.org/news/2020/01/dark-money-10years-citizens-united/ 72. Kenneth Vogel, “Justice Thomas’s Wife Now a Lobbyist,” Politico, February 4, 2011, www.politico.com/story/2011/02/justice-thomass-wife-now-lobbyist-048812. “Now, Virginia “Ginni” Thomas, wife of Justice Clarence Thomas, has recast herself yet again, this time as the head of a firm, Liberty Consulting . . . the group is not required to report its donors and could have benefitted from the Supreme Court’s Citizens United ruling.”
+38. Heidi Przybyla, “What Ginni Thomas and Leonard Leo Wrought: How a Justice’s Wife and a Key Activist Started a Movement,” Politico, September 10, 2023, www.politico.com/news/2023/09/10/ginni-thomas-leonard-leo-citizens-united-00108082. 74. Liberty Central, incorporation filing, December 31, 2009, www.politico.com/f/?id=0000018a-2e49-d0b1-a7eb-6e5915450000.
+39. Kenneth Vogel, “Justice Thomas’s Wife Now a Lobbyist,” Politico, February 4, 2011, www.politico.com/story/2011/02/justice-thomass-wife-now-lobbyist-048812. “POLITICO has learned, for instance, that the initial $500,000 contribution came from Dallas real estate investor Harlan Crow, a major GOP donor who held an event for Liberty Central at his home a few months after the group launched.” 76. Spencer MacColl, “Citizens United Decision Profoundly Affects Political Landscape,” OpenSecrets, May 5, 2011, opensecrets.org/news/2011/05/citizens-united-decision-profoundly-affects-politicallandscape.html.
+40. Citizens United v. FEC, Justia, supreme.justia.com/cases/federal/us/558/310/. Thomas concurrence and dissent in part.
+
+### Chapter 9
+
+1. James Bopp Jr., interview, March 13, 2024. 2. Justice Anthony Kennedy, “Opinion of the Court, Citizens United v. Federal Election Commission,” Justia, January 21, 2010, supreme.justia.com/cases/federal/us/558/310/#tab-opinion-1963051.
+2. Kennedy, “Opinion of the Court, Citizens United v. FEC.” 4. “Doe v. Reed: Background,” Washington Attorney General, www.atg.wa.gov/doe-v-reed-background.
+3. David Ammons, “R-71 Effective 12/3/09,” Washington Secretary of State, November 6, 2009, archived November 8, 2009, web.archive.org/web/20091108083613/blogs.sos.wa.gov/FromOurCorner/index.php/2009/11/r-71-effective-12-3-09.
+4. Doe #1 v. Reed, 561 US 186 (2010), Oral Argument, April 28, 2010, Oyez, oyez.org/cases/2009/09-559. 7. “What’s the Latest on 501(c)(4) Donor Disclosure?” Alliance for Justice, August 5, 2019, afj.org/article/whats-the-latest-on-501c4-donor-disclosure.
+5. John Roberts, “Opinion of the Court - Americans for Prosperity Foundation v. Bonta, Attorney General of California,” Supreme Court of the United States, July 1, 2021, supremecourt.gov/opinions/20pdf/19-251\_p86b.pdf, 3. 9. Americans for Prosperity Foundation v. Bonta, Brief of Petitioner Americans for Prosperity Foundation, February 22, 2021, p 10, supremecourt.gov/DocketPDF/19/19-251/169507/20210222113359763\_19251ts.pdf.
+6. “Americans for Prosperity Helped Churn Koch-Linked Money,” OpenSecrets, November 15, 2013, opensecrets.org/news/2013/11/americans-for-prosperity-helped-churn-koch-linked-money/. 11. “Americans for Prosperity Foundation v. Bonta,” SCOTUSblog, www.scotusblog.com/case-files/cases/americans-for-prosperity-foundation-v-becerra/
+7. Sheldon Whitehouse, interview by Ula Kulpa, March 12, 2024. 13. Robert Maguire, “Group Behind Trump SCOTUS Picks Brought in Nearly $50 Million in Secret Money,” Citizens for Ethics, June 15, 2022, citizensforethics.org/reports-investigations/crew-investigations/group-behind-trump-scotus-picks-brought-in-nearly-50-million-in-secret-money/.
+8. Americans for Prosperity v. Bonta, “Oral Argument ,” Oyez, April 26, 2021, oyez.org/cases/2020/19-251. 15. Americans for Prosperity v. Bonta, Petition, August, 26, 2019.
+9. American Experience: Freedom Riders: The Governor, PBS, 2011, YouTube, youtube.com/watch? v=fZgJQMhlfoU. 17. “Privacy Rights Are Civil Rights: The Legacy of NAACP v. Alabama,” Civil Rights, June 27, 2024, civilrights.org/blog/privacy-rights-are-civil-rights-the-legacy-of-naacp-v-alabama/
+10. “Petitioner’s Reply Brief - NAACP v. Alabama,” October 1957, Black Freedom, p 7, blackfreedom.proquest.com/wp-content/uploads/2020/09/naacpva4.pdf. 19. Americans for Prosperity v. Bonta, “Oral Argument ,” Oyez.
+11. Americans for Prosperity Foundation v. Bonta, “Opinion,” Supreme Court, www.supremecourt.gov/opinions/20pdf/19-251\_p86b.pdf. 21. Zephyr Teachout, interview by Ula Kulpa for Master Plan, New York, June 28, 2024.
+12. Elizabeth McGuigan, Donor Privacy: Two Years After Americans for Prosperity Foundation v. Bonta,” Philanthropy Roundtable, June 21, 2023, philanthropyroundtable.org/donor-privacy-two-years-after-americans-for-prosperity-foundation-v-bonta 23. Jane Mayer, Dark Money: The Hidden History of the Billionaires Behind the Rise of the Radical Right (New York, Doubleday, 2016).
+13. Ronald Reagan, “President Reagan’s Address to the Nation on Tax Reform from the Oval Office,” May 28, 1985, Posted by the Reagan Library, YouTube, www.youtube.com/watch?v=gsXnYcDcWlY. 25. “Social Welfare Organizations,” IRS, www.irs.gov/charities-non-profits/other-non-profits/social-welfare-organizations.
+14. “Exempt Organizations Technical Guide,” IRS, www.irs.gov/pub/irs-pdf/p5781.pdf. “After the 16th Amendment to the United States Constitution allowing for the levying of income tax was ratified on February 3, 1913, Congress enacted the Revenue Act of 1913, Ch. 16, 38 Stat. 114, on October 3, 1913, also known as the Underwood Tariff Act. This act established “charitable” as a purpose that is exempt from federal income tax.” 27. Tariff Act of 1913, chapter 16, § II (G)(a), 38 Stat. 172, fraser.stlouisfed.org/files/docs/historical/congressional/underwood-tariff-1913.pdf.
+15. John Francis Reilly, Carter C. Hull, and Barbara A. Braig Allen, “Exempt Organizations-Technical Instruction Program for FY 2003,” 2002, www.taxnotes.com/research/federal/irs-guidance/irs-cpe-textbooks/irs-eo-cpe-text-for-fiscal-2003-irc-501c6-organizations/zrds. 29. John Francis Reilly and Barbara A. Braig Allen, “Political Campaign of Lobbying Activities of IRC 501(c)(4) . . . Organizations,” IRS, www.irs.gov/pub/irs-tege/eotopicl03.pdf.
+16. “Lawmaker Seeks End to IRS Role as Political Arbiter.” GovExec, / 31. “Social Welfare Organizations,” IRS, www.irs.gov/charities-non-profits/other-non-profits/social-welfare-organizations.
+17. Jeff Brindle, How a One Word Change in 1959 Led to Dark Money Explosion,” Observer, March 30, 2015, observer.com/2015/03/how-a-one-word-change-in-1959-helped-lead-to-the-dark-money-explosion. 33. “Social Welfare: What Does it Mean? How much Private Benefit is Permissible?” IRS, 1981 www.irs.gov/pub/irs-tege/eotopicg81.pdf.
+18. Kim Barker, “How Nonprofits Spend Millions on Elections and Call It Public Welfare,” ProPublica, August 18. 2012, www.propublica.org/article/how-nonprofits-spend-millions-on-elections-and-call-it-public-welfare. 35. “Americans for Prosperity,” Influence Watch, www.influencewatch.org/non-profit/americans-for-prosperity. “Tax-Exempt status: 501c4”; “National Right to Life Committee, Inc,” ProPublica, projects.propublica.org/nonprofits/organizations/520986195.
+19. Sean Sullivan, “What Is a 501(c)(4) Anyway?” Washington Post, May 13, 2013, www.washingtonpost.com/news/the-fix/wp/2013/05/13/what-is-a-501c4-anyway. “Applications more than doubled following the High Court’s ruling.” 37. Senator Baldwin, www.youtube.com/watch?v=1gpXQp9qFgs; Senator Rosen www.youtube.com/watch?v=IGs0boAitbE; Senator Warnock, www.youtube.com/watch? v=7irAcNAN0AI; Representative Slotkin, www.youtube.com/watch?v=ivEoDYzAQqg.
+20. “Decision 2010: Campaign Funding,” NBC Evening News, October 21, 2010, tvnews.vanderbilt.edu/broadcasts/983302. 39. “Open Phones,” C-SPAN, September 30, 2010, www.c-span.org/program/washington-journal/open-phones/234143.
+21. Stephanie Strom, “IRS Moves to Tax Gifts to Groups Active in Politics,” The New York Times, May 12, 2011, https://www.nytimes.com/2011/05/13/business/13gift.html?smid=url-share; “Following Tea Party Complaints, IRS Admits Mistakes,” Fox40, May 10, 2013, fox40.com/news/following-tea-party-complaints-irs-admits-mistakes. 41. Ryan Chittum, “The IRS Scandal Unwinds,” CJR, June 25, 2013, www.cjr.org/the\_audit/the\_irs\_scandal\_narrative\_unwi.php.
+22. “IRS officials in Washington Were Involved in Targeting of Conservative Groups,” Washington Post, May 13, 2013, www.washingtonpost.com/politics/obama-denounces-reported-irs-targeting-of-
+    conservative-groups/2013/05/13/a0185644-bbdf-11e2-97d4-a479289a31f9\_story.html.
+23. Josh Hicks, “Central Figure in IRS Tea Party Controversy Resigns,” Washington Post, September 23, 2013, www.washingtonpost.com/politics/federal\_government/central-figure-in-irs-tea-party-controversy-resigns/2013/09/23/db0d3d28-248a-11e3-b75d-5b7f66349852\_story.html. 44. Liz Halloran, “Obama Humbled By Election ‘Shellacking,’” NPR, November 3, 2010, www.npr.org/2010/11/03/131046118/obama-humbled-by-election-shellacking
+24. “Investigation of IRS,” Oversight Committee, oversightdemocrats.house.gov/investigations/investigation-of-irs. 46. “Inappropriate Criteria Were Used to Identify Tax-Exempt Applications for Review,” TIGTA, May 14, 2013 www.tigta.gov/sites/default/files/reports/2022-06/201310053fr\_0.pdf; “Politics: IRS and Conservatives #1053080,” CBS Evening News, May 10, 2013, Vanderbilt TV News.
+25. “‘Angry’ Obama Announces IRS leader’s Ouster after Conservatives Targeted,” CNN, May 16, 2013, www.cnn.com/2013/05/15/politics/irs-conservative-targeting; Alan Rappaport, “In Targeting of Political Groups, IRS Cross Party Lines,” The New York Times, October 5, 2017, www.nytimes.com/2017/10/05/us/politics/irs-targeting-tea-party-liberals-democrats.html. 48. “Congressman Yells at Former IRS Chief Over Targeting Scandal,” NBC News, May 22, 2013, www.nbcnews.com/video/congressman-yells-at-former-irs-chief-over-targeting-scandal-31078467865.
+26. Josh Hicks, “Central Figure in IRS Tea Party Controversy Resigns,” The Washington Post, September 23, 2013, www.washingtonpost.com/politics/federal\_government/central-figure-in-irs-tea-party-controversy-resigns/2013/09/23/db0d3d28-248a-11e3-b75d-5b7f66349852\_story.html. 50. “Watch President Obama Address IRS Scandal,” PBS NewsHour, YouTube, www.youtube.com/watch?v=N9-LkEH9Owc
+27. Mitch McConnel, “McConnell on IRS Scandal: ‘We’ve Only Started to Scratch the Surface,’” May 14, 2013, YouTube, www.youtube.com/watch?v=eOUsZh2NVzg. 52. George Will, “In IRS Scandal, Echoes of Watergate,” The Washington Post, May 13, 2013, www.washingtonpost.com/opinions/george-will-irs-scandal-carries-echoes-of-watergate/2013/05/13/78f03660-bbf1-11e2-97d4-a479289a31f9\_story.html
+28. Eileen Shanahan, “Explanation of Nixon’s IRS Interference Allegations,” The New York Times, June 14, 1974, www.nytimes.com/1974/06/14/archives/an-explanation-the-allegatoins-ofnixons-irs-interference-many.html. 54. “Articles of Impeachment,” Watergate.info, watergate.info/impeachment/articles-of-impeachment.
+29. Jim Acosta, “IRS Scandal Revives Tea Party,” CNN, May 16, 2013, YouTube, www.youtube.com/watch?v=9U2Xfux86Mc. 56. “Justice Department Settles with Conservative Groups Over IRS Scrutiny,” Reuters, Oct. 26, 2017, www.reuters.com/article/legal/justice-department-settles-with-conservative-groups-over-irs-scrutiny-idUSKBN1CV1TX/.
+30. Alan Rappeport, “In Targeting Political Groups, I.R.S. Crossed Party Lines,” The New York Times, October 5, 2017, www.nytimes.com/2017/10/05/us/politics/irs-targeting-tea-party-liberals-democrats.html. 58. Toby Eckert and Bernie Becker, “Audit indicates liberal nonprofits also got extra IRS scrutiny,” Politico, October 5, 2017, www.politico.com/story/2017/10/05/audit-irs-scrutiny-liberal-non-profits-243497.
+31. “IRS Screening Manager Report Part I,” Oversight Democrats, oversightdemocrats.house.gov/sites/evo-subsites/democrats-
+    oversight.house.gov/files/migrated/IRS\_Screening\_Manager\_Part\_I.pdf. Page Richard Rubin and Julie Bykowicz, “IRS Look at Progressive Groups Complicates Controversy,” Bloomberg, June 25, 2013, web.archive.org/web/20131207123209/www.bloomberg.com/news/2013-06-24/irs-screened-applications-using-progressive-israel-.html. 60. Roger Wieland, “Dark Money Groups Operate with Impunity While the Government Does Nothing,” Campaign Legal Center, May 6, 2022, campaignlegal.org/update/dark-money-groupsoperate-impunity-while-government-does-nothing. 61. Natalie Roetzel Ossenfort, “Does Your 501(c)(4) Have to Disclose Its Donors on Schedule B of Its 990? Not Anymore . . . ,” Alliance for Justice, July 18, 2018, afj.org.
+32. Mitch McConnell, speech, July 2018, www.youtube.com/watch?v=4OBsRs7KYeI. 63. Sean Sullivan,. “What Is a 501(c)(4) Anyway?” Washington Post, May 13, 2013, www.washingtonpost.com/news/the-fix/wp/2013/05/13/what-is-a-501c4-anyway.
+33. Paul Kiel and Jesse Eisinger, “How the IRS Was Gutted,” ProPublica, December 11, 2018, www.propublica.org/article/how-the-irs-was-gutted. 65. “Subcommittee on Financial Services and General Government,” CSPAN, February 25, 2015, www.facebook.com/propublica/videos/americans-dodge-660-billion-in-taxes-each-year-and-itsprobably-getting-worse/639186439809965.
+34. Maya Miller, “How the IRS Gave Up Fighting Political Dark Money Groups,” ProPublica, April 18, 2019, www.propublica.org/article/irs-political-dark-money-groups-501c4-tax-regulation. 67. United States v. Jeffrey K. Skilling, Department of Justice, www.justice.gov/criminal/criminal-vns/case/united-states-v-jeffrey-k-skilling.
+35. “Enron Trial – Skilling Sentence,” NBC, October 23, 2006, Vanderbilt Television News Archive, no. 848009. 69. “Blind Faith: How Deregulation and Enron’s Influence Over Government Looted Billions from Americans,” Public Citizen, December 2001, www.citizen.org/wp-content/uploads/blind\_faith.pdf; Steve Hargreaves, “Ex-Enron Workers: Keep Skilling in Prison,” CNN, May 10, 2013, money.cnn.com/2013/05/10/news/companies/enron-skilling.
+36. Alexei Barrionuevo, “Enron Chiefs Guilty of Fraud and Conspiracy,” The New York Times, May 25, 2006, www.nytimes.com/2006/05/25/business/25cnd-enron.html. 71. “Former Enron Chief Executive Officer Jeffrey Skilling Sentenced to More Than 24 Years in Prison on Fraud, Conspiracy Charges,” Department of Justice, October 23, 2006, www.justice.gov/archive/opa/pr/2006/October/06\_crm\_723.html.
+37. “Enron Trial – Skilling Sentence,” NBC, October 23, 2006, Vanderbilt Television News Archive, no. 848009. 73. “U.S. Court of Appeals for the Fifth Circuit’s January 6, 2009 decision upholding Jeffrey Skilling’s conspiracy and fraud convictions but ordering that Skilling be resentenced,” Justice.gov, Jan 6, 2009, www.justice.gov/sites/default/files/criminal-vns/legacy/2010/04/26/01-06-09skilling.pdf.
+38. January 21, 2010 ruling in Citizens United; March 1 2010 hearing in Skilling. 75. Skilling v. United States, Oyez, www.oyez.org/cases/2009/08-1394. See oral arguments.
+39. “Brief Amicus Curiae of Pacific Legal Foundation and Cato Institute,” Cato Institute, www.cato.org/sites/cato.org/files/pubs/pdf/skilling-v-united-states.pdf. 77. “Brief of the Chamber of Commerce of the United States of America as Amicus Curiae in Support of
+    Petitioner,” US Chamber of Commerce, www.uschamber.com/assets/documents/Skilling20v.20U.S.2028NCLC20Brief20on20Merits29.pdf.
+40. Antonin Scalia, Skilling v. United States, 561 US 358 (2010), Oral Arguments, Oyez. www.oyez.org/cases/2009/08-1394. 79. Skilling v. United States, 561 US 358 (2010), Justia. supreme.justia.com/cases/federal/us/561/358/#tab-opinion-1963360.
+41. Citizens United v FEC, Justia, supreme.justia.com/cases/federal/us/558/310. 81. “Business: Enron Trial / Skilling,” NBC Evening News, October 23, 2006, Vanderbilt Television News Archive, no. 848009; Jeff Skilling; Rod Blagojevich; Fraud Law, Fox News, June 24, 2010, Vanderbilt Television News Archive, no. 983925.
+42. Zephyr Teachout, “Demoralizing Elite Fraud,” The Yale Law Journal, February 16, 2024. 83. Zephyr Teachout, interview by Ula Kulpa, June 28, 2024.
+43. “10 Years Later: What Happened to Enron Employees,” Business Insider, December 1, 2011, www.businessinsider.com/10-years-later-what-happened-to-the-former-employees-of-enron-2011-12. 85. Thomas P. Cimino, Jr., Junaid A. Zubairi, Rachel T. Copenhaver, “Supreme Court Limits Scope of Honest Services Statute: Skilling v. United States,” National Law Review, September 8, 2010, natlawreview.com/article/supreme-court-limits-scope-honest-services-statute-skilling-v-united-states.
+44. “Governor Robert McDonnell,” National Governors Association, www.nga.org/governor/robert-mcdonnell. 87. “State of the Union Response,” C-SPAN, January 27, 2010, www.c-span.org/video/?291689-3/state-union-response.
+45. “Virginia Gov. Bob McDonnell Named RGA Chairman,” Republican Governors Association, August 15, 2011, www.rga.org/virginia-gov-bob-mcdonnell-named-rga-chairman/. 89. Reihan Salam, “Will Bob McDonnell Be a Presidential Contender?” CNN, February 27, 2013. www.cnn.com/2013/02/26/opinion/salam-bob-mcdonnell/index.html; “Gov. Bob McDonnell as Vice President?” ABC News, May 3, 2012, abcnews.go.com/Politics/veepstakes-virginia-gov-bob-mcdonnell/story?id=16273557.
+46. United States v. McDonnell, No. 3:14-cr-00012, U.S. District Court for the Eastern District of Virginia, May 29, 2014. 91. United States v. McDonnell, No. 3:14-cr-00012.
+47. Arlette Saenz, “Ferraris, Rolexes, and a Shopping Spree: Inside the Extravagant Life of Bob McDonnell and His Wife,” ABC News, Jan 22, 2014, abcnews.go.com/blogs/politics/2014/01/ferraris-rolexes-and-a-shopping-spree-inside-the-extravagant-life-of-bob-mcdonnell-and-his-wife. 93. Mark Moore, “Former Virginia Governor Claims He Didn’t Know Rolex Was a Bribe,” New York Post, April 30, 2017, nypost.com/2017/04/30/former-virginia-governor-claims-he-didnt-know-rolex-was-a-bribe/.
+48. “Former Virginia Governor and Former First Lady Convicted of Public Corruption Charges,” Justice.gov, www.justice.gov/opa/pr/former-virginia-governor-and-former-first-lady-convicted-public-corruption-charges. 95. McDonnell v. United States, Opinion, June 27, 2016, SCOTUSblog, scotusblog.com/case-files/cases/mcdonnell-v-united-states.
+49. “McDonnell Petition (10/13/15),” SCOTUSblog, www.scotusblog.com/wp-
+    content/uploads/2015/10/McDonnell-petition-10-13-15.pdf. Page 15: “Moreover, Citizens United was decided the same Term as Skilling v. United States, in which this Court saved the honest-services statute from unconstitutionality by limiting it to its ‘bribe-and-kickback core.’” 97. NewsHour, “Court Lent Sympathetic Ear to McDonnell,” April 28, 2016, American Archive of Public Broadcasting. 98. “Amici Curiae Brief of 60 Former State Attorneys General (Non Virginia) Supporting Petitioner Robert. F. McDonnell,” SCOTUSblog, www.scotusblog.com/wp-content/uploads/2015/11/NAI\_1500649954\_1\_15-474-Amici-Brief-Former-AGs-Non-Virginia.pdf.
+50. “Brief of Former Federal Officials as Amici Curiae in Support of Petitioner,” SCOTUSblog, www.scotusblog.com/wp-content/uploads/2015/11/NAI\_1500650116\_1\_Brief-of-Former-Federal-Officials-as-Amici-Curiae-in-Support-of-Petitioner\_-No.-15-.pdf. 100. McDonnell v. United States, 579 US\_ (2016), Oyez, www.oyez.org/cases/2015/15-474. See oral arguments.
+51. “Amicus Curiae Brief of the American Center for Law and Justice in Support of Petitioner,” SCOTUSblog, www.scotusblog.com/wp-content/uploads/2015/11/NAI\_1500648834\_1\_15-474-American-Center-for-Law-and-Justice-Amicus-Brief.pdf. Jay Alan Sekulow, counsel of record. 102. “Brief of Amicus Curiae James Madison Center for Free Speech Supporting Petitioner,” SCOTUSblog, www.scotusblog.com/wp-content/uploads/2016/03/NAI\_1500882251\_1\_15-474-James-Madison-Center.pdf. James Bopp, Jr., counsel of record.
+52. “Brief of Amici Curiae Public Policy Advocates and Business Leaders in Support of Petitioner,” SCOTUSblog, www.scotusblog.com/wp-content/uploads/2016/03/NAI\_1500881916\_1\_15-474-tsac-Public-Policy-Advocates-and-Business-Leaders.pdf. Hunton & Williams LLP. 104. Zephyr Teachout, interview by Ula Kulpa, June 28, 2024.
+53. Justin Elliot, Joshua Kaplan, and Alex Mierjeski, “Clarence Thomas and the Billionaire,” ProPublica, April 6, 2023, www.propublica.org/article/clarence-thomas-scotus-undisclosed-luxury-travel-gifts-crow; Julia Rock and Andrew Perez, “Influenced by Dark Money, Clarence Thomas Has Reversed His Position on a Landmark Legal Doctrine,” Jacobin, May 10, 2023, jacobin.com/2023/05/clarence-thomas-chevron-regulatory-doctrine-conservatives-dark-money; “Thomas Helped Kill Eviction Ban,” Lever News, April 25, 2023, www.levernews.com/thomas-helped-kill-eviction-ban-threatening-benefactors-business; Justin Elliot, Joshua Kaplan, and Alex Mierjeski, “Justice Samuel Alito Took Luxury Fishing Vacation With GOP Billionaire Who Later Had Cases Before the Court,” ProPublica, June 20, 2023, www.propublica.org/article/samuel-alito-luxury-fishing-trip-paul-singer-scotus-supreme-court. 106. McDonnell v. United States, Opinion, Oyez, www.oyez.org/cases/2015/15-474.
+54. McDonnell v. United States, Oyez, www.oyez.org/cases/2015/15-474. See oral arguments – McDonnell’s alleged actions are never debated or questions. 108. McDonnell v. United States, Oyez, www.oyez.org/cases/2015/15-474. See Roberts in oral announcement of opinion.
+55. “Supreme Court Overturns McDonnell Conviction,” CNN, June 27, 2016, https://www.cnn.com/2016/06/27/politics/bob-mcdonnell-supreme-court/index.html. 110. Randall D. Eliason, “Sheldon Silver, Bob McDonnell, and the Sorry State of Public Corruption Law,” Sidebars, July 19, 2017, https://www.sidebarsblog.com/p/sheldon-silver-bob-mcdonnell-sorry-state-public-corruption-law.
+56. Benjamin Weiser, “Sheldon Silver’s 2015 Conviction Is Overturned,” The New York Times, July 13, 2017, www.nytimes.com/2017/07/13/nyregion/sheldon-silvers-conviction-is-overturned.html.
+57. “Dean Skelos,” Wikipedia, en.wikipedia.org/wiki/Dean\_Skelos. “In 2017, his conviction was overturned following the U.S. Supreme Court decision in McDonnell v. United States.”
+58. “FBI Video Shows Jefferson Accepting 100k,” AP, YouTube, www.youtube.com/watch? v=b37QqmKoEh4. 114. David DeVillers, interview with Jared Jacang Maher, February 12, 2024.
+59. Kelly v. United States, Oyez, www.oyez.org/cases/2019/18-1059. 116. Adam Liptak, “Supreme Court Thows Out Fraud Convictions in Albany Scandals,” The New York Times, May 11, 2013, www.nytimes.com/2023/05/11/us/politics/supreme-court-fraud-albany-percoco-ciminelli.html.
+60. “U.S. Supreme Court Tosses Percoco, Kaloyeros Convictions,” News10, May 12, 2023, www.news10.com/news/u-s-supreme-court-tosses-percoco-kaloyeros-convictions; Amy Howe, “Court Throws Out Conviction of Former Cuomo Aide,” SCOTUSblog, May 11, 2023, www.scotusblog.com/2023/05/court-throws-out-conviction-of-former-cuomo-aide. 118. Ciminelli v. United States, Oyez, www.oyez.org/cases/2022/21-1170.
+61. Holly Barker, “Federal Tool Against Local Corruption Faces Supreme Court Test,” Bloomberg Law, April 13, 2024, news.bloomberglaw.com/litigation/federal-tool-against-local-corruptionfaces-supreme-court-test. 120. “Federal Jury Convicts Former Mayor James Snyder of Portage, Indiana,” eNewsPF, May 19, 2021, www.enewspf.com/law-and-order/federal-jury-convicts-former-mayor-james-snyder-of-portage-ind-on-bribery-charge.
+62. Supreme Court briefs in Snyder v. United States, 2023, U.S. Supreme Court, supremecourt.gov/docket/docketfiles/html/public/23-108.html. Amicus briefs were filed by the American Center for Law and Justice, Washington Legal Foundation, Supreme Court Separation of Powers Clinic, and the James Madison Center for Free Speech (James Bopp, Jr.) 122. Snyder v. United States, Oyez, April 15, 2024, oyez.org/cases/2023/23-108. See oral arguments for petitioner’s counsel.
+63. Snyder v. United States, Oyez. 124. Katya Schwenk, “The Supreme Court Just Legalized Bribery,” June 26, 2024, The Lever, www.levernews.com/the-supreme-court-just-legalized-bribery.
+64. Todd Feurer, “‘ComEd Four’” Seek Acquittal in Madigan Case After Supreme Court Ruling,” CBS Chicago, August 28, 2024, accessed February 10, 2025, cbsnews.com/chicago/news/comed-four-motion-acquittal-mike-madigan-bribery-case; Mary Ann Ahern, “Blagojevich, Madigan Cases Could Be Impacted by SCOTUS Corruption Ruling: Experts,” NBC Chicago, June 26, 2024, accessed February 10, 2025, nbcchicago.com/news/local/blagojevich-madigan-burke-cases-impacted-scotuscorruption-ruling-experts/3474429. 126. Daniel I. Weiner and Eric Petry, “Supreme Court Weakens Safeguards Against State Public Corruption,” Brennan Center for Justice, July 2, 2024, brennancenter.org/our-work/analysis-opinion/supreme-court-weakens-safeguards-against-state-public-corruption.
+65. “Modest Increase in Official Corruption Convictions in 2023,” Transactional Records Access Clearinghouse, January 31, 2024, tracreports.org/reports/737. See chart on page 2. 128. “Official Corruption Prosecutions Have Increased,” TRAC Reports, May 4, 2021.
+66. “Former Ohio House Speaker Sentenced to 20 Years in Prison for Leading Racketeering Conspiracy,” press release, Justice.gov, June 29, 2023, www.justice.gov/usao-sdoh/pr/former-ohio-house-speaker-
+    sentenced-20-years-prison-leading-racketeering-conspiracy.
+67. Morgan Trau, “Former Ohio Speaker Householder Files Appeal, Says Bribe Payment Was Within First Amendment Rights,” Ohio Capital Journal, Feb 28, 2024, ohiocapitaljournal.com/2024/02/28/former-ohio-speaker-householder-files-appeal-says-bribe-payment-was-within-first-amendment-rights. 131. Brief of Appellant Larry Householder, Case No. 1:20-cr-77-1, 4, February 26, 2024, United States District Court for the Southern District of Ohio.
+68. Morgan Trau, “Former Ohio Speaker Householder Files Appeal, Says Bribe Payment Was Within First Amendment Rights,” Ohio Capital Journal, Feb 28, 2024; “Larry Householder Files Appeal, Says Bribe Payment Was within Rights,” News 5 Cleveland, Feb 27, 2024. YouTube, www.youtube.com/watch? v=p1gIv9YWssI. 0:55 min note: he was taking money from 501c(4)s.
+
+### Chapter 10
+
+1. Ben Lefebvre, “Trump Pressed Oil Executives to Give $1 Billion for His Campaign,” Politico, May 9, 2024, politico.com/news/2024/05/09/trump-asks-oil-executives-campaign-finance-00157131. 2. “Oil Bigwigs Open Wallets for Trump After Billion-Dollar Request,” The Hill, October 31, 2024, thehill.com/policy/energy-environment/4961820-oil-bigwigs-open-wallets-for-trump-after-billion-dollar-request.
+2. “What Trump Promised Oil CEOs as He Asked Them to Steer $1 Billion to His Campaign,” The Washington Post, May 9, 2024, washingtonpost.com/politics/2024/05/09/trump-oil-industry-campaign-money. 4. Oliver Milman, “Trump Officials Decimate Climate Protections and Consider Axeing Key Greenhouse Gas Finding,” The Guardian, March 12, 2025, theguardian.com/environment/2025/mar/12/epa-trump-climate-rules.
+3. “Billionaire Dem donor defends his remark about Harris,” CNN, www.cnn.com/2024/07/30/politics/video/the-lead-reid-hoffman-microsoft-board-lina-khan-harris-presidential-race-jake-tapper. 6. “Many Working-age Americans Struggling to Pay for Health Care,” CBS News, Oct. 30. 2023, YouTube, www.youtube.com/watch?v=wdYIwDBfyuU
+4. “Millions of Americans Nearing Retirement Without Savings,” CBS News, March 1, 2023, YouTube, www.youtube.com/watch?v=nWfevi3DZ8s. 8. “Millions of Americans Live in Places with Unhealthy Levels of Air Pollution,” CBS News, April 21, 2022, YouTube, www.youtube.com/watch?v=6ulz\_KFn3r4.
+5. “Child Poverty Increases Sharply Following Expiration of Expanded Tax Credit,” PBS NewsHour, September 12, 2023, YouTube, www.youtube.com/watch?v=PpS\_Ihtokw0. 10. “U.S. Life Expectancy Sees ‘Massive’ Decline, Especially in Black and Brown Communities,” PBS NewsHour June 24, 2021, YouTube, www.youtube.com/watch?v=yzhsMDgfgnw.
+6. “Senate GOP Blocks Democrats’ Supreme Court Ethics Bill,” NBC News, June 12, 2024, 3:39 min, www.nbcnews.com/politics/congress/senate-gop-blocks-democrats-supreme-court-ethics-bill-rcna156738. 12. “Supreme Court Rules Donald Trump Has Some Immunity from Criminal Prosecution,” ABC News, July 1, 2024, YouTube, www.youtube.com/watch?v=2\_3mcryxRCg.
+7. “COURT IN TRANSITION; ‘I Believe That No One Is Above the Law Under Our System,’” The New York Times, September 14, 2005, www.nytimes.com/2005/09/14/us/court-in-transition-i-believe-that-no-
+   one-is-above-the-law-under-our.html.
+8. “Alito Extols ‘Rule of Law’ at Confirmation Hearing,” NBC News, January 8, 2006, www.nbcnews.com/id/wbna10768043. 15. Stephen Collinson and Dan Berman, “Kavanaugh Says ‘No One Is above the Law,’” CNN, September 5, 2018, www.cnn.com/2018/09/05/politics/supreme-court-nomination-hearing-brett-kavanaugh/index.html.
+9. Andrew Perez, Andy Kroll, and Justin Elliott, “How a Secretive Billionaire Handed His Fortune to the Architect of the Right-Wing Takeover of the Courts,” The Lever, August 22, 2022, https://www.levernews.com/how-a-secretive-billionaire-handed-his-fortune-to-the-architect-of-the-right-wing-takeover-of-the-courts/. 17. Hailey Fuchs, “Nonprofit Connected to Leonard Leo Sent Millions to His Firm,” Politico, June 7, 2024, https://www.politico.com/news/2024/06/07/nonprofit-leonard-leo-00162364.
+10. “Leonard Leo’s Strategy for Conservative Victory,” Morning Wire, October 19, 2024, at 09:30, podcasts.apple.com/us/podcast/leonard-leos-strategy-for-conservative-victory-10-19-24/id1576594336? i=1000673739822. 19. Fred Wertheimer, interview by Jared Jacang Maher, July 5, 2023.
+11. Network, directed by Sidney Lumet, Los Angeles: Metro-Goldwyn-Mayer, 1976. 21. “S.3628 - Democracy is Strengthened by Casting Light on Spending in Elections Act,” (September 23, 2010), Congress.gov, www.congress.gov/bill/111th-congress/senate-bill/3628. Introduced in Senate 07/21/2010.
+12. Kate Ackley, “Senators Seek Action on Democratic Political Disclosure Bill,” Roll Call, September 21, 2022, rollcall.com/2022/09/21/senators-to-seek-action-on-democratic-political-disclosure-bill/. 23. Joel Warner, “The DISCLOSE Act Fails,” September 22, 2022, www.levernews.com/disclose-act-fails/.
+13. “Whitehouse Blasts Republican Blockade of the DISCLOSE Act,” Press Release, September 22, 2022, Senator Whitehouse, www.whitehouse.senate.gov/news/release/whitehouse-blasts-republican-blockade-of-the-disclose-act/. 25. ABC Detroit, YouTube, www.youtube.com/watch?v=L6QRaUTN6Ts.
+14. Andrew Prokop, “After Arizona Passed Public Financing, Politicians Spent More Time with Voters,” Vox, April 4, 2015, www.vox.com/2014/8/13/5996291/arizona-campaign-finance-system-explained. 27. Ryan Randazzo, “APS Acknowledges Spending Millions to Elect Corporation Commission Members, after Years of Questions,” AZCentral, March 29, 2019, www.azcentral.com/story/money/business/energy/2019/03/29/arizona-public-service-admits-spending-millions-2014-corporation-commissionraces/3317121002/.
+15. “Arizona Dark Money Bill: It’s on the Way to Gov. Doug Ducey.” AZCentral, March 31, 2016, www.azcentral.com/story/news/politics/legislature/2016/03/29/arizona-dark-money-bill-its-way-govdoug-ducey/82393280/. 29. “Goddard Says Voter Initiative Needed to Deal with Dark Money,” USA Today, October 14, 2014, 1:56 min, www.usatoday.com/videos/news/politics/sunday-square-off/2014/10/14/17236713/.
+16. “Groups Collecting Signatures to Keep Anti-Dark Money Initiative on November Ballot,” AZFamily, August 23, 2022, www.azfamily.com/video/2022/08/24/groups-collecting-signatures-keep-anti-dark-money-initiative-november-ballot/. 1:40 min discusses lawsuit.
+17. “Ballot Prop 211 Passes, Setting Limits on Dark Money Use in Campaigns,” 12 News, Nov 9, 2022, YouTube, www.youtube.com/watch?v=NHiMu1I01-g.
+18. “Defending Transparency in Campaign Spending: Arizona Americans for Prosperity et al v. Meyer.” Campaign Legal Center, campaignlegal.org/cases-actions/defending-transparency-campaignspending-arizona-americans-prosperity-et-al-v-meyer. 33. “Motion for Preliminary Injunction.” Goldwater Institute, www.goldwaterinstitute.org/wp-content/uploads/2022/12/Motion-for-Preliminary-Injunction.pdf.
+19. “Bid to Stop Dark Money Law Is Dismissed by Judge Again,” AZ Mirror, February 29, 2024, azmirror.com/briefs/bid-to-stop-dark-money-law-is-dismissed-by-judge-again/; “Institute for Free Speech Tells Court That Arizona’s Proposition 211 Is a Cataclysmic First Amendment Violation,” Institute for Free Speech, September 24, 2024, ifs.org/news/institute-for-free-speech-tells-court-that-arizonas-proposition-211-is-a-cataclysmic-first-amendment-violation/. 35. “New ‘Dark Money’ Law Set to Make Impact in ‘24,” KPNX-NBC 12News, January 7, 2024, YouTube, www.youtube.com/watch?v=5xGdJJuCLI0.
+20. “‘Dark Money’ Groups Would Be Forced to Disclose How They Spend on Pa.’s Elections Under Advancing Bill,” WHYY, March 28, 2024, whyy.org/articles/pennsylvania-campaign-finance-dark-money-legislature/; “SCOTUS Preserves Campaign Finance Transparency for San Francisco Voters,” Campaign Legal Center, October 8, 2024, campaignlegal.org/update/scotus-preserves-campaign-finance-transparency-san-francisco-voters; “Governor Signs Bill to Increase Dark Money Disclosure,” California Fair Political Practices Commission, April 3, 2014, fppc.ca.gov/media/pressreleases/2014-news-releases/governor-signs-bill-to-increase-dark-money-disclosure.html. 37. “Former U.S. Senator Robert Menendez Sentenced,” Press Release, U.S. Attorney’s Office, Southern District of New York, January 29, 2025, justice.gov/usao-sdny/pr/former-us-senator-robert-menendez-sentenced-11-years-prison-bribery-foreign-agent-and.
+21. “Modest Increase in Official Corruption Convictions in 2023.” Jan 31, 2024 TRAC, trac.syr.edu/reports/737/#:~:text=The%20latest%20fiscal%20yearend%20data,334%20new%20official%20corruption%20convictions 39. “Rep. Johnson, Sen. Markey Announce Legislation to Expand Supreme Court,” May 16, 2023 Hank Johnson, hankjohnson.house.gov/media-center/press-releases/rep-johnson-sen-markey-announce-legislation-expand-supreme-court.
+22. “President Biden Announces Bold Plan to Reform the Supreme Court,” July 29, 2024 The White House, web.archive.org/web/20240729103522/www.whitehouse.gov/briefing-room/statements-releases/2024/07/29/fact-sheet-president-biden-announces-bold-plan-to-reform-the-supreme-court-and-ensure-no-president-is-above-the-law/. 41. Baker, Sam. “Supreme Court Term Limits and Ethics.” Sep 13, 2024 Axios, www.axios.com/2024/09/13/supreme-court-term-limits-ethics.
+23. “Sen. Elizabeth Warren Calls for Amendment to Overturn Citizens United,” Sep 8, 2014, www.youtube.com/watch?v=nBbZAMsZ-Rg&t=1s. 43. “Overturning Citizens United: By the Numbers.” Citizen.org, www.citizen.org/article/by-the-numbers/.
+24. “Citizens United Rejected by Montana, Colorado,” HuffPost, November 7, 2012, huffpost.com/entry/citizens-united-rejected-montana-colorado\_n\_2089949; Bill Status: Senate Resolution 24, West Virginia Legislature, wvlegislature.gov/bill\_status/resolution\_history.cfm? year=2013&sessiontype=RS&input4=24&billtype=r&houseorig=s. 45. “Public Financing of Elections.” Campaign Legal Center, campaignlegal.org/democracyu/inclusion/public-financing-elections. “Public financing refers to
+    government programs that provide limited public funds to candidates for campaign expenses. To receive public funds, candidates often must agree to certain restrictions like accepting only small-dollar private contributions, limiting campaign expenditures, and participating in public debates.”
+25. “Clean Elections Programs,” National Conference of State Legislatures, updated February 6, 2023, ncsl.org/elections-and-campaigns/public-financing-of-campaigns-overview. 47. Theodore Roosevelt, “Annual Message of the President of the United States,” Congressional Record, vol. 42, December 3, 1907, p. 78. www.congress.gov/60/crecb/1907/12/03/GPO-CRECB-1908-pt1-v42-2-1.pdf.
+26. The State Campaign Finance Index 2022, Coalition for Integrity, 2022, coalitionforintegrity.org/wp-content/uploads/2022/06/The-State-Campaign-Finance-Index-2022-Full-Report.pdf, 3. 49. Public Financing of Congressional Campaigns: Overview and Analysis, Congressional Research Service, April 11, 2011, crsreports.congress.gov/product/pdf/RL/RL33814/26, 11; Congressional Record 1973, Congress.gov, congress.gov/93/crecb/1973/11/27/GPO-CRECB-1973-pt29-6-2.pdf, 38231 (resolution killed).
+27. “Campaign Finance Reform” C-span, April 7, 1992 www.c-span.org/program/call-in/campaign-finance-reform/18858. 51. Public Financing of Congressional Campaigns: Overview and Analysis, Congressional Research Service, April 11, 2011, crsreports.congress.gov/product/pdf/RL/RL33814/26; John Yang, “Bush Vetoes Campaign Funding Bill,” The Washington Post, May 10, 1992, washingtonpost.com/archive/politics/1992/05/10/bush-vetoes-campaign-funding-bill/7c27b1dc-4e27-4e63-8914-27b9fc8e3a24.
+28. “House Democrats pass campaign finance overhaul, Senate GOP to block bill.” March 4, 2021. OpenSecrets, www.opensecrets.org/news/2021/03/for-the-people-act-gop-block/. 53. “Florida taxpayers funding political campaigns for candidates” WFTV Channel 9, Sep 13, 2018 www.youtube.com/watch?v=dZbAie6L3UA.
+29. Gilens, Martin, and Benjamin I. Page. “Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens.” Perspectives on Politics 12, no. 3 (2014): 564–81. doi.org/10.1017/S1537592714001595.
+
+### Chapter 11
+
+1. “Utilities Knew: Documenting Electric Utilities’ Early Knowledge and Ongoing Deception on Climate Change”, Energy and Policy Institute, July 25, 2017, energyandpolicy.org/utilities-knew-about-climate-change/; “America’s Electric Utilities Spent Decades Spreading Climate Misinformation,” Grist, September 7, 2022, grist.org/energy/americas-electric-utilities-spent-decades-spreading-climate-misinformation/. 2. “Democratic National Convention, Day 2,” C-SPAN, August 20, 2024, c-span.org/program/campaign-2024/democratic-national-convention-day-2/647459, timestamp 04:26:07.
+2. “Gov. JB Pritzker Speaks at the 2024 DNC,” Democratic National Convention, August 22, 2024, youtube.com/watch?v=uwx19LHSGug. 4. “Former American Express CEO Speaks at 2024 DNC,” PBS NewsHour, August 20, 2024, youtube.com/watch?v=9qJ7XPjQiJY.
+3. www.youtube.com/watch?v=T6VigM8-YWY. 6. “Elon Musk Has Said He Is Committing Around $45 Million a Month to a New Pro-Trump Super PAC,” The Wall Street Journal, July 16, 2024, www.wsj.com/politics/elections/elon-musk-has-said-he-is-committing-around-45-million-a-month-to-a-new-pro-trump-super-pac-dda53823.
+4. “Clip of Former President Trump and Senator JD Vance Campaign in Grand Rapids,” C-SPAN, July 20, 2024, www.c-span.org/video/?c5124905/elon-musk.
+5. “This Is Water: The Original David Foster Wallace Recording,” Audible, www.audible.com/pd/This-Is-Water-The-Original-David-Foster-Wallace-Recording-Audiobook/B003NA7S90. 9. Zephyr Teachout, “‘Middle Class’ Joe Biden has a corruption problem – it makes him a weak candidate,” The Guardian, Jan 20, 2020, www.theguardian.com/commentisfree/2020/jan/20/joe-biden-corruption-donald-trump
+6. “MBNA Paid Biden’s Son as Biden Backed Bill,” CBS News, August 25, 2008, www.cbsnews.com/news/mbna-paid-bidens-son-as-biden-backed-bill/. 11. Luke Darby, “How Biden Helped Strip Bankruptcy Protection From Millions Just Before a Recession,” GQ, October 23, 2019, gq.com/story/joe-biden-bankruptcy-bill. In 1999, amid criticism of his support for bankruptcy reform, Biden defended himself by declaring, “I am not the senator from MBNA.”
+7. “Interview with Tom Brokaw, NBC News ‘Meet the Press,’” The American Presidency Project, September 7, 2018, www.presidency.ucsb.edu/documents/interview-with-tom-brokaw-nbc-news-meet-the-press. 13. “Katy Tur Confronts Sanders Press Sec on Campaign Swipe at Biden,” Mediaite, January 20, 2020, mediaite.com/tv/katy-tur-confronts-sanders-press-sec-on-campaign-swipe-at-biden-do-you-think-he-is-corrupt.
+8. “Sanders Apologizes to Biden Over Inflammatory Op-Ed,” CBS This Morning, January 21, 2020, youtube.com/watch?v=42yT7TpuBss. 15. “Texas freeze delivers billions in profits to gas and power sellers,” Reuters, May 5, 2021, www.reuters.com/business/energy/results-tally-up-billions-profit-texas-freeze-gas-power-sellers-2021-05-06/.
+9. “Texas Oil Tycoon Kelcy Warren Sues Beto O’Rourke.” March 8, 2022. Fox 7 Austin, www.fox7austin.com/news/fox-7-discussion-texas-oil-tycoon-kelsey-warren-sues-beto-orourke. 17. “Appeals court dismisses GOP megadonor’s lawsuit against Beto O’Rourke.” June 9, 2023. Texas Tribune, www.texastribune.org/2023/06/09/kelcy-warren-lawsuit-beto-orourke.
+10. “Porter Doubles Down on Claims California Senate Race Was ‘Rigged by Billionaires’ After Loss,” The Hill, March 7, 2024, thehill.com/homenews/campaign/4515806-katie-porter-calls-california-senate-race-rigged-billionaires. 19. “Crypto Super PAC Spends $10M on Katie Porter Attack Ads in California Race,” The Guardian, March 1, 2024, theguardian.com/us-news/2024/mar/01/crypto-super-pac-katie-porter-attack-ads.
+    Forbes. “Brian Armstrong.” Forbes, www.forbes.com/profile/brian-armstrong. 20. Christopher Cadelago, “Spending in the California Senate Race Has Hit Record Levels,” Politico, February 29, 2024, politico.com/news/2024/02/29/ca-senate-race-spending-00144278.
+11. “Katie Porter Faces Backlash after Claiming California Senate Race Was “Rigged,’” ABC7, March 8, 2024, abc7.com/katie-porter-says-california-senate-race-was-rigged-faces-backlash/14503858/. 22. “Katie Porter Doubles Down After Claiming California Senate Race Was Rigged by Billionaires,” CBS4 Local, March 7, 2024, www.cbs4local.com/news/nation-world/katie-porter-doubles-downafter-claiming-calif-senate-race-was-rigged-by-billionaires-democrat-congresswoman-california-adamschiff-primary-super-tuesday-2024-election.
+12. Mark Z. Barabak, “Column: Katie Porter Goes MAGA, Claiming California’s Election Was Rigged. It Wasn’t,” Los Angeles Times, March 7, 2024, www.latimes.com/politics/story/2024-03-07/katie-porter-rigged-accusation-california-senate-schiff-garveytk.
+13. “Schiff: Robert Hur Chose to ‘Politically Slime’ Biden,” CNN, March 12, 2024, www.cnn.com/videos/justice/2024/03/12/the-lead-adam-schiff-california-biden-hur-tapper.cnn.
+14. “Katie Porter Regrets Using Word ‘Rigged’ after Senate Lose,” FOX 11, March 19, 2024, YouTube, www.youtube.com/watch?v=CXBJP-3NRvM. 26. “President Biden Delivers Remarks on the DISCLOSE Act,” The White House, September 20, 2022, YouTube, youtube.com/watch?v=AmJJNHdDEf0.
+15. “Biden, Once One of the Nation’s Youngest Senators, Will Be Its Oldest President,” Washington Post, January 11, 2021, www.washingtonpost.com/history/2021/01/11/youngest-senators-joe-biden/ 28. Joseph Biden, “Remarks from Senator Joseph R. Biden, Jr.,” The City Club of Cleveland, May 18, 1973. www.cityclub.org/inc/audio-player.php?event\_id=1302, starting at 26:36 minutes.
+16. “Public Financing of Congressional Campaigns: Overview and Analysis,” CRS Reports, April 11, 2011, p 11, crsreports.congress.gov/product/pdf/RL/RL33814/26; “CRECB 1973,” Congress.gov, p 38231, www.congress.gov/93/crecb/1973/11/27/GPO-CRECB-1973-pt29-6-2.pdf. 30. “Advocates; Should the Federal Government Subsidize Political Campaigns and Limit Individual Contributions?” February 7, 1974. openvault.wgbh.org/catalog/V\_036A8212AFA94893A7DA5907D8412F6E#at\_903.044\_s
+17. “President Biden on the DISCLOSE Act,” The White House. 32. “Joe Biden’s controversial comments about segregationists and wealthy donors, explained,” Vox, June 19, 2019 www.vox.com/policy-and-politics/2019/6/19/18690910/biden-fundraiser-controversy-segregationists-donors.
+18. “Vice President Biden Domestic Policy Address,” C-SPAN, July 16, 2015, 32:25 min, www.c-span.org/video/?327136-1/vice-president-biden-domestic-policy-address.
+
+### Cast of Characters
+
+1. Seating chart, Committee on Business Overview Meeting, November 12, 1974, John A. Howard Papers, Northern Illinois University, Box 129, Folder 10c. In addition to U.S. Chamber of Commerce staff and senior university administrators, the seating chart (counterclockwise from the left side of Figure 12) includes representatives from the Texas Council on Economic Education, Joint Council on Economic Education, Amway Corp., Southern Department Stores, Business Roundtable, Opinion Research Corporation, Dart Industries, The Tulsa Tribune, National Can Corporation, Council of Better Business Bureaus, National Association of Manufacturers, Carl Byoir & Associates, American Enterprise Institute, and Compton Advertising.
+
+# About the Authors
+
+#### David Sirota is a journalist and bestselling author based in Colorado. He is the founder and editor-in-chief of The Lever, a reader-supported investigative news outlet. Sirota served as a senior adviser and speechwriter for Bernie Sanders’s 2020 presidential campaign. His collaboration with director Adam McKay on Netflix’s Don’t Look Up earned him an Academy Award nomination for Best Original Screenplay and a 2022 Writers Guild Award. Sirota has written three previous books: Hostile Takeover, The Uprising, and Back to Our Future. He lives in Denver with his wife, Emily, and their two children.
+
+#### Jared Jacang Maher is a writer and producer specializing in long-form storytelling and investigative reporting across print, video, and audio. His work has earned an Emmy for documentary filmmaking, multiple James Beard Awards, and a 2024 National Press Club Award for excellence in audio journalism. He is currently a producer at The Lever and lives in Denver with his wife and four children. Master Plan is his first book.

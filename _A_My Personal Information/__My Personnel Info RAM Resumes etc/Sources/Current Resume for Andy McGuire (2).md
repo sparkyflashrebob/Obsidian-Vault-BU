@@ -1,0 +1,43 @@
+---
+tags:
+  - notebooklm-import
+notebook: "__My Personnel Info RAM Resumes etc"
+category: "personal"
+---
+
+Qualifications and Experience
+Experience 2009 - California Pacific Medical Center, San Francisco, CA
+Chief Engineer/Project Manager
+Responsibilities include System Design, Project/Facilities Management and Technical Support;
+Future Technologies Research;
+2000 – 2009 Snader and Associates, San Rafael, CA
+Technical Support Engineer/Design Engineer
+Responsibilities include System Design, Installation and Trouble shooting of A/V and Broadcast Systems;
+Sales Engineering Support;
+On-site audio, video and control system trouble shooting;
+Systems Design/Engineering and Computer Assisted Design with VidCAD;
+On-site Supervision, Installation and Project Management
+1993- 2000 National Mobile Television, S. San Francisco, CA
+Engineer-In-Charge (Maintenance Engineer)
+Maintenance and repair of 50ft. remote production truck with industry standard video and audio production equipment including Sony DVS-7350 switcher, Yamaha PM-3000, Leitch Venus router, Sony BVW-75, EVS LVS disk recorder, RTS intercoms, Ikegami HK-366 studio cameras, Chyron Infinit, etc.
+Clients include Fox Sports, KPIX, KTVU, KRON, ABC, KICU and KPIX.
+Lead engineer for Oakland A’s, Golden State Warriors, San Francisco Giants, San Jose Sharks, and other local sporting event productions.
+1983–1993 KTOP (City of Oakland) Oakland, CA
+Production & Technical Manager/Director
+Supervised and trained operations staff, as well as supervised and maintained Production and Master Control operations.
+On-Line Linear Editor and Director for all major Projects and Programming.
+Design and construction of Master Control, Studio and remote production facilities including Alamar automation system and remote camera production system.
+Education 1991–1994 Napa Valley College Napa, CA
+A.S., Telecommunications Technology.
+Graduated Summa Cum Laude.
+1977-1981 San Francisco State Univ. San Francisco, CA
+
+* Broadcast Communications Arts Major
+  Interests NVC SMPTE President 1993-94, video and audio recording and editing.
+  453 Mannering Street Napa, CA 94558
+  Home: (707)253-7275 Mobile: (707)260-4940
+  E-mail: mobiletv@wans.net
+
+##### Andy McGuire
+
+![image](data:image/jpeg;base64,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)

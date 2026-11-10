@@ -1,5 +1,0 @@
----
-tags:
-  - resilience
-  - loving-kindness
----

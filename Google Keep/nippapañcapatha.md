@@ -1,2 +1,0 @@
-
-non proliferation buddhist nippapañcapatha

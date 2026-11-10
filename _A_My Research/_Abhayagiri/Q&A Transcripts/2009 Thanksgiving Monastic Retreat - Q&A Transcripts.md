@@ -4,6 +4,7 @@ retreat: "Thanksgiving Monastic Retreat"
 year: 2009
 date: "2009-11-26"
 location: "Redwood Valley, CA"
+type: qa-compendium
 monastery: "Abhayagiri Buddhist Monastery"
 tradition: "Thai Forest Tradition"
 speakers:

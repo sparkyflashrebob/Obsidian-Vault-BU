@@ -1,4 +1,0 @@
----
-tags:
-- mindfulness-of-thinking
----

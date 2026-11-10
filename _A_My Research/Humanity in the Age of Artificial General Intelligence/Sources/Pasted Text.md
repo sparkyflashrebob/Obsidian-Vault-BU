@@ -1,0 +1,47 @@
+---
+tags:
+  - notebooklm-import
+notebook: "Humanity in the Age of Artificial General Intelligence"
+category: "research"
+---
+
+The “Father Of AGI” Warns Workers To Build 3 Skills Now Before Jobs Become Obsolete ByRachel Wells,Senior Contributor. Rachel Wells is a writer who covers leadership, AI, and upskilling.
+Follow Author Apr 15, 2026, 09:13am EDT
+Professional woman looking away, with a cinematic background of purple and neon showing the future of work When robots reach the point of being just as good as, or even better than, humans at work in a couple of years, the only thing that remains is human relationship-building and connection getty What if the future of work, is…no work at all?
+I had an eye-opening conversation with “the father of AGI,” Ben Goertzel, just yesterday on my podcast. He believes that we are a mere two or three years away from achieving fully independent human-level artificial intelligence, known as AGI (artificial general intelligence), similarly to OpenAI CEO Sam Altman.
+And if it does, most jobs won’t survive, he warned. “Once you have a human-level AGI… the vast majority of human jobs become obsolete.”
+Now, to be clear, the AI pioneer and computer scientist doesn’t believe this will happen overnight.
+He expects that once an “AGI breakthrough” occurs, there will be a transitional period before it fully rolls out and is adopted at scale, pretty much how artificial intelligence went mainstream with Gen AI in 2022 but has taken a little while for organizations to fully adopt and implement.
+He also believes that a few roles, like that of educators and teachers, will remain intact.
+Nonetheless, a couple of years is not a long time at all for the start of a workplace upheaval, where robots can do most of the jobs of humans better than we can.
+So in anticipation of a probable job apocalypse, what should workers be doing now?
+MORE FOR YOU Trump Posts AI Photo With Jesus—Days After He Was Slammed For ‘Blasphemy’
+Dangerous Microsoft Windows Update Confirmed—Do Not Download
+‘Starting In April’—Microsoft Changes Windows Update After 15 Years
+Career Advice Is Swiftly Becoming Outdated “Prompt engineering was the most important thing two years ago—but not now,” Goertzel said with a dry smile. Skills are quickly declining in value, he explained, giving way to other skills that rise in importance.
+“Skills are changing rapidly, and no one can accurately predict which jobs will go first. Like, the fact that lawyers and graphic artists are going obsolete before plumbers or electricians or research mathematicians--I mean, that wasn’t obvious to anyone,” he remarked.
+“But work is so much more than making money,” I questioned. “What about people who work just because they enjoy it and find it satisfying? What about those who work for the sense of pride, fulfillment, satisfaction and contribution to the economy?”
+symbol 00:43
+03:12 Read More Goertzel then painted what he called a utopian world where:
+AGI and superintelligence (next-level AGI) would be able to do most of our jobs On the flip side of job loss, this would mean more time for human connection, spending time with loved ones and family, and getting to know ourselves better as humans People could pursue more fulfilling and emotionally rewarding endeavors than chasing hours around the clock for money UBI (Universal Basic Income) and distributed, decentralized access to the benefits of technology When robots reach the point of being just as good as, or even better than, humans at work in a couple of years, the only thing that remains is human relationship-building and connection
+Rachel Wells The 3 Skills You Need To Be AI-Proof Ahead of the “transitionary period,” as Goetzel called it, workers will need to hone skills that will enable them to be fully useful and remain relevant in the future of work (if we can still call it that by that point):
+
+1. Strong Human Relationship-Building And Communication Skills “Once super intelligence does come, assuming it comes out beneficially for our species, you know, what we’re left with is ourselves, our own minds and bodies and our, our friends and family and our human relationships,” he said. “So that’s what matters. I mean, if you’re happy with yourself in your own life and you have people you love who love you, that will still be there and that’s probably the most important thing.”
+   Going back to my reference of teaching occupations as still outlasting the AI era even at the advanced stage of AGI and ASI, this actually makes a lot of sense.
+   The skills that will matter the most in the next frontier of AI will be the ones that are driven by human relationships.
+   Even today, we’re seeing this. In an era of AI slop resumes been churned out to recruiters, and ATS filtering out even the most capable candidates, the ability to have access to a human connection or decision-maker and get a referral is even more critical.
+   In that case, focus now on building skills like:
+   Emotional intelligence Rapport-building Communication skills (at all levels) Active listening Executive woman with glasses, focused on a monitor reflecting digital blue light behind her, representing the ability to pivot quickly and the skill of emotional intelligence in the new future of work Emotional intelligence and the ability to pivot quickly will save your career as we enter the new future of work getty 2. The Ability To Pivot You need to be “able to pivot rapidly and tap dance really fast,” Goertzel told me. Adaptability and agility are in the top skills required by employers today, according to Coursera and the World Economic Forum reports.
+   If you’re used to sticking with the same way of doing things and refuse to adjust, even for a moment, you’ll be out of touch with reality and lose relevance, and won’t be prepared for what’s in store for you next.
+   This means:
+   Learning new skills every month Invest in an upskilling course (or study free) at least once a year Stay abreast of industry news and critically reflect on how this might impact your work and organization And if you work in a role that can be performed by a computer smarter than you--let’s say accounting, for example--be willing and ready to switch over to a career where human touch and connection remain critical (like nurses, teachers, public speakers, certain types of coaching, etc.).
+2. Be Comfortable With Yourself This was an interesting take, as I didn’t expect this to be one of the skills Goertzel would mention. Nonetheless, I can see why it’s vital.
+   For example, I’m a self-proclaimed workaholic. And as such, “time for myself” often involves work to some degree.
+   I know others who would say that work is their identity, too.
+   But what Goertzel is suggesting here is that humans need to get to the place where we enjoy ourselves for who we are, embrace the beauty of what’s around us, and be fully present in the moment, and understand ourselves intimately so we can connect better with others--beyond work domains.
+   Quite a fascinating take on the future of work, for sure.
+   Because after all, it’s not a matter of, “What jobs will stick around?”
+   That part is still uncertain.
+   It’s more a matter of, “What’s the kind of person you will become in this new era?”
+   Editorial Standards Reprints & Permissions Rachel Wells Find Rachel Wells on LinkedIn and X. Visit Rachel's website.
+   Follow Author FORBES’ FEATURED Video

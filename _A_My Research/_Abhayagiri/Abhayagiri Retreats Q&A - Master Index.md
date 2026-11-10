@@ -35,8 +35,9 @@ tags:
 | **2016 Abhayagiri Thanksgiving Monastic Retreat** | `2016-11-19 to 2016-11-26` | Ajahn Pasanno | 8 | 119 | [[2016 Thanksgiving Monastic Retreat - Q&A Sessions]] |
 | **2022 Abhayagiri Thanksgiving Monastic Retreat** | `2022-11-07 to 2022-11-11` | Ajahn Nyaniko, Ajahn Cunda | 3 | 6 | [[2022 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
 | **2023 Abhayagiri Thanksgiving Monastic Retreat** | `2023-11-18 to 2023-11-24` | Ajahn Nyaniko, Ajahn Sudhiro, Ajahn Karunadhammo | 6 | 13 | [[2023 Thanksgiving Monastic Retreat - Q&A Transcripts]] |
+| **2018 SRMC Daylong (Fully Understanding Dukkha)** | `2018-08-12` | Ajahn Karunadhammo | 2 | 19 | [[2018 SRMC Daylong (Fully Understanding Dukkha) - Q&A Transcripts]] |
 | **Anapanasati Retreat 1 & Viveka Q&A Clips** | `2005` | Ajahn Pasanno, Ajahn Amaro, Viveka | 2 | 2 | [[Anapanasati Retreat 1 & Viveka - Q&A Transcripts]] |
-| **TOTAL** | — | — | — | **510** | — |
+| **TOTAL** | — | — | — | **529** | — |
 
 ---
 
@@ -582,3 +583,34 @@ Questions from all retreats categorized by central Dhamma practice themes:
 
 ---
 
+
+
+### 2018 SRMC Daylong (Fully Understanding Dukkha) — Questions & Answers
+*Speaker: Ajahn Karunadhammo | Date: 2018-08-12 | Venue: Spirit Rock Meditation Center | Transcripts: [[2018 SRMC Daylong (Fully Understanding Dukkha) - Q&A Transcripts]]*
+
+#### Morning Q&A Session (`01:31:38 – 02:19:26`)
+| # | Timestamp | Topic / Inquiry | Questioner | Doctrinal Theme |
+|---|---|---|---|---|
+| 1 | `01:31:41` | Strategies for Detachment & Dalai Lama's Lion's Roar | Female Meditator | "There is no fast! There is no easy!"; *khanti* (patience) |
+| 2 | `01:42:02` | Duality, the Middle Way & Neutral Feeling Tones | Female Meditator | Middle Way of practice vs. *upekkhā-vedanā* feeling tone |
+| 3 | `01:45:34` | Surrender vs. Right Effort (Overcoming Passivity) | Male Meditator | Surrendering uncontrollable while active in *Sammā Vāyāma* |
+| 4 | `01:52:16` | Teaching Dhamma to Children Through Embodiment | Male Meditator | Children absorb emotional calm somatically; walk the walk |
+| 5 | `01:55:30` | The Conditioned Realm (*Saṅkhata*) vs. Unconditioned | Female Meditator | Dependent causes are *anicca*, *dukkha*, *anattā* |
+| 6 | `01:58:28` | Caregiver Burnout & Holding Space Without Fixing | Female Meditator | Holding a "safe zone" of presence; knowing boundaries |
+| 7 | `02:04:54` | Loving-Kindness & The Salt Crystal (*AN 3.99*) | Male Meditator | Diluting suffering in the vast volume of loving-kindness |
+| 8 | `02:13:53` | Interpersonal Boundaries & Karma vs. Victim-Blaming | Male Meditator | Four Unthinkables (*acinteyya*); responding with compassion |
+
+#### Afternoon Q&A Sessions (`05:00:25 – 05:24:20` & `06:48:04 – 07:41:58`)
+| # | Timestamp | Topic / Inquiry | Questioner | Doctrinal Theme |
+|---|---|---|---|---|
+| 9 | `05:00:53` | Effort vs. Passivity — The Farmer Simile | Female Meditator | Sowing seed (effort) without pulling shoots (craving) |
+| 10 | `06:48:50` | Role of Meditation in Understanding Dukkha | Male Meditator | Noticing reality vs. suppressing thoughts |
+| 11 | `06:52:57` | Clinging in Relationships & Fear of Uncertainty | Male Meditator | Investigating the somatic fear of unpredictability |
+| 12 | `06:57:00` | Unconscious Clinging & Deep Mental Layers | Female Meditator | Samatha calming surface chatter; non-reaction |
+| 13 | `07:01:19` | Injustice & Communicating Without Fueling Fire | Female Meditator | The skillful pause; not speaking from emotional heat |
+| 14 | `07:04:16` | Natural Conditions vs. Past Karma | Female Meditator | Discerning present relationship to discomfort |
+| 15 | `07:07:52` | Addressing Monastics & Overcoming Doubt | Male Meditator | Doubt (*vicikicchā*) as an object of mindfulness |
+| 16 | `07:13:38` | Practicing with 'Failure' vs. Non-Self | Lizzie | Dismantling 'spiritual failure'; causes and conditions |
+| 17 | `07:21:16` | Global Suffering, Everyday News & Burnout | Woman 1 | Compassion (*karuṇā*) paired with equanimity (*upekkhā*) |
+| 18 | `07:28:18` | Embodied Suffering, Trauma & Chronic Pain | Woman 2 | Direct experience vs. conceptual proliferation (*papañca*) |
+| 19 | `07:33:13` | Sense of Self, Narrative Therapy & Not-Self | Andy | 'A story of not making stories'; not-self as deconstruction |

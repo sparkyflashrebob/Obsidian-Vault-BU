@@ -1,1 +1,0 @@
-No expectations No regrets

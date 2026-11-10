@@ -14,7 +14,7 @@ tags: [excalidraw]
 # Text Elements
 Cognitive Bias ^Ve77WVcB
 
-[[Cognitive Bias]] ^RSCLoeH7
+[[_Misc Unsorted/Cognitive Bias]] ^RSCLoeH7
 
 %%
 # Drawing

@@ -7,7 +7,7 @@
 
 2. **Authentic Natural Vocabulary & Phrasing**:
    - For physical tension in the stomach, say "our stomach is tight or knotted up" (do not use dramatic or cliché phrases like "clenched like a fist").
-   - Use simple, direct everyday phrasing (say "have been feeling lately", not "feeling in our bones").
+   - Use simple, direct everyday phrasing (say "have been feeling lately", not "feeling in our bones"; say "hit me personally", not dramatic idioms like "struck me right between the eyes").
    - Frame difficulty as things "entering our senses" (eye, ear, nose, tongue, body, mind) rather than "landing on physical resources".
    - Ground teachings in everyday life (the checkout counter, utility bills, rude interactions, difficult news, bodily aches) without limiting difficulty solely to finances.
 

@@ -7,6 +7,19 @@
 
 ## 📥 Pending Review & Implementation
 
+- [ ] **[2026-11-05 - User Directive / Spiritual Teaching Task] Curate Case Studies & Stories on Human Interaction (The Three Poisons vs. Wholesome Action)**:
+  - **Objective**: Collect and catalogue real-world stories and case examples illustrating both the negative and positive spectrum of human interaction for Andy's spiritual teachings and book writing (*Living Mindfully*).
+  - **Negative Spectrum (The Three Poisons in Action)**:
+    - Real-world case studies demonstrating *Lobha* (Greed), *Dosa* (Hatred / Aversion), and *Moha* (Delusion) working in tandem.
+    - *Anchor Example*: The Jody Burridge WTA sports betting hostility (how monetary greed and outcome attachment curdle into toxic speech and aggression).
+  - **Positive Spectrum (Wholesome Action & The Brahmavihāras in Action)**:
+    - Real-world stories of altruism, unexpected generosity (*dāna*), forgiveness, moral courage, relational autonomy, and kindness under pressure.
+    - *Anchor Examples*: Jon persevering through getting sprayed by a skunk to transport it safely to WildCare; acts of everyday civic decency and non-reactive patience.
+  - **Vault Destinations & Output**:
+    - Tag entries under stories-and-parables, 	hree-poisons, rahmaviharas, practical-dhamma.
+    - Maintain and cross-reference within _A_My Journal and Notes/Master_Stories_and_Insights_Index.md and _A_My Teaching - Living Mindfully Subject - Research - Themes/.
+  - **Status**: Active Working Task
+
 - [ ] **[2026-10-21 12:15 PM - Pair Programming Session] William James Attention & Habit Integration Directive**:
   - **Source Talk**: *"The Most Important Skill a Human Can Develop -- William James"* (Philosophy Is Timeless)
   - **Directives & Actions**:

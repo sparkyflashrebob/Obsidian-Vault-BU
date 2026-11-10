@@ -1,4 +1,0 @@
----
-tags:
-- favorite-song-sayings
----

@@ -570,6 +570,13 @@ Tags: #comparison #english-to-pali
   * **Literal:** Measuring, comparing, pride, arrogance
   * **Summary:** The subtle ego-driven delusion of measuring oneself against others: 'I am better than', 'I am worse than' (inferiority conceit), or 'I am equal to'. It is one of the ten fetters, and is only completely eradicated at the stage of Arahantship.
 
+### **Conditioned Suffering**
+Tags: #conditioned-suffering #sankhara-dukkhata #dukkha #english-to-pali
+
+* 👉 **[[Pali to English Dictionary#Saṅkhāra-dukkhatā|Saṅkhāra-dukkhatā]]** *(Skt: Saṃskāra-duḥkhatā)* — *The Suffering of Conditioned Formations / Structural Friction*
+  * **Literal:** The state or quality (-tā) of suffering/stress (dukkha) inherent in conditioned things (saṅkhāra)
+  * **Summary:** The third and deepest tier of dukkha (*SN 45.165*), designating the pervasive, inescapable thermodynamic and existential friction of all compounded phenomena.
+
 ### **Compassion**
 Tags: #compassion #english-to-pali
 
@@ -2752,6 +2759,13 @@ Tags: #ordained-woman #english-to-pali
 
 
 ## P
+
+### **Proliferation (Mental)**
+Tags: #proliferation #mental-storytelling #papanca #english-to-pali
+
+* 👉 **[[Pali to English Dictionary#Papañca|Papañca]]** *(Skt: Prapañca)* — *Conceptual Proliferation / Mental Storytelling / Obsessive Complication*
+  * **Literal:** Expansion, diffusion, complication, spreading out (pra-pañc)
+  * **Summary:** The runaway cognitive process where sensory feeling and perception explode into recursive, identity-based storytelling, victimhood, and mental complication (*MN 18 Madhupiṇḍika Sutta*).
 
 ### **Pain**
 Tags: #pain #english-to-pali

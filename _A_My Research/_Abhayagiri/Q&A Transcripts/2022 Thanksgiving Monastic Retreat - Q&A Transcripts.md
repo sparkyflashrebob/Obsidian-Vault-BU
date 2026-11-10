@@ -4,6 +4,7 @@ retreat: "Thanksgiving Monastic Retreat"
 year: 2022
 date: "2022-11-07 to 2022-11-11"
 location: "Redwood Valley, CA"
+type: qa-compendium
 monastery: "Abhayagiri Buddhist Monastery"
 tradition: "Thai Forest Tradition"
 speakers:

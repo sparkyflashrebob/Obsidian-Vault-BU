@@ -405,9 +405,31 @@
           "type": "file",
           "ctime": 1792882089734,
           "path": "100-Year & 500-Year Flood Inundation & Vehicle Evacuation Plan.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1794084201903,
+          "path": "_A_My Personal Information/_A_My Health Records and EOL Plans/00 - Health & Medical Master Profile.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1794084395607,
+          "path": "_A_My Personal Information/_A_Finances - Investments - SSI/00 - Personal Finance & Wealth Dashboard.md"
         }
       ],
       "title": "House and Home Misc"
+    },
+    {
+      "type": "group",
+      "ctime": 1793898823955,
+      "items": [],
+      "title": "Music Production"
+    },
+    {
+      "type": "group",
+      "ctime": 1793898833737,
+      "items": [],
+      "title": "Mindfulness Teaching"
     }
   ]
 }

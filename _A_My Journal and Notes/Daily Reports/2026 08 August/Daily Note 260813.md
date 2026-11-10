@@ -210,10 +210,10 @@ tags:
 *Context: Andy studying suttas on vitakka-vicāra and reflecting on the urge to speak.*  
 > "In the suttas, the Buddha calls directed thought and evaluation the fabricators of speech—the mainsprings of vocal activity. When the mind is entirely present, thoughts settle down completely. But society trains us to believe that if we aren't talking, commenting, or having an opinion on everything, something is wrong with us. In meditation, when thought drops away, they call it noble silence. It's not a deficiency or a blank trance; it's a profound, luminous stillness where the mind no longer needs to construct an artificial self."
 
-#### 🕒 9:15 PM – 9:22 PM — The Bush Parable (`Vision Quest Wisdom`)
+#### 🕒 9:15 PM – 9:22 PM — The Bush Parable (`Spirit Walk Wisdom`)
 **Spoken Reflection — Backing Out the Way You Came In**  
-*Context: Andy recalling a wilderness lesson from his Vision Quest while solving technical and emotional snarls.*  
-> "During my vision quest, I was walking along the ridge and pushed into a thick patch of dense, thorny brush thinking it was a shortcut. Within a few steps, thorns were snagging my clothes, scratching my skin, and the deeper I pushed forward, the more trapped I became. Panic started whispering: 'Just force your way through!' But I stopped, took a breath, and realized: the only way out is to turn around and patiently back out the exact same way I came in, step by deliberate step. When we get entangled in life—whether it's an angry argument, a chaotic project, or mental confusion—forcing our way forward only tears the skin. We have to pause, retrace our steps, and back out with patience."
+*Context: Andy recalling a wilderness lesson from his Spirit Walk while solving technical and emotional snarls.*  
+> "During my spirit walk, I was walking along the ridge and pushed into a thick patch of dense, thorny brush thinking it was a shortcut. Within a few steps, thorns were snagging my clothes, scratching my skin, and the deeper I pushed forward, the more trapped I became. Panic started whispering: 'Just force your way through!' But I stopped, took a breath, and realized: the only way out is to turn around and patiently back out the exact same way I came in, step by deliberate step. When we get entangled in life—whether it's an angry argument, a chaotic project, or mental confusion—forcing our way forward only tears the skin. We have to pause, retrace our steps, and back out with patience."
 
 ---
 
@@ -239,7 +239,7 @@ tags:
 ## 💬 Quoted Expressions & Catchy Phrases
 
 ### Quotes
-- *"When we get entangled in life... forcing our way forward only tears the skin. We have to pause, retrace our steps, and back out with patience."* — **Andy McGuire** (`9:18 PM`, Vision Quest Parable)
+- *"When we get entangled in life... forcing our way forward only tears the skin. We have to pause, retrace our steps, and back out with patience."* — **Andy McGuire** (`9:18 PM`, Spirit Walk Parable)
 - *"You talk simply, like two friends sitting across a kitchen table. Use the inclusive 'we'—because we are all in this human struggle together."* — **Andy McGuire** (`6:28 PM`, Writing Tone Directive)
 - *"In meditation, when thought drops away, they call it noble silence... It's a profound, luminous stillness where the mind no longer needs to construct an artificial self."* — **Andy McGuire** (`8:50 PM`, Sutta Reflection)
 
@@ -258,7 +258,7 @@ tags:
 
 ## 📚 Stories & Case Examples Shared
 
-### [9:11 PM – 9:25 PM] The Vision Quest Thicket: The Art of Retreat
+### [9:11 PM – 9:25 PM] The Spirit Walk Thicket: The Art of Retreat
 - Andy recounted a harrowing yet deeply transformative memory from his wilderness Vision Quest.
 - Navigating an unmarked mountain ridge at dusk, he attempted to shave off time by pushing into what appeared to be low brush.
 - Within yards, the scrub transformed into an impenetrable wall of jagged, clawing thorns that gripped his pack, tore his clothing, and pinned his arms.

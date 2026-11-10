@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_My Journal Notes (Other)"
+category: "personal"
+---
+
+Speaker 1 - 00:01
+Okay, so this is a quick note on. I think that one of the things I've been running into is where I have an idea about, say, the Dharma. And then others mention things, counter that. Then how do I address that in my mind without feeling inferior, superior or, you know, somehow it's wrong? So I thinking of the honeyball sutta. That is a way that if there's nothing to delight in, then that wouldn't come across my mind. So very interesting is that through wisdom, you know? Yeah, that's a. It's a. That's a good thing to. This is part of the whole sake titty thing when you. We just take things on face value and don't add anything to it.
+![image](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8XCwkMGRYSExMYEhYTFhwXEw8aDxIPGBcYGh0WFhUVExcWGCIVGBAVFRUBBQUFBwYHDgkJDh8UERQeFRUVFRUYFR4VFRUVFR4VFRUVFRUSFR4VFR4eEh4SHhUVFRUVHh4VFRUVEh4eFRUeFf/AABEIACUAJQMBIgACEQEDEQH/xAAbAAADAAMBAQAAAAAAAAAAAAAABQYBBAcIAv/EADIQAAEDAwEGAwUJAAAAAAAAAAECAwQABRESBiExQVFhIlKRExUWcaEUIzJWZKPB0uH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwUC/8QAHREBAAMAAgMBAAAAAAAAAAAAAQACAyExBBFhUf/aAAwDAQACEQMRAD8A9f3Sc1BZ1r8S1bkIHM1KTLjLlKJW6pKfIk7hX3e5CpFxdOfCg6EjsKmNtLi/bLGt6NudWoNpV5M53/Sm5ZAfZmeRuq/hHaVKSrUlRB6g00tt5fYWEPqU63zz+IfKuXXWxi12P3yzdpK5qNC/aBzwLJI4czx61aW15ci3RpDg0rdaQtQ6EgE1S9BOZDPW1XjidEZcQ82lxshSVDIIoqd2fuKI7DjL2dIIKP5rFDc0Zp03q17iyaCmY+k8Q4oH1qS2muT8qY5s/Atzcx0thTxdPgQDjuOo35roe00Apd+2NJyhW5zHI9agLns0/JvL9yjXd6Gt1ISQ2jfgADGQodKZlYT3M3elqqSc+Dr402lzMSQlCtQjl1WD25D61XbM3f3ow827GMaTFV7N1vkD29Du7VofDd1/NM70P9q3tmbEu0uylKmLmOSlJKipG/Iz3Oc5qlkTmRpVHgj6My47q0A7sZrFVNigmHD+8Tlxw6ldqzRHbmaNPG91jFQCk6VAEHjSabYYzi9bLimSeIAyPSiij1U6itKVTkmv8O/rP2v9plbbVGhkLALjnmVy+XSiiurXsncnnnUeoxoooqcRP//Z)

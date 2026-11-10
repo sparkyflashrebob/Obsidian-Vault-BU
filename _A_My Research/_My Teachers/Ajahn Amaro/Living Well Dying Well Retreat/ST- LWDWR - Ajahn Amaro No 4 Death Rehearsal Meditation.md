@@ -285,4 +285,11 @@ Okay, still there, but slowly and steadily, you know, 40 years, 50 years, 60 yea
 AjahnAmaro
 So we've now come to just before 05:00 so I think we have a pause in our program.
 
+---
+
+### Related Vault Documents & Adapted Meditation Scripts
+* [[Deep Work on Forgiving Others - Meditation Script (Ajahn Amaro - Andy Adapt).md]] (Guided meditation script adapted by Andy for teaching and group sittings)
+* [[Chapter 18 - Ajahn Amaro - When the Last Breath Comes.md]] (Published chapter in *More Than Mindfulness*)
+* [[Living Well Dying Well Retreat - Ajahn Amaro.md]] (Retreat Master Notes)
+
 

@@ -1,0 +1,8 @@
+---
+tags:
+  - notebooklm-import
+notebook: "C_Graphics and other Desktop Media Apps"
+category: "research"
+---
+
+here is the best video export setting go down to file format choose fmpeg video open encoding and choose mpeg4 this is what i use for all my video exports gives you really high quality at a low file size with the correct colors that you want if you're doing something super high quality you can also go into output quality here and choose something a little higher but again in general i always just leave it at medium quality and i get a really good output in general i've tried things like avi jpeg and other fm peg encodings and you'll have certain things like color issues or the file size will get very big so this is only setting i recommend the last thing i'll show you is here is the directory directory where the file will be exported so if you were to go into this button over there and click accept you'll basically write out this directory but i don't like this i actually like to have it be relative to where my blender file is and to do that all i need to do is put two forward slashes and then i can type my video file name and then when i render it it shows up right next to my actual file my blender file i can even do something like this which will create a folder that then the video will be rendered into so you can see it created this render folder and right there is where the video lives and i like this because if i were to upload this to my dropbox and then try and use blender on my mac you'll all be self-contained within the project rather than be based on some computer file system directory that's it for video export settings if you found this helpful please drop a subscription and a like see you in the next one

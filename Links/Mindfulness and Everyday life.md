@@ -1,1 +1,0 @@
-https://www.mindful.org/cultivating-mindfulness-beyond-meditation-how-8-skills-empower-us-in-everyday-life/

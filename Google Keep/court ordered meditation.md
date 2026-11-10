@@ -1,2 +1,0 @@
-
-court ordered meditation

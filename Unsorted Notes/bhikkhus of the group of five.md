@@ -1,1 +1,0 @@
-his 5 former companions who practiced extreme asceticism with him.

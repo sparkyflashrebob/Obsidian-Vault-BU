@@ -1,0 +1,131 @@
+---
+tags:
+  - notebooklm-import
+notebook: "D_Advocacy and Resistance"
+category: "research"
+---
+
+##### Menu
+
+#### What can I do to fight this coup?
+
+People are resisting at every level. *Tesla Takedowns. Refusing illegal orders. Court challenges. Boycotting. Thousands of protests.* *(More examples!)*
+Alongisde [grounding yourself in these times](https://wagingnonviolence.org/2024/11/10-things-to-do-if-trump-wins/?utm_source=Climate+Advocacy+Lab+Members&utm_campaign=8cf646d623-EMAIL_CAMPAIGN_2025_01_22_04_22&utm_medium=email&utm_term=0_-8cf646d623-547145900), **here are some starting points on how to orient and help fight the coup.**
+#1.
+
+##### Get with Others to Act
+
+When you’re alone it’s too easy to freeze. While keyboard warriors and protest attenders are important — you’ll feel the greatest strength if you gather with others semi regularly to plan together, share together, and act together.
+Create an affinity group
+In Chile under a repressive regime, the “affinity group” model was a way to help keep people safe as they took risky actions — and . The process is simple enough: gather some people together who share your concerns and are ready to act together. Whether your actions are high-risk or low — you’ll benefit from the support!
+[Good instructions on creating an affinity group here.](https://www.seedsforchange.org.uk/affinitygroups)
+Potlucks
+Another way to organize? Food and friends! Set a date and invite folks to come over. Consider having planned actions (like phone calls or letter writing) to join the food.
+Weekly Study Groups
+We need more politicization in these times — to help people navigate what is going on and how did it get this bad. The roots are deep and need to be better understood. A study group — coupling itself with taking some of the other actions below — can be a based of support to learning and staying in motion.
+As a start you might pick a book or run some of the training series at [choosedemocracy.us](https://choosedemocracy.us/trainings-in-a-trump-era/).
+Care Calls
+Care Calls are often, wide-ranging conversations that ensure we are in touch folks in our neighborhoods. It can be walking door-to-door or just calling on people — but this is a way of connecting with people in our neighborhoods to see how they are doing. (Another version of this is [deep canvassing](https://deepcanvass.org/).)
+While these conversations may start as just check-ins, it’s a good way to find some other people who might want to act against the coup in these times — and to show love to your community no matter who you are.
+Join a local activist group!
+You can look for local activist groups to join from [mobilize.us](http://mobilize.us). See if there’s one there that fits with your hopes and priorities!
+Organize a “Minute of US”
+Join the MinuteOf.us — it’s a Moment of Silence for those hurt and suffering due to the current administration and the damage they are causing to this country and around the globe. Each Wednesday @ 12:53pm.
+This has been an easy way to gather a faith congregation or small group of friends across distances — or even do it in the middle of a protest.
+Naturally after 1-minute of silence, people often look at each other and ask: “So what shall we do?”
+You can read more at [MinuteOf.us](https://choosedemocracy.us/minute-of-us/)
+#2.
+
+##### Pressure a pillar of support to defect
+
+Coups only are successful when society bows to the orders of the autocrat. These are “pillars of support” (military, media, corporations). Pick a pillar you want to pressure and **each day** do at least one small thing to get them to defect.
+Coup-supporting corporations
+Most companies are trying to find the non-existent neutral middle ground. If we only cause them pain, they might actually move *away* from us — so target wisely. However, large corporations are using the chaos to steal money from the government and avoid regulations so they can pollute and exploit freely. This cannot stand.
+**EASIER TO DO** Share articles about companies trying to exploit the coup (e.g. [Big tech wanting to get Trump’s good graces so they can sidestep EU rules](https://www.bloomberg.com/news/articles/2025-01-23/trump-blasts-eu-regulators-for-targeting-apple-google-meta) and many more)
+Alert your credit card company and bank to fraud (example text).
+File a complaint to Treasury about Musk’s theft of information ([sample here](https://www.facebook.com/share/p/15oHiRiocZ/))
+Complain to Google and other companies about their ridding themselves of Pride/Black History Month and renaming “Gulf of Mexico.” **MEDIUM TO DO** Join boycotts called by reputable groups — groups of size and significance to make a boycott meaningful. For example: #BoycottTarget. ([List of various companies policies on DEI.](https://www.thefamuanonline.com/2025/02/07/companies-are-fighting-back-against-trums-anti-dei-orders/))
+**HARDER TO DO** Organize workplace strikes and shut downs.
+Set up picket lines outside of stores
+Do actions at CEOs, executives, and board members homes and their daily lives
+And make these boycotts grow in size!
+Elon Musk
+**EASIER TO DO** Flood DOGE’s job page. Hitler, Mussolini and Franco all “submitted” applications. ([More on this tactic](https://wagingnonviolence.org/2025/02/doge-is-hiring-the-response-did-not-disappoint/).)
+Be a meme machine about Elon Musk and his takeover of government, making them for social media and spending some time getting them out on various platforms
+Pressure T-Mobile to stop supporting Starlink (e.g. [here](https://www.change.org/p/dear-t-mobile-ditch-the-starlink-partnership))
+**MEDIUM TO DO** Grab a few friends and put up signs on overpasses or billboards alerting people to Musk’s intrusions: “MUSK STOLE YOUR TAX DATA”. [Read how to do this](https://choosedemocracy.us/wp-content/uploads/2025/02/Musk-Stole-Your-Data.png)Get a giant projector and project onto Tesla’s sites: e.g. [this example](https://electrek.co/2025/02/10/tesla-stores-are-targeted-by-vandals-and-arsonists-fbi-gets-involved/).
+Join any of the many [Tesla Takedown](https://www.teslatakedown.com/) actions all over the country
+**HARDER TO DO** Interrupt Tesla events, such as [Rise and Resist in NYC](https://www.amny.com/politics/elon-musk-manhattan-protest-tesla-government/).
+Expand the pressure beyond Tesla — organize protests against SpaceX and Starlink (e.g. protests at [SpaceX](https://www.seattletimes.com/business/doge-backlash-has-arrived-at-elon-musks-seattle-area-spacex-outpost/) or [Starlink](https://tech.yahoo.com/general/articles/starlink-users-mull-boycott-over-164110813.html))
+Federal Workers
+**EASIER TO DO** Federal workers have already shown a lot of backbone. If you know individuals, give them support and love — or connect them to [resources like this one](https://docs.google.com/document/d/14p6FJMp6qTJZpPKom32BLtm1ynp9xho5HmOP_Bpkl9k/edit?tab=t.0).
+Or pop on [reddit](http://reddit.com/r/fednews) to shower them with love. **MEDIUM TO DO** Organize a delivery of cupcakes or other sweets to thank federal workers who are holding the line and doing the work of government. Let them know they are appreciated. [For example this Valentine’s Day action](https://actionnetwork.org/forms/defend-hhs-from-a-doge-coup?source=direct_link&) **HARDER TO DO** Organizing or contributing to mutual aid funds for fed workers who lose their jobs
+Talk to members of the military to refuse unconstitutional orders ([share this guide](https://www.nonviolent-conflict.org/blog_post/for-members-of-security-forces-a-guide-to-supporting-pro-democracy-movements/), for example).
+If you’re a federal worker, prepare for nonviolent direct action at your workplace. *Don’t quit. Don’t obey unconstitutional orders. Blockade to stay. Make them drag you out and video tape it!*
+Undermine and Sabotage Trump’s Plans
+**EASIER TO DO** Flood the “DEI” snitch line (as [reported here](https://www.huffpost.com/entry/deia-truth-email-spam-campaign_n_67929d77e4b0629837bf0363)).
+Circulate resistance strategies and toolkits like the [WWII Simple Sabotage Manual](https://www.gutenberg.org/ebooks/26184) that emphasizes disguised actions from inside such as working slow, stalling during meeting, etc.
+**MEDIUM TO DO** If you’re a federal worker, don’t quit. Stay inside and gum up the machine.
+If you’re a librarian, don’t ban books ([an example](https://uniteagainstbookbans.org/))
+Join protests — like these through the [50501 movement](https://www.fiftyfifty.one/) (or [find actions](https://www.buildtheresistance.org/actions))
+Support your industry to make statements against what’s happening (for example, [American Bar Association standing against Trump’s illegal orders](https://www.newsbreak.com/thedailybeast-513346/3801957298497-american-bar-association-says-chaotic-trump-is-attacking-constitution-and-rule-of-law))
+**HARDER TO DO** Figure out some of these for yourself based on what you have access to. Slow down, resist, target machinery that is used only for harm.
+Elected Officials
+**EASIER TO DO** Daily, use [5Calls.org](http://5calls.org) to call elected officials and tell them to stop Musk’s coup.
+**MEDIUM TO DO** Put up political signs in your yard/neighborhood (e.g. [from here](https://www.etsy.com/market/stop_the_coup)). **HARDER TO DO** Indivisible has done excellent organizing. Join them or use their guide for pressuring your elected official: <https://indivisible.org/coup>(Have Republican officials and feeling despondent? There are already cracks — and research shows its the coup leader’s party that has the *most* influence on them. Even inch matters.)
+Courts
+**EASIER TO DO** Thank people like the ACLU and Democracy Forward who are fighting these battles.
+**MEDIUM TO DO** Donate to them! Or, get others to donate to them.
+**HARDER TO DO** Organize protests of support for the rule of law near and outside of courts before they make decisions. And generally, organizing in the streets matters to reduce the likelihood courts backslide.
+#3.
+
+##### Devote yourself to a long-term project
+
+All of us cannot only be on defense. There are many productive projects you might want to be part of that help address underlying problems of the coup. We’re following Daniel Hunter’s categorization from [10 ways to be prepared and grounded now that Trump has won](https://wagingnonviolence.org/2024/11/10-things-to-do-if-trump-wins/):
+
+* **Protecting People.** These are folks surviving and protecting our own — especially those of us directly targeted, such as trans people, folks in need of abortions, and immigrants.
+* **Defending Civic Institutions.** This group may or may not be conscious that current institutions don’t serve us all, but they are united in understanding that an autocrat wants them to crumble so they can exert greater control over our lives.
+* **Disrupting and Disobeying.** This goes beyond protesting for better policies and into the territory of people intervening to stop bad policies or showing resistance.
+* **Building Alternatives.** We can’t just be stuck reacting and stopping the bad. We have to have a vision. This is the slow growth work of building alternative ways that are more democratic.
+  Pick a path and then find an action that fits your degree of difficulty (we’ve categorized harder actions as those that require more time, people skills, and often a small group to launch with).
+  Protecting People
+  *Autocrats don’t want us standing up for each other. An easy step to disobey that is sending signals into your community that you care — that you will publicly stand with targeted communities. Here are some examples:* **EASIER TO DO** **Partner with a local pride group to ask local businesses to put up a sign acknowledging that all folks are welcome in their stores.** The “[Welcoming Project](https://thewelcomingproject.org/)” provides free signs and FAQ resources to encourage businesses, health care/service providers, organizations, and congregations to display welcoming signs. **Make sure every location you go to has a sign that says all people are welcome here** *(such as this work from artist* *Favianna Rodriguez* *)* **.** Shop somewhere, ask them. Attend a workshop somewhere, ask them. Kids go to little league somewhere, ask them.
+  **MEDIUM TO DO** **Partner with a hospital or clinic to start an abortion-support fund, for folks seeking out-of-state medical care.** You can find a local abortion-support fund to support/create on the national map hosted by the [National Network of Abortion Funds](https://abortionfunds.org/find-a-fund/).
+  **Build a bi-partisan coalition to research, expose, and educate the community about white nationalist threats.** Examples: [Idaho Leaders United calls out extremist ‘culture of permission’](https://idahocapitalsun.com/2024/03/28/idaho-leaders-united-calls-out-extremist-culture-of-permission/) **Get your school board, city council, hospital commission or any government agency to affirm that they are a welcoming community to all people.** For example, you can get your community to explicitly welcome and celebrate immigrants in the community joining the 300+ communities welcoming immigrants with the [“Welcoming Network”](https://welcomingamerica.org/welcoming-network).
+  **Get your religious group, school, or little league to make a resolution in support of targeted folks.** For example: why vaccinations are good practice or why everyone deserves to play sports, regardless what gender was assigned at birth. Faith institutions could stretch the limits and see if police departments or local officials are willing to inform them in advance what community members might be in danger of being snatched for deportation, so they can move to protect them.
+  **HARDER TO DO** **Train volunteers in your city and state on basic safety skills that could be used as white nationalist violence ramps up** . Training support on action safety: [Action Security and De-escalation](https://docs.google.com/presentation/d/1bBRRET991tZrPCEIhCBSKw9djdcocZxG47B-zyu7fQs/edit#slide=id.g30a511709b0_0_1253) with links at the end for further training.
+  **Start recruiting a slate of pro-democracy candidates for City Council or School Board.** Run, support, or get involved by connecting with [Run for Something](https://runforsomething.net/).
+  **Campaign against book bans in your state or town** — even before they are proposed. Join [Pen America’s Book Bans campaign](https://pen.org/book-bans/).
+  Defending Civic Institutions
+  *Autocrats love weak institutions — because they can twist them to their personal goals. Institutional ethics, values, and bureaucracy can all be used to resist those efforts. We may often think of federal institutions (like the military), but a lot of these institutions are very local: health commissioners, local scientists, schools, election officials. We can seek to defend local civic institutions, particularly when they are doing their job and refusing to engage in immoral or unsavory acts.* **EASIER TO DO** **As a veteran, connect with other groups who are resisting politicizing the military.** Join [Secure Families](https://securefamiliesinitiative.org/) or [National Security Leaders for America](https://www.nsl4a.org/).
+  **For Civil Servants, download and read** **“Serve the People: A civil servant’s guide to 2024 and beyond.”** Learn strategies for what to do in the future. **(** And connect with the folks at [Civil Service Strong](https://www.civilservicestrong.org/).)
+  **Send supportive letters to people who run our elections, who are facing increasing hatred, bile, and even death threats.** Send a letter with [Protect Our Elections](https://www.protectourelection.com/contact-county-election-officials).
+  **MEDIUM TO DO** **Start a citizen campaign practicing random acts of support.** For example, order food for over-staffed nurses, blanket yards with signs supporting county health commissioners, or actively give out thank you cards with tips to front-line workers who are protecting us.
+  **HARDER TO DO** **Collect a list of lawyers who will pro bono support for first amendment protestors ahead of crackdowns.** Communicate these lists to local activists.
+  **Create or support a bail fund for local activists when political repression comes. Here is a link to existing** **bail funds.**
+  Disrupting and Disobeying
+  *Autocrats rely on people “* *obeying in advance* *,” meaning anticipating a more restrictive version of society and behaving accordingly. This shows those in power how far they can go, and it moves the needle of what’s “normal” that much more quickly. Disrupting and disobeying the status quo diverts the autocrat’s resources and puts them on the defense instead of allowing them to plow ahead unencumbered. It also signals to others with less courage that they’re not alone in opposing what’s happening and may inspire them to take action.* **EASIER TO DO** **Build an** **affinity group** **.** Simply put, get together with a group of people you trust, build some trust together, and start to talk and plan about what risks you are willing to take.
+  **MEDIUM TO DO** **As an affinity group, pick a specific issue to work on.** We will need you to support migrant rights groups around deportation defense, for example. We might also need you to stop further climate chaos being wrought by fossil fuel companies and their financiers Reach out at [info@disruption-project.org](mailto:info@disruption-project.org) to get some coaching on how to take action.
+  **Join with migrant rights groups to join their need for rapid response deportation defense.** **Test the boundaries of the law, just a little.** Alternatively to a massive sit-in to shut down a plant, you can have each person just cut one chain in the fence — as practice of resistance.
+  **Call the** **Resistance Hotline** **(844-NVDA-NOW) to get coached on how to do an action even more powerfully.** **HARDER TO DO** **Engage in active noncompliance.** Noncompliance is taking bold action against a system that you feel is immoral. Noncompliance can be about a larger way of life that says that the whole system is fundamentally broken and that we need mass numbers of people not participating in it. War Resisters for decades have refused to pay taxes, arguing that they just are unwilling to participate in a system that kills people around the world. [As documented](https://wagingnonviolence.org/2025/01/can-nonviolent-struggle-defeat-a-dictator-this-database-emphatically-says-yes/), authoritarian regimes don’t fall because of protests — they fall because the people refuse to go along with the regime, through mass refusals to pay taxes, mass defections in military and government, or strikes that paralyze parts of the normal functioning of society. [Read more on Strategic Escalation in the Trump Era.](https://docs.google.com/presentation/d/1b0duAh4Yh5ARIS2FQF9_GUFOWr7DUN1kiaNAHRknbtM/edit#slide=id.g30a2aa8aea6_5_7) **Build tax resistance strategies.** Responding to the moral crisis of these times, individuals may refuse to pay taxes to an unjust system. Cities and municipalities may refuse to withhold federal taxes — or endorse policies that support tax resistance. The most expertise in tax resistance comes from the anti-war/peace movement: e.g. [National War Tax Resistance Coordinating Committee](http://www.nwtrcc.org). Get involved at [No Taxes for Kings](https://actionnetwork.org/forms/we-will-not-give-money-to-a-king/).
+  **Jail solidarity.** There was not a team of lawyers attempting to bail out Gandhi or Martin Luther King, Jr. They were held until they were released. Think about your team the same way. If you are arrested taking action, why would you pay money into a broken system? Why not stay in jail? This is known as jail solidarity. This serves two purposes. First of all, if enough people engage in jail solidarity it becomes a real problem for those in charge. Where do they house everyone? Second, the story of who is in jail can be pretty compelling too. Folks who are in for multiple days have access (or their friends do) to the press and can tell their stories, why they are there and why they are taking huge risks to support immigrants, or fight for the climate.
+  **Wildcat strikes.** If you’re in a union, can you organize your union to walk out in a wildcat strike, at a particular key juncture, when some threshold is crossed around worker protections? Or for undocumented folks? Begin those conversations now.
+  **Organize your workplace.** If you’re not in a union, can you organize folks in your workplace? To fight back against workplace raids? To stop work if some threshold is breached? **Organize, organize, organize — especially in neglected places.** In 2017, many organizers moved from progressive areas back to where they grew up to start organizing projects in their hometowns. We will need more of these. In the section on protecting institutions, we mentioned some civic organizing that needed to happen. But, there is also the need for people to attempt ambitious organizations, whether it is faith institutions in the Quad Cities, Iowa; tenant organizing in Erie, Pennsylvania; or fighting to raise the minimum wage in Waukesha, Wisconsin. We need a lot more of these local organizing projects. While starting a new organizing project is challenging, we’re not going to dispute that, we are also available to talk with people to assess whether they can start something. We think lots of dedicated people can do interesting and important work. And, you don’t have to start all at once, you can also start with some of the suggestions in the first section on protecting people and see if you can gather some people together or win some smaller victories.
+  **Shut things down.** We’re happy to discuss details, but so much of what needs to happen is the shutting down of business as usual. Whether this is a strike at the ports or whether we could shut down finance or logistics, or extraction, this is the kind of mass action we need to be thinking about — not just protests.
+  Building Alternatives
+  **EASIER TO DO** **Bring community together.** Organize a potluck or clothing swap. Get folks together to talk about what they fear or hope in the times ahead. You can see one such agenda at [There are More Of Us: Community Gatherings](https://docs.google.com/document/d/1sdKeqajKC5X7tyhowqRTYgMRHelIwo9T5cTzCT0i1b8/edit?tab=t.0#heading=h.eqzc4wauqut2).
+  **MEDIUM TO DO**
+  **Build a community garden.** Make it a community project to grow food and community.
+  **Start a monthly or weekly mutual aid group.** Mutual aid is a way to offer a place for exchanging needs in the community. It’s not a charity model but about the community finding its own resources, like offering unsheltered people homes in a church or community center or setting up ways to exchange meals, naloxone, legal help, pet supplies, winter clothing, etc. etc. (Training on mutual aid here: [Mutual Aid 101](https://docs.google.com/presentation/d/13lh98gyLn1sHSxtFHoInMV5Mz44IICVfPehvvXWJOtg/edit#slide=id.g30bd7fb412d_0_102).)
+  **HARDER TO DO** **Help build the future we need by developing community solar or renewable power owned by the people.** 350 has one such resource at [OurOwnPower.org](http://ourownpower.org).
+  **Get your city or state to promote participatory budgeting.** Participatory budgeting (PB) is a direct democratic process where community members decide how to spend the public budget. It gives people real power — direct ownership over the decisions with full transparency. Learn more from the [Participatory Budgeting Project](https://www.participatorybudgeting.org/).
+  **Promote policies to abolish the electoral college, support third parties, or otherwise make this country more democratic.** This is a big project — but lots of groups are exploring ways to do this. Because there are so many and many of them are nascent, we don’t have recommendations here — but encourage you to research ones that align with your values and organizing instincts.
+  **Liberated territory** . The right-wing militia movement in this country has created some liberated territory, whether that lives in their ranches or in the election of “Constitutional Sheriffs” who do not recognize the federal government, they swear an oath to the constitution. Create similar territories of sanctuary and protection, where folks are able to live free lives.
+  *There is a lot of information here, so take a deep breath. There is a Jewish teaching that says that you are not responsible for completing the work, nor are you allowed to desist from it. We will succeed because millions of people do a couple things well, not because one person does a million things.*
+  *While we wish we were not compelled to travel down this path of resistance. We are excited to realize the collective beauty we can and will create together.*
+  *You got this.*
+  New rule. Everything you want someone to be doing is your job. Start talking to every Republican, independent, or disillusioned Democrat you know and let them know they must fight back now. Michelle Ringuette American Federation of Teachers There is a very important distinction between what they’re trying to do and what they’ll succeed in doing, between what they’ve launched a war against and the outcome of that war. Rebecca Solnit “Hope in the Dark” Keep calling. Do more if you can, but keep calling at the very least. You already splintered some of their support away with…what, one week of focused calling and demonstration woven together? Imagine what you can do with two weeks of it, with a month, with months on end, imagine what we could do if we were relentless. Gabriel Valdez Make sure you are talking to people and doing something. The logic of “move fast and break things,” like the logic of all coups, is to gain quick dramatic successes that deter and demoralize and create the impression of inevitability. Nothing is inevitable. Do not be alone and do not be dismayed. Find someone who is doing something you admire and join them. Timothy Snyder Author of On Tyranny
+
+#### Suggestions? Additions? Want further support?
+
+Email our friends at the Disruption Project

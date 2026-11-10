@@ -1,0 +1,17 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_Andy_s Dharma"
+category: "research"
+---
+
+Speaker 1 - 00:04
+So why do we need government with all this? This idea that we, you know, can of smaller government, less regulation. There are some very important things that are being missed. Understood that there needs to be fiscal responsibility, but maybe that fiscal responsibility does not just all come to social services and aspects of governments that are required. So imagine if there are no rules and people did not. Yeah, imagine if people didn't follow the rules. So what happened was just think about if you. There's a line. We were recently at a, A, a museum where there was a line into a planetarium and it wasn't very clear where the line started. And so people start lining up where they thought it was supposed to be and then very shortly it started branching out into, in the two directions.
+Speaker 1 - 01:24
+And then when the person came to let everybody in, they made it very clear that the line started in one position, goes in a certain direction. What people did was they just start crashing in to their what because of the fairness of things that they crashed, they thought they were before other people. So they all crashed in and globbed in together and in the front. So that's in the front of the line and so that it, so the, the idea, the belief, understanding is that people want fairness and when there's not, when it's not clear, then they don't easily self organize. What people are going to do is if there are, you know, whenever people can get away with whatever they need to get away with, they're going to do it.
+Speaker 1 - 02:20
+When you're in a one lane highway and it's an open road, even though there's no dividing line, there's a dividing line that shows who is supposed to, who's supposed to cross or you know, who can pass or not. Frequently that is disregarded if it's perceived that there is no, that you know, breaking the rules is. Okay, so what if we didn't have people, what if we didn't have rules regarding say the quality of food? So then what would happen is that people would use the cheapest products, not necessarily the safest products in order to make the food so that they make more money and, or the, maybe the transportation. They would not use transportation where the food would be safe by the time it got to you. Now obviously they're taking a risk with that where they could lose, make losses.
+Speaker 1 - 03:26
+And so that's where they definitely take care of those precautions. But who says that you know who's going to stop them if there's nobody regulating where the food goes and how it gets to us. And then there's something wrong. Many people could die. A recent example is this example of the storm where they don't have adequate alerting of areas where there could be potential dangers. And so, therefore, because of cutbacks, perceived cutbacks. Now, maybe the cutbacks weren't. It was inadequate in the beginning. But the fact of the matter is that there's this bliss of blamelessness that where if you've done everything that you can help the public to protect the public from dangers, then that is. That's a good thing. Right. You've done everything you can. And in whatever nature does. Nature does.
+Speaker 1 - 04:36
+But the fact is that we want to be able to protect people, and that's the role of government. Okay. The rule of government is to.

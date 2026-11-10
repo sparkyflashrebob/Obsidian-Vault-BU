@@ -1,3 +1,0 @@
-
-
-michael taft

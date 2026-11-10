@@ -241,7 +241,7 @@ tags:
 - Andy discussed a recurring nerve or vascular pain in his leg triggered by prolonged sitting (`1:04 PM – 1:07 PM`), noting it had flared three times in two days and emphasizing his plan to adjust his desk chair, move more frequently, and re-incorporate Qigong and resistance-band exercises.
 
 #### 🕒 1:25 PM – 2:53 PM — Living Mindfully ESCOM Club Meeting at College of Marin (Deedy Hall Rm 111)
-- Andy and Andrea drove to College of Marin's Kentfield campus (`1:20 PM – 1:28 PM`), setting up the hybrid Zoom camera, tripod, laptop, and meditation chimes in **Elizabeth Deedy Hall, Room 111** for the weekly **Living Mindfully ESCOM Club Meeting** (`1:55 PM – 2:53 PM`).
+- Andy and Andrea drove to College of Marin's Kentfield campus (`1:20 PM – 1:28 PM`), setting up the hybrid Zoom camera, tripod, laptop, and meditation chimes in **Elizabeth Deedy Hall, Room 111** for the weekly **Living Mindfully ESCOM Club Meeting** (`1:55 PM – 2:53 PM`, detailed in dedicated report: [[Living Mindfully ESCOM Meeting Report - 2026-10-15|Living Mindfully ESCOM Meeting Report - October 15, 2026]]).
 - **Format & Check-Ins**: Andy outlined the club's four-part structure (voluntary check-in, contemplative reading, guided meditation, and open discussion) and shared his current practice of **resilience**—releasing excessive expectations, avoiding future regrets, and "titrating" emotional reactivity by stepping back from the edge (`2:00 PM – 2:06 PM`).
 - **Living the Questions (Rilke)**: In her check-in, Andrea shared that she is holding her healing practices of **Jin Shin and Therapeutic Touch** gently "in a cocoon" right now due to low energy for promotion, drawing on Rainer Maria Rilke's counsel to *live the questions now* and live one's way into the answer (`2:06 PM – 2:08 PM`).
 - **Thich Nhat Hanh Reading & Guided Meditation**: Andy read the "washing the dishes" passage from Thich Nhat Hanh's *The Miracle of Mindfulness*, offered two reflection prompts on autopilot routines and mental anchors, and guided a 22-minute grounded body-scan meditation (`2:08 PM – 2:35 PM`).
@@ -273,7 +273,7 @@ tags:
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
 #### 🏛️ Living Mindfully ESCOM Club Meeting — College of Marin, Deedy Hall Rm 111 (1:55 PM – 2:53 PM PDT)
-* **Meeting Synopsis**: Weekly hybrid in-person/Zoom gathering of the Living Mindfully ESCOM Club facilitated by Andy McGuire with first-time ESCOM participant Andrea Axtell-McGuire. The session followed a gentle four-part structure: voluntary personal check-ins, a contemplative reading from Thich Nhat Hanh's *The Miracle of Mindfulness* on washing the dishes with full presence, a 22-minute guided grounding meditation, and an open reflective dialogue on transforming autopilot routines, recognizing somatic anchors for mindfulness, holding uncertainty with self-compassion, and using AI as a reflective creative partner.
+* **Meeting Synopsis**: Weekly hybrid in-person/Zoom gathering of the Living Mindfully ESCOM Club (detailed in dedicated report: [[Living Mindfully ESCOM Meeting Report - 2026-10-15|Living Mindfully ESCOM Meeting Report - October 15, 2026]]) facilitated by Andy McGuire with first-time ESCOM participant Andrea Axtell-McGuire. The session followed a gentle four-part structure: voluntary personal check-ins, a contemplative reading from Thich Nhat Hanh's *The Miracle of Mindfulness* on washing the dishes with full presence, a 22-minute guided grounding meditation, and an open reflective dialogue on transforming autopilot routines, recognizing somatic anchors for mindfulness, holding uncertainty with self-compassion, and using AI as a reflective creative partner.
 * **Key Points by Participant**:
   * **Andy McGuire (Facilitator / Organizer)**:
     * Outlined the flexible, non-compulsory club format and his longer-term vision to invite guest speakers once regular attendance grows.
@@ -375,6 +375,8 @@ tags:
 - Andrea noted the contrast in her own body between feeling strong and unwinded when walking up hills versus feeling weaker when lifting overhead (`1:06 PM`).
 
 #### 🕒 1:55 PM – 2:53 PM — Living Mindfully ESCOM Club Meeting (College of Marin)
+
+*(Full discourse analysis and reading notes: [[Living Mindfully ESCOM Meeting Report - 2026-10-15|Living Mindfully ESCOM Meeting Report - October 15, 2026]])*
 
 ### Living Mindfully ESCOM Club Format and Structure
 - The Living Mindfully ESCOM Club meets weekly on Thursdays in Deedy Hall Room 111 (and via Zoom) with four segments: voluntary check-in, a thematic reading, a 20-minute guided meditation concluded with three rings of the chime, and open reflection (`2:00 PM – 2:02 PM`).

@@ -22,6 +22,7 @@ tags:
 | 📖 **Section 1** | [[Pali to English Dictionary]] | Complete alphabetical Pāli/Sanskrit terms with root meanings, full definitions, and teacher commentary. |
 | 🔤 **Section 2** | [[English to Pali-Sanskrit Index]] | English concepts, psychological terms, and themes mapped to their classical Pāli equivalents. |
 | 📊 **Section 3** | [[_Pali Core Doctrinal Lists & Formulas]] | Foundational numbered frameworks (4 Noble Truths, 8-fold Path, 5 Aggregates, 12 Links, 7 Bojjhaṅgas). |
+| ☸️ **Section 4** | [[_Master Mind Map - Buddhist Teachings and Principles]] | Master multi-branch architecture linking People, Locations, Stories, Tipiṭaka, and Lineages. |
 
 ---
 

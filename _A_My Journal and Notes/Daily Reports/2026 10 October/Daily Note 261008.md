@@ -250,7 +250,7 @@ tags:
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 
 #### 🕒 2:00 PM – 2:36 PM — Solitary Living Mindfully ESCOM Club Meeting & Spoken Meditation Journal (Deedy Hall Rm 111)
-- Andy arrived at College of Marin (Elizabeth Deedy Hall Room 111) with Zoom connected for the weekly **Living Mindfully ESCOM Club Meeting** (`2:00 PM – 2:36 PM`).
+- Andy arrived at College of Marin (Elizabeth Deedy Hall Room 111) with Zoom connected for the weekly **Living Mindfully ESCOM Club Meeting** (`2:00 PM – 2:36 PM`, detailed in dedicated report: [[Living Mindfully ESCOM Meeting Report - 2026-10-08|Living Mindfully ESCOM Meeting Report - October 8, 2026]]).
 - Finding himself the sole attendee (Andrea was resting at home due to illness and no other attendees logged on), Andy embraced unconditional acceptance over ego frustration (*sakkayaditthi*), recalling a college speech class lesson: *"They don't know if you made a mistake unless you let them know."*
 - He ran the complete meeting format with himself as a dedicated spoken journal and silent meditation sit.
 - Andy read Jon Kabat-Zinn's passage on *The Practice of Non-Striving* from *Wherever You Go, There You Are*, exploring how releasing the compulsion to manage or improve feelings lifts an enormous burden—especially for older adults pressured to stay productive.
@@ -279,7 +279,7 @@ tags:
 ## 👥 Group Gatherings & Multi-Participant Key Points
 
 #### 🏛️ Living Mindfully ESCOM Club Meeting — College of Marin, Deedy Hall Rm 111 (2:00 PM – 2:36 PM PDT)
-* **Meeting Synopsis**: Scheduled weekly hybrid community meditation meeting of the Living Mindfully ESCOM Club at College of Marin. Finding no other attendees (Andrea was resting at home due to illness and no online participants joined), facilitator Andy McGuire consciously ran the complete meeting protocol with himself as a spoken journal and meditation session. The session incorporated a contemplative reading from Jon Kabat-Zinn on *The Practice of Non-Striving*, an exploration of sensory grasping and auditory distractions, a 17-minute silent meditation sit, a contemplation of mindfulness as a somatic biofeedback loop, and Pat's parable of the Native American elder holding meetings alone in the Nevada desert.
+* **Meeting Synopsis**: Scheduled weekly hybrid community meditation meeting of the Living Mindfully ESCOM Club at College of Marin (detailed in [[Living Mindfully ESCOM Meeting Report - 2026-10-08|Living Mindfully ESCOM Meeting Report - October 8, 2026]]). Finding no other attendees (Andrea was resting at home due to illness and no online participants joined), facilitator Andy McGuire consciously ran the complete meeting protocol with himself as a spoken journal and meditation session. The session incorporated a contemplative reading from Jon Kabat-Zinn on *The Practice of Non-Striving*, an exploration of sensory grasping and auditory distractions, a 17-minute silent meditation sit, a contemplation of mindfulness as a somatic biofeedback loop, and Pat's parable of the Native American elder holding meetings alone in the Nevada desert.
 * **Key Points by Participant**:
   * **Andy McGuire (Facilitator & Sole Attendee)**:
     * Embraced unconditional acceptance of an empty room, noting that resentment or disappointment would merely be ego attachment (*sakkayaditthi*).
@@ -365,6 +365,8 @@ tags:
 ### ☀️ Afternoon Session (12:01 PM – 5:00 PM)
 
 #### 🕒 2:00 PM – 2:36 PM — Solitary Living Mindfully ESCOM Club Meeting & Spoken Meditation Journal (Deedy Hall Rm 111)
+
+*(Full discourse analysis and reading notes: [[Living Mindfully ESCOM Meeting Report - 2026-10-08|Living Mindfully ESCOM Meeting Report - October 8, 2026]])*
 
 ### Embracing an Empty Room: Speech Class Lessons & Ego Acceptance
 - Andy arrived at College of Marin's Kentfield campus and set up the hybrid Zoom system in Elizabeth Deedy Hall Room 111 for the weekly Living Mindfully ESCOM Club gathering.

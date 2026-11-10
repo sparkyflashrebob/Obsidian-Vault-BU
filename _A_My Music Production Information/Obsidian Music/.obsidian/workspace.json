@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9588cbe1ad4e7d6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5c2fd90b2b04ad7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e751bb790aec2b6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chase & Status –  Saxon Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chase & Status –  Saxon Untitled"
+            }
+          },
+          {
+            "id": "6e84c8f9bab06659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chin Chillas - Konkret.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chin Chillas - Konkret"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2652bd49520ba46",
+    "type": "split",
+    "children": [
+      {
+        "id": "2645b31243aeb7c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d7cba80b3298c61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8300201200105f59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b1628ba0a34005c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "121e601c0d76f936",
+    "type": "split",
+    "children": [
+      {
+        "id": "12d82fe1b9ae5d16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11919e4a02cdad87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "54646a4c3c2a82ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7b0952130a8c1331",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "43ae42035c410094",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6e84c8f9bab06659",
+  "lastOpenFiles": [
+    "Chin Chillas - Konkret.md",
+    "Chase & Status –  Saxon Untitled.md",
+    "Music Images/Music - colored noises.png",
+    "Music Images/Music - Rhythmic Grids and Fields.png",
+    "Music Images/Music - The Practice of Electronic Music.png",
+    "Music Images/Music - Rhythmic Oppositions.png",
+    "Music Images/Music - Types of sounds.png",
+    "Music Images/Melody Theory Modes 1.png",
+    "Books and Reference/12_bar_blues_easy_bass.pdf",
+    "Music Images/Music - Articulators of Rhythm.png",
+    "Music Images/Melody Scale and notes.png",
+    "Music Images/Music - Pace and Intensity.png",
+    "Music Images/Music - Chord types.png",
+    "C_Music/Funk Soul Groove & Trip Hop - A mix.md",
+    "Music Production Ideas.md",
+    "Music Practices.md",
+    "music transformation_.md",
+    "Building a Song EDM.md",
+    "Music to Derate.md",
+    "Music Playlist.md",
+    "Make Tech House Like the Pros.md",
+    "_Music Theory",
+    "Music Images",
+    "C_Music",
+    "My Notes on Music Arrangement/Moan - Trentemeller.md",
+    "My Notes on Music Arrangement",
+    "Books and Reference Notes/Mixing Engineers Handbook Notes.md",
+    "Books and Reference Notes",
+    "Books and Reference/The_Mixing_Engineers_Handbook.pdf",
+    "Books and Reference"
+  ]
+}

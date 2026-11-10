@@ -1,0 +1,24 @@
+---
+tags:
+  - notebooklm-import
+notebook: "D_Advocacy and Resistance"
+category: "research"
+---
+
+Authoritarianism is a **method of rule that suppresses political freedoms and civil rights**, shifting power from the people into the hands of a single ruler or a select group [1-5]. It is characterized by rulers exercising authority without the consent of the governed [6], often operating arbitrarily with no regard for constitutional norms or morality [7].
+
+Historically, authoritarianism, which can be traced back to ancient thinkers like Plato and Aristotle, was the dominant form of government, appearing as monarchies and autocracies [8-10]. Thinkers such as Thomas Hobbes and Niccolò Machiavelli also laid philosophical groundwork for strong, centralized power and maintaining control through power and manipulation [11-13].
+
+In contemporary times, democracies are observed to decline gradually, with institutional, legal, and political constraints being chipped away incrementally, rather than through sudden military coups [14-19]. This modern form often emerges within democracies, blending personal leadership with conservative nationalism, creating "authoritarian-populist features" [14, 20, 21]. It frequently capitalizes on social inequality, economic grievances, fear, and anxiety, and can be linked to xenophobia and anti-immigrant sentiment [6, 7, 22].
+
+The "Authoritarian Playbook for 2025" and other analyses identify **six major tactics** employed by authoritarian leaders to consolidate power [23-25]:
+
+1. **Politicizing Independent Institutions** [25, 26]: This involves undermining the impartiality of vital government functions such as law enforcement, courts, central banking, and election administration. These institutions are then weaponized against adversaries, used as shields against accountability, or manipulated for corruption [26]. Examples include restructuring and politicizing the Department of Justice (DOJ), establishing "weaponization working groups" to target political opponents, and purging career civil servants to replace them with loyalists [26-28].
+2. **Aggrandizing Executive Power** [25, 29]: Authoritarians seek to expand the power of the executive branch by rewriting rules, weakening legislatures and courts, and stacking these institutions with compliant allies [29]. This can involve "constitutional hardball" or manipulating existing legal loopholes [29]. The expansion of executive power is often justified through a cult of personality, denigrating checks and balances as obstacles to the popular will [29]. Donald Trump's assertion of an "Article II" right to "do whatever I want as president" exemplifies this tactic [30].
+3. **Spreading Disinformation and Quashing Dissent** [25, 31]: Authoritarian movements aim to weaken freedom of speech and the press, silencing any public voices that could serve as counterpoints to their narrative [31]. This can involve financially attacking independent media, levying bankrupting fines, and using terms like "fake news" to delegitimize critical coverage [31, 32]. Whistleblowers, activists, and religious leaders may also face attacks or imprisonment [31].
+4. **Targeting Marginalized Communities** [25, 33]: This tactic involves using demographic identity to sow division, deflect blame for failures, and solidify a broad mandate of support, often by demonizing or dehumanizing certain groups [25, 33, 34]. Aggressive federal law enforcement overreach, such as intensified immigration enforcement, large-scale arrests, and the establishment of mass detention camps, are examples [27, 35].
+5. **Domestic Deployment of the Military** [25]: Authoritarian leaders may deploy military forces domestically to suppress dissent, target specific communities, or interfere with elections, potentially by invoking acts like the Insurrection Act [35-37]. These deployments can occur without local or state authorization, normalizing the use of military force for political purposes [27, 38].
+6. **The Autocrat Won't Leave** [39-41]: A common characteristic of autocrats is to ignore or eliminate legal term limits to maintain power indefinitely [39, 41, 42]. This involves undermining the legitimacy of election outcomes, promoting conspiracy theories, and making threats about staying in office beyond legal terms [38, 41, 43].
+
+**Distinction from Totalitarianism:**
+While related, authoritarianism and totalitarianism differ. **Authoritarianism** controls political processes but may allow limited personal freedom in non-political areas [44]. **Totalitarianism**, on the other hand, seeks to exert complete control over both public and private life, aiming to reshape societal values and enforce a specific ideology through terror and ideology [44-46].

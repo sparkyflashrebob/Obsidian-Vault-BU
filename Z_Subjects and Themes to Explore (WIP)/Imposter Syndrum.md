@@ -11,7 +11,7 @@ tags:
 # Imposter Syndrome / Wholeness
 
 Master study guide compiled and organized:
-➡️ **[[Authenticity]]** *(Path: `_A_My Research\_Buddhism\Authenticity\Authenticity.md`)*
+➡️ **[[Authenticity]]** *(Path: `_A_My Research\_Antigravity Spiritual Reports\Authenticity.md`)*
 
 Explores:
 - Imposter feelings as *Hīna-māna* (inferiority conceit / comparing mind)

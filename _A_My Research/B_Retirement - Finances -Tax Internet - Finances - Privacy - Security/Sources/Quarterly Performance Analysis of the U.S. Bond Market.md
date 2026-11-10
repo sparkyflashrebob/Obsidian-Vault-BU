@@ -1,0 +1,14 @@
+---
+tags:
+  - notebooklm-import
+notebook: "B_Retirement - Finances -Tax Internet - Finances - Privacy - Security"
+category: "research"
+---
+
+PERFORMANCE OF BONDS IN LAST 3 MONTHS Inbox From Me
+Andy McGuire [sparkyflashrebob@gmail.com](mailto:sparkyflashrebob@gmail.com) 11:00 AM (3 hours ago) to me
+Over the last 3 months, the broader U.S. bond market experienced modest negative returns, with the Bloomberg U.S. Aggregate Bond Index down approximately -1.37% to -1.35% in total returns. However, when including yields, short-term Treasuries and corporate debt have held up or seen small gains. [1, 2, 3, 4]
+The table below details the performance of key bond indices and funds over the last rolling 3-month period: [2, 4] Bond Fund / Index [2, 5, 6, 7, 8] Ticker / Benchmark 3-Month Total Return iShares Core U.S. Aggregate Bond ETF — -1.33% Schwab U.S. Aggregate Bond Index Fund — -1.37% Bloomberg U.S. Aggregate Bond Index Benchmark -1.35% U.S. 3-Month Treasury Yield Generic Yields hovered around 3.85%
+Key drivers and market dynamics over this period include: Interest Rate Volatility: Changes in the 10-Year Treasury (which recently reached 7-week lows near 4.42%) have caused bond prices to fluctuate. Corporate Outperformance: Corporate and short-maturity bonds generally fared better than long-duration government bonds, which are more sensitive to inflation data. Fixed Income Inflows: Despite slight near-term price declines, many wealth management firms continue to view bonds as attractive assets for locking in yields. [11, 12]
+If you would like, please tell me:What type of bonds are you tracking (Treasuries, Corporates, Municipals, or High Yield)?Are you looking at short-term or long-term maturities?I can provide more specific performance metrics for your exact portfolio. AI responses may include mistakes. [1] https://www.youtube.com/watch?v=Z5hr6lQOPQQ [2] https://www.schwabassetmanagement.com/products/swagx [3] https://ntam.northerntrust.com/united-states/all-investor/funds/fixed-income/index-fixed-income/bond-index-fund?id=1353&assetClass=Fixed+Income [4] https://portfolioslab.com/symbol/AGG [5] https://finance.yahoo.com/quote/AGG/performance/ [6] https://www.google.com/finance/beta [7] https://www.google.com/finance/beta [8] https://open.spotify.com/show/6BwjmXiK0yzrWf1ZScicVp [9] https://tradingeconomics.com/united-states/3-month-bill-yield [10] https://tradingeconomics.com/united-states/government-bond-yield [11] https://www.wellsfargoadvisors.com/research-analysis/commentary/bond-market-commentary.htm [12] https://www.forbes.com/sites/chrisgunster/2026/05/29/is-now-a-good-time-to-invest-in-bonds/
+Attachments area Preview YouTube video What's Really Going on in Bond Markets?: 3-Minutes MLIVPreview YouTube video What's Really Going on in Bond Markets?: 3-Minutes MLIV

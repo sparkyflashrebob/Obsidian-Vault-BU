@@ -30,7 +30,7 @@ tags:
 
 > **Location:** `_A_My Research/_Buddhism/The Observer/`  
 > **Source Synthesis & Cross-Vault Network:**  
-> • **Sister Foundation 1:** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Buddhism/sankhara/`)  
+> • **Sister Foundation 1:** [[Report - Saṅkhāra, Mental Fabrications, Ajahn Sumedhos Teaching on the Mother, and Mindful Recovery]] (`_A_My Research/_Antigravity Spiritual Reports/`)  
 > • **Sister Foundation 2:** [[Report - Personality View, Identity, Worldly Winds, and Protection]] (`_A_My Research/_Buddhism/Sakkayaditthi/`)  
 > • **Contemplative Notes:** [[Mindfulness is beyond Conditioning - Ajahn Sumedho]], [[Paying Attention to the space in-between ]], [[Mindfulness and its Associated States]], [[Mindfulness Based Addiction Recovery meditations]]  
 > • **Canonical Discourses:** *Bāhiya Sutta* (Ud 1.10), *Sallatha Sutta* (SN 36.6), *Cūḷavedalla Sutta* (MN 44), *Sedaka Sutta* (SN 47.19), *Madhupiṇḍika Sutta* (MN 18)  
@@ -233,3 +233,4 @@ To observe rather than react is the supreme act of non-violence (*ahiṃsā*).
 When you sit on the cushion and observe a restless thought without fighting it; when you sit in a mediation session and hold a safe, unreactive container; and when you pause in the heat of a family conflict and choose stillness over retaliation—you are not merely managing stress.
 
 **You are stepping out of the wheel of conditioned suffering, breaking the ancestral chain of reactivity, and resting in the birthless, deathless silence of the Dhamma.**
+

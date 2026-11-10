@@ -1,2 +1,0 @@
-Observing Impermanence
-things changing

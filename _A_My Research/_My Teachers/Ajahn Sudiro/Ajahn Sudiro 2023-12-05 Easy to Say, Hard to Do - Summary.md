@@ -55,7 +55,7 @@
 * [[Practicing Sila]] (ethical conduct) involves refraining from harmful actions and speech.
 * Sila becomes more refined with practice and includes being mindful of our intentions and emotions when speaking.
 * [[Meditations/Meditation]] is the practice of changing our habits of mindlessness and learning to be present with the breath.
-* [[Letting go]] is a simple concept, but not easy to do in practice.
+* [[_A_My Journal and Notes/_A_Andy_s Dharma/Sources/Letting Go]] is a simple concept, but not easy to do in practice.
 * The teachings of the Buddha point to our [[Unsorted Notes/Direct Experience]] of the body and mind.
 * [[Investigating our sense of self]] and [[questioning our understanding of the world]] is important.
 * Developing insight and wisdom is [[simple in theory but challenging in practice]].

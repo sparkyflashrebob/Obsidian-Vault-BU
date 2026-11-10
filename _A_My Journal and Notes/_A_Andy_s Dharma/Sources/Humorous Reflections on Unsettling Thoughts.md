@@ -1,0 +1,10 @@
+---
+tags:
+  - notebooklm-import
+notebook: "_A_Andy_s Dharma"
+category: "research"
+---
+
+Speaker 1: 00:00
+
+So I don't know if this is recording or not. So I am going to pause the music and see if there's any kind of deflection. Looks like there is. So I just had another thought. Crazy thought. I'm at a corner where there's a lot of people who are down and out and are begging for money donations. And so I was there and I saw their little milk crates. None of them were. None of. Nobody was there. But in my head, I was thinking about the milk crates and I should take them so they couldn't get there or not. So it's like, oh, man, you know, that's not how I am. And I'm frequently given, you know, help people there when I believe that, you know, when I'm compelled to do so. And, yeah, it's really interesting that these kinds thoughts and I've talked about. I talk about this all the time. Yeah, these thoughts come up and, you know, I just, just gotta laugh at them. It's like, what? What is that all about? You know? And really not even asking that question to even know, you know, it's like not pointing a finger into me. Like there's something wrong with me. Because basically, you know, these, these things have been brought up in, you know, are out there in the world, you know, not hating the people that need help, not thinking, you know, not thinking. Compassionate, off, limiting of them, wanting them to pull themselves up by those bootstraps and carry their own weight. In fact, on that one, I even joke around that three year old should get a job because they're just, you know, they're not doing any good there. They take a lot of effort and they should be pulling their own weight. And that's a joke. It's not true. It's like, you know, allowing kids to adjust to this world and to grow up and to mature. Thankful is beneficial for all of us because it just causes problems down the line when they're adults. So anyway, but just back to the thinking part, just how crazy, you know, that was to have that thought, wanted to document it. Thank you.

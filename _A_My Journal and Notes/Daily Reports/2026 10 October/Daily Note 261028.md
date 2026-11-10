@@ -177,13 +177,22 @@ tags:
 
 ---
 
-## 📖 Detailed Subject Matter
+## 📋 Detailed Subject Matter
 
-The day unfolded as a seamless weave of contemplative discipline, relational warmth, and community stewardship. Beginning in the quiet early hours, Andy engaged in honest self-reflection regarding the physical realities of aging and meditation posture. Rather than viewing bodily aches as obstacles or personal shortcomings, they were met with quiet understanding as natural biological conditionality (*idappaccayatā*). This compassionate acknowledgment extended into his reflections on communication, where an aspiration arose to soften the edges of direct speech, allowing words to carry greater warmth and healing presence (*piyavācā*).
+### 🌅 Morning Session (7:00 AM - 12:00 PM)
+- **08:00 AM - 10:30 AM | Silent Sitting & Posture Calibration**: Engaged in silent sitting cycles in the Dhamma Hall, relaxing over-efforting in the breath and balancing energetic alertness.
+- **10:30 AM - 10:48 AM | One-on-One Teacher Interview with Kim Allen**: Andy met individually with Kim Allen in Blodgett House. Discussed somatic conditionality (bow-legged posture, sinus history, neck tension, thyroid) through Ajahn Sumedho's wisdom: *"none of those things are really problems... that's just the way it is."* Shared navigating the balance between over-efforting tension headaches and comfortable "dreamy" drift. In response to Kim's inquiry on heart aspiration, Andy discussed MMTCP teacher training, leading community groups, and desiring to soften direct speech. Kim recommended the *Karaṇīya Mettā Sutta* (Sn 1.8) and gentle speech (*suvaco*), describing loving-kindness as "carrying medicine in the heart."
 
-As the day progressed into the IMC retreat container at Hidden Villa and subsequent community meetings, the rhythm shifted toward shared silence, collaborative inquiry, and civic engagement. Whether navigating high tides along Corte Madera Creek, coordinating schedule adjustments for the Living Mindfully Club, or participating in the Marin DSA political education committee, Andy maintained a steady anchor in mindfulness. The evening brought grounding reflections on cultural adaptations in meditation practice, reminding us that while outward forms—like cushions and chairs—inevitably shift, the core aspiration of the path remains unchanged.
+### ☀️ Afternoon Session (12:01 PM - 5:00 PM)
+- **01:30 PM - 04:00 PM | Mindful Walking & Quiet Contemplation**: Practiced walking meditation along the ranch lanes, cultivating gentle speech intentions and holding mettā as heart medicine.
+- **04:00 PM - 05:15 PM | Dharma Talk by Kim Allen: Spiritual Friendship as the Whole of the Path (SN 45.2)**: Attended Kim Allen's discourse on the *Upaddha Sutta*, recounting the Buddha correcting Ānanda's assertion that spiritual friendship (*kalyāṇa-mittatā*) is half the holy life—affirming it is the *whole* of the holy life. Explored how nervous systems co-regulate in shared silence, creating a mutual field of steadiness that grounds practitioners through somatic pain or restless states, and linking ethical living (*sīla*) directly with protective loving-kindness.
+
+### 🌙 Evening Session (5:01 PM - 11:00 PM)
+- **05:50 PM - 06:26 PM | Evening Reflections on Meditation Culture & Forms**: Recorded voice reflections observing cultural adaptations in meditation: comparing traditional Thai forest monasteries (sitting directly on bare wooden/tile floors) with Western cushions, recognizing that inner steadiness remains identical across external forms.
+- **06:30 PM - 09:30 PM | Penultimate Evening Sitting & Retreat Rest**: Concluded evening sitting meditation in the Dhamma Hall, preparing mindfully for the final morning transition.
 
 ---
+
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 

@@ -161,17 +161,21 @@ tags:
 
 ---
 
-## 📖 Detailed Subject Matter
+## 📋 Detailed Subject Matter
 
-The day unfolded entirely within the quiet, grounded container of the Insight Meditation Center (IMC) retreat at Hidden Villa. Andy guided participants through the subtle art of noticing how the mind relates to its environment—whether through the rustle of a door, the distant hum of maintenance vehicles, or the internal pressure of physical discomfort. 
+### 🌅 Morning Session (7:00 AM - 12:00 PM)
+- **09:30 AM - 10:15 AM | Small Group Practice Interview with David Lorey**: Participated in a morning practice interview in Blodgett House. David Lorey explored the mystery of collective practice and the unspoken solidarity of meditating together. Andy expressed gratitude for volunteer stewardship, described his dishwashing job providing lower-back relief, contrasted retreat concentration with spacious home mindfulness, and shared an observation on mindful door-closing as a direct somatic gesture of communal care. Recounted a past 4-sit breakthrough where observing knee pain dissolve into bubbling energy established unshakable experiential faith in impermanence (*anicca*).
+- **10:15 AM - 11:45 AM | Silent Sitting & Walking Meditation**: Deepened sitting practice in the Dhamma Hall, observing ambient ranch sounds at a meta-level without resistance.
 
-In the morning check-in circle, Andy reflected on the unique power of retreat solidarity. While solitary practice carries its own responsibility, sitting shoulder-to-shoulder with others provides a quiet anchor of shared aspiration. Rather than enforcing rigid external postures, the retreat fostered an atmosphere of gentle self-awareness, allowing practitioners to meet their own restlessness with kindness.
+### ☀️ Afternoon Session (12:01 PM - 5:00 PM)
+- **01:30 PM - 04:00 PM | Silent Walking Meditation & Contemplative Solitude**: Walked rural ranch trails through the oak trees of Hidden Villa, grounding attention in footfalls and sensory presence.
+- **04:00 PM - 05:15 PM | Dharma Talk by Ying Chen: The Mirror of Moral Reflection (MN 61)**: Attended Ying Chen's discourse on the *Ambalaṭṭhikārāhulovāda Sutta*, exploring the Buddha's mirror simile (*ādāsa*) given to novice Rāhula. Detailed the threefold temporal mirror: repeated ethical reflection *before* action (refraining if harm is foreseen), *during* action (desisting mid-stream if unwholesomeness arises), and *after* action (open confession and future restraint if unskillful; wholesome joy and perseverance if blameless), forming the bedrock of moral hygiene and 12-Step amends.
 
-As the day progressed into afternoon sessions, discussions centered on sensory contact—particularly sound. Andy pointed out how deep meditative stillness allows acoustic events to register simply as vibrations rather than personal insults or disturbances. When someone rushed down a hallway or a door closed abruptly, it served as an immediate mirror for our own conditioning: do we judge the hurried person, or do we recognize that we, too, have rushed frantically on the freeway when late? This simple recognition bridges the gap between formal meditation and everyday human empathy.
-
-By evening, the focus turned toward the somatic reality of physical aging and practice. Drawing on 26 years on the cushion, Andy recounted how deep engagement with knee pain transformed from an endurance test into a vivid lesson in impermanence, where observing the physical sensations revealed bubbling patterns of arising and passing away. The day closed with deep appreciation for a renewed ease in sitting, setting a peaceful tone ahead of the evening's transition toward Mission Dharma and community connection.
+### 🌙 Evening Session (5:01 PM - 11:00 PM)
+- **05:15 PM - 09:30 PM | Evening Stillness & Integrating Moral Reflection**: Completed evening sitting and walking cycles in the Dhamma Hall, reflecting on the threefold mirror with self-compassion and noting physical sitting ease in the retreat container.
 
 ---
+
 
 ## 🗣️ Personal Monologues & Direct Thoughts
 
