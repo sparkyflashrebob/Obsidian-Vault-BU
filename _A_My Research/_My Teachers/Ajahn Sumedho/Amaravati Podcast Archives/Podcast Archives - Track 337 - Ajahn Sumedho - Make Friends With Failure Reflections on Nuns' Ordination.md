@@ -23,6 +23,7 @@ tags:
   - asankhata
   - four-noble-truths
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Make Friends With Failure: Reflections on Nuns' Ordination

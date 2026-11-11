@@ -24,6 +24,7 @@ tags:
   - four-noble-truths
   - karuna
   - panna
+  - panna
 ---
 
 # Mara is Your Best Friend: Welcoming Hindrances as Spiritual Teachers

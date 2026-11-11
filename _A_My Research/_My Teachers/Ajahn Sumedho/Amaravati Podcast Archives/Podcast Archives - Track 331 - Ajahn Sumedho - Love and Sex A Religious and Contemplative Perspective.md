@@ -21,6 +21,7 @@ tags:
   - four-noble-truths
   - karuna
   - tanha
+  - tanha
 ---
 
 # Love and Sex: A Religious and Contemplative Perspective

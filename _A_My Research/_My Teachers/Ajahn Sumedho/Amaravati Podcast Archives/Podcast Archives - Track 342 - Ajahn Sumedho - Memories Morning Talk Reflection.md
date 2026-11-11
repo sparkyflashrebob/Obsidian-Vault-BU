@@ -20,6 +20,7 @@ tags:
   - tathata
   - four-noble-truths
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Memories: Morning Talk Reflection

@@ -15,7 +15,7 @@ created: 2026-08-29
 
 # Master Mind Map - Ajahn Sumedho Archive & Content Nodes
 
-This master mind map organizes and indexes the complete **Ajahn Sumedho (Luang Por Sumedho)** teaching repository in your vault—spanning **1,000+ files** across root discourses, 7-day retreat archives, published books, 108 audio transcripts, and 820+ thematic synthesis notes.
+This master mind map organizes and indexes the complete **Ajahn Sumedho (Luang Por Sumedho)** teaching repository in your vault—spanning **822 completed audio Dhamma talk reports** (including the entire 546-track Amaravati Podcast Archives), 7-day retreat archives, published books, and 620+ thematic synthesis notes (1,500+ files in total).
 
 ---
 
@@ -32,6 +32,11 @@ mindmap
       Mother Earth - Father Sky & Middle Way
       Being Patient with Our Aversion
       Until the Penny Drops
+    🎙️ Amaravati Podcast Archives (546 Talks)
+      546 Completed Verbatim Audio Reports
+      Four Decades of Monastic Archives (1980s-2020s)
+      Sound of Silence & Unconditioned Asaṅkhata
+      Morning Reflections, Wan Phra & Retreat Q&As
     🏛️ 4 Noble Truths Retreat Archive
       Singapore 7-Day Retreat Complete Series
       Day 1 to Day 7 Morning & Evening Sessions
@@ -50,7 +55,7 @@ mindmap
       Amaravati & Chithurst Monastic Era
       2000s Awareness - Gate to the Deathless
       Addiction to Rationality & Thought Traps
-    🔬 Synthesis of Teachings (820+ Notes)
+    🔬 Synthesis of Teachings
       Amaravati 10-Day Retreat Q&As
       Sakkāyaditthi & The First Three Fetters
       Conditioned Phenomena Sankharas vs Unconditioned
@@ -83,7 +88,7 @@ Below is the complete structural breakdown of the subfolders located within `_A_
 | **[[00 - Master Index - Amaravati Retreats\|Amaravati Retreats/]]** | ✅ Complete | 26 talks | Landmark 10-day retreat (May 2006), annual Vassa retreats, & Winter retreats (1989–2007). | Relaxed Attention (*Paccuppanna-Dhamma*), Asaṅkhata, Sakkāya-diṭṭhi, Nāda, Biological Conditionality (*Idappaccayatā*). |
 | **[[00 - Master Index - Recent Dhamma Talks (2020-2024)\|Recent Dhamma Talks (2020-2024)/]]** | ✅ Complete | 21 talks | Culminating discourses and Q&As delivered between ages 86–90 (2020–2024). | Non-Thinking (*Buddho*), I Think Therefore I Doubt, Ideals Don’t Feel, Effortless Right Effort, In This Life. |
 | **[[00 - Master Index - Amaravati Archival & Sunday Talks\|Amaravati Archival & Sunday Talks/]]** | ✅ Complete | 47 talks | Historical discourses, Sunday reflections, and monastic gatherings (1988–2019). | Witnessing Position (*Buddho*), Stress & Two Arrows, Parable of the Key, Inner Listening, Gratitude (*Kataññū*). |
-| **[[00 - Master Index - Amaravati Podcast Archives|Amaravati Podcast Archives/]]** | ⏳ In-Progress (350 Talks Live) | 546 tracks (350 live) | Definitive comprehensive audio podcast archive spanning 4 decades (1980s–2020s). | Asaṅkhata, Amata, Sound of Silence, Buddho, Idappaccayatā, Sīladharā, Kathina. |
+| **[[00 - Master Index - Amaravati Podcast Archives|Amaravati Podcast Archives/]]** | ✅ 100% Complete (546 Talks Live) | 546 tracks (546 live) | Definitive comprehensive audio podcast archive spanning 4 decades (1980s–2020s). | Asaṅkhata, Amata, Sound of Silence, Buddho, Idappaccayatā, Sīladharā, Kathina. |
 | **`Books/`** | 📚 Curated | 8 volumes | Primary PDF book transcriptions and published volumes by Luang Por Sumedho. | *Direct Realization*, *The Wheel of Truth*, *The Way It Is*, *Personality*. |
 | **`Synthesis of Teachings/`** | 🔬 Compendium | 627 notes | Topical research compendium across various monastic themes and retreat reflections. | Granular cross-references on technical Buddhist psychological doctrines. |
 

@@ -22,6 +22,7 @@ tags:
   - four-noble-truths
   - vinaya
   - sila
+  - sila
 ---
 
 # Living Life as it Happens (Kathina Festival Address)

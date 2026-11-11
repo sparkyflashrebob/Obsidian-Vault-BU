@@ -22,6 +22,7 @@ tags:
   - four-noble-truths
   - panna
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Mindfulness Here and Now: Cutting the Temporal Illusion

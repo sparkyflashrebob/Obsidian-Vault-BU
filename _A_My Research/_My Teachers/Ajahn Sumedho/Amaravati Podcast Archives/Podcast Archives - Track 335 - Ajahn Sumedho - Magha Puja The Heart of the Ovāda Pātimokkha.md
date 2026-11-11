@@ -25,6 +25,7 @@ tags:
   - vinaya
   - khanti
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Magha Puja: The Heart of the Ovāda Pātimokkha

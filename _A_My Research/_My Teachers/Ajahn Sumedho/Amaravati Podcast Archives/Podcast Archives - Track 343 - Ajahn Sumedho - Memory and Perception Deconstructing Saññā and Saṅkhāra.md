@@ -23,6 +23,7 @@ tags:
   - four-noble-truths
   - upadana
   - sila
+  - sila
 ---
 
 # Memory and Perception: Deconstructing Saññā and Saṅkhāra

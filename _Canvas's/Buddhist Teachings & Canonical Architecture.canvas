@@ -395,17 +395,17 @@
       "type": "group",
       "label": "BRANCH 7: LIVING LINEAGES & PRACTICAL APPLICATION",
       "x": -2680,
-      "y": 360,
+      "y": 1040,
       "width": 1540,
-      "height": 510,
+      "height": 1130,
       "color": "5"
     },
     {
       "id": "e1b06077471b4412",
       "type": "text",
-      "text": "### 🌿 Living Lineages & Practical Application\n**Forest Tradition, Somatics & Mindful Living**\n[[_Master Mind Map - Living Lineages and Practice|Open Lineages Note]]",
+      "text": "### 🌿 Living Lineages & Practical Application\n**Part I: Living Lineages (The People) • Part II: Practical Applications (Methods & Sciences)**\n[[_Master Mind Map - Living Lineages and Practice|Open Lineages & Applications Hub ↗]]",
       "x": -2095,
-      "y": 400,
+      "y": 1080,
       "width": 380,
       "height": 130,
       "color": "5"
@@ -413,31 +413,31 @@
     {
       "id": "7b65f427965e4ba9",
       "type": "text",
-      "text": "#### 🌲 Thai Forest Tradition\n- **Root**: Ajahn Mun Bhūridatto (Wilderness *Kammaṭṭhāna*)\n- **Wat Nong Pah Pong**: Luang Por Chah Subhaddo\n  - *Master Retrospective & Archives*: [[Report - Ajahn Chah - Historic Teachings at Insight Meditation Society (June 16, 1979)|IMS 1979 Master Report ↗]] • [[_Ajahn Chah stories_|28 Master Stories & Parables ↗]]\n  - *Full Canon*: 60 Complete Dharma Talk Reports (IMS 1979 Sessions + All 56 Chapters of *The Collected Teachings*)\n- **Non-Thai Elders** (descended from Mun via Chah):\n  - *Ajahn Sumedho* (*Nāda* silence, *Buddho*, Mother's heart)\n  - *Ajahn Pasanno* (Friend to the breath, steadfast poise)\n  - *Ajahn Amaro* (Unentangled awareness, non-duality)\n  - *Ajahn Sucitto* (Somatic knot, embodied interoception)\n  - *Ajahn Nyaniko* (Looking into dukkha, Abhayagiri abbot)\n- **Dhammayut Lineage & Master Sutta Translator**:\n  - *Thanissaro Bhikkhu* (Ajaan Fuang / Ajaan Lee lineage; master translator of Nikāyas & breath energy)\n\n<small>[[Report - The Thai Forest Tradition - Roots, Lineage Architecture, and Living Masters|Detailed Lineage Study Report ↗]]</small>",
+      "text": "#### 🌲 Monastic Forest Lineages & Translators\n*The Living Transmission of Wilderness Kammaṭṭhāna & Early Suttas*\n\n- **The Root Patriarch**: Phra Ajahn Mun Bhūridatto (Wilderness asceticism, *dhutaṅga*, body contemplation)\n- **Wat Nong Pah Pong**: Luang Por Chah Subhaddo (\"Still forest pool\", \"Glass already broken\", \"Spit it out\")\n- **Non-Thai Western Elders** (descended from Mun via Chah):\n  - *Ajahn Sumedho* (The Sound of Silence / *Nāda*, *Buddho*, Mother's unconditional acceptance)\n  - *Ajahn Pasanno* (Friend to the breath, steadfast poise, founding Abbot of Abhayagiri)\n  - *Ajahn Amaro* (Unentangled awareness, non-dual Sutta clarity, Abbot of Amaravati)\n  - *Ajahn Sucitto* (Unwinding the somatic knot, embodied interoception, Sīladhārā order)\n  - *Ajahn Nyaniko* (Courageous presence with *dukkha*, current Abbot of Abhayagiri)\n- **Dhammayut Lineage & Master Sutta Translators**:\n  - *Thanissaro Bhikkhu* (Ajaan Fuang / Ajaan Lee lineage; master translator of Nikāyas & breath energy craft)\n  - *Bhikkhu Bodhi* & *Ven. Anālayo* (Exhaustive canonical translations & comparative early Buddhist scholarship)\n\n<small>[[Report - The Thai Forest Tradition - Roots, Lineage Architecture, and Living Masters|Detailed Lineage Study Report ↗]]</small>",
       "x": -2630,
-      "y": 570,
-      "width": 350,
-      "height": 450,
+      "y": 1260,
+      "width": 710,
+      "height": 390,
       "color": "5"
     },
     {
       "id": "332bcb68f3d14d21",
       "type": "text",
-      "text": "#### Somatic Mindfulness & Threat Biology\n- Somatic contractions (belly tight/knotted) as biological survival reactions\\n- **Deer vs Human**: Deer shakes off fear; *we think about the tiger when there is no tiger*\\n- Polyvagal safety, sensing into the physical body",
-      "x": -2260,
-      "y": 570,
-      "width": 330,
-      "height": 260,
+      "text": "#### 🫀 Somatics, Threat Biology & Mindbody Medicine\n*The Physiology of Contraction & The Mammalian Nervous System*\n\n- **The Somatic Knot**: Tightness in the belly, throat, and chest as biological survival reactions (*idappaccayatā*), not personal moral failures.\n- **Deer vs. Human Threat Response**:\n  - The deer runs from danger, shakes off the shock, and returns to grazing.\n  - Humans replay threats in thought: *\"We think about the tiger when there is no tiger.\"*\n- **Polyvagal Theory** (*Dr. Stephen Porges*):\n  - Autonomic nervous system hierarchy (fight/flight, dorsal freeze, ventral vagal).\n  - Social safety & interoception as prerequisites for meditative stillness.\n- **Mindbody Medicine** (*Dr. John Sarno / TMS*):\n  - Chronic physical pain (back pain, fibromyalgia) as psychosomatic diversion from repressed emotional tension; healing through conscious emotional sovereignty.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#6 Somatic Neuroscience and The Sacred Pause|Somatic Neuroscience Hub ↗]]</small>",
+      "x": -2630,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
       "color": "5"
     },
     {
       "id": "e73e3221b11f4fd8",
       "type": "text",
-      "text": "#### Everyday Living & Recovery\n- **Rewiring Stress Habit**: Converting chronic reactivity into grounded peace\\n- Everyday realities: Checkout counters, utility bills, sensory contacts\\n- Freedom from remorse (*avippaṭisāra*) as practical daily refuge",
-      "x": -1890,
-      "y": 570,
-      "width": 330,
-      "height": 260,
+      "text": "#### 🏥 Clinical Mindfulness-Based Therapies\n*Evidence-Based Protocols & Third-Wave Psychological Interventions*\n\n- **MBSR** (*Mindfulness-Based Stress Reduction — Jon Kabat-Zinn*):\n  - Hospital protocol utilizing body scans, mindful movement, and breath to de-identify from chronic pain & illness (*Full Catastrophe Living*).\n- **MBCT** (*Mindfulness-Based Cognitive Therapy — Segal, Williams, Teasdale*):\n  - Preventing depressive relapse through *de-centering*—viewing depressive ruminations as transient mental events rather than facts.\n- **ACT** (*Acceptance and Commitment Therapy — Steven Hayes*):\n  - Psychological flexibility via **cognitive defusion** (stepping back from *papañca*), **acceptance** of sensations, and value-guided committed action.\n- **MBRP** (*Mindfulness-Based Relapse Prevention — Marlatt, Bowen*):\n  - Addiction protocol training **urge surfing** at the feeling-tone (*vedanā*) threshold; halting stimulus-to-compulsion reflexes.\n- **DBT** (*Dialectical Behavior Therapy — Marsha Linehan*):\n  - Core mindfulness modules, distress tolerance, and radical acceptance.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#🏥 Stream B Mindfulness-Based Therapies Clinical Protocols Third-Wave CBT|Clinical Therapies Hub ↗]]</small>",
+      "x": -2145,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
       "color": "5"
     },
     {
@@ -473,21 +473,21 @@
     {
       "id": "b6f84c107e334a19",
       "type": "text",
-      "text": "#### 👥 Sangha & Spiritual Community\n- **The Whole of the Holy Life**: *Kalyāṇamittatā* (*SN 45.2 Upaddha Sutta*)\n- **The Rock Tumbler**: Polishing conceit & sharp edges in community\n- **Living in Concord**: Blending like milk & water (*MN 31 & MN 48*)\n\n<small>[[Report - The Importance of Sangha - Community, Spiritual Friendship, and the Living Refuge|Detailed Study Note ↗]]</small>",
-      "x": -1520,
-      "y": 570,
-      "width": 330,
-      "height": 260,
+      "text": "#### 👥 Everyday Living, Recovery & Sangha Container\n*Rewiring Stress, Healing Compulsion & The Relational Refuge*\n\n- **Rewiring the Stress Habit**:\n  - The Two Arrows (*SN 36.6*): Dropping the mental addition (dukkha) to sensory contact.\n  - Everyday practice: Checkout counters, utility bills, difficult interactions.\n  - Freedom from remorse (*avippaṭisāra*) as practical daily psychological refuge.\n- **Addiction & Trauma Recovery**:\n  - **Dr. Gabor Maté**: Trauma as internal disconnection; addiction as an adaptive coping mechanism for unaddressed pain.\n  - **Dr. Joe Dispenza**: Neuroplasticity; biological unlearning of chronic emotional loops.\n- **The Sangha Container** (*Kalyāṇamittatā*):\n  - *The Rock Tumbler*: Community life smoothing rough egoic edges.\n  - Blending like milk and water (*MN 31*); relational Right Speech (*AN 5.198*).\n\n<small>[[Report - The Architecture of Recovery - Sakkaya-Diṭṭhi, Trauma, Sangha, and the Path from Compulsion to Liberation|Recovery & Sangha Report ↗]]</small>",
+      "x": -1660,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
       "color": "5"
     },
     {
       "id": "western_insight_neuro_b7",
       "type": "text",
-      "text": "#### 🌸 Western Insight, Mindfulness Therapies & Applied Science\n**Bridging Classical Satipaṭṭhāna, Clinical Protocols & Modern Neuroscience**\n\n| Domain | Key Frameworks & Pioneers | Primary Focus & Contemporary Contribution |\n| :--- | :--- | :--- |\n| **Western Insight (Lay Dhamma & Presence)** | **Jack Kornfield**, **Tara Brach**, **Gil Fronsdal**, **James Baraz**, **Eckhart Tolle** | Vipassanā adapted for householders; RAIN emotional compassion; *Awakening Joy*; unconditioned presence (*The Power of Now*); domestic practice. |\n| **Mindfulness-Based Therapies (Clinical)** | **MBSR** *(Kabat-Zinn)*, **MBCT** *(Segal/Williams)*, **ACT** *(Hayes)*, **MBRP** *(Marlatt/Bowen)*, **DBT** *(Linehan)* | Hospital and clinical protocols: de-centering from depressive loops; cognitive defusion (*dropping papañca*); urge surfing at *vedanā*; distress tolerance. |\n| **Medical, Trauma & Neuroscience** | **Dr. John Sarno** *(TMS)*, **Dr. Gabor Maté** *(Trauma/Addiction)*, **Dr. Joe Dispenza**, **Polyvagal Theory** *(Porges)* | Psychosomatic pain as emotional diversion; trauma physiology (*When the Body Says No*); biological neuroplasticity; ventral vagal mammalian safety. |\n\n<small>[[_Master Mind Map - Living Lineages and Practice#5 Western Insight Mindfulness Therapies and Applied Modern Sciences|Detailed Lineages, Clinical Therapies & Research Hub ↗]]</small>",
-      "x": -2270,
-      "y": 1735,
-      "width": 1100,
-      "height": 340
+      "text": "#### 🌸 Western Lay Insight & Contemporary Presence\n*Adapting Dhamma for Householders, Emotional Healing & Modern Life*\n\n- **Western Insight Pioneers** (*IMS, Spirit Rock, IMC*):\n  - **Jack Kornfield**: Former monk under Ajahn Chah; pioneer of integrating psychotherapy with Buddhist practice; heart practices & forgiveness.\n  - **Tara Brach**: Clinical psychologist; developer of the **RAIN** somatic protocol (Recognize, Allow, Investigate, Nurture); Radical Acceptance & trauma-informed compassion.\n  - **Gil Fronsdal**: Theravāda & Soto Zen lineage holder; translator of the *Dhammapada*; grounding early Buddhist suttas in pragmatic daily lay reality.\n  - **James Baraz**: Spirit Rock founding teacher; creator of *Awakening Joy*; cultivating appreciative joy (*muditā*) and community resilience.\n- **Contemporary Vernacular Presence**:\n  - **Eckhart Tolle**: *The Power of Now*; stepping out of conceptual mental storytelling (*papañca*) into unconditioned, still awareness.\n  - **Anthony DeMello**: Awareness beyond cultural and religious programming.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#5 Western Insight Mindfulness Therapies and Applied Modern Sciences|Western Lay Teachers & Insight Hub ↗]]</small>",
+      "x": -1890,
+      "y": 1260,
+      "width": 710,
+      "height": 390
     }
   ],
   "edges": [
@@ -730,27 +730,6 @@
       "label": "Embodied Practice"
     },
     {
-      "id": "4da80466e75e43a5",
-      "fromNode": "e1b06077471b4412",
-      "fromSide": "bottom",
-      "toNode": "7b65f427965e4ba9",
-      "toSide": "top"
-    },
-    {
-      "id": "47c154b5e1324379",
-      "fromNode": "e1b06077471b4412",
-      "fromSide": "bottom",
-      "toNode": "332bcb68f3d14d21",
-      "toSide": "top"
-    },
-    {
-      "id": "bb5069f67d654104",
-      "fromNode": "e1b06077471b4412",
-      "fromSide": "bottom",
-      "toNode": "e73e3221b11f4fd8",
-      "toSide": "top"
-    },
-    {
       "id": "0087e71083c64fd0",
       "fromNode": "c291d1aa415143d1",
       "fromSide": "bottom",
@@ -775,19 +754,44 @@
       "color": "6"
     },
     {
-      "id": "5c1840e69df04a88",
+      "id": "e_b7_head_to_71",
       "fromNode": "e1b06077471b4412",
       "fromSide": "bottom",
-      "toNode": "b6f84c107e334a19",
+      "toNode": "7b65f427965e4ba9",
       "toSide": "top",
-      "color": "5"
+      "label": "Monastic Lineages"
     },
     {
-      "id": "f04710d35c864a86",
+      "id": "e_b7_head_to_72",
       "fromNode": "e1b06077471b4412",
       "fromSide": "bottom",
       "toNode": "western_insight_neuro_b7",
-      "toSide": "top"
+      "toSide": "top",
+      "label": "Lay Insight & Presence"
+    },
+    {
+      "id": "e_b7_71_to_73",
+      "fromNode": "7b65f427965e4ba9",
+      "fromSide": "bottom",
+      "toNode": "332bcb68f3d14d21",
+      "toSide": "top",
+      "label": "Somatics & Nervous System"
+    },
+    {
+      "id": "e_b7_72_to_74",
+      "fromNode": "western_insight_neuro_b7",
+      "fromSide": "bottom",
+      "toNode": "e73e3221b11f4fd8",
+      "toSide": "top",
+      "label": "Clinical Therapies"
+    },
+    {
+      "id": "e_b7_72_to_75",
+      "fromNode": "western_insight_neuro_b7",
+      "fromSide": "bottom",
+      "toNode": "b6f84c107e334a19",
+      "toSide": "top",
+      "label": "Daily Life & Recovery"
     }
   ]
 }

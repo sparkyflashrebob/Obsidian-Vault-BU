@@ -21,6 +21,7 @@ tags:
   - tathata
   - four-noble-truths
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Meditation in Daily Life: Just Sitting is Not Enough

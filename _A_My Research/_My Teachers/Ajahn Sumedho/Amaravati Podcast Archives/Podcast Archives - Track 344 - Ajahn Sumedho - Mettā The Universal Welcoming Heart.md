@@ -21,6 +21,7 @@ tags:
   - four-noble-truths
   - brahmaviharas
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Mettā: The Universal Welcoming Heart

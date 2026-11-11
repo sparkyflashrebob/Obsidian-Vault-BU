@@ -26,6 +26,7 @@ tags:
   - sila
   - dhutanga
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Listening to the Guilt: Morning Talk Reflection

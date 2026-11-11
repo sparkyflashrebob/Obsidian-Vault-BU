@@ -26,6 +26,7 @@ tags:
   - karuna
   - nirodha
   - panna
+  - panna
 ---
 
 # Mettā Is Receiving: The Art of Gracious Non-Resistance

@@ -47,17 +47,24 @@ comments: "Comprehensive sub-master mind map breaking down Living Lineages and C
 
 ## 🗂️ Major Lineage & Application Navigation
 
-| Domain | Key Masters & Frameworks | Primary Focus in Contemporary Life | Direct Link |
+### 👥 Part I: Living Lineages (The People & Lineages)
+| Domain | Key Masters & Lineage Nodes | Primary Focus & Lineage Role | Direct Link |
 | :--- | :--- | :--- | :--- |
 | **1. The Thai Forest Tradition** | Ajahn Mun, Ajahn Chah, Non-Thai Elders (Sumedho, Pasanno, Amaro, Sucitto, Nyaniko) & Thanissaro Bhikkhu | Ascetic wilderness roots (*kammaṭṭhāna*, *dhutaṅga*); intuitive awareness; somatic integration; monumental Sutta translation. | [[#1 The Thai Forest Tradition Lineage Architecture]] |
 | **2. Ajahn Sumedho & Intuitive Awareness** | Ajahn Sumedho (*Amaravati / Cittaviveka*) | The Sound of Silence (*Nāda*); resting as conscious knowing (*Buddho*); dissolving *sakkāya-diṭṭhi*. | [[#2 Ajahn Sumedho & Intuitive Awareness]] |
 | **3. Western Forest Elders** | Ajahn Pasanno, Ajahn Amaro, Ajahn Sucitto, Ajahn Nyaniko | Somatic breath friend; non-dual awareness; unwinding the somatic knot; looking into dukkha. | [[#3 Western Forest Elders]] |
 | **4. Master Scholar-Monks & Translators** | Thanissaro Bhikkhu, Bhikkhu Bodhi, Ven. Anālayo | Forest breath mechanics (*Keeping the Breath in Mind*); exhaustive English Nikāya translations; comparative early Buddhism. | [[#4 Master Scholar-Monks & Translators]] |
-| **5. Western Insight, Mindfulness Therapies & Applied Science** | Kornfield, Brach, Fronsdal, Baraz, Tolle; MBSR, MBCT, ACT, MBRP; Dr. Sarno, Gabor Maté, Dispenza | Three distinct streams: Western lay mindfulness & presence; clinical therapies (MBSR, ACT, MBCT); medical/neuroscience research. | [[#5 Western Insight Mindfulness Therapies and Applied Modern Sciences]] |
-| **6. Somatic Neuroscience & The Sacred Pause** | Polyvagal Theory, Interoception, The Somatic Knot | Belly tightness as threat conditioning (*Idappaccayatā*); the deer vs human threat response. | [[#6 Somatic Neuroscience & The Sacred Pause]] |
-| **7. Mindful Recovery & Addiction Liberation** | Addiction Liberation, Relapse De-pathologizing | Urge surfing at the feeling-tone (*Vedanā*) threshold; Sangha as trauma-informed relational refuge. | [[#7 Mindful Recovery & Healing from Compulsion]] |
-| **8. Relational Right Speech in Daily Life** | AN 5.198, Non-Prescriptive Presence | Timely, true, gentle, beneficial, spoken with mettā; transforming passive aggression into empathy. | [[#8 Relational Right Speech in Daily Life]] |
-| **9. Architecture of Stress (Dukkha)** | The Two Arrows (*SN 36.6*), Contact-to-Becoming | Rewiring chronic stress habits into unshakeable peace; freeing vital somatic energy. | [[#9 The Architecture of Stress Dukkha]] |
+| **5. Western Lay Insight & Contemporary Presence** | Jack Kornfield, Tara Brach, Gil Fronsdal, James Baraz, Eckhart Tolle | Adapting Dhamma for householders; RAIN emotional compassion; *Awakening Joy*; unconditioned presence (*The Power of Now*). | [[#5 Western Lay Insight & Contemporary Presence]] |
+
+### 🛠️ Part II: Practical Applications (Methods, Therapies & Modern Sciences)
+| Domain | Key Frameworks & Clinicians | Practical Application & Mechanism | Direct Link |
+| :--- | :--- | :--- | :--- |
+| **6. Clinical Mindfulness-Based Therapies** | **MBSR** *(Kabat-Zinn)*, **MBCT** *(Segal/Williams)*, **ACT** *(Hayes)*, **MBRP** *(Marlatt/Bowen)*, **DBT** *(Linehan)* | Hospital and clinical protocols: de-centering from depressive loops; cognitive defusion (*dropping papañca*); urge surfing; distress tolerance. | [[#6 Clinical Mindfulness-Based Therapies]] |
+| **7. Somatics, Threat Biology & Nervous System** | Polyvagal Theory *(Dr. Stephen Porges)*, Interoception, The Somatic Knot | Belly tightness as threat conditioning (*Idappaccayatā*); ventral vagal social safety; the deer vs. human threat response. | [[#7 Somatics Threat Biology & The Sacred Pause]] |
+| **8. Mindbody Medicine & Neuroplasticity** | **Dr. John Sarno** *(TMS)*, **Dr. Gabor Maté** *(Trauma/Addiction)*, **Dr. Joe Dispenza** | Psychosomatic pain as physical diversion from emotional tension; developmental trauma; biological neuroplasticity and habit change. | [[#8 Mindbody Medicine Trauma & Neuroplasticity]] |
+| **9. Mindful Recovery & Addiction Liberation** | Addiction Liberation, Relapse De-pathologizing, Urge Surfing | Urge surfing at the feeling-tone (*Vedanā*) threshold; Sangha as trauma-informed relational refuge. | [[#9 Mindful Recovery & Healing from Compulsion]] |
+| **10. Relational Right Speech & Sangha Container** | AN 5.198, *Kalyāṇamittatā*, Non-Prescriptive Presence | Timely, true, gentle, beneficial, spoken with mettā; transforming passive aggression; community as the rock tumbler. | [[#10 Relational Right Speech in Daily Life]] |
+| **11. Architecture of Stress (Dukkha)** | The Two Arrows (*SN 36.6*), Contact-to-Becoming | Rewiring chronic stress habits into unshakeable peace; freeing vital somatic energy from mental loops. | [[#11 The Architecture of Stress Dukkha]] |
 
 ---
 
@@ -115,10 +122,7 @@ All the primary Western forest elders in this branch trace their lineage descent
 
 ---
 
-## 5. Western Insight, Mindfulness Therapies & Applied Modern Sciences
-*This domain bridges classical Dhamma with contemporary Western domestic life, evidence-based clinical protocols, and modern medical/neuroscience research, organizing into three complementary streams:*
-
-### 🌸 Stream A: Western Insight & Contemporary Presence (Spiritual / Lay Dhamma)
+## 5. Western Lay Insight & Contemporary Presence
 *These teachers maintain direct lineage roots in Buddhist contemplation, Vipassanā, and non-dual awakening, adapting monastic practices for Western householders, emotional healing, and lay retreats:*
 * **[[_My Teachers/Jack Kornfield|Jack Kornfield]]** (*Spirit Rock / IMS*): Former monk under Ajahn Chah; pioneer of integrating Western psychology and Buddhist practice; forgiveness practices and emotional reconciliation.
 * **[[_My Teachers/Tara Brach|Tara Brach]]** (*IMCW*): Clinical psychologist and meditation teacher; developer of the **RAIN** somatic protocol (Recognize, Allow, Investigate, Nurture); Radical Acceptance; somatic and relational compassion.
@@ -128,7 +132,9 @@ All the primary Western forest elders in this branch trace their lineage descent
 
 ---
 
-### 🏥 Stream B: Mindfulness-Based Therapies & Clinical Protocols (Third-Wave CBT)
+# 🛠️ Part II: Practical Applications (Methods, Therapies & Modern Sciences)
+
+## 6. Clinical Mindfulness-Based Therapies
 *These modalities translate classical Satipaṭṭhāna principles into validated medical and psychological protocols, stripping away religious dogma to treat chronic stress, depression, anxiety, and compulsive addictions:*
 * **MBSR (Mindfulness-Based Stress Reduction — Jon Kabat-Zinn)**: Founded in 1979 at UMass Medical Center; utilizes body scans, gentle somatic movement, and breath awareness to de-identify from chronic physical pain, transforming our relationship to illness (*Full Catastrophe Living*).
 * **MBCT (Mindfulness-Based Cognitive Therapy — Zindel Segal, Mark Williams, John Teasdale)**: Developed to prevent depressive relapse; trains individuals to recognize negative depressive rumination as passing mental events in awareness rather than factual statements about self (*de-centering*).
@@ -138,38 +144,39 @@ All the primary Western forest elders in this branch trace their lineage descent
 
 ---
 
-### 🔬 Stream C: Medical, Trauma, Somatics & Neuroscience (Applied Sciences)
-*These clinicians and researchers are NOT traditional Buddhist teachers; they investigate the physiological and neural mechanisms of the mammalian mind-body connection:*
-* **[[_My Teachers/Dr. John Sarno|Dr. John Sarno]]** (*Tension Myositis Syndrome - TMS*): Pioneering physician who demonstrated that severe chronic physical pain (back pain, fibromyalgia, gastrointestinal tension) is often a psychosomatic diversion orchestrated by the brain to suppress unconscious emotional turmoil. Healing occurs through conscious recognition and emotional sovereignty rather than structural surgeries.
-* **[[_My Teachers/Gabor Mate|Dr. Gabor Maté]]**: Renowned expert on developmental trauma, somatic stress (*When the Body Says No*), and addiction as an adaptive coping mechanism (*In the Realm of Hungry Ghosts*); illuminating how psychological pain becomes somatic pathology.
-* **[[_My Teachers/Dr Joe Dispenza|Dr. Joe Dispenza]]**: Researcher on neuroplasticity and epigenetic change; explaining how conditioned neural pathways trap the body in chronic emotional loops, and how intentional mental repatterning rewires biology.
+## 7. Somatics, Threat Biology & The Sacred Pause
+* **The Somatic Knot**: Tightness in the belly and throat is a natural mammalian fight-flight reflex, not a spiritual shortcoming.
+* **Animals vs. Humans in Threat Response**: When a deer escapes a tiger, it shakes off the somatic tremble and peacefully returns to grazing. Humans replay the tiger in memory: *"We think about the tiger when there is no tiger."*
+* **The Sacred Pause**: Halting the reflex between contact (*phassa*) and craving (*taṇhā*), allowing ventral vagal safety to re-establish.
 * **Polyvagal Theory (Dr. Stephen Porges)**: Neurobiology of the autonomic nervous system; how mammalian threat states (fight, flight, freeze) lodge in the vagal complex, and how ventral vagal social safety enables emotional regulation.
 
 ---
 
-## 6. Somatic Neuroscience & The Sacred Pause
-* **The Somatic Knot**: Tightness in the belly and throat is a natural mammalian fight-flight reflex, not a spiritual shortcoming.
-* **Animals vs. Humans in Threat Response**: When a deer escapes a tiger, it shakes off the somatic tremble and peacefully returns to grazing. Humans replay the tiger in memory: *"We think about the tiger when there is no tiger."*
-* **The Sacred Pause**: Halting the reflex between contact (*phassa*) and craving (*taṇhā*), allowing ventral vagal safety to re-establish.
+## 8. Mindbody Medicine, Trauma & Neuroplasticity
+*These clinicians and researchers are NOT traditional Buddhist teachers; they investigate the physiological and neural mechanisms of the mammalian mind-body connection:*
+* **[[_My Teachers/Dr. John Sarno|Dr. John Sarno]]** (*Tension Myositis Syndrome - TMS*): Pioneering physician who demonstrated that severe chronic physical pain (back pain, fibromyalgia, gastrointestinal tension) is often a psychosomatic diversion orchestrated by the brain to suppress unconscious emotional turmoil. Healing occurs through conscious recognition and emotional sovereignty rather than structural surgeries.
+* **[[_My Teachers/Gabor Mate|Dr. Gabor Maté]]**: Renowned expert on developmental trauma, somatic stress (*When the Body Says No*), and addiction as an adaptive coping mechanism (*In the Realm of Hungry Ghosts*); illuminating how psychological pain becomes somatic pathology.
+* **[[_My Teachers/Dr Joe Dispenza|Dr. Joe Dispenza]]**: Researcher on neuroplasticity and epigenetic change; explaining how conditioned neural pathways trap the body in chronic emotional loops, and how intentional mental repatterning rewires biology.
 
 ---
 
-## 7. Mindful Recovery & Healing from Compulsion
+## 9. Mindful Recovery & Healing from Compulsion
 * **Primary Report**: [`Report - The Architecture of Recovery`](file:///G:/Google%20Drive%20(260611)/Obsidian%20Master%20Vault/Flashrebob%20Obsidian/_A_My%20Research/_Antigravity%20Spiritual%20Reports/Report%20-%20The%20Architecture%20of%20Recovery%20-%20Sakkaya-Di%E1%B9%AD%E1%B9%ADhi,%20Trauma,%20Sangha,%20and%20the%20Path%20from%20Compulsion%20to%20Liberation.md).
 * **Urge Surfing**: Learning to breathe through physical cravings as passing waves of feeling-tone (*vedanā*) without acting out or suppressing.
 * **Sangha Refuge**: True recovery requires a safe social container where vulnerability is met with compassion rather than ostracization.
 
 ---
 
-## 8. Relational Right Speech in Daily Life
+## 10. Relational Right Speech & The Sangha Container
 * **AN 5.198 Criteria**: Timely, true, gentle, beneficial, and spoken with a mind of loving-kindness (*mettā*).
 * **Transforming Passive Aggression**: Replacing silent resentment with clear, transparent, and compassionate communication.
+* **The Rock Tumbler**: Community life (*Kalyāṇamittatā*) smoothing rough egoic edges through living in concord, blending like milk and water (*MN 31*).
 
 ---
 
-## 9. The Architecture of Stress (Dukkha)
+## 11. The Architecture of Stress (Dukkha)
 * **The Two Arrows (*SN 36.6*)**: Sensory impact is the unavoidable First Arrow; mental resistance and storytelling is the Second Arrow (Dukkha).
-* **Rewiring Stress Habit**: Freeing vital somatic energy from chronic loops into grounded everyday peace.
+* **Rewiring Stress Habit**: Freeing vital somatic energy from chronic loops into grounded everyday peace at checkout counters, utility bills, and bodily aches.
 
 ---
 

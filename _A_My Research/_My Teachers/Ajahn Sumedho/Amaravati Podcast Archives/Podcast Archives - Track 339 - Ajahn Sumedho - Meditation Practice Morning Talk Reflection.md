@@ -22,6 +22,7 @@ tags:
   - four-noble-truths
   - panna
   - ajahn-chah
+  - ajahn-chah
 ---
 
 # Meditation Practice: Morning Talk Reflection

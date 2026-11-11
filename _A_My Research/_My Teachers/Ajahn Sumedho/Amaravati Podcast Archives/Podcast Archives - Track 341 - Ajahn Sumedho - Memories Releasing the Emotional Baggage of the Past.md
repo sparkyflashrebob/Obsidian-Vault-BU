@@ -23,6 +23,7 @@ tags:
   - eightfold-path
   - nirodha
   - panna
+  - panna
 ---
 
 # Memories: Releasing the Emotional Baggage of the Past

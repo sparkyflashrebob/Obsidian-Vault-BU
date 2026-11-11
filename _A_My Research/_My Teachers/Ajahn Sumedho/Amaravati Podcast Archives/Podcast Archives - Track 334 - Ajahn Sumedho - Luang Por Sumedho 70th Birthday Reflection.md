@@ -25,6 +25,7 @@ tags:
   - karuna
   - upadana
   - nirodha
+  - nirodha
 ---
 
 # Luang Por Sumedho 70th Birthday Reflection

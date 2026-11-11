@@ -26,6 +26,7 @@ tags:
   - samadhi
   - panna
   - sila
+  - sila
 ---
 
 # Magha Puja: Wake Up to Your Personality

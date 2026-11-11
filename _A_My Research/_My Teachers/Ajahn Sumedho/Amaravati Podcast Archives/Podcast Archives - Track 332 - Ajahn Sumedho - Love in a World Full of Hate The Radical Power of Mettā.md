@@ -21,6 +21,7 @@ tags:
   - anicca
   - asankhata
   - four-noble-truths
+  - four-noble-truths
 ---
 
 # Love in a World Full of Hate: The Radical Power of Mettā

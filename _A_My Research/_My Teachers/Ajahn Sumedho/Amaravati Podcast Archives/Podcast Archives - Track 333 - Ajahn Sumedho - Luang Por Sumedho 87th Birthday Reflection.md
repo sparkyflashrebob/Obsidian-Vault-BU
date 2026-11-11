@@ -26,6 +26,7 @@ tags:
   - tathata
   - four-noble-truths
   - upadana
+  - upadana
 ---
 
 # Luang Por Sumedho 87th Birthday Reflection

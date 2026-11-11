@@ -19,6 +19,7 @@ tags:
   - humility
   - four-noble-truths
   - karuna
+  - karuna
 ---
 
 # Mettā: The Way of Total Acceptance

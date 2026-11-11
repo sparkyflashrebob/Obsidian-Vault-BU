@@ -21,6 +21,7 @@ tags:
   - tathata
   - four-noble-truths
   - panna
+  - panna
 ---
 
 # Mindfulness in the Monastic Routine: The Crucible of the Vinaya

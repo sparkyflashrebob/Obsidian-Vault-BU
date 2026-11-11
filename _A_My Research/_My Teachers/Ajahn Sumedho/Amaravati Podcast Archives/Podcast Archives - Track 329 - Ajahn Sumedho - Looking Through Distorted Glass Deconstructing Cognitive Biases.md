@@ -27,6 +27,7 @@ tags:
   - upadana
   - nirodha
   - panna
+  - panna
 ---
 
 # Looking Through Distorted Glass: Deconstructing Cognitive Biases

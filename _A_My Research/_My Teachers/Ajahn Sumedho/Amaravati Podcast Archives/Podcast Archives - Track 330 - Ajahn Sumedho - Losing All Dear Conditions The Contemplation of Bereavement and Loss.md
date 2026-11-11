@@ -29,6 +29,7 @@ tags:
   - upadana
   - samadhi
   - panna
+  - panna
 ---
 
 # Losing All Dear Conditions: The Contemplation of Bereavement and Loss

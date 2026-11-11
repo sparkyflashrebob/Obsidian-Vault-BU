@@ -25,6 +25,7 @@ tags:
   - four-noble-truths
   - nirodha
   - panna
+  - panna
 ---
 
 # Living With Conditions (Vesakha Puja Discourse)

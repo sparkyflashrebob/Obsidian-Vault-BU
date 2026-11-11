@@ -27,6 +27,7 @@ tags:
   - four-noble-truths
   - metta
   - nibbana
+  - nibbana
 ---
 
 # Mettā as Acceptance: Consciousness Beyond Acceptance

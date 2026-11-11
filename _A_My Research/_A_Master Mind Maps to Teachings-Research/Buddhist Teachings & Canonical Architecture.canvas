@@ -1,103 +1,861 @@
 {
-	"nodes":[
-		{"id":"f007b0a71c434ba6","type":"group","x":-1440,"y":-1560,"width":2690,"height":1800,"color":"6","label":"BRANCH 1: CORE BUDDHIST PRINCIPLES (9 PILLARS)"},
-		{"id":"a4aa1c8f94754a15","type":"group","x":-2680,"y":1040,"width":1540,"height":1200,"color":"5","label":"BRANCH 7: LIVING LINEAGES & PRACTICAL APPLICATION"},
-		{"id":"2efabc9570f240ff","type":"group","x":-1080,"y":1445,"width":2200,"height":650,"color":"1","label":"BRANCH 5: STORIES, PARABLES & BIOGRAPHIES"},
-		{"id":"f558dfb093f649c7","type":"group","x":1320,"y":-825,"width":1250,"height":950,"color":"5","label":"BRANCH 2: THE TIPIṬAKA (CANONICAL COLLECTION)"},
-		{"id":"b2d107e665fd4657","type":"group","x":1200,"y":405,"width":1250,"height":920,"color":"4","label":"BRANCH 3: DRAMATIS PERSONAE (PEOPLE & INTERLOCUTORS)"},
-		{"id":"a41b973075274538","type":"group","x":-2680,"y":35,"width":1200,"height":830,"color":"3","label":"BRANCH 6: PĀLI LEXICON & DOCTRINAL INDEX"},
-		{"id":"279d9ba1a0e94c80","type":"group","x":1200,"y":1445,"width":1250,"height":650,"color":"2","label":"BRANCH 4: CANONICAL LOCATIONS (NIDĀNA / GEOGRAPHY)"},
-		{"id":"e1b06077471b4412","type":"text","text":"### 🌿 Living Lineages & Practical Application\n**Forest Tradition, Somatics & Mindful Living**\n[[_Master Mind Map - Living Lineages and Practice|Open Lineages Note]]","x":-2095,"y":1080,"width":380,"height":130,"color":"5"},
-		{"id":"7b65f427965e4ba9","type":"text","text":"#### 🌲 Thai Forest Tradition\n- **Root**: Ajahn Mun Bhūridatto (Wilderness *Kammaṭṭhāna*)\n- **Wat Nong Pah Pong**: Luang Por Chah Subhaddo\n- **Non-Thai Elders** (descended from Mun via Chah):\n  - *Ajahn Sumedho* (*Nāda* silence, *Buddho*, Mother's heart)\n  - *Ajahn Pasanno* (Friend to the breath, steadfast poise)\n  - *Ajahn Amaro* (Unentangled awareness, non-duality)\n  - *Ajahn Sucitto* (Somatic knot, embodied interoception)\n  - *Ajahn Nyaniko* (Looking into dukkha, Abhayagiri abbot)\n- **Dhammayut Lineage & Master Sutta Translator**:\n  - *Thanissaro Bhikkhu* (Ajaan Fuang / Ajaan Lee lineage; master translator of Nikāyas & breath energy)\n\n<small>[[Report - The Thai Forest Tradition - Roots, Lineage Architecture, and Living Masters|Detailed Lineage Study Report ↗]]</small>","x":-2630,"y":1370,"width":350,"height":675,"color":"5"},
-		{"id":"332bcb68f3d14d21","type":"text","text":"#### Somatic Mindfulness & Threat Biology\n- Somatic contractions (belly tight/knotted) as biological survival reactions\n- **Deer vs Human**: Deer shakes off fear; *we think about the tiger when there is no tiger*\n- Polyvagal safety, sensing into the physical body","x":-2270,"y":1370,"width":330,"height":338,"color":"5"},
-		{"id":"e73e3221b11f4fd8","type":"text","text":"#### Everyday Living & Recovery\n- **Rewiring Stress Habit**: Converting chronic reactivity into grounded peace\n- Everyday realities: Checkout counters, utility bills, sensory contacts\n- Freedom from remorse (*avippaṭisāra*) as practical daily refuge","x":-1905,"y":1370,"width":330,"height":338,"color":"5"},
-		{"id":"b6f84c107e334a19","type":"text","text":"#### 👥 Sangha & Spiritual Community\n- **The Whole of the Holy Life**: *Kalyāṇamittatā* (*SN 45.2 Upaddha Sutta*)\n- **The Rock Tumbler**: Polishing conceit & sharp edges in community\n- **Living in Concord**: Blending like milk & water (*MN 31 & MN 48*)\n\n<small>[[Report - The Importance of Sangha - Community, Spiritual Friendship, and the Living Refuge|Detailed Study Note ↗]]</small>","x":-1500,"y":1370,"width":330,"height":338,"color":"5"},
-		{"id":"a34f7cccfdb34c53","type":"text","text":"# ☸️ Master Architecture\n## Buddhist Teachings & Principles\n\nCentral interactive hub connecting canonical scriptures, core doctrines, people, geography, stories, and living somatic application.\n\n[[_Master Mind Map - Buddhist Teachings and Principles|Open Master Hub Note]]","x":-250,"y":455,"width":500,"height":240,"color":"6"},
-		{"id":"422b5e3a761b4956","type":"text","text":"### 📚 Pāli Lexicon & Doctrinal Index\n**Root Meanings, Etymology & Precise Vocabulary**\n[[_Master Mind Map - Pali Lexicon|Open Pāli Lexicon Note]]\n[[Pali to English Dictionary|Open Master Dictionary]]","x":-2230,"y":85,"width":380,"height":150,"color":"3"},
-		{"id":"cac566c3b3cd47d4","type":"text","text":"#### Master Pāli Dictionary Integration\n- Direct synchronization with master vault dictionary\n- Systematic 7-field schema (Root, Category, Doctrinal Definition, Sutta Citations)\n- Technical monastic & philosophical terms","x":-2630,"y":400,"width":360,"height":265,"color":"3"},
-		{"id":"337e0bcb7edf4759","type":"text","text":"#### Key Canonical Concepts\n- **Indriyasamvara**: Guarding the sense doors\n- **Upāyakosalla**: Skill in means / tailored teaching\n- **Yoniso Manasikāra**: Appropriate attention\n- **Papañca**: Mental proliferation & storytelling","x":-2230,"y":400,"width":360,"height":285,"color":"3"},
-		{"id":"09b0f6fe21fe4e9f","type":"text","text":"#### Conditionality & Dependent Origination\n- **Idappaccayatā**: Specific conditionality (*When this is, that is*)\n- **Paṭiccasamuppāda**: 12 links of dependent origination\n- **Kilesa & Āsava**: Defilements & deep taints","x":-1850,"y":400,"width":360,"height":265,"color":"3"},
-		{"id":"7de17573abcf4321","type":"text","text":"#### The Apadāna (Legends of Saints)\nJonathan Walters Translation (1,197 pp):\n- 550+ Bhikkhu Apadānas (past merit to final Arahantship)\n- 40+ Bhikkhunī Apadānas (heroism, patience & liberation)\n- Karmic link between aeons of practice and immediate fruit\n\n<small>[[Buddhist Biographies|Detailed Profiles: 32 Early Saints & Benefactors ↗]]</small>","x":-1030,"y":1665,"width":680,"height":260,"color":"1"},
-		{"id":"11d97743c1274c98","type":"text","text":"#### The Jātakas (Bodhisatta Path)\n547 Birth Tales:\n- Cultivation of the 10 Pāramīs across lifetimes\n- Animal allegories, royal self-sacrifice & moral dilemmas\n- Foundational narrative bedrock of Buddhist compassion","x":-300,"y":1665,"width":680,"height":240,"color":"1"},
-		{"id":"baad715f80b4440b","type":"text","text":"### 📖 Stories, Parables & Biographies\n**Apadāna Saints, Jātakas & Canonical Similes**\n[[_Master Mind Map - Stories and Parables|Open Stories Note]] • [[Buddhist Biographies|Biographies ↗]]","x":-180,"y":1495,"width":430,"height":130,"color":"1"},
-		{"id":"6e410fae3fb040b4","type":"text","text":"#### Master Similes of the Suttas\nTransformative Metaphors:\n- **The Raft**: For crossing, not for clinging\n- **The Two Darts (Sallatha Sutta)**: Physical sensation vs reactive dukkha\n- **The Blind Turtle**: The unfathomable rarity of human birth\n- **The Mountain**: Aging & death rolling in from the 4 quarters","x":430,"y":1665,"width":650,"height":240,"color":"1"},
-		{"id":"7eb19bd76c06417b","type":"text","text":"#### Sāvatthī (Kosala)\n- **Jetavana**: Anāthapiṇḍika’s grove (majority of MN/SN)\n- **Pubbārāma**: Migāramātā’s mansion\n- **Andhavana**: Blind Man’s Grove (solitary meditation)","x":1250,"y":1665,"width":360,"height":220,"color":"2"},
-		{"id":"632deae501274c8a","type":"text","text":"### 🏛️ Canonical Locations\n**Nidāna: Physical Settings & Sacred Geography**\n[[_Master Mind Map - Canonical Locations|Open Locations Note]]","x":1650,"y":1495,"width":380,"height":120,"color":"2"},
-		{"id":"5ff658d429684e5c","type":"text","text":"#### Rājagaha (Magadha)\n- **Gijjhakūṭa**: Vulture Peak\n- **Veḷuvana**: Bamboo Grove (King Bimbisāra)\n- **Jīvaka’s Mango Grove**: Medical refuge & serene healing","x":1650,"y":1665,"width":360,"height":220,"color":"2"},
-		{"id":"dff1b8cbaa01473d","type":"text","text":"#### Vesālī, Kosambi & Kapilavatthu\n- **Vesālī**: Mahāvana & Kūṭāgārasālā (Gabled Hall)\n- **Kosambi**: Ghositārāma (monastic reconciliation)\n- **Kapilavatthu**: Nigrodhārāma (hometown return)","x":2050,"y":1665,"width":360,"height":220,"color":"2"},
-		{"id":"09e9d58f058248b9","type":"text","text":"### 👥 Dramatis Personae\n**Interlocutors, Monastics & Benefactors**\n[[_Master Mind Map - Dramatis Personae|Open Dramatis Personae Note]]","x":1650,"y":455,"width":380,"height":120,"color":"4"},
-		{"id":"079b656a7f234d80","type":"text","text":"#### Senior Monastics & Chiefs\n- **Sāriputta**: Chief in Wisdom & analysis\n- **Mahāmoggallāna**: Chief in Psychic powers & exertion\n- **Ānanda**: Chief in Hearing, Attendant & Memory\n- **Mahākassapa**: Chief in Austere practices (dhutaṅga)\n- **Anuruddha**: Chief in Divine eye & mindfulness","x":1250,"y":625,"width":360,"height":280,"color":"4"},
-		{"id":"9944304cabb1426f","type":"text","text":"#### Lay Disciples & Benefactors\n- **Anāthapiṇḍika**: Feeder of the poor, purchaser of Jetavana\n- **Visākhā Migāramātā**: Chief benefactress of the Sangha\n- **Jīvaka Komārabhacca**: Royal physician, medicine & ethics\n- **Citta the Householder**: Master of Dhamma discourse","x":1650,"y":625,"width":360,"height":260,"color":"4"},
-		{"id":"7fdcbc558c7741e2","type":"text","text":"#### Royal Interlocutors\n- **King Pasenadi of Kosala**: Intimate conversations on aging & statecraft\n- **King Bimbisāra of Magadha**: Early royal patron\n- **King Ajātasattu**: Parricide, remorse & Sāmaññaphala Sutta","x":2050,"y":625,"width":360,"height":240,"color":"4"},
-		{"id":"4e904beb379b4eb7","type":"text","text":"#### Wanderers & Seekers\n- **Vacchagotta**: Questions on self, the cosmos, and fire extinguishing\n- **Dīghanakha**: Extreme philosophical views dismantled\n- **Potthapāda**: Nature of perception and cessation\n- **Bāhiya Dārucīriya**: Instant awakening: In the seen, only the seen","x":1250,"y":945,"width":360,"height":280,"color":"4"},
-		{"id":"e2270e85724b4e92","type":"text","text":"#### Transformative Figures\n- **Aṅgulimāla**: Bandit turned Arahant; stopping in Dhamma\n- **Paṭācārā & Kisa Gotamī**: Overwhelming grief transformed into liberating wisdom\n- **Sunīta the Outcaste**: Road-sweeper elevated by universal Dhamma","x":1650,"y":945,"width":360,"height":280,"color":"4"},
-		{"id":"234a7fae4d524eaa","type":"text","text":"#### Sutta Piṭaka (Discourses)\n- **Dīgha Nikāya**: Long Discourses (34 suttas)\n- **Majjhima Nikāya**: Middle-Length (152 suttas)\n- **Saṃyutta Nikāya**: Connected (2,889 suttas)\n- **Aṅguttara Nikāya**: Numerical (8,700+ suttas)\n- **Khuddaka Nikāya**: Minor (Dhammapada, Jātaka, Apadāna, Theragāthā, Therīgāthā)","x":1370,"y":-595,"width":360,"height":420,"color":"5"},
-		{"id":"20605a4867b645e0","type":"text","text":"### 📜 The Tipiṭaka\n**The Three Baskets of Canonical Wisdom**\n[[_Master Mind Map - The Tipitaka|Open Tipiṭaka Note]]","x":1770,"y":-775,"width":380,"height":120,"color":"5"},
-		{"id":"ace0b1b6a17a4bf3","type":"text","text":"#### Vinaya Piṭaka (Monastic Discipline)\n- **Suttavibhaṅga**: Pātimokkha rules for Bhikkhus (227) & Bhikkhunīs (311)\n- **Khandhaka**: Mahāvagga & Cullavagga (Ordination, community life, disputes)\n- **Parivāra**: Analytical summaries & training manuals","x":1770,"y":-595,"width":360,"height":300,"color":"5"},
-		{"id":"4b1c27bb657d4f40","type":"text","text":"#### Abhidhamma Piṭaka (Higher Doctrine)\n- **Dhammasaṅgaṇī**: Enumeration of ultimate phenomena\n- **Vibhaṅga**: Analysis of aggregates, sense bases, truths\n- **Dhātukathā & Puggalapaññatti**: Elements & personality types\n- **Kathāvatthu, Yamaka & Paṭṭhāna**: Dialectics, pairs & 24 conditional relations","x":2170,"y":-595,"width":360,"height":350,"color":"5"},
-		{"id":"1096346f3a1d49c0","type":"text","text":"### ☸️ Core Buddhist Principles\n**The 9 Foundational Pillars**\n[[_Master Mind Map - Core Buddhist Principles|Open Core Principles Note]]","x":-200,"y":-1510,"width":400,"height":120,"color":"6"},
-		{"id":"c291d1aa415143d1","type":"text","text":"#### 1. The 3 Universal Truths\nTilakkhaṇa:\n- Anicca (Impermanence)\n- Dukkha (Unsatisfactoriness)\n- Anattā (Not-Self / Non-Owner)","x":-1240,"y":-1330,"width":320,"height":200,"color":"6"},
-		{"id":"05dee75b17ac4608","type":"text","text":"**[[Universal_Truth_2_Dukkha_The_Architecture_of_Stress_and_Unsatisfactoriness|Dukkha]]**\nUnsatisfactoriness","x":-1200,"y":-1012,"width":240,"height":85,"color":"6"},
-		{"id":"44b63bdcfa254ea3","type":"text","text":"**[[Universal_Truth_1_Anicca_Impermanence_and_the_Flow_of_Experience|Anicca]]**\nImpermanence","x":-1410,"y":-925,"width":240,"height":85,"color":"6"},
-		{"id":"e6c59a841a624b7a","type":"text","text":"**[[Universal_Truth_3_Anatta_Non_Self_and_the_Release_of_Ownership|Anattā]]**\nNot-Self","x":-1000,"y":-927,"width":240,"height":85,"color":"6"},
-		{"id":"2af4e2abba9b417d","type":"text","text":"#### [[Report - The Four Noble Truths - Cattāri Ariyasaccāni and the Four Noble Duties|2. The Four Noble Truths]]\nCattāri Ariyasaccāni & 4 Tasks:\n- Dukkha (To be understood)\n- Samudaya / Craving (Abandoned)\n- Nirodha / Cessation (Realized)\n- Magga / Path (Cultivated)\n\n[[Report - The Four Noble Truths - Cattāri Ariyasaccāni and the Four Noble Duties|Open Study Report: 4 Noble Truths & 4 Duties ↗]]","x":-760,"y":-1330,"width":320,"height":290,"color":"6"},
-		{"id":"cb4437a9002b4e7d","type":"text","text":"#### 5. The 3 Poisons\nAkusalamūla (Unwholesome Roots):\n- Lobha (Greed / Grasping)\n- Dosa (Aversion / Irritation)\n- Moha (Delusion / Unknowing)","x":240,"y":-1330,"width":320,"height":200,"color":"6"},
-		{"id":"902d862892f84335","type":"text","text":"#### 6. Karma & Volition\nKamma & Cetanā:\n- Intention is the deed\n- Vipāka (Fruit / Result)\n- Conditionality (Idappaccayatā)","x":600,"y":-1330,"width":320,"height":200,"color":"6"},
-		{"id":"western_insight_neuro_b7","type":"text","text":"#### 🌸 Western Insight, Mindfulness Therapies & Applied Science\n**Bridging Classical Satipaṭṭhāna, Clinical Protocols & Modern Neuroscience**\n\n| Domain | Key Frameworks & Pioneers | Primary Focus & Contemporary Contribution |\n| :--- | :--- | :--- |\n| **Western Insight (Lay Dhamma & Presence)** | **Jack Kornfield**, **Tara Brach**, **Gil Fronsdal**, **James Baraz**, **Eckhart Tolle** | Vipassanā adapted for householders; RAIN emotional compassion; *Awakening Joy*; unconditioned presence (*The Power of Now*); domestic practice. |\n| **Mindfulness-Based Therapies (Clinical)** | **MBSR** *(Kabat-Zinn)*, **MBCT** *(Segal/Williams)*, **ACT** *(Hayes)*, **MBRP** *(Marlatt/Bowen)*, **DBT** *(Linehan)* | Hospital and clinical protocols: de-centering from depressive loops; cognitive defusion (*dropping papañca*); urge surfing at *vedanā*; distress tolerance. |\n| **Medical, Trauma & Neuroscience** | **Dr. John Sarno** *(TMS)*, **Dr. Gabor Maté** *(Trauma/Addiction)*, **Dr. Joe Dispenza**, **Polyvagal Theory** *(Porges)* | Psychosomatic pain as emotional diversion; trauma physiology (*When the Body Says No*); biological neuroplasticity; ventral vagal mammalian safety. |\n\n<small>[[_Master Mind Map - Living Lineages and Practice#5 Western Insight Mindfulness Therapies and Applied Modern Sciences|Detailed Lineages, Clinical Therapies & Research Hub ↗]]</small>","x":-2270,"y":1735,"width":1100,"height":340},
-		{"id":"wheel_of_dharma_master_node","type":"text","text":"#### ☸️ [[Wheel of Dharma|The Wheel of Dharma (Dhammacakka)]]\n**Master Architectural Mandala of Canonical Buddhist Principles**\n\n![[Wheel of Dharma.png]]\n\n- **Hub**: 3 Roots (*Lobha, Dosa, Moha*) & 3 Trainings (*Sīla, Samādhi, Paññā*)\n- **Inner Ring**: 12 Links of Dependent Co-arising (*Paṭiccasamuppāda*)\n- **4 Quadrants**: The Four Noble Truths (*Cattāri Ariyasaccāni*)\n- **8 Spokes**: The Noble Eightfold Path (*Ariya Aṭṭhaṅgika Magga*)\n- **Outer Rim**: 37 Factors of Awakening (*Bodhipakkhiyā*) & 10 Pāramīs","x":-260,"y":-1330,"width":460,"height":615,"color":"6"},
-		{"id":"ab54411222a8461e","type":"text","text":"#### [[Concentration_In_Buddhist_Lists|7. Meditation & Stillness]]\nBhāvanā:\n- Samatha (Tranquility / Calm)\n- Vipassanā (Insight / Clear Seeing)\n- 4 Rūpa Jhānas & Somatic Presence\n- Non-Dual Awareness & Big Mind\n\n<small>[[Concentration_In_Buddhist_Lists|Study Report: Concentration Across Lists ↗]]</small>\n<small>[[Big Mind Meditation Deep Dive|Study Report: Big Mind Deep Dive ↗]]</small>","x":40,"y":-695,"width":320,"height":250,"color":"6"},
-		{"id":"fd003357a4b746da","type":"text","text":"#### 8. The Brahmavihāras\nThe 4 Immeasurables:\n- Mettā (Goodwill / Friendliness)\n- Karuṇā (Compassion for suffering)\n- Muditā (Sympathetic Joy)\n- Upekkhā (Grounded Equanimity)","x":400,"y":-695,"width":320,"height":200,"color":"6"},
-		{"id":"3edaad55ede2437f","type":"text","text":"#### 9. The 10 Fetters\nDasa Saṃyojanāni:\n- Lower 5: Identity view, doubt, rites, sensual desire, ill will\n- Higher 5: Subtle conceit, restlessness, ignorance","x":760,"y":-695,"width":320,"height":220,"color":"6"},
-		{"id":"a5eee51f8d45487f","type":"text","text":"#### 3. The Eightfold Path\nAriyo Aṭṭhaṅgiko Maggo:\n- Paññā (Right View, Resolve)\n- Sīla (Action, Speech, Livelihood)\n- Samādhi (Effort, Mindfulness, Stillness)","x":-720,"y":-695,"width":320,"height":220,"color":"6"},
-		{"id":"e17ce0a1440e4e73","type":"text","text":"#### 4. Precepts & Vinaya\nSīla & Avippaṭisāra:\n- Pañcasīla (5 Lay Precepts)\n- Aṭṭhaṅgasīla (8 Uposatha)\n- Freedom from remorse & clear conscience","x":-360,"y":-695,"width":320,"height":200,"color":"6"},
-		{"id":"big_mind_deep_dive_node","type":"text","text":"#### 🌌 [[Big Mind Meditation Deep Dive|Big Mind & Non-Dual Awareness]]\n**Dzogchen, Zen & Contemplative Psychology**\n- **Naked Awareness (*Rigpa*)**: Padmasambhava & dissolution of the observer\n- **Ocean & Waves**: Suzuki Roshi — thoughts as self-amplifying mind-waves\n- **Epistemological Synthesis**: Goldstein — fabricated to unfabricated mindfulness\n- **Voice Dialogue Integration**: Genpo Roshi — shifting egoic voices to Apex\n\n<small>[[Big Mind Meditation Deep Dive|Deep Dive Report: Phenomenology & Praxis ↗]]</small>\n<small>[[Report - James Baraz - Big Mind Meditation|James Baraz Guided Big Mind ↗]]</small>","x":20,"y":-410,"width":360,"height":270,"color":"6"},
-		{"id":"wheel_of_dharma_terms_node","type":"text","text":"#### 📖 [[Wheel of Dharma Terms|The Wheel of Buddhist Terms]]\n**Comprehensive Doctrinal Glossary & Canonical Concordance**\n\n![[Wheel of Dharma Terms.png]]\n\n- **Universal Truths**: *Anicca, Dukkha, Anattā*\n- **The 5 Aggregates**: *Rūpa, Vedanā, Saññā, Saṅkhāra, Viññāṇa*\n- **The 5 Hindrances & 10 Fetters**: *Nīvaraṇa & Saṁyojana*\n- **Awakening Matrix**: *Satipaṭṭhāna, Indriya, Bala, Bojjhaṅga*\n- **Ethical Boundlessness**: *Brahmavihārā & Dasa Pāramī*","x":-480,"y":-410,"width":480,"height":590,"color":"6"}
-	],
-	"edges":[
-		{"id":"89f9c38641d04803","fromNode":"a34f7cccfdb34c53","fromSide":"top","toNode":"1096346f3a1d49c0","toSide":"bottom","label":"Doctrinal Core"},
-		{"id":"26c677a8544046f9","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"c291d1aa415143d1","toSide":"top"},
-		{"id":"8bf001d4a2cf4bd3","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"2af4e2abba9b417d","toSide":"top"},
-		{"id":"8d8ab070e8ab4e41","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"a5eee51f8d45487f","toSide":"top"},
-		{"id":"7848c14aa2944eae","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"e17ce0a1440e4e73","toSide":"top"},
-		{"id":"10d3a7b0981b4d64","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"cb4437a9002b4e7d","toSide":"top"},
-		{"id":"c285958daeec4d61","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"902d862892f84335","toSide":"top"},
-		{"id":"c2945ee527a54ae7","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"ab54411222a8461e","toSide":"top"},
-		{"id":"7897df027c6f4119","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"fd003357a4b746da","toSide":"top"},
-		{"id":"06b01a08a9d84d22","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"3edaad55ede2437f","toSide":"top"},
-		{"id":"976d39afd3ce4d03","fromNode":"a34f7cccfdb34c53","fromSide":"right","toNode":"20605a4867b645e0","toSide":"left","label":"Scriptural Canon"},
-		{"id":"11ce737f00354b51","fromNode":"20605a4867b645e0","fromSide":"bottom","toNode":"234a7fae4d524eaa","toSide":"top"},
-		{"id":"3272bce5e1ab407b","fromNode":"20605a4867b645e0","fromSide":"bottom","toNode":"ace0b1b6a17a4bf3","toSide":"top"},
-		{"id":"481933b8bbb84a41","fromNode":"20605a4867b645e0","fromSide":"bottom","toNode":"4b1c27bb657d4f40","toSide":"top"},
-		{"id":"2b56054296684ff8","fromNode":"a34f7cccfdb34c53","fromSide":"right","toNode":"09e9d58f058248b9","toSide":"left","label":"Living Encounters"},
-		{"id":"9bec357e891e47b6","fromNode":"09e9d58f058248b9","fromSide":"bottom","toNode":"079b656a7f234d80","toSide":"top"},
-		{"id":"954cb0981d9f4a11","fromNode":"09e9d58f058248b9","fromSide":"bottom","toNode":"9944304cabb1426f","toSide":"top"},
-		{"id":"aedba052b2254e32","fromNode":"09e9d58f058248b9","fromSide":"bottom","toNode":"7fdcbc558c7741e2","toSide":"top"},
-		{"id":"1d977e787ecb4f11","fromNode":"09e9d58f058248b9","fromSide":"bottom","toNode":"4e904beb379b4eb7","toSide":"top"},
-		{"id":"89ff0bd4f405499d","fromNode":"09e9d58f058248b9","fromSide":"bottom","toNode":"e2270e85724b4e92","toSide":"top"},
-		{"id":"3783e6c880894a9e","fromNode":"a34f7cccfdb34c53","fromSide":"bottom","toNode":"632deae501274c8a","toSide":"left","label":"Geographic Nidāna"},
-		{"id":"b94ffcbc896d4c07","fromNode":"632deae501274c8a","fromSide":"bottom","toNode":"7eb19bd76c06417b","toSide":"top"},
-		{"id":"c83f330a857e41b1","fromNode":"632deae501274c8a","fromSide":"bottom","toNode":"5ff658d429684e5c","toSide":"top"},
-		{"id":"f4bc928817d641b8","fromNode":"632deae501274c8a","fromSide":"bottom","toNode":"dff1b8cbaa01473d","toSide":"top"},
-		{"id":"a02a9537efbb4ad2","fromNode":"a34f7cccfdb34c53","fromSide":"bottom","toNode":"baad715f80b4440b","toSide":"top","label":"Parables & Past Lives"},
-		{"id":"fe8f1905ff5540c3","fromNode":"baad715f80b4440b","fromSide":"bottom","toNode":"7de17573abcf4321","toSide":"top"},
-		{"id":"4e43dc58ae39409e","fromNode":"baad715f80b4440b","fromSide":"bottom","toNode":"11d97743c1274c98","toSide":"top"},
-		{"id":"1951302532bb410b","fromNode":"baad715f80b4440b","fromSide":"bottom","toNode":"6e410fae3fb040b4","toSide":"top"},
-		{"id":"b143b8393caf49c9","fromNode":"a34f7cccfdb34c53","fromSide":"left","toNode":"422b5e3a761b4956","toSide":"right","label":"Language & Terms"},
-		{"id":"9bc7328f735549d9","fromNode":"422b5e3a761b4956","fromSide":"bottom","toNode":"cac566c3b3cd47d4","toSide":"top"},
-		{"id":"43b582aa7f0b44c8","fromNode":"422b5e3a761b4956","fromSide":"bottom","toNode":"337e0bcb7edf4759","toSide":"top"},
-		{"id":"d901b73039914bc3","fromNode":"422b5e3a761b4956","fromSide":"bottom","toNode":"09b0f6fe21fe4e9f","toSide":"top"},
-		{"id":"6f83510c6b854aa8","fromNode":"a34f7cccfdb34c53","fromSide":"left","toNode":"e1b06077471b4412","toSide":"right","label":"Embodied Practice"},
-		{"id":"4da80466e75e43a5","fromNode":"e1b06077471b4412","fromSide":"bottom","toNode":"7b65f427965e4ba9","toSide":"top"},
-		{"id":"47c154b5e1324379","fromNode":"e1b06077471b4412","fromSide":"bottom","toNode":"332bcb68f3d14d21","toSide":"top"},
-		{"id":"bb5069f67d654104","fromNode":"e1b06077471b4412","fromSide":"bottom","toNode":"e73e3221b11f4fd8","toSide":"top"},
-		{"id":"0087e71083c64fd0","fromNode":"c291d1aa415143d1","fromSide":"bottom","toNode":"44b63bdcfa254ea3","toSide":"top","color":"6"},
-		{"id":"c214987eba21431a","fromNode":"c291d1aa415143d1","fromSide":"bottom","toNode":"05dee75b17ac4608","toSide":"top","color":"6"},
-		{"id":"9c5e289846164673","fromNode":"c291d1aa415143d1","fromSide":"bottom","toNode":"e6c59a841a624b7a","toSide":"top","color":"6"},
-		{"id":"5c1840e69df04a88","fromNode":"e1b06077471b4412","fromSide":"bottom","toNode":"b6f84c107e334a19","toSide":"top","color":"5"},
-		{"id":"d43e4d469bde45a6","fromNode":"e1b06077471b4412","fromSide":"bottom","toNode":"western_insight_neuro_b7","toSide":"top"},
-		{"id":"edge_meditation_to_bigmind","fromNode":"ab54411222a8461e","fromSide":"bottom","toNode":"big_mind_deep_dive_node","toSide":"top","color":"6"},
-		{"id":"edge_header_to_wheel_of_dharma","fromNode":"1096346f3a1d49c0","fromSide":"bottom","toNode":"wheel_of_dharma_master_node","toSide":"top","color":"6","label":"Architectural Mandala"},
-		{"id":"edge_wheel_to_terms","fromNode":"wheel_of_dharma_master_node","fromSide":"bottom","toNode":"wheel_of_dharma_terms_node","toSide":"top","color":"6","label":"Lexicon & Definitions"},
-		{"id":"edge_wheel_to_p2_four_noble_truths","fromNode":"wheel_of_dharma_master_node","fromSide":"left","toNode":"2af4e2abba9b417d","toSide":"right","color":"6"}
-	]
+  "nodes": [
+    {
+      "id": "f007b0a71c434ba6",
+      "type": "group",
+      "x": -1440,
+      "y": -1560,
+      "width": 2690,
+      "height": 1800,
+      "color": "6",
+      "label": "BRANCH 1: CORE BUDDHIST PRINCIPLES (9 PILLARS)"
+    },
+    {
+      "id": "a4aa1c8f94754a15",
+      "type": "group",
+      "x": -2680,
+      "y": 1040,
+      "width": 1540,
+      "height": 1130,
+      "color": "5",
+      "label": "BRANCH 7: LIVING LINEAGES & PRACTICAL APPLICATION"
+    },
+    {
+      "id": "2efabc9570f240ff",
+      "type": "group",
+      "x": -1080,
+      "y": 1445,
+      "width": 2200,
+      "height": 650,
+      "color": "1",
+      "label": "BRANCH 5: STORIES, PARABLES & BIOGRAPHIES"
+    },
+    {
+      "id": "f558dfb093f649c7",
+      "type": "group",
+      "x": 1320,
+      "y": -825,
+      "width": 1250,
+      "height": 950,
+      "color": "5",
+      "label": "BRANCH 2: THE TIPIṬAKA (CANONICAL COLLECTION)"
+    },
+    {
+      "id": "b2d107e665fd4657",
+      "type": "group",
+      "x": 1200,
+      "y": 405,
+      "width": 1250,
+      "height": 920,
+      "color": "4",
+      "label": "BRANCH 3: DRAMATIS PERSONAE (PEOPLE & INTERLOCUTORS)"
+    },
+    {
+      "id": "a41b973075274538",
+      "type": "group",
+      "x": -2680,
+      "y": 35,
+      "width": 1200,
+      "height": 830,
+      "color": "3",
+      "label": "BRANCH 6: PĀLI LEXICON & DOCTRINAL INDEX"
+    },
+    {
+      "id": "279d9ba1a0e94c80",
+      "type": "group",
+      "x": 1200,
+      "y": 1445,
+      "width": 1250,
+      "height": 650,
+      "color": "2",
+      "label": "BRANCH 4: CANONICAL LOCATIONS (NIDĀNA / GEOGRAPHY)"
+    },
+    {
+      "id": "e1b06077471b4412",
+      "type": "text",
+      "text": "### 🌿 Living Lineages & Practical Application\n**Part I: Living Lineages (The People) • Part II: Practical Applications (Methods & Sciences)**\n[[_Master Mind Map - Living Lineages and Practice|Open Lineages & Applications Hub ↗]]",
+      "x": -2095,
+      "y": 1080,
+      "width": 380,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "7b65f427965e4ba9",
+      "type": "text",
+      "text": "#### 🌲 Monastic Forest Lineages & Translators\n*The Living Transmission of Wilderness Kammaṭṭhāna & Early Suttas*\n\n- **The Root Patriarch**: Phra Ajahn Mun Bhūridatto (Wilderness asceticism, *dhutaṅga*, body contemplation)\n- **Wat Nong Pah Pong**: Luang Por Chah Subhaddo (\"Still forest pool\", \"Glass already broken\", \"Spit it out\")\n- **Non-Thai Western Elders** (descended from Mun via Chah):\n  - *Ajahn Sumedho* (The Sound of Silence / *Nāda*, *Buddho*, Mother's unconditional acceptance)\n  - *Ajahn Pasanno* (Friend to the breath, steadfast poise, founding Abbot of Abhayagiri)\n  - *Ajahn Amaro* (Unentangled awareness, non-dual Sutta clarity, Abbot of Amaravati)\n  - *Ajahn Sucitto* (Unwinding the somatic knot, embodied interoception, Sīladhārā order)\n  - *Ajahn Nyaniko* (Courageous presence with *dukkha*, current Abbot of Abhayagiri)\n- **Dhammayut Lineage & Master Sutta Translators**:\n  - *Thanissaro Bhikkhu* (Ajaan Fuang / Ajaan Lee lineage; master translator of Nikāyas & breath energy craft)\n  - *Bhikkhu Bodhi* & *Ven. Anālayo* (Exhaustive canonical translations & comparative early Buddhist scholarship)\n\n<small>[[Report - The Thai Forest Tradition - Roots, Lineage Architecture, and Living Masters|Detailed Lineage Study Report ↗]]</small>",
+      "x": -2630,
+      "y": 1260,
+      "width": 710,
+      "height": 390,
+      "color": "5"
+    },
+    {
+      "id": "332bcb68f3d14d21",
+      "type": "text",
+      "text": "#### 🫀 Somatics, Threat Biology & Mindbody Medicine\n*The Physiology of Contraction & The Mammalian Nervous System*\n\n- **The Somatic Knot**: Tightness in the belly, throat, and chest as biological survival reactions (*idappaccayatā*), not personal moral failures.\n- **Deer vs. Human Threat Response**:\n  - The deer runs from danger, shakes off the shock, and returns to grazing.\n  - Humans replay threats in thought: *\"We think about the tiger when there is no tiger.\"*\n- **Polyvagal Theory** (*Dr. Stephen Porges*):\n  - Autonomic nervous system hierarchy (fight/flight, dorsal freeze, ventral vagal).\n  - Social safety & interoception as prerequisites for meditative stillness.\n- **Mindbody Medicine** (*Dr. John Sarno / TMS*):\n  - Chronic physical pain (back pain, fibromyalgia) as psychosomatic diversion from repressed emotional tension; healing through conscious emotional sovereignty.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#6 Somatic Neuroscience and The Sacred Pause|Somatic Neuroscience Hub ↗]]</small>",
+      "x": -2630,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
+      "color": "5"
+    },
+    {
+      "id": "e73e3221b11f4fd8",
+      "type": "text",
+      "text": "#### 🏥 Clinical Mindfulness-Based Therapies\n*Evidence-Based Protocols & Third-Wave Psychological Interventions*\n\n- **MBSR** (*Mindfulness-Based Stress Reduction — Jon Kabat-Zinn*):\n  - Hospital protocol utilizing body scans, mindful movement, and breath to de-identify from chronic pain & illness (*Full Catastrophe Living*).\n- **MBCT** (*Mindfulness-Based Cognitive Therapy — Segal, Williams, Teasdale*):\n  - Preventing depressive relapse through *de-centering*—viewing depressive ruminations as transient mental events rather than facts.\n- **ACT** (*Acceptance and Commitment Therapy — Steven Hayes*):\n  - Psychological flexibility via **cognitive defusion** (stepping back from *papañca*), **acceptance** of sensations, and value-guided committed action.\n- **MBRP** (*Mindfulness-Based Relapse Prevention — Marlatt, Bowen*):\n  - Addiction protocol training **urge surfing** at the feeling-tone (*vedanā*) threshold; halting stimulus-to-compulsion reflexes.\n- **DBT** (*Dialectical Behavior Therapy — Marsha Linehan*):\n  - Core mindfulness modules, distress tolerance, and radical acceptance.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#🏥 Stream B Mindfulness-Based Therapies Clinical Protocols Third-Wave CBT|Clinical Therapies Hub ↗]]</small>",
+      "x": -2145,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
+      "color": "5"
+    },
+    {
+      "id": "b6f84c107e334a19",
+      "type": "text",
+      "text": "#### 👥 Everyday Living, Recovery & Sangha Container\n*Rewiring Stress, Healing Compulsion & The Relational Refuge*\n\n- **Rewiring the Stress Habit**:\n  - The Two Arrows (*SN 36.6*): Dropping the mental addition (dukkha) to sensory contact.\n  - Everyday practice: Checkout counters, utility bills, difficult interactions.\n  - Freedom from remorse (*avippaṭisāra*) as practical daily psychological refuge.\n- **Addiction & Trauma Recovery**:\n  - **Dr. Gabor Maté**: Trauma as internal disconnection; addiction as an adaptive coping mechanism for unaddressed pain.\n  - **Dr. Joe Dispenza**: Neuroplasticity; biological unlearning of chronic emotional loops.\n- **The Sangha Container** (*Kalyāṇamittatā*):\n  - *The Rock Tumbler*: Community life smoothing rough egoic edges.\n  - Blending like milk and water (*MN 31*); relational Right Speech (*AN 5.198*).\n\n<small>[[Report - The Architecture of Recovery - Sakkaya-Diṭṭhi, Trauma, Sangha, and the Path from Compulsion to Liberation|Recovery & Sangha Report ↗]]</small>",
+      "x": -1660,
+      "y": 1680,
+      "width": 460,
+      "height": 430,
+      "color": "5"
+    },
+    {
+      "id": "a34f7cccfdb34c53",
+      "type": "text",
+      "text": "# ☸️ Master Architecture\n## Buddhist Teachings & Principles\n\nCentral interactive hub connecting canonical scriptures, core doctrines, people, geography, stories, and living somatic application.\n\n[[_Master Mind Map - Buddhist Teachings and Principles|Open Master Hub Note]]",
+      "x": -250,
+      "y": 455,
+      "width": 500,
+      "height": 240,
+      "color": "6"
+    },
+    {
+      "id": "422b5e3a761b4956",
+      "type": "text",
+      "text": "### 📚 Pāli Lexicon & Doctrinal Index\n**Root Meanings, Etymology & Precise Vocabulary**\n[[_Master Mind Map - Pali Lexicon|Open Pāli Lexicon Note]]\n[[Pali to English Dictionary|Open Master Dictionary]]",
+      "x": -2230,
+      "y": 85,
+      "width": 380,
+      "height": 150,
+      "color": "3"
+    },
+    {
+      "id": "cac566c3b3cd47d4",
+      "type": "text",
+      "text": "#### Master Pāli Dictionary Integration\n- Direct synchronization with master vault dictionary\n- Systematic 7-field schema (Root, Category, Doctrinal Definition, Sutta Citations)\n- Technical monastic & philosophical terms",
+      "x": -2630,
+      "y": 400,
+      "width": 360,
+      "height": 265,
+      "color": "3"
+    },
+    {
+      "id": "337e0bcb7edf4759",
+      "type": "text",
+      "text": "#### Key Canonical Concepts\n- **Indriyasamvara**: Guarding the sense doors\n- **Upāyakosalla**: Skill in means / tailored teaching\n- **Yoniso Manasikāra**: Appropriate attention\n- **Papañca**: Mental proliferation & storytelling",
+      "x": -2230,
+      "y": 400,
+      "width": 360,
+      "height": 285,
+      "color": "3"
+    },
+    {
+      "id": "09b0f6fe21fe4e9f",
+      "type": "text",
+      "text": "#### Conditionality & Dependent Origination\n- **Idappaccayatā**: Specific conditionality (*When this is, that is*)\n- **Paṭiccasamuppāda**: 12 links of dependent origination\n- **Kilesa & Āsava**: Defilements & deep taints",
+      "x": -1850,
+      "y": 400,
+      "width": 360,
+      "height": 265,
+      "color": "3"
+    },
+    {
+      "id": "7de17573abcf4321",
+      "type": "text",
+      "text": "#### The Apadāna (Legends of Saints)\nJonathan Walters Translation (1,197 pp):\n- 550+ Bhikkhu Apadānas (past merit to final Arahantship)\n- 40+ Bhikkhunī Apadānas (heroism, patience & liberation)\n- Karmic link between aeons of practice and immediate fruit\n\n<small>[[Buddhist Biographies|Detailed Profiles: 32 Early Saints & Benefactors ↗]]</small>",
+      "x": -1030,
+      "y": 1665,
+      "width": 680,
+      "height": 260,
+      "color": "1"
+    },
+    {
+      "id": "11d97743c1274c98",
+      "type": "text",
+      "text": "#### The Jātakas (Bodhisatta Path)\n547 Birth Tales:\n- Cultivation of the 10 Pāramīs across lifetimes\n- Animal allegories, royal self-sacrifice & moral dilemmas\n- Foundational narrative bedrock of Buddhist compassion",
+      "x": -300,
+      "y": 1665,
+      "width": 680,
+      "height": 240,
+      "color": "1"
+    },
+    {
+      "id": "baad715f80b4440b",
+      "type": "text",
+      "text": "### 📖 Stories, Parables & Biographies\n**Apadāna Saints, Jātakas & Canonical Similes**\n[[_Master Mind Map - Stories and Parables|Open Stories Note]] • [[Buddhist Biographies|Biographies ↗]]",
+      "x": -180,
+      "y": 1495,
+      "width": 430,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "6e410fae3fb040b4",
+      "type": "text",
+      "text": "#### Master Similes of the Suttas\nTransformative Metaphors:\n- **The Raft**: For crossing, not for clinging\n- **The Two Darts (Sallatha Sutta)**: Physical sensation vs reactive dukkha\n- **The Blind Turtle**: The unfathomable rarity of human birth\n- **The Mountain**: Aging & death rolling in from the 4 quarters",
+      "x": 430,
+      "y": 1665,
+      "width": 650,
+      "height": 240,
+      "color": "1"
+    },
+    {
+      "id": "7eb19bd76c06417b",
+      "type": "text",
+      "text": "#### Sāvatthī (Kosala)\n- **Jetavana**: Anāthapiṇḍika’s grove (majority of MN/SN)\n- **Pubbārāma**: Migāramātā’s mansion\n- **Andhavana**: Blind Man’s Grove (solitary meditation)",
+      "x": 1250,
+      "y": 1665,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "632deae501274c8a",
+      "type": "text",
+      "text": "### 🏛️ Canonical Locations\n**Nidāna: Physical Settings & Sacred Geography**\n[[_Master Mind Map - Canonical Locations|Open Locations Note]]",
+      "x": 1650,
+      "y": 1495,
+      "width": 380,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "5ff658d429684e5c",
+      "type": "text",
+      "text": "#### Rājagaha (Magadha)\n- **Gijjhakūṭa**: Vulture Peak\n- **Veḷuvana**: Bamboo Grove (King Bimbisāra)\n- **Jīvaka’s Mango Grove**: Medical refuge & serene healing",
+      "x": 1650,
+      "y": 1665,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "dff1b8cbaa01473d",
+      "type": "text",
+      "text": "#### Vesālī, Kosambi & Kapilavatthu\n- **Vesālī**: Mahāvana & Kūṭāgārasālā (Gabled Hall)\n- **Kosambi**: Ghositārāma (monastic reconciliation)\n- **Kapilavatthu**: Nigrodhārāma (hometown return)",
+      "x": 2050,
+      "y": 1665,
+      "width": 360,
+      "height": 220,
+      "color": "2"
+    },
+    {
+      "id": "09e9d58f058248b9",
+      "type": "text",
+      "text": "### 👥 Dramatis Personae\n**Interlocutors, Monastics & Benefactors**\n[[_Master Mind Map - Dramatis Personae|Open Dramatis Personae Note]]",
+      "x": 1650,
+      "y": 455,
+      "width": 380,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "079b656a7f234d80",
+      "type": "text",
+      "text": "#### Senior Monastics & Chiefs\n- **Sāriputta**: Chief in Wisdom & analysis\n- **Mahāmoggallāna**: Chief in Psychic powers & exertion\n- **Ānanda**: Chief in Hearing, Attendant & Memory\n- **Mahākassapa**: Chief in Austere practices (dhutaṅga)\n- **Anuruddha**: Chief in Divine eye & mindfulness",
+      "x": 1250,
+      "y": 625,
+      "width": 360,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "9944304cabb1426f",
+      "type": "text",
+      "text": "#### Lay Disciples & Benefactors\n- **Anāthapiṇḍika**: Feeder of the poor, purchaser of Jetavana\n- **Visākhā Migāramātā**: Chief benefactress of the Sangha\n- **Jīvaka Komārabhacca**: Royal physician, medicine & ethics\n- **Citta the Householder**: Master of Dhamma discourse",
+      "x": 1650,
+      "y": 625,
+      "width": 360,
+      "height": 260,
+      "color": "4"
+    },
+    {
+      "id": "7fdcbc558c7741e2",
+      "type": "text",
+      "text": "#### Royal Interlocutors\n- **King Pasenadi of Kosala**: Intimate conversations on aging & statecraft\n- **King Bimbisāra of Magadha**: Early royal patron\n- **King Ajātasattu**: Parricide, remorse & Sāmaññaphala Sutta",
+      "x": 2050,
+      "y": 625,
+      "width": 360,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "4e904beb379b4eb7",
+      "type": "text",
+      "text": "#### Wanderers & Seekers\n- **Vacchagotta**: Questions on self, the cosmos, and fire extinguishing\n- **Dīghanakha**: Extreme philosophical views dismantled\n- **Potthapāda**: Nature of perception and cessation\n- **Bāhiya Dārucīriya**: Instant awakening: In the seen, only the seen",
+      "x": 1250,
+      "y": 945,
+      "width": 360,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "e2270e85724b4e92",
+      "type": "text",
+      "text": "#### Transformative Figures\n- **Aṅgulimāla**: Bandit turned Arahant; stopping in Dhamma\n- **Paṭācārā & Kisa Gotamī**: Overwhelming grief transformed into liberating wisdom\n- **Sunīta the Outcaste**: Road-sweeper elevated by universal Dhamma",
+      "x": 1650,
+      "y": 945,
+      "width": 360,
+      "height": 280,
+      "color": "4"
+    },
+    {
+      "id": "234a7fae4d524eaa",
+      "type": "text",
+      "text": "#### Sutta Piṭaka (Discourses)\n- **Dīgha Nikāya**: Long Discourses (34 suttas)\n- **Majjhima Nikāya**: Middle-Length (152 suttas)\n- **Saṃyutta Nikāya**: Connected (2,889 suttas)\n- **Aṅguttara Nikāya**: Numerical (8,700+ suttas)\n- **Khuddaka Nikāya**: Minor (Dhammapada, Jātaka, Apadāna, Theragāthā, Therīgāthā)",
+      "x": 1370,
+      "y": -595,
+      "width": 360,
+      "height": 420,
+      "color": "5"
+    },
+    {
+      "id": "20605a4867b645e0",
+      "type": "text",
+      "text": "### 📜 The Tipiṭaka\n**The Three Baskets of Canonical Wisdom**\n[[_Master Mind Map - The Tipitaka|Open Tipiṭaka Note]]",
+      "x": 1770,
+      "y": -775,
+      "width": 380,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "ace0b1b6a17a4bf3",
+      "type": "text",
+      "text": "#### Vinaya Piṭaka (Monastic Discipline)\n- **Suttavibhaṅga**: Pātimokkha rules for Bhikkhus (227) & Bhikkhunīs (311)\n- **Khandhaka**: Mahāvagga & Cullavagga (Ordination, community life, disputes)\n- **Parivāra**: Analytical summaries & training manuals",
+      "x": 1770,
+      "y": -595,
+      "width": 360,
+      "height": 300,
+      "color": "5"
+    },
+    {
+      "id": "4b1c27bb657d4f40",
+      "type": "text",
+      "text": "#### Abhidhamma Piṭaka (Higher Doctrine)\n- **Dhammasaṅgaṇī**: Enumeration of ultimate phenomena\n- **Vibhaṅga**: Analysis of aggregates, sense bases, truths\n- **Dhātukathā & Puggalapaññatti**: Elements & personality types\n- **Kathāvatthu, Yamaka & Paṭṭhāna**: Dialectics, pairs & 24 conditional relations",
+      "x": 2170,
+      "y": -595,
+      "width": 360,
+      "height": 350,
+      "color": "5"
+    },
+    {
+      "id": "1096346f3a1d49c0",
+      "type": "text",
+      "text": "### ☸️ Core Buddhist Principles\n**The 9 Foundational Pillars**\n[[_Master Mind Map - Core Buddhist Principles|Open Core Principles Note]]",
+      "x": -200,
+      "y": -1510,
+      "width": 400,
+      "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "c291d1aa415143d1",
+      "type": "text",
+      "text": "#### 1. The 3 Universal Truths\nTilakkhaṇa:\n- Anicca (Impermanence)\n- Dukkha (Unsatisfactoriness)\n- Anattā (Not-Self / Non-Owner)",
+      "x": -1240,
+      "y": -1330,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "05dee75b17ac4608",
+      "type": "text",
+      "text": "**[[Universal_Truth_2_Dukkha_The_Architecture_of_Stress_and_Unsatisfactoriness|Dukkha]]**\nUnsatisfactoriness",
+      "x": -1200,
+      "y": -1012,
+      "width": 240,
+      "height": 85,
+      "color": "6"
+    },
+    {
+      "id": "44b63bdcfa254ea3",
+      "type": "text",
+      "text": "**[[Universal_Truth_1_Anicca_Impermanence_and_the_Flow_of_Experience|Anicca]]**\nImpermanence",
+      "x": -1410,
+      "y": -925,
+      "width": 240,
+      "height": 85,
+      "color": "6"
+    },
+    {
+      "id": "e6c59a841a624b7a",
+      "type": "text",
+      "text": "**[[Universal_Truth_3_Anatta_Non_Self_and_the_Release_of_Ownership|Anattā]]**\nNot-Self",
+      "x": -1000,
+      "y": -927,
+      "width": 240,
+      "height": 85,
+      "color": "6"
+    },
+    {
+      "id": "2af4e2abba9b417d",
+      "type": "text",
+      "text": "#### [[Report - The Four Noble Truths - Cattāri Ariyasaccāni and the Four Noble Duties|2. The Four Noble Truths]]\nCattāri Ariyasaccāni & 4 Tasks:\n- Dukkha (To be understood)\n- Samudaya / Craving (Abandoned)\n- Nirodha / Cessation (Realized)\n- Magga / Path (Cultivated)\n\n[[Report - The Four Noble Truths - Cattāri Ariyasaccāni and the Four Noble Duties|Open Study Report: 4 Noble Truths & 4 Duties ↗]]",
+      "x": -760,
+      "y": -1330,
+      "width": 320,
+      "height": 290,
+      "color": "6"
+    },
+    {
+      "id": "cb4437a9002b4e7d",
+      "type": "text",
+      "text": "#### 5. The 3 Poisons\nAkusalamūla (Unwholesome Roots):\n- Lobha (Greed / Grasping)\n- Dosa (Aversion / Irritation)\n- Moha (Delusion / Unknowing)",
+      "x": 240,
+      "y": -1330,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "902d862892f84335",
+      "type": "text",
+      "text": "#### 6. Karma & Volition\nKamma & Cetanā:\n- Intention is the deed\n- Vipāka (Fruit / Result)\n- Conditionality (Idappaccayatā)",
+      "x": 600,
+      "y": -1330,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "western_insight_neuro_b7",
+      "type": "text",
+      "text": "#### 🌸 Western Lay Insight & Contemporary Presence\n*Adapting Dhamma for Householders, Emotional Healing & Modern Life*\n\n- **Western Insight Pioneers** (*IMS, Spirit Rock, IMC*):\n  - **Jack Kornfield**: Former monk under Ajahn Chah; pioneer of integrating psychotherapy with Buddhist practice; heart practices & forgiveness.\n  - **Tara Brach**: Clinical psychologist; developer of the **RAIN** somatic protocol (Recognize, Allow, Investigate, Nurture); Radical Acceptance & trauma-informed compassion.\n  - **Gil Fronsdal**: Theravāda & Soto Zen lineage holder; translator of the *Dhammapada*; grounding early Buddhist suttas in pragmatic daily lay reality.\n  - **James Baraz**: Spirit Rock founding teacher; creator of *Awakening Joy*; cultivating appreciative joy (*muditā*) and community resilience.\n- **Contemporary Vernacular Presence**:\n  - **Eckhart Tolle**: *The Power of Now*; stepping out of conceptual mental storytelling (*papañca*) into unconditioned, still awareness.\n  - **Anthony DeMello**: Awareness beyond cultural and religious programming.\n\n<small>[[_Master Mind Map - Living Lineages and Practice#5 Western Insight Mindfulness Therapies and Applied Modern Sciences|Western Lay Teachers & Insight Hub ↗]]</small>",
+      "x": -1890,
+      "y": 1260,
+      "width": 710,
+      "height": 390
+    },
+    {
+      "id": "wheel_of_dharma_master_node",
+      "type": "text",
+      "text": "#### ☸️ [[Wheel of Dharma|The Wheel of Dharma (Dhammacakka)]]\n**Master Architectural Mandala of Canonical Buddhist Principles**\n\n![[Wheel of Dharma.png]]\n\n- **Hub**: 3 Roots (*Lobha, Dosa, Moha*) & 3 Trainings (*Sīla, Samādhi, Paññā*)\n- **Inner Ring**: 12 Links of Dependent Co-arising (*Paṭiccasamuppāda*)\n- **4 Quadrants**: The Four Noble Truths (*Cattāri Ariyasaccāni*)\n- **8 Spokes**: The Noble Eightfold Path (*Ariya Aṭṭhaṅgika Magga*)\n- **Outer Rim**: 37 Factors of Awakening (*Bodhipakkhiyā*) & 10 Pāramīs",
+      "x": -260,
+      "y": -1330,
+      "width": 460,
+      "height": 615,
+      "color": "6"
+    },
+    {
+      "id": "ab54411222a8461e",
+      "type": "text",
+      "text": "#### [[Concentration_In_Buddhist_Lists|7. Meditation & Stillness]]\nBhāvanā:\n- Samatha (Tranquility / Calm)\n- Vipassanā (Insight / Clear Seeing)\n- 4 Rūpa Jhānas & Somatic Presence\n- Non-Dual Awareness & Big Mind\n\n<small>[[Concentration_In_Buddhist_Lists|Study Report: Concentration Across Lists ↗]]</small>\n<small>[[Big Mind Meditation Deep Dive|Study Report: Big Mind Deep Dive ↗]]</small>",
+      "x": 40,
+      "y": -695,
+      "width": 320,
+      "height": 250,
+      "color": "6"
+    },
+    {
+      "id": "fd003357a4b746da",
+      "type": "text",
+      "text": "#### 8. The Brahmavihāras\nThe 4 Immeasurables:\n- Mettā (Goodwill / Friendliness)\n- Karuṇā (Compassion for suffering)\n- Muditā (Sympathetic Joy)\n- Upekkhā (Grounded Equanimity)",
+      "x": 400,
+      "y": -695,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "3edaad55ede2437f",
+      "type": "text",
+      "text": "#### 9. The 10 Fetters\nDasa Saṃyojanāni:\n- Lower 5: Identity view, doubt, rites, sensual desire, ill will\n- Higher 5: Subtle conceit, restlessness, ignorance",
+      "x": 760,
+      "y": -695,
+      "width": 320,
+      "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "a5eee51f8d45487f",
+      "type": "text",
+      "text": "#### 3. The Eightfold Path\nAriyo Aṭṭhaṅgiko Maggo:\n- Paññā (Right View, Resolve)\n- Sīla (Action, Speech, Livelihood)\n- Samādhi (Effort, Mindfulness, Stillness)",
+      "x": -720,
+      "y": -695,
+      "width": 320,
+      "height": 220,
+      "color": "6"
+    },
+    {
+      "id": "e17ce0a1440e4e73",
+      "type": "text",
+      "text": "#### 4. Precepts & Vinaya\nSīla & Avippaṭisāra:\n- Pañcasīla (5 Lay Precepts)\n- Aṭṭhaṅgasīla (8 Uposatha)\n- Freedom from remorse & clear conscience",
+      "x": -360,
+      "y": -695,
+      "width": 320,
+      "height": 200,
+      "color": "6"
+    },
+    {
+      "id": "big_mind_deep_dive_node",
+      "type": "text",
+      "text": "#### 🌌 [[Big Mind Meditation Deep Dive|Big Mind & Non-Dual Awareness]]\n**Dzogchen, Zen & Contemplative Psychology**\n- **Naked Awareness (*Rigpa*)**: Padmasambhava & dissolution of the observer\n- **Ocean & Waves**: Suzuki Roshi — thoughts as self-amplifying mind-waves\n- **Epistemological Synthesis**: Goldstein — fabricated to unfabricated mindfulness\n- **Voice Dialogue Integration**: Genpo Roshi — shifting egoic voices to Apex\n\n<small>[[Big Mind Meditation Deep Dive|Deep Dive Report: Phenomenology & Praxis ↗]]</small>\n<small>[[Report - James Baraz - Big Mind Meditation|James Baraz Guided Big Mind ↗]]</small>",
+      "x": 20,
+      "y": -410,
+      "width": 360,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "wheel_of_dharma_terms_node",
+      "type": "text",
+      "text": "#### 📖 [[Wheel of Dharma Terms|The Wheel of Buddhist Terms]]\n**Comprehensive Doctrinal Glossary & Canonical Concordance**\n\n![[Wheel of Dharma Terms.png]]\n\n- **Universal Truths**: *Anicca, Dukkha, Anattā*\n- **The 5 Aggregates**: *Rūpa, Vedanā, Saññā, Saṅkhāra, Viññāṇa*\n- **The 5 Hindrances & 10 Fetters**: *Nīvaraṇa & Saṁyojana*\n- **Awakening Matrix**: *Satipaṭṭhāna, Indriya, Bala, Bojjhaṅga*\n- **Ethical Boundlessness**: *Brahmavihārā & Dasa Pāramī*",
+      "x": -480,
+      "y": -410,
+      "width": 480,
+      "height": 590,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "89f9c38641d04803",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "top",
+      "toNode": "1096346f3a1d49c0",
+      "toSide": "bottom",
+      "label": "Doctrinal Core"
+    },
+    {
+      "id": "26c677a8544046f9",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "c291d1aa415143d1",
+      "toSide": "top"
+    },
+    {
+      "id": "8bf001d4a2cf4bd3",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "2af4e2abba9b417d",
+      "toSide": "top"
+    },
+    {
+      "id": "8d8ab070e8ab4e41",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "a5eee51f8d45487f",
+      "toSide": "top"
+    },
+    {
+      "id": "7848c14aa2944eae",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "e17ce0a1440e4e73",
+      "toSide": "top"
+    },
+    {
+      "id": "10d3a7b0981b4d64",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "cb4437a9002b4e7d",
+      "toSide": "top"
+    },
+    {
+      "id": "c285958daeec4d61",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "902d862892f84335",
+      "toSide": "top"
+    },
+    {
+      "id": "c2945ee527a54ae7",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "ab54411222a8461e",
+      "toSide": "top"
+    },
+    {
+      "id": "7897df027c6f4119",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "fd003357a4b746da",
+      "toSide": "top"
+    },
+    {
+      "id": "06b01a08a9d84d22",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "3edaad55ede2437f",
+      "toSide": "top"
+    },
+    {
+      "id": "976d39afd3ce4d03",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "right",
+      "toNode": "20605a4867b645e0",
+      "toSide": "left",
+      "label": "Scriptural Canon"
+    },
+    {
+      "id": "11ce737f00354b51",
+      "fromNode": "20605a4867b645e0",
+      "fromSide": "bottom",
+      "toNode": "234a7fae4d524eaa",
+      "toSide": "top"
+    },
+    {
+      "id": "3272bce5e1ab407b",
+      "fromNode": "20605a4867b645e0",
+      "fromSide": "bottom",
+      "toNode": "ace0b1b6a17a4bf3",
+      "toSide": "top"
+    },
+    {
+      "id": "481933b8bbb84a41",
+      "fromNode": "20605a4867b645e0",
+      "fromSide": "bottom",
+      "toNode": "4b1c27bb657d4f40",
+      "toSide": "top"
+    },
+    {
+      "id": "2b56054296684ff8",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "right",
+      "toNode": "09e9d58f058248b9",
+      "toSide": "left",
+      "label": "Living Encounters"
+    },
+    {
+      "id": "9bec357e891e47b6",
+      "fromNode": "09e9d58f058248b9",
+      "fromSide": "bottom",
+      "toNode": "079b656a7f234d80",
+      "toSide": "top"
+    },
+    {
+      "id": "954cb0981d9f4a11",
+      "fromNode": "09e9d58f058248b9",
+      "fromSide": "bottom",
+      "toNode": "9944304cabb1426f",
+      "toSide": "top"
+    },
+    {
+      "id": "aedba052b2254e32",
+      "fromNode": "09e9d58f058248b9",
+      "fromSide": "bottom",
+      "toNode": "7fdcbc558c7741e2",
+      "toSide": "top"
+    },
+    {
+      "id": "1d977e787ecb4f11",
+      "fromNode": "09e9d58f058248b9",
+      "fromSide": "bottom",
+      "toNode": "4e904beb379b4eb7",
+      "toSide": "top"
+    },
+    {
+      "id": "89ff0bd4f405499d",
+      "fromNode": "09e9d58f058248b9",
+      "fromSide": "bottom",
+      "toNode": "e2270e85724b4e92",
+      "toSide": "top"
+    },
+    {
+      "id": "3783e6c880894a9e",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "bottom",
+      "toNode": "632deae501274c8a",
+      "toSide": "left",
+      "label": "Geographic Nidāna"
+    },
+    {
+      "id": "b94ffcbc896d4c07",
+      "fromNode": "632deae501274c8a",
+      "fromSide": "bottom",
+      "toNode": "7eb19bd76c06417b",
+      "toSide": "top"
+    },
+    {
+      "id": "c83f330a857e41b1",
+      "fromNode": "632deae501274c8a",
+      "fromSide": "bottom",
+      "toNode": "5ff658d429684e5c",
+      "toSide": "top"
+    },
+    {
+      "id": "f4bc928817d641b8",
+      "fromNode": "632deae501274c8a",
+      "fromSide": "bottom",
+      "toNode": "dff1b8cbaa01473d",
+      "toSide": "top"
+    },
+    {
+      "id": "a02a9537efbb4ad2",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "bottom",
+      "toNode": "baad715f80b4440b",
+      "toSide": "top",
+      "label": "Parables & Past Lives"
+    },
+    {
+      "id": "fe8f1905ff5540c3",
+      "fromNode": "baad715f80b4440b",
+      "fromSide": "bottom",
+      "toNode": "7de17573abcf4321",
+      "toSide": "top"
+    },
+    {
+      "id": "4e43dc58ae39409e",
+      "fromNode": "baad715f80b4440b",
+      "fromSide": "bottom",
+      "toNode": "11d97743c1274c98",
+      "toSide": "top"
+    },
+    {
+      "id": "1951302532bb410b",
+      "fromNode": "baad715f80b4440b",
+      "fromSide": "bottom",
+      "toNode": "6e410fae3fb040b4",
+      "toSide": "top"
+    },
+    {
+      "id": "b143b8393caf49c9",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "left",
+      "toNode": "422b5e3a761b4956",
+      "toSide": "right",
+      "label": "Language & Terms"
+    },
+    {
+      "id": "9bc7328f735549d9",
+      "fromNode": "422b5e3a761b4956",
+      "fromSide": "bottom",
+      "toNode": "cac566c3b3cd47d4",
+      "toSide": "top"
+    },
+    {
+      "id": "43b582aa7f0b44c8",
+      "fromNode": "422b5e3a761b4956",
+      "fromSide": "bottom",
+      "toNode": "337e0bcb7edf4759",
+      "toSide": "top"
+    },
+    {
+      "id": "d901b73039914bc3",
+      "fromNode": "422b5e3a761b4956",
+      "fromSide": "bottom",
+      "toNode": "09b0f6fe21fe4e9f",
+      "toSide": "top"
+    },
+    {
+      "id": "6f83510c6b854aa8",
+      "fromNode": "a34f7cccfdb34c53",
+      "fromSide": "left",
+      "toNode": "e1b06077471b4412",
+      "toSide": "right",
+      "label": "Embodied Practice"
+    },
+    {
+      "id": "0087e71083c64fd0",
+      "fromNode": "c291d1aa415143d1",
+      "fromSide": "bottom",
+      "toNode": "44b63bdcfa254ea3",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "c214987eba21431a",
+      "fromNode": "c291d1aa415143d1",
+      "fromSide": "bottom",
+      "toNode": "05dee75b17ac4608",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "9c5e289846164673",
+      "fromNode": "c291d1aa415143d1",
+      "fromSide": "bottom",
+      "toNode": "e6c59a841a624b7a",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "edge_meditation_to_bigmind",
+      "fromNode": "ab54411222a8461e",
+      "fromSide": "bottom",
+      "toNode": "big_mind_deep_dive_node",
+      "toSide": "top",
+      "color": "6"
+    },
+    {
+      "id": "edge_header_to_wheel_of_dharma",
+      "fromNode": "1096346f3a1d49c0",
+      "fromSide": "bottom",
+      "toNode": "wheel_of_dharma_master_node",
+      "toSide": "top",
+      "color": "6",
+      "label": "Architectural Mandala"
+    },
+    {
+      "id": "edge_wheel_to_terms",
+      "fromNode": "wheel_of_dharma_master_node",
+      "fromSide": "bottom",
+      "toNode": "wheel_of_dharma_terms_node",
+      "toSide": "top",
+      "color": "6",
+      "label": "Lexicon & Definitions"
+    },
+    {
+      "id": "edge_wheel_to_p2_four_noble_truths",
+      "fromNode": "wheel_of_dharma_master_node",
+      "fromSide": "left",
+      "toNode": "2af4e2abba9b417d",
+      "toSide": "right",
+      "color": "6"
+    },
+    {
+      "id": "e_b7_head_to_71",
+      "fromNode": "e1b06077471b4412",
+      "fromSide": "bottom",
+      "toNode": "7b65f427965e4ba9",
+      "toSide": "top",
+      "label": "Monastic Lineages"
+    },
+    {
+      "id": "e_b7_head_to_72",
+      "fromNode": "e1b06077471b4412",
+      "fromSide": "bottom",
+      "toNode": "western_insight_neuro_b7",
+      "toSide": "top",
+      "label": "Lay Insight & Presence"
+    },
+    {
+      "id": "e_b7_71_to_73",
+      "fromNode": "7b65f427965e4ba9",
+      "fromSide": "bottom",
+      "toNode": "332bcb68f3d14d21",
+      "toSide": "top",
+      "label": "Somatics & Nervous System"
+    },
+    {
+      "id": "e_b7_72_to_74",
+      "fromNode": "western_insight_neuro_b7",
+      "fromSide": "bottom",
+      "toNode": "e73e3221b11f4fd8",
+      "toSide": "top",
+      "label": "Clinical Therapies"
+    },
+    {
+      "id": "e_b7_72_to_75",
+      "fromNode": "western_insight_neuro_b7",
+      "fromSide": "bottom",
+      "toNode": "b6f84c107e334a19",
+      "toSide": "top",
+      "label": "Daily Life & Recovery"
+    }
+  ]
 }

@@ -31,6 +31,7 @@ tags:
   - nirodha
   - panna
   - sila
+  - sila
 ---
 
 # Mettā as a Way of Transcendence: The Immeasurable Heart
