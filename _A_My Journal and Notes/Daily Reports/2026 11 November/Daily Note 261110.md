@@ -45,20 +45,20 @@ tags:
 ---
 # Linearity Recording (02:12:09 AM – 02:24:03 PM PDT), 2026-11-10 07:36:54 (5h00m), and Elasound_2026-11-10 08_32_30
 📅 **Date**: Tuesday, November 10, 2026 (2026-11-10)
-👥 **Attendees**: Andy, Unassigned, Unidentified Physical Speaker (Query needed) + [⚠️ Unrecognized Frequent Speaker (Review needed)](http://localhost:8765/?session=2026-11-10%2016_19_13&date=2026-11-10&filter=unassigned)
+👥 **Attendees**: Andy, Andrea (Wife)
 🎙️ **Primary Data Source**: **Linearity High-Fidelity Audio Recorder (PRIMARY) & Plaud NotePin (SECONDARY)**
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
-📊 **Plaud Sessions Processed (SECONDARY)**: **6**
-📊 **Elasound Sessions Processed (SECONDARY BACKUP)**: **5**
+📊 **Plaud Sessions Processed (SECONDARY)**: **4**
+📊 **Elasound Sessions Processed (SECONDARY BACKUP)**: **3**
 🔄 **Report Revision Date**: **2026-11-11 02:27:17 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
-- 🎙️ **Elasound Backup Ambient Ingest**: ✅ **Active** (5 Sessions Processed)
+- 🎙️ **Elasound Backup Ambient Ingest**: ✅ **Active** (3 Sessions Processed)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- ⚠️ **Action Needed — Unrecognized Frequent Speaker**: Detected **149 turns** (8:32:34 AM – 7:48:41 PM). Please review in [🎙️ Voice & Speaker Studio](http://localhost:8765/?session=2026-11-10%2016_19_13&date=2026-11-10&filter=unassigned) ([Session 4:19 PM (16:19:13) (97 turns)](http://localhost:8765/?session=2026-11-10%2016_19_13&filter=unassigned) • [Session 7:20 PM (19:20:15) (30 turns)](http://localhost:8765/?session=2026-11-10%2019_20_15&filter=unassigned) • [Session 8:32 AM (08:32:30) (22 turns)](http://localhost:8765/?session=2026-11-10%2008_32_30&filter=unassigned)) to identify or tag.
+- 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea) — Media, TV & Audio Tutorials classified and segregated
 ---
 
 ## 📌 Executive & Core Topics Overview
@@ -93,25 +93,6 @@ tags:
 - `turbo-tax`
 - `mindfulness-practice`
 - `sp-1200`
-
-### 🏷️ Generated Tags
-- `- flood-watch`
-- `- marin-county`
-- `- ableton-live`
-- `- somatic-grounding`
-- `- idappaccayata`
-- `- chia-seeds`
-- `- resistant-starch`
-- `- turbo-tax`
-- `- mindfulness-practice`
-- `- sp-1200`
-- `- cloudwatch-computing`
-- `- political-discourse`
-- `- gut-health`
-- `- walking-routine`
-- `- audio-production`
-- `- software-refinement`
-
 ---
 
 ## 📅 Google Calendar Events Today

@@ -119,12 +119,16 @@ When editing an existing image, ALWAYS explicitly instruct the image generation 
      - Under each session, every entry MUST strictly follow the bulleted time-and-subject format:
        `- **HH:MM AM - HH:MM AM | Subject Title**: Comprehensive, factual, detailed bullet point detailing all specific points, discussions, decisions, and contemplative insights raised without flowery editorial adjectives.`
      - If an entire session had no recorded audio, note quiet evening hours, retreat noble silence, or family rest.
-   - **Dynamic YAML Frontmatter Tagging (Transcription & LLM Pass Focused)**:
+   - **Dynamic YAML Frontmatter Tagging & Obsidian Tag Format Standard (Transcription & LLM Pass Focused)**:
+     * **Single Tag Area (YAML Frontmatter Only)**: In Daily Notes and reports, tags belong **exclusively** in the YAML frontmatter 	ags: property at the top of the file. Do **NOT** generate or leave a second ### 🏷️ Generated Tags section in the Markdown body.
+     * **Strict Obsidian Tag Format**:
+       - In YAML frontmatter (	ags:): Use standard YAML list items (- tag-name) in lowercase kebab-case ([a-z0-9-]+), without # prefixes, quotes, or backticks.
+       - If inline tags are ever used in Markdown prose elsewhere in the vault: Use unquoted #tag-name format—**never** wrap tags in backticks (e.g., never ` #tag ` or ` - tag `), as backticks turn them into code spans and prevent Obsidian from indexing them as clickable tags.
      * **No Static Tags**: The YAML frontmatter 	ags: block must NEVER remain static or limited to boilerplate administrative tags (daily-notes, workflow-logging, etc.).
      * **Mandatory Spoken & LLM Focus**: Whenever the LLM synthesis pass runs (llm_daily_synthesizer.py), the frontmatter 	ags: block MUST be dynamically updated with 15–30+ high-signal, lowercase kebab-case tags ([a-z0-9-]+) derived directly from the day's audio transcriptions, discussions, entities, and LLM distillation.
      * **Core Tag Domains**:
        - *Substantive Themes & Practices*: idappaccayata, 	wo-wings-of-practice, 
-adical-honesty, utterfly-metaphor, 	ai-chi.
+adical-honesty, utterfly-metaphor, 	ai-chi, living-mindfully, escom-club, john-muir.
        - *Health, Medical & Recovery*: 
 otator-cuff-surgery, dr-george-pichy, kaiser-navigation, gut-health, chia-seeds, sobriety-lineage.
        - *Family Milestones & Personal*: aby-gago, grandfatherhood, kiera, hayk.
@@ -132,7 +136,6 @@ otator-cuff-surgery, dr-george-pichy, kaiser-navigation, gut-health, chia-seeds,
 oaming-elk, mark-shalloe, cloud-watcher, denise-anniversary.
        - *Environmental & Infrastructure*: lood-watch, 	ide-monitoring, custom-home-app.
      * **Preserve Baseline Tags**: Always merge dynamic tags with baseline system tags (ee-nlm-report, ee-reports, daily-notes, daily-operations, krisp-daily-summary, logging, obsidian, workflow, workflow-logging), deduplicated and sorted alphabetically.
-
 
 6. **Dynamic Pāli-English Dictionary Integration**:
    - As we study and analyze suttas, discourses, and talks, newly surfaced key Pāli terms, doctrinal concepts, and technical monastic vocabulary should be systematically placed into the master dictionary at:

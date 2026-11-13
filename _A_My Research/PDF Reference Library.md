@@ -22,6 +22,7 @@ This master catalog indexes all **1,481** research reference documents moved fro
 
 > [!NOTE]
 > Clicking any document title or **Open PDF** will open the document directly from Google Drive in your system PDF reader.
+> For the complete **4,095-book** (`Books PDF` & `Books EPUB`) catalog organized by Category and Author, see **[[Book Library Master Index]]**.
 
 ---
 

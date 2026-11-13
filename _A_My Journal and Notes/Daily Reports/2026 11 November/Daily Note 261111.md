@@ -12,6 +12,7 @@ tags:
 - audio-archive
 - bay-area-coastal
 - bay-area-coastal-waterfront
+- bay-area-waterfront
 - bee-nlm-report
 - bee-reports
 - claude-5-5
@@ -20,6 +21,7 @@ tags:
 - document-management
 - don-leonard
 - duncan
+- eddie-hazel
 - emotional-sobriety
 - environmental-conditions
 - financial-archiving
@@ -32,10 +34,13 @@ tags:
 - imc-irc-context
 - katie
 - kiera
+- komplete-kontrol-s61
 - krisp-daily-summary
 - lived-history
 - llm-token-limits
 - logging
+- maggot-brain
+- massive-x
 - model-switching
 - mood-elevation
 - music-production
@@ -45,6 +50,7 @@ tags:
 - pay-stub-archiving
 - physical-wellness
 - refusal-to-implode
+- rings-of-power
 - rotator-cuff-surgery
 - ryan
 - sobriety-lineage
@@ -55,25 +61,26 @@ tags:
 - tai-chi-wellness
 - tide-monitoring
 - two-wings-of-practice
+- warriors-basketball
 - workflow
 - workflow-logging
 ---
 # Linearity Recording (04:32:20 AM – 04:47:00 PM PDT), 2026-11-11 08:46:50 (5h00m), and Elasound_2026-11-11 09_41_58
 📅 **Date**: Wednesday, November 11, 2026 (2026-11-11)
-👥 **Attendees**: Andrea (Wife), Andy, Unassigned + [⚠️ Unrecognized Frequent Speaker (Review needed)](http://localhost:8765/?session=2026-11-11%2018_06_06&date=2026-11-11&filter=unassigned)
+👥 **Attendees**: Andy, Andrea (Wife)
 🎙️ **Primary Data Source**: **Linearity High-Fidelity Audio Recorder (PRIMARY) & Plaud NotePin (SECONDARY)**
 📊 **Linearity Sessions Processed (PRIMARY)**: **1**
-📊 **Plaud Sessions Processed (SECONDARY)**: **7**
-📊 **Elasound Sessions Processed (SECONDARY BACKUP)**: **6**
+📊 **Plaud Sessions Processed (SECONDARY)**: **3**
+📊 **Elasound Sessions Processed (SECONDARY BACKUP)**: **4**
 🔄 **Report Revision Date**: **2026-11-12 08:13:01 PDT**
 ### ⚙️ Pipeline Status & Data Ingestion Log
 - ⚡ **Plaud Direct Ingest**: ✅ **Active** (0 Cloud Minutes Spent, 0 Phone Taps Needed)
 - 🎙️ **Linearity Hi-Fi Parallel Stream**: ✅ **Active** (1 High-Fidelity Session Processed)
 - 🎙️ **Local Whisper AI Transcripts**: ✅ **Active**
-- 🎙️ **Elasound Backup Ambient Ingest**: ✅ **Active** (6 Sessions Processed)
+- 🎙️ **Elasound Backup Ambient Ingest**: ✅ **Active** (4 Sessions Processed)
 - 📧 **Gmail & Financial Ingest**: ✅ **Active**
 - 📅 **Google Calendar**: ✅ **Active**
-- ⚠️ **Action Needed — Unrecognized Frequent Speaker**: Detected **227 turns** (9:42:30 AM – 9:34:21 PM). Please review in [🎙️ Voice & Speaker Studio](http://localhost:8765/?session=2026-11-11%2018_06_06&date=2026-11-11&filter=unassigned) ([Session 6:06 PM (18:06:06) (96 turns)](http://localhost:8765/?session=2026-11-11%2018_06_06&filter=unassigned) • [Session 3:03 PM (15:03:56) (71 turns)](http://localhost:8765/?session=2026-11-11%2015_03_56&filter=unassigned) • [Session 8:54 PM (20:54:45) (39 turns)](http://localhost:8765/?session=2026-11-11%2020_54_45&filter=unassigned) • [Session 9:41 AM (09:41:58) (21 turns)](http://localhost:8765/?session=2026-11-11%2009_41_58&filter=unassigned)) to identify or tag.
+- 🗣️ **Speaker Verification**: ✅ All frequent speakers identified (Andy, Andrea) — Media, TV & Audio Tutorials classified and segregated
 ---
 
 ## 📌 Executive & Core Topics Overview
@@ -98,31 +105,7 @@ tags:
 - **LLM Optimization**: Configured task-splitting strategies between high-capacity and background AI models to sustain vault daily note processing while hitting weekly token boundaries.
 
 ### Keywords
-- `emotional-sobriety`
-- `google-drive-ocr`
-- `ableton-live-12`
-- `llm-token-limits`
-- `ajahn-sumedho`
-- `pay-stub-archiving`
-- `somatic-mindfulness`
-- `idappaccayata`
-
-### 🏷️ Generated Tags
-- `#emotional-sobriety`
-- `#google-drive-ocr`
-- `#ableton-live-12`
-- `#llm-token-limits`
-- `#ajahn-sumedho`
-- `#ajahn-chah`
-- `#pay-stub-archiving`
-- `#somatic-awareness`
-- `#idappaccayata`
-- `#music-production`
-- `#native-instruments`
-- `#atmospheric-river`
-- `#bay-area-coastal`
-- `#refusal-to-implode`
-- `#two-wings-of-practice`
+Emotional Sobriety, Google Drive OCR, Pay Stub Archiving, Ableton Live 12, Native Instruments, Massive X, Komplete Kontrol S61, LLM Token Limits, Gemini 4 Argon, Ajahn Sumedho, Ajahn Chah, Somatic Awareness, Idappaccayatā, Two Wings of Practice, Atmospheric River, Bay Area Waterfront, Maggot Brain, Eddie Hazel, Rings of Power, Warriors Basketball, Refusal to Implode.
 
 ---
 
@@ -337,9 +320,6 @@ tags:
 ---
 
 ## 👥 Group Gatherings & Multi-Participant Key Points
-
-### MMTCP BAM Group Meeting (7:00 AM)
-- *Context*: Scheduled Mindfulness Meditation Teacher Certification Program (MMTCP) small group peer gathering.
 
 ### Andy McGuire & Andrea McGuire
 - **Document Management & Privacy**: Standardized home digital record-keeping. Taught PDF scanning protocols via Google Drive to replace JPEG image snapshots of payroll documents, ensuring accurate text recognition (OCR) and scrubbing account numbers before third-party sharing.

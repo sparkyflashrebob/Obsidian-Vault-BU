@@ -14,6 +14,8 @@ tags:
   - attachment
   - clinging
   - suffering
+  - time
+  - forgetting
 ---
 ## The clock is ticking faster, and the way home is something we already know.
 

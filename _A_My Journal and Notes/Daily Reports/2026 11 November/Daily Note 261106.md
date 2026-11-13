@@ -1,14 +1,17 @@
 ---
 tags:
+- bee-nlm-report
 - bee-reports
 - daily-notes
 - daily-operations
+- flood-watch
+- idappaccayata
+- krisp-daily-summary
 - logging
 - obsidian
+- tide-monitoring
 - workflow
 - workflow-logging
-- bee-nlm-report
-- krisp-daily-summary
 ---
 # Linearity Recording (05:38:40 AM – 03:18:10 PM PDT), 2026-11-06 09:48:06 - 11-06 🟠 ROAD CROWN SUBMERGED (SAG DIP) (7.28' NAVD) (5h00m), and 2026-11-06 14:48:07 (4h39m)
 📅 **Date**: Friday, November 06, 2026 (2026-11-06)
